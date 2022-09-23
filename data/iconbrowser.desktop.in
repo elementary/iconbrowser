@@ -1,10 +1,12 @@
 [Desktop Entry]
-Name=LookBook
-Comment=Browse and find system icons
-Exec=io.elementary.iconbrowser
-Icon=io.elementary.iconbrowser
-Keywords=icons;iconography;
-Terminal=false
+Version=1.0
 Type=Application
-StartupNotify=true
+​
+Name=Icon Browser
+Comment=Browse and find system icons
 Categories=Development;Graphics;Utility;
+​Keywords=icons;iconography;
+
+Icon=io.elementary.iconbrowser
+Exec=io.elementary.iconbrowser
+Terminal=false
