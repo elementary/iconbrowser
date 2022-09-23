@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=LookBook
 Comment=Browse and find system icons
-Exec=com.github.danrabbit.lookbook
-Icon=com.github.danrabbit.lookbook
+Exec=io.elementary.iconbrowser
+Icon=io.elementary.iconbrowser
 Keywords=icons;iconography;
 Terminal=false
 Type=Application

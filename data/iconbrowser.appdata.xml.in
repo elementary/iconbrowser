@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright 2017-2018 Daniel Foré <daniel@elementary.io> -->
+<!-- Copyright 2017-2022 elementary, Inc. <contact@elementary.io> -->
 <component type="desktop-application">
-  <id>com.github.danrabbit.lookbook</id>
+  <id>io.elementary.iconbrowser</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0+</project_license>
   <name>LookBook</name>
@@ -10,7 +10,7 @@
     <p>Browse system icons by category or search by icon name. See icons at different sizes and get a quick code snippet to use in your apps.</p>
   </description>
   <provides>
-    <binary>com.github.danrabbit.lookbook</binary>
+    <binary>io.elementary.iconbrowser</binary>
   </provides>
   <releases>
     <release version="1.2.0" date="2020-07-29">
@@ -78,14 +78,12 @@
     <content_attribute id="money-purchasing">none</content_attribute>
     <content_attribute id="money-gambling">none</content_attribute>
   </content_rating>
-  <translation type="gettext">com.github.danrabbit.lookbook</translation>
-  <developer_name>Daniel Foré</developer_name>
-  <url type="homepage">http://danielfore.com</url>
-  <url type="bugtracker">https://github.com/danrabbit/lookbook/issues</url>
+  <translation type="gettext">io.elementary.iconbrowser</translation>
+  <developer_name>elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/iconbrowser/issues</url>
   <custom>
     <value key="x-appcenter-color-primary">#fff</value>
     <value key="x-appcenter-color-primary-text">#333</value>
-    <value key="x-appcenter-suggested-price">10</value>
-    <value key="x-appcenter-stripe">pk_live_bj0tdHDZ53UaGKh7uz7gOvBR</value>
   </custom>
 </component>

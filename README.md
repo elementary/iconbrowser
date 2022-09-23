@@ -20,7 +20,7 @@ Run `meson build` to configure the build environment and then change to the buil
     cd build
     ninja
 
-To install, use `ninja install`, then execute with `com.github.danrabbit.lookbook`
+To install, use `ninja install`, then execute with `io.elementary.iconbrowser`
 
-    sudo ninja install
-    com.github.danrabbit.lookbook
+    ninja install
+    io.elementary.iconbrowser

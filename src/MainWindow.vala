@@ -23,7 +23,7 @@ public class MainWindow : Hdy.Window {
 
     public MainWindow (Gtk.Application application) {
         Object (application: application,
-                icon_name: "com.github.danrabbit.lookbook",
+                icon_name: "io.elementary.iconbrowser",
                 title: _("LookBook"),
                 height_request: 700,
                 width_request: 1024);

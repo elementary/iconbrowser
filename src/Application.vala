@@ -23,12 +23,12 @@ public class LookBook : Gtk.Application {
     private MainWindow main_window;
 
     public LookBook () {
-        Object (application_id: "com.github.danrabbit.lookbook",
+        Object (application_id: "io.elementary.iconbrowser",
         flags: ApplicationFlags.FLAGS_NONE);
     }
 
     static construct {
-        settings = new Settings ("com.github.danrabbit.lookbook");
+        settings = new Settings ("io.elementary.iconbrowser");
     }
 
     protected override void activate () {
