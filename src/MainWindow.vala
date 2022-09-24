@@ -40,7 +40,7 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
             child = categories_sidebar,
             hscrollbar_policy = Gtk.PolicyType.NEVER
         };
-        scrolled_category.add_css_class (Granite.STYLE_CLASS_SIDEBAR);
+        scrolled_category.add_css_class ("sidebar");
 
         var paned = new Gtk.Paned (Gtk.Orientation.HORIZONTAL) {
             position = 128,
