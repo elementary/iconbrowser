@@ -838,11 +838,6 @@ public class CategoryView : Gtk.Box {
             category = CATEGORIES
         },
         Icon () {
-            name = "applications-fonts",
-            description = _("Font category"),
-            category = CATEGORIES
-        },
-        Icon () {
             name = "applications-games",
             description = _("Games app category"),
             category = CATEGORIES
@@ -925,6 +920,11 @@ public class CategoryView : Gtk.Box {
         Icon () {
             name = "preferences-desktop-display",
             description = _("Display settings, such as resolution or scaling"),
+            category = CATEGORIES
+        },
+        Icon () {
+            name = "preferences-desktop-font",
+            description = _("Font settings"),
             category = CATEGORIES
         },
         Icon () {
@@ -1490,11 +1490,6 @@ public class CategoryView : Gtk.Box {
         Icon () {
             name = "application-x-firmware",
             description = _("Firmware file types"),
-            category = MIMES
-        },
-        Icon () {
-            name = "application-x-flash-video",
-            description = _("Flash video file types"),
             category = MIMES
         },
         Icon () {
@@ -2387,9 +2382,15 @@ public class CategoryView : Gtk.Box {
 
         append (paned);
 
+        var icon_theme = new Gtk.IconTheme () {
+            theme_name = "elementary"
+        };
+
         foreach (var icon in icons) {
-            var row = new IconListRow (icon.name, icon.description, icon.category);
-            listbox.append (row);
+            if (icon_theme.has_icon (icon.name) || icon_theme.has_icon (icon.name + "-symbolic")) {
+                var row = new IconListRow (icon.name, icon.description, icon.category);
+                listbox.append (row);
+            }
         }
 
         listbox.row_selected.connect ((row) => {
