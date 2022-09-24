@@ -2349,6 +2349,7 @@ public class CategoryView : Gtk.Box {
             activate_on_single_click = true,
             selection_mode = Gtk.SelectionMode.SINGLE
         };
+        listbox.add_css_class ("rich-list");
         listbox.set_sort_func (sort_function);
 
         var scrolled_window = new Gtk.ScrolledWindow () {

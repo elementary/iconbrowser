@@ -50,6 +50,7 @@ public class IconView : Granite.SimpleSettingsPage {
 
         var source_view = new GtkSource.View () {
             buffer = source_buffer,
+            hexpand = true,
             editable = false,
             monospace = true,
             show_line_numbers = true
@@ -100,11 +101,11 @@ public class IconView : Granite.SimpleSettingsPage {
             var has_symbolic = icon_theme.has_icon (symbolic_icon_name);
 
             while (color_row.get_first_child  () != null) {
-                color_row.remove (get_first_child ());
+                color_row.remove (color_row.get_first_child ());
             }
 
             while (symbolic_row.get_first_child  () != null) {
-                symbolic_row.remove (get_first_child ());
+                symbolic_row.remove (symbolic_row.get_first_child ());
             }
 
             foreach (int pixel_size in pixels) {

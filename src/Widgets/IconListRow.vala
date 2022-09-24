@@ -32,12 +32,7 @@ public class IconListRow : Gtk.ListBoxRow {
             ellipsize = Pango.EllipsizeMode.MIDDLE
         };
 
-        var box = new Gtk.Box (Gtk.Orientation.HORIZONTAL, 12) {
-            margin_top = 3,
-            margin_end = 6,
-            margin_bottom = 3,
-            margin_start = 6
-        };
+        var box = new Gtk.Box (Gtk.Orientation.HORIZONTAL, 6);
         box.append (icon);
         box.append (label);
 
