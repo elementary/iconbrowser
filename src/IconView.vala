@@ -32,7 +32,6 @@ public class IconView : Gtk.Box {
 
         var description_label = new Gtk.Label (description) {
             selectable = true,
-            use_markup = true,
             wrap = true,
             halign = Gtk.Align.START,
             xalign = 0,
@@ -140,21 +139,8 @@ public class IconView : Gtk.Box {
         bind_property ("description", description_label, "label");
 
         notify["icon-name"].connect (() => {
-            var is_symbolic = icon_name.has_suffix ("-symbolic");
-            string color_icon_name;
-
-            if (is_symbolic) {
-                color_icon_name = icon_name.replace ("-symbolic", "");
-            } else {
-                color_icon_name = icon_name;
-            }
-
-            var symbolic_icon_name = color_icon_name + "-symbolic";
-            var has_color = icon_theme.has_icon (color_icon_name);
-
-            if (!is_symbolic && !has_color) {
-                icon_name = symbolic_icon_name;
-            }
+            var symbolic_icon_name = icon_name + "-symbolic";
+            var has_color = icon_theme.has_icon (icon_name);
 
             source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\") {\n    pixel_size = 24\n};".printf (icon_name);
 
@@ -173,13 +159,11 @@ public class IconView : Gtk.Box {
 
             foreach (int pixel_size in pixels) {
                 if (has_color) {
-                    var color_icon = new Gtk.Image () {
+                    var color_icon = new Gtk.Image.from_icon_name (icon_name) {
                         pixel_size = pixel_size,
                         use_fallback = true,
                         valign = Gtk.Align.END
                     };
-                    color_icon.gicon = new ThemedIcon (color_icon_name);
-                    color_icon.icon_name = icon_name;
 
                     var color_label = new Gtk.Label ("%ipx".printf (pixels[i])) {
                         hexpand = true
