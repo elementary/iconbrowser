@@ -1,23 +1,7 @@
-// -*- Mode: vala; indent-tabs-mode: nil; tab-width: 4 -*-
-/*-
- * Copyright (c) 2017 elementary LLC. (https://elementary.io)
- *
- * This library is free software; you can redistribute it and/or
- * modify it under the terms of the GNU Lesser General Public
- * License as published by the Free Software Foundation; either
- * version 3 of the License, or (at your option) any later version.
- *
- * This library is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
- * Lesser General Public License for more details.
- *
- * You should have received a copy of the GNU Lesser General Public
- * License along with this library; if not, write to the
- * Free Software Foundation, Inc., 59 Temple Place - Suite 330,
- * Boston, MA 02111-1307, USA.
+/*
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-FileCopyrightText: 2017-2022 elementary, Inc. (https://elementary.io)
  */
-
 public class IconView : Granite.SimpleSettingsPage {
     private Gtk.Grid color_row;
     private Gtk.Grid symbolic_row;
@@ -30,57 +14,65 @@ public class IconView : Granite.SimpleSettingsPage {
     }
 
     construct {
-        var color_title = new Gtk.Label (_("Color Icons"));
-        color_title.margin_top = 12;
-        color_title.xalign = 0;
-        color_title.get_style_context ().add_class (Granite.STYLE_CLASS_H4_LABEL);
+        var color_title = new Gtk.Label (_("Color Icons")) {
+            margin_top = 12,
+            xalign = 0
+        };
+        color_title.add_css_class (Granite.STYLE_CLASS_H4_LABEL);
 
-        color_row = new Gtk.Grid ();
-        color_row.column_spacing = 24;
-        color_row.row_spacing = 12;
+        color_row = new Gtk.Grid () {
+            column_spacing = 24,
+            row_spacing = 12
+        };
 
-        var symbolic_title = new Gtk.Label (_("Symbolic Icons"));
-        symbolic_title.margin_top = 12;
-        symbolic_title.xalign = 0;
-        symbolic_title.get_style_context ().add_class (Granite.STYLE_CLASS_H4_LABEL);
+        var symbolic_title = new Gtk.Label (_("Symbolic Icons")) {
+            margin_top = 12,
+            xalign = 0
+        };
+        symbolic_title.add_css_class (Granite.STYLE_CLASS_H4_LABEL);
 
-        symbolic_row = new Gtk.Grid ();
-        symbolic_row.column_spacing = 24;
-        symbolic_row.row_spacing = 12;
+        symbolic_row = new Gtk.Grid () {
+            column_spacing = 24,
+            row_spacing = 12
+        };
 
-        var snippet_title = new Gtk.Label (_("Code Sample"));
-        snippet_title.margin_top = 12;
-        snippet_title.xalign = 0;
-        snippet_title.get_style_context ().add_class (Granite.STYLE_CLASS_H4_LABEL);
+        var snippet_title = new Gtk.Label (_("Code Sample")) {
+            margin_top = 12,
+            xalign = 0
+        };
+        snippet_title.add_css_class (Granite.STYLE_CLASS_H4_LABEL);
 
-        var source_buffer = new Gtk.SourceBuffer (null);
-        source_buffer.highlight_syntax = true;
-        source_buffer.language = Gtk.SourceLanguageManager.get_default ().get_language ("vala");
-        source_buffer.style_scheme = new Gtk.SourceStyleSchemeManager ().get_scheme ("solarized-light");
+        var source_buffer = new GtkSource.Buffer (null) {
+            highlight_syntax = true,
+            language = GtkSource.LanguageManager.get_default ().get_language ("vala"),
+            style_scheme = new GtkSource.StyleSchemeManager ().get_scheme ("solarized-light")
+        };
 
-        var source_view = new Gtk.SourceView ();
-        source_view.buffer = source_buffer;
-        source_view.editable = false;
+        var source_view = new GtkSource.View () {
+            buffer = source_buffer,
+            hexpand = true,
+            editable = false,
+            monospace = true,
+            show_line_numbers = true
+        };
+
         source_view.left_margin = source_view.right_margin = 6;
-        source_view.monospace = true;
         source_view.pixels_above_lines = source_view.pixels_below_lines = 3;
-        source_view.show_line_numbers = true;
 
         var snippet = new Gtk.Grid ();
-        snippet.get_style_context ().add_class ("code");
-        snippet.add (source_view);
+        snippet.add_css_class ("code");
+        snippet.attach (source_view, 0, 0);
 
         content_area.column_spacing = 12;
         content_area.row_spacing = 12;
-        content_area.orientation = Gtk.Orientation.VERTICAL;
-        content_area.add (color_title);
-        content_area.add (color_row);
-        content_area.add (symbolic_title);
-        content_area.add (symbolic_row);
-        content_area.add (snippet_title);
-        content_area.add (snippet);
+        content_area.attach (color_title, 0, 0);
+        content_area.attach (color_row, 0, 1);
+        content_area.attach (symbolic_title, 0, 2);
+        content_area.attach (symbolic_row, 0, 3);
+        content_area.attach (snippet_title, 0, 4);
+        content_area.attach (snippet, 0, 5);
 
-        var icon_theme = Gtk.IconTheme.get_default ();
+        var icon_theme = Gtk.IconTheme.get_for_display (Gdk.Display.get_default ());
         int[] pixels = {16, 24, 32, 48, 64, 128};
 
         notify["icon-name"].connect (() => {
@@ -108,38 +100,41 @@ public class IconView : Granite.SimpleSettingsPage {
 
             var has_symbolic = icon_theme.has_icon (symbolic_icon_name);
 
-            foreach (var child in color_row.get_children ()) {
-                child.destroy ();
+            while (color_row.get_first_child () != null) {
+                color_row.remove (color_row.get_first_child ());
             }
 
-            foreach (var child in symbolic_row.get_children ()) {
-                child.destroy ();
+            while (symbolic_row.get_first_child () != null) {
+                symbolic_row.remove (symbolic_row.get_first_child ());
             }
 
             foreach (int pixel_size in pixels) {
                 if (has_color) {
-                    var color_icon = new Gtk.Image ();
+                    var color_icon = new Gtk.Image () {
+                        pixel_size = pixel_size,
+                        use_fallback = true,
+                        valign = Gtk.Align.END
+                    };
                     color_icon.gicon = new ThemedIcon (color_icon_name);
                     color_icon.icon_name = icon_name;
-                    color_icon.pixel_size = pixel_size;
-                    color_icon.use_fallback = true;
-                    color_icon.valign = Gtk.Align.END;
 
-                    var color_label = new Gtk.Label ("%ipx".printf (pixels[i]));
-                    color_label.hexpand = true;
+                    var color_label = new Gtk.Label ("%ipx".printf (pixels[i])) {
+                        hexpand = true
+                    };
 
                     color_row.attach (color_icon, i, 0);
                     color_row.attach (color_label, i, 1);
                 }
 
                 if (has_symbolic) {
-                    var symbolic_icon = new Gtk.Image ();
-                    symbolic_icon.gicon = new ThemedIcon (symbolic_icon_name);
-                    symbolic_icon.pixel_size = pixel_size;
-                    symbolic_icon.valign = Gtk.Align.END;
+                    var symbolic_icon = new Gtk.Image.from_icon_name (symbolic_icon_name) {
+                        pixel_size = pixel_size,
+                        valign = Gtk.Align.END
+                    };
 
-                    var symbolic_label = new Gtk.Label ("%ipx".printf (pixels[i]));
-                    symbolic_label.hexpand = true;
+                    var symbolic_label = new Gtk.Label ("%ipx".printf (pixels[i])) {
+                        hexpand = true
+                    };
 
                     symbolic_row.attach (symbolic_icon, i, 0);
                     symbolic_row.attach (symbolic_label, i, 1);
@@ -148,21 +143,18 @@ public class IconView : Granite.SimpleSettingsPage {
                 i++;
             }
 
-            var not_has_label = new Gtk.Label (_("Unavailable"));
-            not_has_label.hexpand = true;
-            not_has_label.height_request = 157;
-
-            var style_context = not_has_label.get_style_context ();
-            style_context.add_class (Gtk.STYLE_CLASS_DIM_LABEL);
-            style_context.add_class (Granite.STYLE_CLASS_H3_LABEL);
+            var not_has_label = new Gtk.Label (_("Unavailable")) {
+                hexpand = true,
+                height_request = 157
+            };
+            not_has_label.add_css_class (Granite.STYLE_CLASS_DIM_LABEL);
+            not_has_label.add_css_class (Granite.STYLE_CLASS_H3_LABEL);
 
             if (!has_color) {
-                color_row.add (not_has_label);
+                color_row.attach (not_has_label, 0, 0);
             } else if (!has_symbolic) {
-                symbolic_row.add (not_has_label);
+                symbolic_row.attach (not_has_label, 0, 0);
             }
-
-            show_all ();
         });
     }
 }

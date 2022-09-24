@@ -1,51 +1,31 @@
 /*
-* Copyright (c) 2017 Daniel Foré (http://danielfore.com)
-*
-* This program is free software; you can redistribute it and/or
-* modify it under the terms of the GNU General Public
-* License as published by the Free Software Foundation; either
-* version 2 of the License, or (at your option) any later version.
-*
-* This program is distributed in the hope that it will be useful,
-* but WITHOUT ANY WARRANTY; without even the implied warranty of
-* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-* General Public License for more details.
-*
-* You should have received a copy of the GNU General Public
-* License along with this program; if not, write to the
-* Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
-* Boston, MA 02110-1301 USA
-*/
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-FileCopyrightText: 2017-2022 elementary, Inc. (https://elementary.io)
+ */
 
-public class MainWindow : Hdy.Window {
+public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
     private Gtk.ListBox categories_sidebar;
     private Gtk.SearchEntry search_entry;
 
     public MainWindow (Gtk.Application application) {
-        Object (application: application,
-                icon_name: "io.elementary.iconbrowser",
-                title: _("LookBook"),
-                height_request: 700,
-                width_request: 1024);
+        Object (application: application);
     }
 
     construct {
-        Hdy.init ();
+        icon_name = "io.elementary.iconbrowser";
+        title = _("Icon Browser");
 
-        search_entry = new Gtk.SearchEntry ();
-        search_entry.hexpand = true;
-        search_entry.placeholder_text = _("Search Icon Names or Descriptions");
-        search_entry.valign = Gtk.Align.CENTER;
+        search_entry = new Gtk.SearchEntry () {
+            hexpand = true,
+            placeholder_text = _("Search Icon Names or Descriptions"),
+            valign = Gtk.Align.CENTER
+        };
 
-        var gtk_settings = Gtk.Settings.get_default ();
-
-        var mode_switch = new Granite.ModeSwitch.from_icon_name ("display-brightness-symbolic", "weather-clear-night-symbolic");
-        mode_switch.primary_icon_tooltip_text = _("Light background");
-        mode_switch.secondary_icon_tooltip_text = _("Dark background");
-        mode_switch.valign = Gtk.Align.CENTER;
-        mode_switch.bind_property ("active", gtk_settings, "gtk_application_prefer_dark_theme");
-
-        LookBook.settings.bind ("prefer-dark-style", mode_switch, "active", GLib.SettingsBindFlags.DEFAULT);
+        var mode_switch = new Granite.ModeSwitch.from_icon_name ("display-brightness-symbolic", "weather-clear-night-symbolic") {
+            primary_icon_tooltip_text = _("Light background"),
+            secondary_icon_tooltip_text = _("Dark background"),
+            valign = Gtk.Align.CENTER
+        };
 
         var category_view = new CategoryView ();
 
@@ -53,33 +33,39 @@ public class MainWindow : Hdy.Window {
 
         foreach (var category in CategoryView.Category.all ()) {
             var sidebar_row = new SidebarRow (category);
-            categories_sidebar.add (sidebar_row);
+            categories_sidebar.append (sidebar_row);
         }
 
-        var scrolled_category = new Gtk.ScrolledWindow (null, null);
-        scrolled_category.get_style_context ().add_class (Gtk.STYLE_CLASS_SIDEBAR);
-        scrolled_category.set_policy (Gtk.PolicyType.NEVER, Gtk.PolicyType.AUTOMATIC);
-        scrolled_category.add (categories_sidebar);
-
-        var paned = new Gtk.Paned (Gtk.Orientation.HORIZONTAL);
-        paned.position = 128;
-        paned.pack1 (scrolled_category, false, false);
-        paned.pack2 (category_view, true, false);
-
-        var headerbar = new Hdy.HeaderBar () {
-            show_close_button = true
+        var scrolled_category = new Gtk.ScrolledWindow () {
+            child = categories_sidebar,
+            hscrollbar_policy = Gtk.PolicyType.NEVER
         };
-        headerbar.set_custom_title (search_entry);
+        scrolled_category.add_css_class ("sidebar");
+
+        var paned = new Gtk.Paned (Gtk.Orientation.HORIZONTAL) {
+            position = 128,
+            start_child = scrolled_category,
+            end_child = category_view,
+            resize_start_child = false,
+            shrink_end_child = false,
+            shrink_start_child = false
+        };
+
+        var headerbar = new Gtk.HeaderBar () {
+            show_title_buttons = true,
+            title_widget = search_entry
+        };
         headerbar.pack_end (mode_switch);
         headerbar.pack_end (new Gtk.Separator (Gtk.Orientation.VERTICAL));
 
-        var grid = new Gtk.Grid ();
-        grid.attach (headerbar, 0, 0);
-        grid.attach (paned, 0, 1);
-
-        add (grid);
+        set_titlebar (headerbar);
+        child = paned;
 
         ((Gtk.ListBox)category_view.listbox).set_filter_func (filter_function);
+
+        var gtk_settings = Gtk.Settings.get_default ();
+        mode_switch.bind_property ("active", gtk_settings, "gtk_application_prefer_dark_theme");
+        App.settings.bind ("prefer-dark-style", mode_switch, "active", GLib.SettingsBindFlags.DEFAULT);
 
         search_entry.search_changed.connect (() => {
             ((Gtk.ListBox)category_view.listbox).invalidate_filter ();
@@ -118,25 +104,5 @@ public class MainWindow : Hdy.Window {
             return true;
         }
         return false;
-    }
-
-    public override bool configure_event (Gdk.EventConfigure event) {
-        if (is_maximized) {
-            LookBook.settings.set_boolean ("window-maximized", true);
-        } else {
-            LookBook.settings.set_boolean ("window-maximized", false);
-
-            Gtk.Allocation rect;
-            get_allocation (out rect);
-            LookBook.settings.set_int ("window-height", rect.height);
-            LookBook.settings.set_int ("window-width", rect.width);
-
-            int root_x, root_y;
-            get_position (out root_x, out root_y);
-            LookBook.settings.set_int ("window-x", root_x);
-            LookBook.settings.set_int ("window-y", root_y);
-        }
-
-        return base.configure_event (event);
     }
 }
