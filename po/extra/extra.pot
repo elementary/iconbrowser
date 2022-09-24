@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-29 23:39+0000\n"
+"POT-Creation-Date: 2022-09-24 14:03-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,90 +17,112 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: data/com.github.danrabbit.lookbook.desktop.in:3
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:7
-msgid "LookBook"
+#: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
+msgid "Icon Browser"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.desktop.in:4
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:8
+#: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:10
 msgid "Browse and find system icons"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.desktop.in:6
-msgid "com.github.danrabbit.lookbook"
-msgstr ""
-
-#: data/com.github.danrabbit.lookbook.desktop.in:7
+#: data/iconbrowser.desktop.in:9
 msgid "icons;iconography;"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:10
+#: data/iconbrowser.appdata.xml.in:12
 msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:18
+#: data/iconbrowser.appdata.xml.in:17
+msgid "Browse system icons"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:21
+msgid "Search by description"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:38
+msgid "elementary, Inc."
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:45
+msgid "Modern redesign"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:46
+msgid "Drag the window from anywhere"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:47
+msgid "Follow the system dark style preference"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:48
+msgid "Code snippets in dark mode"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:49
+msgid "Updated for Gtk 4"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:55
 msgid "Add audio-headphones and audio-headset"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:19
+#: data/iconbrowser.appdata.xml.in:56
 msgid "Add distribute actions"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:20
+#: data/iconbrowser.appdata.xml.in:57
 msgid "Disable sidebar when searching"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:21
+#: data/iconbrowser.appdata.xml.in:58
 msgid "Remove non-fdo app names"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:22
+#: data/iconbrowser.appdata.xml.in:59
 msgid "Add status emblems"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:23
+#: data/iconbrowser.appdata.xml.in:60
 msgid "Mimetypes → Media Types"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:24
+#: data/iconbrowser.appdata.xml.in:61
 msgid "Added French and Portuguese translations"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:29
+#: data/iconbrowser.appdata.xml.in:66
 msgid "Better support for symbolic-only icons and under the hood improvements!"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:34
+#: data/iconbrowser.appdata.xml.in:71
 msgid "I'm a new soul"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:35
+#: data/iconbrowser.appdata.xml.in:72
 msgid "I came to this strange world"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:36
+#: data/iconbrowser.appdata.xml.in:73
 msgid "Hoping I could learn a bit bout how to give and take"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:37
+#: data/iconbrowser.appdata.xml.in:74
 msgid "But since I came here"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:38
+#: data/iconbrowser.appdata.xml.in:75
 msgid "Felt the joy and the fear"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:39
+#: data/iconbrowser.appdata.xml.in:76
 msgid "Finding myself making every possible mistake"
 msgstr ""
 
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:40
+#: data/iconbrowser.appdata.xml.in:77
 msgid "La-la-la-la-la-la-la-la…"
-msgstr ""
-
-#: data/com.github.danrabbit.lookbook.appdata.xml.in:82
-msgid "Daniel Foré"
 msgstr ""
