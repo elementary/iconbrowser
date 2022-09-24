@@ -2393,9 +2393,9 @@ public class CategoryView : Gtk.Box {
         }
 
         listbox.row_selected.connect ((row) => {
+            icon_view.category = ((IconListRow) row).category;
             icon_view.icon_name = ((IconListRow) row).icon_name;
             icon_view.description = ((IconListRow) row).description;
-            icon_view.category = ((IconListRow) row).category;
         });
     }
 
