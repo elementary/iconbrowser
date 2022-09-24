@@ -2345,17 +2345,7 @@ public class CategoryView : Gtk.Box {
     };
 
     construct {
-        var end_window_controls = new Gtk.WindowControls (Gtk.PackType.END) {
-            halign = Gtk.Align.END
-        };
-        end_window_controls.add_css_class ("titlebar");
-        end_window_controls.add_css_class (Granite.STYLE_CLASS_FLAT);
-
         var icon_view = new IconView ();
-
-        var icon_view_box = new Gtk.Box (Gtk.Orientation.VERTICAL, 0);
-        icon_view_box.append (end_window_controls);
-        icon_view_box.append (icon_view);
 
         search_entry = new Gtk.SearchEntry () {
             hexpand = true,
@@ -2390,7 +2380,7 @@ public class CategoryView : Gtk.Box {
             start_child = box,
             resize_start_child = false,
             shrink_start_child = false,
-            end_child = icon_view_box,
+            end_child = icon_view,
             shrink_end_child = false,
             position = 256
         };
