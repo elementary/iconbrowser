@@ -3,16 +3,15 @@
  * SPDX-FileCopyrightText: 2017-2022 elementary, Inc. (https://elementary.io)
  */
 public class IconView : Gtk.Box {
-    private Gtk.Grid color_row;
-    private Gtk.Grid symbolic_row;
-
     public string icon_name { get; construct set; }
     public string description { get; construct set; }
+    public CategoryView.Category category { get; construct set; }
 
     public IconView () {
         Object (
             icon_name: "address-book-new",
-            description: _("Create a new address book")
+            description: _("Create a new address book"),
+            category: CategoryView.Category.ACTIONS
         );
     }
 
@@ -32,7 +31,6 @@ public class IconView : Gtk.Box {
 
         var description_label = new Gtk.Label (description) {
             selectable = true,
-            use_markup = true,
             wrap = true,
             halign = Gtk.Align.START,
             xalign = 0,
@@ -56,7 +54,7 @@ public class IconView : Gtk.Box {
 
         var color_title = new Granite.HeaderLabel (_("Color Icons"));
 
-        color_row = new Gtk.Grid () {
+        var color_row = new Gtk.Grid () {
             column_spacing = 24,
             row_spacing = 12
         };
@@ -65,10 +63,14 @@ public class IconView : Gtk.Box {
             margin_top = 12
         };
 
-        symbolic_row = new Gtk.Grid () {
+        var symbolic_row = new Gtk.Grid () {
             column_spacing = 24,
             row_spacing = 12
         };
+
+        var size_group = new Gtk.SizeGroup (Gtk.SizeGroupMode.VERTICAL);
+        size_group.add_widget (color_row);
+        size_group.add_widget (symbolic_row);
 
         var snippet_title = new Granite.HeaderLabel (_("Code Sample")) {
             margin_top = 12
@@ -115,11 +117,6 @@ public class IconView : Gtk.Box {
         append (header_area);
         append (scrolled);
 
-        var icon_theme = new Gtk.IconTheme () {
-            theme_name = "elementary"
-        };
-        int[] pixels = {16, 24, 32, 48, 64, 128};
-
         var gtk_settings = Gtk.Settings.get_default ();
         if (gtk_settings.gtk_application_prefer_dark_theme) {
             source_buffer.style_scheme = new GtkSource.StyleSchemeManager ().get_scheme ("solarized-dark");
@@ -140,84 +137,64 @@ public class IconView : Gtk.Box {
         bind_property ("description", description_label, "label");
 
         notify["icon-name"].connect (() => {
-            var is_symbolic = icon_name.has_suffix ("-symbolic");
-            string color_icon_name;
-
-            if (is_symbolic) {
-                color_icon_name = icon_name.replace ("-symbolic", "");
-            } else {
-                color_icon_name = icon_name;
-            }
-
-            var symbolic_icon_name = color_icon_name + "-symbolic";
-            var has_color = icon_theme.has_icon (color_icon_name);
-
-            if (!is_symbolic && !has_color) {
-                icon_name = symbolic_icon_name;
-            }
-
             source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\") {\n    pixel_size = 24\n};".printf (icon_name);
 
-            int i = 0;
+            fill_icon_row (icon_name, color_row);
+            fill_icon_row (icon_name + "-symbolic", symbolic_row);
+        });
+    }
 
+    private void fill_icon_row (string _icon_name, Gtk.Grid row) {
+        while (row.get_first_child () != null) {
+            row.remove (row.get_first_child ());
+        }
 
-            var has_symbolic = icon_theme.has_icon (symbolic_icon_name);
+        var icon_theme = new Gtk.IconTheme () {
+            theme_name = "elementary"
+        };
 
-            while (color_row.get_first_child () != null) {
-                color_row.remove (color_row.get_first_child ());
-            }
-
-            while (symbolic_row.get_first_child () != null) {
-                symbolic_row.remove (symbolic_row.get_first_child ());
-            }
-
-            foreach (int pixel_size in pixels) {
-                if (has_color) {
-                    var color_icon = new Gtk.Image () {
-                        pixel_size = pixel_size,
-                        use_fallback = true,
-                        valign = Gtk.Align.END
-                    };
-                    color_icon.gicon = new ThemedIcon (color_icon_name);
-                    color_icon.icon_name = icon_name;
-
-                    var color_label = new Gtk.Label ("%ipx".printf (pixels[i])) {
-                        hexpand = true
-                    };
-
-                    color_row.attach (color_icon, i, 0);
-                    color_row.attach (color_label, i, 1);
-                }
-
-                if (has_symbolic) {
-                    var symbolic_icon = new Gtk.Image.from_icon_name (symbolic_icon_name) {
-                        pixel_size = pixel_size,
-                        valign = Gtk.Align.END
-                    };
-
-                    var symbolic_label = new Gtk.Label ("%ipx".printf (pixels[i])) {
-                        hexpand = true
-                    };
-
-                    symbolic_row.attach (symbolic_icon, i, 0);
-                    symbolic_row.attach (symbolic_label, i, 1);
-                }
-
-                i++;
-            }
-
+        if (!icon_theme.has_icon (_icon_name)) {
             var not_has_label = new Gtk.Label (_("Unavailable")) {
                 hexpand = true,
-                height_request = 157
             };
             not_has_label.add_css_class (Granite.STYLE_CLASS_DIM_LABEL);
             not_has_label.add_css_class (Granite.STYLE_CLASS_H3_LABEL);
 
-            if (!has_color) {
-                color_row.attach (not_has_label, 0, 0);
-            } else if (!has_symbolic) {
-                symbolic_row.attach (not_has_label, 0, 0);
-            }
-        });
+            row.attach (not_has_label, 0, 0);
+
+            return;
+        }
+
+        int[] sizes;
+        switch (category) {
+            case CategoryView.Category.ACTIONS:
+            case CategoryView.Category.EMBLEMS:
+                sizes = {16, 24, 32, 48};
+                break;
+            case CategoryView.Category.EMOTES:
+                sizes = {16};
+                break;
+            default:
+                sizes = {16, 24, 32, 48, 64, 128};
+                break;
+        }
+
+        int i = 0;
+        foreach (int size in sizes) {
+            var icon = new Gtk.Image.from_icon_name (_icon_name) {
+                pixel_size = size,
+                use_fallback = true,
+                valign = Gtk.Align.END
+            };
+
+            var label = new Gtk.Label ("%ipx".printf (size)) {
+                hexpand = true
+            };
+
+            row.attach (icon, i, 0);
+            row.attach (label, i, 1);
+
+            i++;
+        }
     }
 }
