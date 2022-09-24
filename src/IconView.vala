@@ -100,11 +100,11 @@ public class IconView : Granite.SimpleSettingsPage {
 
             var has_symbolic = icon_theme.has_icon (symbolic_icon_name);
 
-            while (color_row.get_first_child  () != null) {
+            while (color_row.get_first_child () != null) {
                 color_row.remove (color_row.get_first_child ());
             }
 
-            while (symbolic_row.get_first_child  () != null) {
+            while (symbolic_row.get_first_child () != null) {
                 symbolic_row.remove (symbolic_row.get_first_child ());
             }
 
