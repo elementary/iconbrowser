@@ -1,3 +1,12 @@
+.titlebar + scrolledwindow undershoot.top {
+    background:
+        linear-gradient(
+            @borders,
+            alpha(black, 0.05) 1px,
+            alpha(black, 0.0) 4px
+        );
+}
+
 .header-area > image {
     -gtk-icon-size: 48px;
     padding: 6px 0 6px 6px;
@@ -22,15 +31,6 @@
 .header-area label:not(.title-2) {
     font-size: 0.95rem;
     opacity: 0.85;
-}
-
-.header-area + scrolledwindow undershoot.top {
-    background:
-        linear-gradient(
-            @borders,
-            alpha(black, 0.05) 1px,
-            alpha(black, 0.0) 4px
-        );
 }
 
 .content-area {
