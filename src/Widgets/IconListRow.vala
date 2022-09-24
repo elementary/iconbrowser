@@ -8,6 +8,8 @@ public class IconListRow : Gtk.ListBoxRow {
     public string description { get; construct; }
     public string icon_name { get; construct; }
 
+    private static Gtk.IconTheme icon_theme;
+
     public IconListRow (string icon_name, string description, CategoryView.Category category) {
         Object (
             category: category,
@@ -16,10 +18,16 @@ public class IconListRow : Gtk.ListBoxRow {
         );
     }
 
+    static construct {
+        icon_theme = new Gtk.IconTheme () {
+            theme_name = "elementary"
+        };
+    }
+
     construct {
         var icon = new Gtk.Image ();
 
-        if (Gtk.IconTheme.get_for_display (Gdk.Display.get_default ()).has_icon (icon_name)) {
+        if (icon_theme.has_icon (icon_name)) {
             icon.icon_name = icon_name;
             icon.pixel_size = 24;
         } else {

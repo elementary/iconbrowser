@@ -64,7 +64,9 @@ public class IconView : Granite.SimpleSettingsPage {
         content_area.attach (snippet_title, 0, 4);
         content_area.attach (source_view, 0, 5);
 
-        var icon_theme = Gtk.IconTheme.get_for_display (Gdk.Display.get_default ());
+        var icon_theme = new Gtk.IconTheme () {
+            theme_name = "elementary"
+        };
         int[] pixels = {16, 24, 32, 48, 64, 128};
 
         notify["icon-name"].connect (() => {
