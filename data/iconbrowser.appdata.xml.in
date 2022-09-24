@@ -14,12 +14,12 @@
 
   <screenshots>
     <screenshot type="default">
-      <caption>Browse or search system icons</caption>
-      <image width="1034" height="688">https://raw.githubusercontent.com/elementary/iconbrowser/main/data/screenshot.png</image>
+      <caption>Browse system icons</caption>
+      <image width="1034" height="710">https://raw.githubusercontent.com/elementary/iconbrowser/main/data/screenshot.png</image>
     </screenshot>
     <screenshot>
-      <caption>Preview icons in dark mode</caption>
-      <image width="1034" height="688">https://raw.githubusercontent.com/elementary/iconbrowser/main/data/screenshot2.png</image>
+      <caption>Search by description</caption>
+      <image width="1034" height="710">https://raw.githubusercontent.com/elementary/iconbrowser/main/data/screenshot2.png</image>
     </screenshot>
   </screenshots>
 
