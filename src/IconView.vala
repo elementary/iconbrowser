@@ -36,8 +36,7 @@ public class IconView : Granite.SimpleSettingsPage {
 
         var source_buffer = new GtkSource.Buffer (null) {
             highlight_syntax = true,
-            language = GtkSource.LanguageManager.get_default ().get_language ("vala"),
-            style_scheme = new GtkSource.StyleSchemeManager ().get_scheme ("solarized-light")
+            language = GtkSource.LanguageManager.get_default ().get_language ("vala")
         };
 
         var source_view = new GtkSource.View () {
@@ -68,6 +67,21 @@ public class IconView : Granite.SimpleSettingsPage {
             theme_name = "elementary"
         };
         int[] pixels = {16, 24, 32, 48, 64, 128};
+
+        var gtk_settings = Gtk.Settings.get_default ();
+        if (gtk_settings.gtk_application_prefer_dark_theme) {
+            source_buffer.style_scheme = new GtkSource.StyleSchemeManager ().get_scheme ("solarized-dark");
+        } else {
+            source_buffer.style_scheme = new GtkSource.StyleSchemeManager ().get_scheme ("solarized-light");
+        }
+
+        gtk_settings.notify["gtk-application-prefer-dark-theme"].connect (() => {
+            if (gtk_settings.gtk_application_prefer_dark_theme) {
+                source_buffer.style_scheme = new GtkSource.StyleSchemeManager ().get_scheme ("solarized-dark");
+            } else {
+                source_buffer.style_scheme = new GtkSource.StyleSchemeManager ().get_scheme ("solarized-light");
+            }
+        });
 
         notify["icon-name"].connect (() => {
             var is_symbolic = icon_name.has_suffix ("-symbolic");
