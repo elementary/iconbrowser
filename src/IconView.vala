@@ -43,7 +43,6 @@ public class IconView : Granite.SimpleSettingsPage {
         var source_view = new GtkSource.View () {
             buffer = source_buffer,
             hexpand = true,
-            vexpand = true,
             editable = false,
             monospace = true,
             show_line_numbers = true,
