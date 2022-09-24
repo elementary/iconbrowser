@@ -14,33 +14,25 @@ public class IconView : Granite.SimpleSettingsPage {
     }
 
     construct {
-        var color_title = new Gtk.Label (_("Color Icons")) {
-            margin_top = 12,
-            xalign = 0
-        };
-        color_title.add_css_class (Granite.STYLE_CLASS_H4_LABEL);
+        var color_title = new Granite.HeaderLabel (_("Color Icons"));
 
         color_row = new Gtk.Grid () {
             column_spacing = 24,
             row_spacing = 12
         };
 
-        var symbolic_title = new Gtk.Label (_("Symbolic Icons")) {
-            margin_top = 12,
-            xalign = 0
+        var symbolic_title = new Granite.HeaderLabel (_("Symbolic Icons")) {
+            margin_top = 12
         };
-        symbolic_title.add_css_class (Granite.STYLE_CLASS_H4_LABEL);
 
         symbolic_row = new Gtk.Grid () {
             column_spacing = 24,
             row_spacing = 12
         };
 
-        var snippet_title = new Gtk.Label (_("Code Sample")) {
-            margin_top = 12,
-            xalign = 0
+        var snippet_title = new Granite.HeaderLabel (_("Code Sample")) {
+            margin_top = 12
         };
-        snippet_title.add_css_class (Granite.STYLE_CLASS_H4_LABEL);
 
         var source_buffer = new GtkSource.Buffer (null) {
             highlight_syntax = true,
@@ -53,24 +45,24 @@ public class IconView : Granite.SimpleSettingsPage {
             hexpand = true,
             editable = false,
             monospace = true,
-            show_line_numbers = true
+            show_line_numbers = true,
+            left_margin = 12,
+            right_margin = 12,
+            bottom_margin = 12,
+            top_margin = 12,
+            pixels_above_lines = 3,
+            pixels_below_lines = 3
         };
+        source_view.add_css_class (Granite.STYLE_CLASS_CARD);
+        source_view.add_css_class (Granite.STYLE_CLASS_ROUNDED);
 
-        source_view.left_margin = source_view.right_margin = 6;
-        source_view.pixels_above_lines = source_view.pixels_below_lines = 3;
-
-        var snippet = new Gtk.Grid ();
-        snippet.add_css_class ("code");
-        snippet.attach (source_view, 0, 0);
-
-        content_area.column_spacing = 12;
         content_area.row_spacing = 12;
         content_area.attach (color_title, 0, 0);
         content_area.attach (color_row, 0, 1);
         content_area.attach (symbolic_title, 0, 2);
         content_area.attach (symbolic_row, 0, 3);
         content_area.attach (snippet_title, 0, 4);
-        content_area.attach (snippet, 0, 5);
+        content_area.attach (source_view, 0, 5);
 
         var icon_theme = Gtk.IconTheme.get_for_display (Gdk.Display.get_default ());
         int[] pixels = {16, 24, 32, 48, 64, 128};
@@ -93,7 +85,7 @@ public class IconView : Granite.SimpleSettingsPage {
             }
 
             title = color_icon_name;
-            source_buffer.text = "var icon = new Gtk.Image () {\n    gicon = new ThemedIcon (\"%s\"),\n    pixel_size = 24\n};".printf (icon_name);
+            source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\") {\n    pixel_size = 24\n};".printf (icon_name);
 
             int i = 0;
 

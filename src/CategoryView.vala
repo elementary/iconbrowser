@@ -5,7 +5,9 @@
 
 public class CategoryView : Gtk.Box {
     public string category_name { get; construct; }
-    public Gtk.ListBox listbox;
+
+    public Gtk.ListBox listbox { get; private set; }
+    public Gtk.SearchEntry search_entry { get; private set; }
 
     public enum Category {
         ACTIONS,
@@ -2343,7 +2345,28 @@ public class CategoryView : Gtk.Box {
     };
 
     construct {
+        var end_window_controls = new Gtk.WindowControls (Gtk.PackType.END) {
+            halign = Gtk.Align.END
+        };
+        end_window_controls.add_css_class ("titlebar");
+        end_window_controls.add_css_class (Granite.STYLE_CLASS_FLAT);
+
         var icon_view = new IconView ();
+
+        var icon_view_box = new Gtk.Box (Gtk.Orientation.VERTICAL, 0);
+        icon_view_box.append (end_window_controls);
+        icon_view_box.append (icon_view);
+
+        search_entry = new Gtk.SearchEntry () {
+            hexpand = true,
+            placeholder_text = _("Search Names or Descriptions"),
+            valign = Gtk.Align.CENTER,
+        };
+
+        var list_header = new Gtk.Box (Gtk.Orientation.HORIZONTAL, 0);
+        list_header.add_css_class ("titlebar");
+        list_header.add_css_class (Granite.STYLE_CLASS_FLAT);
+        list_header.append (search_entry);
 
         listbox = new Gtk.ListBox () {
             activate_on_single_click = true,
@@ -2358,11 +2381,16 @@ public class CategoryView : Gtk.Box {
             vexpand = true
         };
 
+        var box = new Gtk.Box (Gtk.Orientation.VERTICAL, 0);
+        box.append (list_header);
+        box.append (scrolled_window);
+        box.add_css_class (Granite.STYLE_CLASS_VIEW);
+
         var paned = new Gtk.Paned (Gtk.Orientation.HORIZONTAL) {
-            start_child = scrolled_window,
+            start_child = box,
             resize_start_child = false,
             shrink_start_child = false,
-            end_child = icon_view,
+            end_child = icon_view_box,
             shrink_end_child = false,
             position = 256
         };
