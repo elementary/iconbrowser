@@ -1,23 +1,9 @@
 /*
-* Copyright (c) 2017-2018 Daniel Foré (http://danielfore.com)
-*
-* This program is free software; you can redistribute it and/or
-* modify it under the terms of the GNU General Public
-* License as published by the Free Software Foundation; either
-* version 2 of the License, or (at your option) any later version.
-*
-* This program is distributed in the hope that it will be useful,
-* but WITHOUT ANY WARRANTY; without even the implied warranty of
-* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-* General Public License for more details.
-*
-* You should have received a copy of the GNU General Public
-* License along with this program; if not, write to the
-* Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
-* Boston, MA 02110-1301 USA
-*/
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-FileCopyrightText: 2017-2022 elementary, Inc. (https://elementary.io)
+ */
 
-public class CategoryView : Gtk.Paned {
+public class CategoryView : Gtk.Box {
     public string category_name { get; construct; }
     public Gtk.ListBox listbox;
 
@@ -2356,32 +2342,35 @@ public class CategoryView : Gtk.Paned {
         }
     };
 
-    public CategoryView () {
-        Object (
-            orientation: Gtk.Orientation.HORIZONTAL,
-            position: 256
-        );
-    }
-
     construct {
         var icon_view = new IconView ();
 
-        listbox = new Gtk.ListBox ();
-        listbox.activate_on_single_click = true;
-        listbox.selection_mode = Gtk.SelectionMode.SINGLE;
+        listbox = new Gtk.ListBox () {
+            activate_on_single_click = true,
+            selection_mode = Gtk.SelectionMode.SINGLE
+        };
         listbox.set_sort_func (sort_function);
 
-        var scrolled_window = new Gtk.ScrolledWindow (null, null);
-        scrolled_window.hscrollbar_policy = Gtk.PolicyType.NEVER;
-        scrolled_window.vexpand = true;
-        scrolled_window.add (listbox);
+        var scrolled_window = new Gtk.ScrolledWindow () {
+            child = listbox,
+            hscrollbar_policy = Gtk.PolicyType.NEVER,
+            vexpand = true
+        };
 
-        pack1 (scrolled_window, false, false);
-        pack2 (icon_view, true, false);
+        var paned = new Gtk.Paned (Gtk.Orientation.HORIZONTAL) {
+            start_child = scrolled_window,
+            resize_start_child = false,
+            shrink_start_child = false,
+            end_child = icon_view,
+            shrink_end_child = false,
+            position = 256
+        };
+
+        append (paned);
 
         foreach (var icon in icons) {
             var row = new IconListRow (icon.name, icon.description, icon.category);
-            listbox.add (row);
+            listbox.append (row);
         }
 
         listbox.row_selected.connect ((row) => {

@@ -1,5 +1,5 @@
 <img align="left" width="64" height="64" src="data/icons/64.svg">
-<h1 class="rich-diff-level-zero">LookBook</h1>
+<h1 class="rich-diff-level-zero">Icon Browser</h1>
 
 ![LookBook Screenshot](data/screenshot.png?raw=true)
 
@@ -7,10 +7,9 @@
 
 
 You'll need the following dependencies to build:
-* granite >= 6.0.0
-* libgtk-3-dev
-* libgtksourceview-4-dev
-* libhandy >= 1.0.0
+* libgranite-7-dev
+* libgtk-4-dev
+* libgtksourceview-5-dev
 * meson
 * valac
 
