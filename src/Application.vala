@@ -4,17 +4,11 @@
  */
 
 public class IconBrowser.App : Gtk.Application {
-    public static GLib.Settings settings;
-
     public App () {
         Object (
             application_id: "io.elementary.iconbrowser",
             flags: ApplicationFlags.FLAGS_NONE
         );
-    }
-
-    static construct {
-        settings = new Settings ("io.elementary.iconbrowser");
     }
 
     protected override void startup () {
@@ -41,6 +35,7 @@ public class IconBrowser.App : Gtk.Application {
             * Set maximize after height/width else window is min size on unmaximize
             * Bind maximize as SET else get get bad sizes
             */
+            var settings = new Settings ("io.elementary.iconbrowser");
             settings.bind ("window-height", main_window, "default-height", SettingsBindFlags.DEFAULT);
             settings.bind ("window-width", main_window, "default-width", SettingsBindFlags.DEFAULT);
 

@@ -76,8 +76,23 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         child = window_handle;
 
         var gtk_settings = Gtk.Settings.get_default ();
-        mode_switch.bind_property ("active", gtk_settings, "gtk_application_prefer_dark_theme");
-        App.settings.bind ("prefer-dark-style", mode_switch, "active", GLib.SettingsBindFlags.DEFAULT);
+        gtk_settings.bind_property ("gtk-application-prefer-dark-theme", mode_switch, "active", BindingFlags.BIDIRECTIONAL);
+
+        gtk_settings.gtk_icon_theme_name = "elementary";
+        if (!(gtk_settings.gtk_theme_name.has_prefix ("io.elementary.stylesheet"))) {
+            gtk_settings.gtk_theme_name = "io.elementary.stylesheet.blueberry";
+        }
+
+        var granite_settings = Granite.Settings.get_default ();
+        gtk_settings.gtk_application_prefer_dark_theme = (
+            granite_settings.prefers_color_scheme == Granite.Settings.ColorScheme.DARK
+        );
+
+        granite_settings.notify["prefers-color-scheme"].connect (() => {
+            gtk_settings.gtk_application_prefer_dark_theme = (
+                granite_settings.prefers_color_scheme == Granite.Settings.ColorScheme.DARK
+            );
+        });
 
         category_view.listbox.set_filter_func (filter_function);
 
