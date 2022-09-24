@@ -2,9 +2,12 @@
  * SPDX-License-Identifier: GPL-3.0-or-later
  * SPDX-FileCopyrightText: 2017-2022 elementary, Inc. (https://elementary.io)
  */
-public class IconView : Granite.SimpleSettingsPage {
+public class IconView : Gtk.Box {
     private Gtk.Grid color_row;
     private Gtk.Grid symbolic_row;
+
+    public string icon_name { get; construct set; }
+    public string description { get; construct set; }
 
     public IconView () {
         Object (
@@ -14,6 +17,43 @@ public class IconView : Granite.SimpleSettingsPage {
     }
 
     construct {
+        var header_icon = new Gtk.Image.from_icon_name (icon_name) {
+            icon_size = Gtk.IconSize.LARGE,
+            valign = Gtk.Align.START
+        };
+
+        var title_label = new Gtk.Label (icon_name) {
+            selectable = true,
+            wrap = true,
+            xalign = 0,
+            valign = Gtk.Align.END
+        };
+        title_label.add_css_class (Granite.STYLE_CLASS_H2_LABEL);
+
+        var description_label = new Gtk.Label (description) {
+            selectable = true,
+            use_markup = true,
+            wrap = true,
+            halign = Gtk.Align.START,
+            xalign = 0,
+            valign = Gtk.Align.START
+        };
+
+        var window_controls = new Gtk.WindowControls (Gtk.PackType.END) {
+            halign = Gtk.Align.END,
+            hexpand = true,
+            valign = Gtk.Align.START
+        };
+
+        var header_area = new Gtk.Grid ();
+        header_area.add_css_class ("header-area");
+        header_area.add_css_class ("titlebar");
+        header_area.add_css_class (Granite.STYLE_CLASS_FLAT);
+        header_area.attach (title_label, 1, 0);
+        header_area.attach (header_icon, 0, 0, 1, 2);
+        header_area.attach (description_label, 1, 1, 2);
+        header_area.attach (window_controls, 2, 0, 1, 2);
+
         var color_title = new Granite.HeaderLabel (_("Color Icons"));
 
         color_row = new Gtk.Grid () {
@@ -55,13 +95,25 @@ public class IconView : Granite.SimpleSettingsPage {
         source_view.add_css_class (Granite.STYLE_CLASS_CARD);
         source_view.add_css_class (Granite.STYLE_CLASS_ROUNDED);
 
-        content_area.row_spacing = 12;
-        content_area.attach (color_title, 0, 0);
-        content_area.attach (color_row, 0, 1);
-        content_area.attach (symbolic_title, 0, 2);
-        content_area.attach (symbolic_row, 0, 3);
-        content_area.attach (snippet_title, 0, 4);
-        content_area.attach (source_view, 0, 5);
+        var content_area = new Gtk.Box (Gtk.Orientation.VERTICAL, 12) {
+            vexpand = true
+        };
+        content_area.add_css_class ("content-area");
+        content_area.append (color_title);
+        content_area.append (color_row);
+        content_area.append (symbolic_title);
+        content_area.append (symbolic_row);
+        content_area.append (snippet_title);
+        content_area.append (source_view);
+
+        var scrolled = new Gtk.ScrolledWindow () {
+            child = content_area,
+            hscrollbar_policy = Gtk.PolicyType.NEVER
+        };
+
+        orientation = Gtk.Orientation.VERTICAL;
+        append (header_area);
+        append (scrolled);
 
         var icon_theme = new Gtk.IconTheme () {
             theme_name = "elementary"
@@ -83,6 +135,10 @@ public class IconView : Granite.SimpleSettingsPage {
             }
         });
 
+        bind_property ("icon-name", header_icon, "icon-name");
+        bind_property ("icon-name", title_label, "label");
+        bind_property ("description", description_label, "label");
+
         notify["icon-name"].connect (() => {
             var is_symbolic = icon_name.has_suffix ("-symbolic");
             string color_icon_name;
@@ -100,7 +156,6 @@ public class IconView : Granite.SimpleSettingsPage {
                 icon_name = symbolic_icon_name;
             }
 
-            title = color_icon_name;
             source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\") {\n    pixel_size = 24\n};".printf (icon_name);
 
             int i = 0;
