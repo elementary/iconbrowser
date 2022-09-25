@@ -8,321 +8,325 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-24 13:58-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-09-25 22:20+0000\n"
+"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
+"icon-browser/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
-msgstr ""
+msgstr "Дії"
 
 #: src/CategoryView.vala:28
 msgid "Applications"
-msgstr ""
+msgstr "Застосунки"
 
 #: src/CategoryView.vala:30
 msgid "Categories"
-msgstr ""
+msgstr "Категорії"
 
 #: src/CategoryView.vala:32
 msgid "Devices"
-msgstr ""
+msgstr "Пристрої"
 
 #: src/CategoryView.vala:34
 msgid "Emblems"
-msgstr ""
+msgstr "Емблеми"
 
 #: src/CategoryView.vala:36
 msgid "Emotes"
-msgstr ""
+msgstr "Емотикони"
 
 #: src/CategoryView.vala:38
 msgid "Media Types"
-msgstr ""
+msgstr "Типи медіа"
 
 #: src/CategoryView.vala:40
 msgid "Places"
-msgstr ""
+msgstr "Місця"
 
 #: src/CategoryView.vala:42
 msgid "Status"
-msgstr ""
+msgstr "Стан"
 
 #: src/CategoryView.vala:44
 msgid "OTHER"
-msgstr ""
+msgstr "ІНШЕ"
 
 #: src/CategoryView.vala:62 src/IconView.vala:13
 msgid "Create a new address book"
-msgstr ""
+msgstr "Створити нову адресну книгу"
 
 #: src/CategoryView.vala:67
 msgid "Align objects to center along the X axis"
-msgstr ""
+msgstr "Вирівняти об'єкти по центру вздовж осі X"
 
 #: src/CategoryView.vala:72
 msgid "Align objects left along the X axis"
-msgstr ""
+msgstr "Вирівняти об'єкти вліво вздовж осі X"
 
 #: src/CategoryView.vala:77
 msgid "Align objects right along the X axis"
-msgstr ""
+msgstr "Вирівняти об'єкти вправо вздовж осі X"
 
 #: src/CategoryView.vala:82
 msgid "Align objects to bottom along the Y axis"
-msgstr ""
+msgstr "Вирівняти об'єкти вниз вздовж осі Y"
 
 #: src/CategoryView.vala:87
 msgid "Align objects to center along the Y axis"
-msgstr ""
+msgstr "Вирівняти об'єкти по центру вздовж осі Y"
 
 #: src/CategoryView.vala:92
 msgid "Align objects to top along the Y axis"
-msgstr ""
+msgstr "Вирівняти об'єкти вгору вздовж осі Y"
 
 #: src/CategoryView.vala:97
 msgid "Used for exiting an application"
-msgstr ""
+msgstr "Використовується для виходу з застосунку"
 
 #: src/CategoryView.vala:102
 msgid "Create a new appointment in a calendaring application"
-msgstr ""
+msgstr "Створити нову зустріч у застосунку календаря"
 
 #: src/CategoryView.vala:107
 msgid "Create a new bookmark"
-msgstr ""
+msgstr "Створити нову закладку"
 
 #: src/CategoryView.vala:112
 msgid "Download a file from the Internet"
-msgstr ""
+msgstr "Завантажити файл з інтернету"
 
 #: src/CategoryView.vala:117
 msgid "Initiate or accept a call"
-msgstr ""
+msgstr "Ініціювати або прийняти виклик"
 
 #: src/CategoryView.vala:122
 msgid "Stop the current call"
-msgstr ""
+msgstr "Припинити поточний виклик"
 
 #: src/CategoryView.vala:127
 msgid "Allow changes by unlocking such as with a password"
-msgstr ""
+msgstr "Дозволити зміни через розблокування, наприклад, за допомогою пароля"
 
 #: src/CategoryView.vala:132
 msgid "Prevent changes by locking such as with a password"
-msgstr ""
+msgstr "Запобігти змінам через блокування, наприклад, за допомогою пароля"
 
 #: src/CategoryView.vala:137
 msgid "Pick a color from elsewhere on screen"
-msgstr ""
+msgstr "Вибрати колір з іншого місця на екрані"
 
 #: src/CategoryView.vala:142
 msgid "Create a new contact in an address book application"
-msgstr ""
+msgstr "Створити новий контакт у застосунку адресної книги"
 
 #: src/CategoryView.vala:147
 msgid "Distribute the center lines of objects horizontally"
-msgstr ""
+msgstr "Розподілити центральні лінії об'єктів за горизонталлю"
 
 #: src/CategoryView.vala:152
 msgid "Make horizontal gaps between objects equal"
-msgstr ""
+msgstr "Зробити горизонтальні проміжки між об'єктами рівними"
 
 #: src/CategoryView.vala:157
 msgid "Distribute left edges of objects horizontally"
-msgstr ""
+msgstr "Розподілити ліві краї об'єктів за горизонталлю"
 
 #: src/CategoryView.vala:162
 msgid "Distribute right edges of objects horizontally"
-msgstr ""
+msgstr "Розподілити праві краї об'єктів за горизонталлю"
 
 #: src/CategoryView.vala:167
 msgid "Distribute bottom edges of objects vertically"
-msgstr ""
+msgstr "Розподілити нижні краї об'єктів по вертикалі"
 
 #: src/CategoryView.vala:172
 msgid "Distribute center lines of objects vertically"
-msgstr ""
+msgstr "Розподілити центральні лінії об'єктів по вертикалі"
 
 #: src/CategoryView.vala:177
 msgid "Make vertical gaps between objects equal"
-msgstr ""
+msgstr "Зробити вертикальні проміжки між об'єктами рівними"
 
 #: src/CategoryView.vala:182
 msgid "Distriute top edges of objects vertically"
-msgstr ""
+msgstr "Розподілити верхні краї об'єктів по вертикалі"
 
 #: src/CategoryView.vala:187
 msgid "Export a document"
-msgstr ""
+msgstr "Експортувати документ"
 
 #: src/CategoryView.vala:192
 msgid "Import a document"
-msgstr ""
+msgstr "Імпортувати документ"
 
 #: src/CategoryView.vala:197
 msgid "Create a new document"
-msgstr ""
+msgstr "Створити новий документ"
 
 #: src/CategoryView.vala:202
 msgid "Open a document"
-msgstr ""
+msgstr "Відкрити документ"
 
 #: src/CategoryView.vala:207
 msgid "Open a document that was recently opened"
-msgstr ""
+msgstr "Відкрити документ, який було відкрито нещодавно"
 
 #: src/CategoryView.vala:212
 msgid "The page setup action of a document editor"
-msgstr ""
+msgstr "Дія налаштування сторінки редактора документів"
 
 #: src/CategoryView.vala:217
 msgid "Print"
-msgstr ""
+msgstr "Надрукувати"
 
 #: src/CategoryView.vala:222
 msgid "The print preview action of an application"
-msgstr ""
+msgstr "Дія попереднього перегляду друку застосунку"
 
 #: src/CategoryView.vala:227
 msgid "View the properties of a document"
-msgstr ""
+msgstr "Перегляд властивостей документа"
 
 #: src/CategoryView.vala:232
 msgid "Revert to a previous version of a document"
-msgstr ""
+msgstr "Повернутися до попередньої версії документа"
 
 #: src/CategoryView.vala:237
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 #: src/CategoryView.vala:242
 msgid "Save as"
-msgstr ""
+msgstr "Зберегти як"
 
 #: src/CategoryView.vala:247
 msgid "Send"
-msgstr ""
+msgstr "Надіслати"
 
 #: src/CategoryView.vala:252
 msgid "Edit"
-msgstr ""
+msgstr "Редагувати"
 
 #: src/CategoryView.vala:257
 msgid "Clear"
-msgstr ""
+msgstr "Очистити"
 
 #: src/CategoryView.vala:262
 msgid "Copy"
-msgstr ""
+msgstr "Скопіювати"
 
 #: src/CategoryView.vala:267
 msgid "Cut"
-msgstr ""
+msgstr "Вирізати"
 
 #: src/CategoryView.vala:272
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 #: src/CategoryView.vala:277
 msgid "Find"
-msgstr ""
+msgstr "Знайти"
 
 #: src/CategoryView.vala:282
 msgid "Find & Replace"
-msgstr ""
+msgstr "Знайти й замінити"
 
 #: src/CategoryView.vala:287
 msgid "Flag an item, such as a spam email"
-msgstr ""
+msgstr "Позначити елемент, наприклад, електронний лист зі спамом"
 
 #: src/CategoryView.vala:292
 msgid "Paste"
-msgstr ""
+msgstr "Вставити"
 
 #: src/CategoryView.vala:297
 msgid "Redo"
-msgstr ""
+msgstr "Повторити"
 
 #: src/CategoryView.vala:302
 msgid "Select all"
-msgstr ""
+msgstr "Вибрати всі"
 
 #: src/CategoryView.vala:307
 msgid "Undo"
-msgstr ""
+msgstr "Скасувати"
 
 #: src/CategoryView.vala:312
 msgid "Create a new calendar event"
-msgstr ""
+msgstr "Створити нову подію календаря"
 
 #: src/CategoryView.vala:317
 msgid "Copy a folder"
-msgstr ""
+msgstr "Копіювати теку"
 
 #: src/CategoryView.vala:322
 msgid "Move a folder"
-msgstr ""
+msgstr "Перемістити теку"
 
 #: src/CategoryView.vala:327
 msgid "Create a new folder"
-msgstr ""
+msgstr "Створити нову теку"
 
 #: src/CategoryView.vala:332
 msgid "Decrease indent"
-msgstr ""
+msgstr "Зменшити відступ"
 
 #: src/CategoryView.vala:337
 msgid "Increase indent"
-msgstr ""
+msgstr "Збільшити відступ"
 
 #: src/CategoryView.vala:342
 msgid "Center justify text"
-msgstr ""
+msgstr "Вирівняти текст по центру"
 
 #: src/CategoryView.vala:347
 msgid "Fill justify text"
-msgstr ""
+msgstr "Заповнити текстом"
 
 #: src/CategoryView.vala:352
 msgid "Left justify text"
-msgstr ""
+msgstr "Вирівняти текст вліво"
 
 #: src/CategoryView.vala:357
 msgid "Right justify text"
-msgstr ""
+msgstr "Вирівняти текст вправо"
 
 #: src/CategoryView.vala:362
 msgid "Format text as left-to-right"
-msgstr ""
+msgstr "Форматувати текст зліва направо"
 
 #: src/CategoryView.vala:367
 msgid "Format text as right-to-left"
-msgstr ""
+msgstr "Форматувати текст справа наліво"
 
 #: src/CategoryView.vala:372
 msgid "Format text as bold"
-msgstr ""
+msgstr "Форматувати текст жирним шрифтом"
 
 #: src/CategoryView.vala:377
 msgid "Format text as highlighted"
-msgstr ""
+msgstr "Форматувати текст як виділений"
 
 #: src/CategoryView.vala:382
 msgid "Format text as italic"
-msgstr ""
+msgstr "Форматувати текст курсивом"
 
 #: src/CategoryView.vala:387
 msgid "Format text as underlined"
-msgstr ""
+msgstr "Форматувати текст підкресленим"
 
 #: src/CategoryView.vala:392
 msgid "Format text as being struck through"
-msgstr ""
+msgstr "Форматувати текст як закреслений"
 
 #: src/CategoryView.vala:397
 msgid "Go to the bottom, such as in a list"
@@ -366,55 +370,55 @@ msgstr ""
 
 #: src/CategoryView.vala:447
 msgid "Information about an app"
-msgstr ""
+msgstr "Інформація про застосунок"
 
 #: src/CategoryView.vala:452
 msgid "Get help"
-msgstr ""
+msgstr "Отримати допомогу"
 
 #: src/CategoryView.vala:457
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "Найпоширеніші запитання"
 
 #: src/CategoryView.vala:462
 msgid "Make adjustments to an image"
-msgstr ""
+msgstr "Коригування зображення"
 
 #: src/CategoryView.vala:467
 msgid "Automatically adjust an image"
-msgstr ""
+msgstr "Автокоригування зображення"
 
 #: src/CategoryView.vala:472
 msgid "Crop an image"
-msgstr ""
+msgstr "Обрізати зображення"
 
 #: src/CategoryView.vala:477
 msgid "Remove red eye from an image"
-msgstr ""
+msgstr "Прибрати ефект «червоних очей» із зображення"
 
 #: src/CategoryView.vala:482
 msgid "Insert an image"
-msgstr ""
+msgstr "Вставити зображення"
 
 #: src/CategoryView.vala:487
 msgid "Insert a link"
-msgstr ""
+msgstr "Вставити посилання"
 
 #: src/CategoryView.vala:492
 msgid "Insert an object"
-msgstr ""
+msgstr "Вставити об'єкт"
 
 #: src/CategoryView.vala:497
 msgid "Insert text"
-msgstr ""
+msgstr "Вставити текст"
 
 #: src/CategoryView.vala:502
 msgid "Add to a list"
-msgstr ""
+msgstr "Додати до списку"
 
 #: src/CategoryView.vala:507
 msgid "Remove from a list"
-msgstr ""
+msgstr "Вилучити зі списку"
 
 #: src/CategoryView.vala:512
 msgid "Forward an email"
@@ -510,21 +514,23 @@ msgstr ""
 
 #: src/CategoryView.vala:627
 msgid "Create a new database"
-msgstr ""
+msgstr "Створити нову базу даних"
 
 #: src/CategoryView.vala:632
 msgid ""
 "Stop an action that may take a while to process, such as web page loading in "
 "a browser"
 msgstr ""
+"Зупинити дію, яка може тривати певний час, наприклад, завантаження "
+"вебсторінки у браузері"
 
 #: src/CategoryView.vala:637
 msgid "Lock the screen or the user's session"
-msgstr ""
+msgstr "Заблокувати екран або сеанс користувача"
 
 #: src/CategoryView.vala:642
 msgid "Log out of the user's session"
-msgstr ""
+msgstr "Вихід з сеансу користувача"
 
 #: src/CategoryView.vala:647
 msgid "Run a system app or command"
@@ -604,67 +610,67 @@ msgstr ""
 
 #: src/CategoryView.vala:742
 msgid "Close the window"
-msgstr ""
+msgstr "Закрити вікно"
 
 #: src/CategoryView.vala:747
 msgid "Create a new window"
-msgstr ""
+msgstr "Створити нове вікно"
 
 #: src/CategoryView.vala:752
 msgid "Zoom to the best fit"
-msgstr ""
+msgstr "Масштабувати до оптимального розміру"
 
 #: src/CategoryView.vala:757
 msgid "Zoom in"
-msgstr ""
+msgstr "Збільшити"
 
 #: src/CategoryView.vala:762
 msgid "Zoom to the original size"
-msgstr ""
+msgstr "Масштабувати до початкового розміру"
 
 #: src/CategoryView.vala:767
 msgid "Zoom out"
-msgstr ""
+msgstr "Зменшити"
 
 #: src/CategoryView.vala:772
 msgid "Calculator"
-msgstr ""
+msgstr "Калькулятор"
 
 #: src/CategoryView.vala:777
 msgid "International and extended text character map"
-msgstr ""
+msgstr "Мапа символів міжнародного та розширеного тексту"
 
 #: src/CategoryView.vala:782
 msgid "Dictionary"
-msgstr ""
+msgstr "Словник"
 
 #: src/CategoryView.vala:787
 msgid "Text editor"
-msgstr ""
+msgstr "Текстовий редактор"
 
 #: src/CategoryView.vala:792
 msgid "Default or unprovided app icon"
-msgstr ""
+msgstr "Типова або ненадана піктограма застосунку"
 
 #: src/CategoryView.vala:797
 msgid "Files"
-msgstr ""
+msgstr "Файли"
 
 #: src/CategoryView.vala:802
 msgid "AppCenter or software installer"
-msgstr ""
+msgstr "Встановлювач центру застосунків чи програмного забезпечення"
 
 #: src/CategoryView.vala:807
 msgid "Software updater"
-msgstr ""
+msgstr "Оновлювач програмного забезпечення"
 
 #: src/CategoryView.vala:812
 msgid "System resource monitor"
-msgstr ""
+msgstr "Монітор системних ресурсів"
 
 #: src/CategoryView.vala:817
 msgid "Terminal"
-msgstr ""
+msgstr "Термінал"
 
 #: src/CategoryView.vala:822
 msgid "Accessory or utility app category"
@@ -720,7 +726,7 @@ msgstr ""
 
 #: src/CategoryView.vala:887
 msgid "Bluetooth settings"
-msgstr ""
+msgstr "Налаштування Bluetooth"
 
 #: src/CategoryView.vala:892
 msgid "Color settings such as printer, display, or camera calibration"
@@ -821,7 +827,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1012
 msgid "Help"
-msgstr ""
+msgstr "Довідка"
 
 #: src/CategoryView.vala:1017
 msgid "Audio output device, such as a sound card or speaker"
@@ -837,7 +843,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1032
 msgid "Microphone"
-msgstr ""
+msgstr "Мікрофон"
 
 #: src/CategoryView.vala:1037
 msgid "Subwoofer or bass speaker"
@@ -845,11 +851,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1042
 msgid "Battery"
-msgstr ""
+msgstr "Акумулятор"
 
 #: src/CategoryView.vala:1047
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: src/CategoryView.vala:1052
 msgid "Digital photo or still camera"
@@ -893,11 +899,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1102
 msgid "Keyboard"
-msgstr ""
+msgstr "Клавіатура"
 
 #: src/CategoryView.vala:1107
 msgid "Mouse"
-msgstr ""
+msgstr "Миша"
 
 #: src/CategoryView.vala:1112
 msgid ""
@@ -959,7 +965,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1177
 msgid "Printer"
-msgstr ""
+msgstr "Принтер"
 
 #: src/CategoryView.vala:1182
 msgid "Network-connected or shared printer"
@@ -967,7 +973,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1187
 msgid "Scanner"
-msgstr ""
+msgstr "Сканер"
 
 #: src/CategoryView.vala:1192
 msgid "Display, screen, or monitor"
@@ -1047,95 +1053,95 @@ msgstr ""
 
 #: src/CategoryView.vala:1287
 msgid "0:-) emoticon"
-msgstr ""
+msgstr "Емотикон 0:-)"
 
 #: src/CategoryView.vala:1292
 msgid "X-( emoticon"
-msgstr ""
+msgstr "Емотикон X-("
 
 #: src/CategoryView.vala:1297
 msgid "B-) emoticon"
-msgstr ""
+msgstr "Емотикон B-)"
 
 #: src/CategoryView.vala:1302
 msgid ":'( emoticon"
-msgstr ""
+msgstr "Емотикон :'("
 
 #: src/CategoryView.vala:1307
 msgid ">:-) emoticon"
-msgstr ""
+msgstr "Емотикон >:-)"
 
 #: src/CategoryView.vala:1312
 msgid ":-[ emoticon"
-msgstr ""
+msgstr "Емотикон :-["
 
 #: src/CategoryView.vala:1317
 msgid "<3 emoticon"
-msgstr ""
+msgstr "Емотикон <3"
 
 #: src/CategoryView.vala:1322
 msgid "</3 emoticon"
-msgstr ""
+msgstr "Емотикон </3"
 
 #: src/CategoryView.vala:1327
 msgid ":-* emoticon"
-msgstr ""
+msgstr "Емотикон :-*"
 
 #: src/CategoryView.vala:1332
 msgid ":-)) emoticon"
-msgstr ""
+msgstr "Емотикон :-))"
 
 #: src/CategoryView.vala:1337
 msgid ":-(|) emoticon"
-msgstr ""
+msgstr "Емотикон :-(|)"
 
 #: src/CategoryView.vala:1342
 msgid ":-| emoticon"
-msgstr ""
+msgstr "Емотикон :-|"
 
 #: src/CategoryView.vala:1347
 msgid ":-P emoticon"
-msgstr ""
+msgstr "Емотикон :-P"
 
 #: src/CategoryView.vala:1352
 msgid ":-( emoticon"
-msgstr ""
+msgstr "Емотикон :-("
 
 #: src/CategoryView.vala:1357
 msgid ":-& emoticon"
-msgstr ""
+msgstr "Емотикон :-&"
 
 #: src/CategoryView.vala:1362
 msgid ":-) emoticon"
-msgstr ""
+msgstr "Емотикон :-)"
 
 #: src/CategoryView.vala:1367
 msgid ":-D emoticon"
-msgstr ""
+msgstr "Емотикон :-D"
 
 #: src/CategoryView.vala:1372
 msgid ":-! emoticon"
-msgstr ""
+msgstr "Емотикон :-!"
 
 #: src/CategoryView.vala:1377
 msgid ":-0 emoticon"
-msgstr ""
+msgstr "Емотикон :-0"
 
 #: src/CategoryView.vala:1382
 msgid "|-) emoticon"
-msgstr ""
+msgstr "Емотикон |-)"
 
 #: src/CategoryView.vala:1387
 msgid ":-/ emoticon"
-msgstr ""
+msgstr "Емотикон :-/"
 
 #: src/CategoryView.vala:1392
 msgid ";-) emoticon"
-msgstr ""
+msgstr "Емотикон ;-)"
 
 #: src/CategoryView.vala:1397
 msgid ":-S emoticon"
-msgstr ""
+msgstr "Емотикон :-S"
 
 #: src/CategoryView.vala:1402
 msgid "EPUB Ebook file types"
@@ -1231,7 +1237,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1517
 msgid "Extension"
-msgstr ""
+msgstr "Розширення"
 
 #: src/CategoryView.vala:1522
 msgid "Generic font file types"
@@ -1255,7 +1261,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1547
 msgid "Model"
-msgstr ""
+msgstr "Модель"
 
 #: src/CategoryView.vala:1552
 msgid "Contact file types"
@@ -1451,15 +1457,15 @@ msgstr ""
 
 #: src/CategoryView.vala:1792
 msgid "Folder"
-msgstr ""
+msgstr "Тека"
 
 #: src/CategoryView.vala:1797
 msgid "Documents folder"
-msgstr ""
+msgstr "Тека документів"
 
 #: src/CategoryView.vala:1802
 msgid "Downloads folder"
-msgstr ""
+msgstr "Тека завантажень"
 
 #: src/CategoryView.vala:1807
 msgid "Folder drag accept"
@@ -1467,15 +1473,15 @@ msgstr ""
 
 #: src/CategoryView.vala:1812
 msgid "Music folder"
-msgstr ""
+msgstr "Тека музики"
 
 #: src/CategoryView.vala:1817
 msgid "Open folder"
-msgstr ""
+msgstr "Відкрити теку"
 
 #: src/CategoryView.vala:1822
 msgid "Pictures folder"
-msgstr ""
+msgstr "Тека зображень"
 
 #: src/CategoryView.vala:1827
 msgid "Publicshare folder"
@@ -1567,19 +1573,19 @@ msgstr ""
 
 #: src/CategoryView.vala:1937
 msgid "Bookmarks"
-msgstr ""
+msgstr "Закладки"
 
 #: src/CategoryView.vala:1942
 msgid "Home"
-msgstr ""
+msgstr "Домівка"
 
 #: src/CategoryView.vala:1947
 msgid "Trash"
-msgstr ""
+msgstr "Смітник"
 
 #: src/CategoryView.vala:1952
 msgid "Trash full"
-msgstr ""
+msgstr "Смітник заповнено"
 
 #: src/CategoryView.vala:1957
 msgid "Airplane mode, where wireless radios are disabled or off"
@@ -1924,12 +1930,12 @@ msgstr ""
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr ""
+msgstr "Переглядач піктограм"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr ""
+msgstr "Світле тло"
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr ""
+msgstr "Темне тло"
