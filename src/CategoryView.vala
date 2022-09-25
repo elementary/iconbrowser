@@ -838,11 +838,6 @@ public class CategoryView : Gtk.Box {
             category = CATEGORIES
         },
         Icon () {
-            name = "applications-fonts",
-            description = _("Font category"),
-            category = CATEGORIES
-        },
-        Icon () {
             name = "applications-games",
             description = _("Games app category"),
             category = CATEGORIES
@@ -925,6 +920,11 @@ public class CategoryView : Gtk.Box {
         Icon () {
             name = "preferences-desktop-display",
             description = _("Display settings, such as resolution or scaling"),
+            category = CATEGORIES
+        },
+        Icon () {
+            name = "preferences-desktop-font",
+            description = _("Font settings"),
             category = CATEGORIES
         },
         Icon () {
@@ -1490,11 +1490,6 @@ public class CategoryView : Gtk.Box {
         Icon () {
             name = "application-x-firmware",
             description = _("Firmware file types"),
-            category = MIMES
-        },
-        Icon () {
-            name = "application-x-flash-video",
-            description = _("Flash video file types"),
             category = MIMES
         },
         Icon () {
@@ -2345,17 +2340,7 @@ public class CategoryView : Gtk.Box {
     };
 
     construct {
-        var end_window_controls = new Gtk.WindowControls (Gtk.PackType.END) {
-            halign = Gtk.Align.END
-        };
-        end_window_controls.add_css_class ("titlebar");
-        end_window_controls.add_css_class (Granite.STYLE_CLASS_FLAT);
-
         var icon_view = new IconView ();
-
-        var icon_view_box = new Gtk.Box (Gtk.Orientation.VERTICAL, 0);
-        icon_view_box.append (end_window_controls);
-        icon_view_box.append (icon_view);
 
         search_entry = new Gtk.SearchEntry () {
             hexpand = true,
@@ -2390,19 +2375,26 @@ public class CategoryView : Gtk.Box {
             start_child = box,
             resize_start_child = false,
             shrink_start_child = false,
-            end_child = icon_view_box,
+            end_child = icon_view,
             shrink_end_child = false,
             position = 256
         };
 
         append (paned);
 
+        var icon_theme = new Gtk.IconTheme () {
+            theme_name = "elementary"
+        };
+
         foreach (var icon in icons) {
-            var row = new IconListRow (icon.name, icon.description, icon.category);
-            listbox.append (row);
+            if (icon_theme.has_icon (icon.name) || icon_theme.has_icon (icon.name + "-symbolic")) {
+                var row = new IconListRow (icon.name, icon.description, icon.category);
+                listbox.append (row);
+            }
         }
 
         listbox.row_selected.connect ((row) => {
+            icon_view.category = ((IconListRow) row).category;
             icon_view.icon_name = ((IconListRow) row).icon_name;
             icon_view.description = ((IconListRow) row).description;
         });

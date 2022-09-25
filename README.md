@@ -1,6 +1,8 @@
 <img align="left" width="64" height="64" src="data/icons/64.svg">
 <h1 class="rich-diff-level-zero">Icon Browser</h1>
 
+[![Translation status](https://l10n.elementary.io/widgets/icon-browser/-/svg-badge.svg)](https://l10n.elementary.io/engage/icon-browser/)
+
 ![LookBook Screenshot](data/screenshot.png?raw=true)
 
 ## Building, Testing, and Installation

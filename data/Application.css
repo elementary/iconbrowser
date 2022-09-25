@@ -1,12 +1,38 @@
-.code {
-    background-color: #fdf6e3;
-    background-image:
-        linear-gradient(to right,
-            #eee8D5 calc(10px + 1.1em),
-            #fdf6e3 calc(10px + 1.1em)
+.titlebar + scrolledwindow undershoot.top {
+    background:
+        linear-gradient(
+            @borders,
+            alpha(black, 0.05) 1px,
+            alpha(black, 0.0) 0.444rem
         );
-    border-radius: 3px;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.20);
-    padding: 3px;
 }
 
+.header-area > image {
+    -gtk-icon-size: 48px;
+    padding: 0.666rem 0 0.666rem 0.666rem;
+}
+
+.header-area > image:dir(ltr) {
+    /*Match square icon canvas whitespace at 48px*/
+    margin-left: -4px;
+    margin-right: 7px;
+}
+
+.header-area > image:dir(rtl) {
+    margin-left: 7px;
+    margin-right: -4px;
+}
+
+.header-area label.title-2 {
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.header-area label:not(.title-2) {
+    font-size: 0.95rem;
+    opacity: 0.85;
+}
+
+.content-area {
+    padding: 1.33rem;
+}

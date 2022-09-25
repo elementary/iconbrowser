@@ -1,11 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-​
+
 Name=Icon Browser
 Comment=Browse and find system icons
 Categories=Development;Graphics;Utility;
-​Keywords=icons;iconography;
+Keywords=icons;iconography;
 
 Icon=io.elementary.iconbrowser
 Exec=io.elementary.iconbrowser

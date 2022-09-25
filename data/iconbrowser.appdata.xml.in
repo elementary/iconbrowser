@@ -14,12 +14,12 @@
 
   <screenshots>
     <screenshot type="default">
-      <caption>Browse or search system icons</caption>
-      <image width="1034" height="688">https://raw.githubusercontent.com/elementary/iconbrowser/main/data/screenshot.png</image>
+      <caption>Browse system icons</caption>
+      <image width="1034" height="710">https://raw.githubusercontent.com/elementary/iconbrowser/main/data/screenshot.png</image>
     </screenshot>
     <screenshot>
-      <caption>Preview icons in dark mode</caption>
-      <image width="1034" height="688">https://raw.githubusercontent.com/elementary/iconbrowser/main/data/screenshot2.png</image>
+      <caption>Search by description</caption>
+      <image width="1034" height="710">https://raw.githubusercontent.com/elementary/iconbrowser/main/data/screenshot2.png</image>
     </screenshot>
   </screenshots>
 
@@ -40,6 +40,21 @@
   <update_contact>contact_at_elementary.io</update_contact>
 
   <releases>
+    <release version="2.0.0" date="2022-09-24">
+      <description>
+      <p>A modern redesign!</p>
+        <ul>
+          <li>Drag the window from anywhere</li>
+          <li>Follow the system dark style preference</li>
+          <li>Updated for Gtk 4</li>
+        </ul>
+      </description>
+      <issues>
+        <issue url="https://github.com/elementary/iconbrowser/issues/7">Use elementary styles on all platforms</issue>
+        <issue url="https://github.com/elementary/iconbrowser/issues/8">Use Solarized Dark in dark mode</issue>
+      </issues>
+    </release>
+
     <release version="1.2.0" date="2020-07-29">
       <description>
         <p>Add audio-headphones and audio-headset</p>
