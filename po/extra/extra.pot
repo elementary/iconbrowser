@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-24 14:03-0700\n"
+"POT-Creation-Date: 2022-09-25 15:20-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,81 +48,81 @@ msgid "elementary, Inc."
 msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:45
-msgid "Modern redesign"
-msgstr ""
-
-#: data/iconbrowser.appdata.xml.in:46
-msgid "Drag the window from anywhere"
+msgid "A modern redesign!"
 msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:47
-msgid "Follow the system dark style preference"
+msgid "Fancy new icon"
 msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:48
-msgid "Code snippets in dark mode"
+msgid "Drag the window from anywhere"
 msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:49
+msgid "Follow the system dark style preference"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:50
 msgid "Updated for Gtk 4"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:55
+#: data/iconbrowser.appdata.xml.in:61
 msgid "Add audio-headphones and audio-headset"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:56
+#: data/iconbrowser.appdata.xml.in:62
 msgid "Add distribute actions"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:57
+#: data/iconbrowser.appdata.xml.in:63
 msgid "Disable sidebar when searching"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:58
+#: data/iconbrowser.appdata.xml.in:64
 msgid "Remove non-fdo app names"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:59
+#: data/iconbrowser.appdata.xml.in:65
 msgid "Add status emblems"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:60
+#: data/iconbrowser.appdata.xml.in:66
 msgid "Mimetypes → Media Types"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:61
+#: data/iconbrowser.appdata.xml.in:67
 msgid "Added French and Portuguese translations"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:66
+#: data/iconbrowser.appdata.xml.in:72
 msgid "Better support for symbolic-only icons and under the hood improvements!"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:71
+#: data/iconbrowser.appdata.xml.in:77
 msgid "I'm a new soul"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:72
+#: data/iconbrowser.appdata.xml.in:78
 msgid "I came to this strange world"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:73
+#: data/iconbrowser.appdata.xml.in:79
 msgid "Hoping I could learn a bit bout how to give and take"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:74
+#: data/iconbrowser.appdata.xml.in:80
 msgid "But since I came here"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:75
+#: data/iconbrowser.appdata.xml.in:81
 msgid "Felt the joy and the fear"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:76
+#: data/iconbrowser.appdata.xml.in:82
 msgid "Finding myself making every possible mistake"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:77
+#: data/iconbrowser.appdata.xml.in:83
 msgid "La-la-la-la-la-la-la-la…"
 msgstr ""
