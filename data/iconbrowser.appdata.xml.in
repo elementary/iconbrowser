@@ -47,7 +47,7 @@
           <li>Drag the window from anywhere</li>
           <li>Follow the system dark style preference</li>
           <li>Updated for Gtk 4</li>
-        <ul>
+        </ul>
       </description>
       <issues>
         <issue url="https://github.com/elementary/iconbrowser/issues/7">Use elementary styles on all platforms</issue>
