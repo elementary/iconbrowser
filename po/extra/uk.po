@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-24 14:03-0700\n"
+"POT-Creation-Date: 2022-09-25 15:20-0700\n"
 "PO-Revision-Date: 2022-09-25 22:20+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
@@ -54,81 +54,86 @@ msgid "elementary, Inc."
 msgstr "elementary, Inc."
 
 #: data/iconbrowser.appdata.xml.in:45
-msgid "Modern redesign"
+#, fuzzy
+#| msgid "Modern redesign"
+msgid "A modern redesign!"
 msgstr "Сучасний редизайн"
 
-#: data/iconbrowser.appdata.xml.in:46
+#: data/iconbrowser.appdata.xml.in:47
+msgid "Fancy new icon"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:48
 msgid "Drag the window from anywhere"
 msgstr "Перетягуйте вікно звідки завгодно"
 
-#: data/iconbrowser.appdata.xml.in:47
+#: data/iconbrowser.appdata.xml.in:49
 msgid "Follow the system dark style preference"
 msgstr "Дотримання системних налаштувань темного стилю"
 
-#: data/iconbrowser.appdata.xml.in:48
-msgid "Code snippets in dark mode"
-msgstr "Фрагменти коду в темному режимі"
-
-#: data/iconbrowser.appdata.xml.in:49
+#: data/iconbrowser.appdata.xml.in:50
 msgid "Updated for Gtk 4"
 msgstr "Оновлення для Gtk 4"
 
-#: data/iconbrowser.appdata.xml.in:55
+#: data/iconbrowser.appdata.xml.in:61
 msgid "Add audio-headphones and audio-headset"
 msgstr "Додано аудіонавушники та аудіогарнітуру"
 
-#: data/iconbrowser.appdata.xml.in:56
+#: data/iconbrowser.appdata.xml.in:62
 msgid "Add distribute actions"
 msgstr "Додано дії з розповсюдження"
 
-#: data/iconbrowser.appdata.xml.in:57
+#: data/iconbrowser.appdata.xml.in:63
 msgid "Disable sidebar when searching"
 msgstr "Вимкнення бічної панелі під час пошуку"
 
-#: data/iconbrowser.appdata.xml.in:58
+#: data/iconbrowser.appdata.xml.in:64
 msgid "Remove non-fdo app names"
 msgstr "Вилучено назви застосунків, що не належать до fdo"
 
-#: data/iconbrowser.appdata.xml.in:59
+#: data/iconbrowser.appdata.xml.in:65
 msgid "Add status emblems"
 msgstr "Додано емблеми станів"
 
-#: data/iconbrowser.appdata.xml.in:60
+#: data/iconbrowser.appdata.xml.in:66
 msgid "Mimetypes → Media Types"
 msgstr "Mimetypes → Типи медіа"
 
-#: data/iconbrowser.appdata.xml.in:61
+#: data/iconbrowser.appdata.xml.in:67
 msgid "Added French and Portuguese translations"
 msgstr "Додано переклади французькою та португальською мовами"
 
-#: data/iconbrowser.appdata.xml.in:66
+#: data/iconbrowser.appdata.xml.in:72
 msgid "Better support for symbolic-only icons and under the hood improvements!"
 msgstr "Краща підтримка лише символьних піктограм і поліпшення під капотом!"
 
-#: data/iconbrowser.appdata.xml.in:71
+#: data/iconbrowser.appdata.xml.in:77
 msgid "I'm a new soul"
 msgstr "Я — нова душа"
 
-#: data/iconbrowser.appdata.xml.in:72
+#: data/iconbrowser.appdata.xml.in:78
 msgid "I came to this strange world"
 msgstr "Я прийшов у цей дивний світ"
 
-#: data/iconbrowser.appdata.xml.in:73
+#: data/iconbrowser.appdata.xml.in:79
 msgid "Hoping I could learn a bit bout how to give and take"
 msgstr "Сподіваюся, що зможу трохи навчитися давати та брати"
 
-#: data/iconbrowser.appdata.xml.in:74
+#: data/iconbrowser.appdata.xml.in:80
 msgid "But since I came here"
 msgstr "Але з того часу, як я прийшов сюди"
 
-#: data/iconbrowser.appdata.xml.in:75
+#: data/iconbrowser.appdata.xml.in:81
 msgid "Felt the joy and the fear"
 msgstr "Відчув радість і страх"
 
-#: data/iconbrowser.appdata.xml.in:76
+#: data/iconbrowser.appdata.xml.in:82
 msgid "Finding myself making every possible mistake"
 msgstr "Здається, що я роблю всі можливі помилки"
 
-#: data/iconbrowser.appdata.xml.in:77
+#: data/iconbrowser.appdata.xml.in:83
 msgid "La-la-la-la-la-la-la-la…"
 msgstr "Ла-ла-ла-ла-ла-ла-ла-ла…"
+
+#~ msgid "Code snippets in dark mode"
+#~ msgstr "Фрагменти коду в темному режимі"
