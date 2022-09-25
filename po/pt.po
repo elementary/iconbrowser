@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.github.danrabbit.lookbook\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-25 15:20-0700\n"
+"POT-Creation-Date: 2022-09-25 15:50-0700\n"
 "PO-Revision-Date: 2020-08-27 19:13+0100\n"
 "Last-Translator: ndré Barata <andretiagob@protonmail.com>\n"
 "Language-Team: none\n"
@@ -1890,102 +1890,114 @@ msgstr ""
 "consegue ser carregada"
 
 #: src/CategoryView.vala:2117
+msgid "Location services are in use"
+msgstr ""
+
+#: src/CategoryView.vala:2122
+msgid "Location services are disabled and unavailable"
+msgstr ""
+
+#: src/CategoryView.vala:2127
+msgid "Location services are available, but not in use"
+msgstr ""
+
+#: src/CategoryView.vala:2132
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
 msgstr ""
 "Trancado ou seguro, tipicamente é necessário autenticação ou uma senha para "
 "destrancar"
 
-#: src/CategoryView.vala:2122
+#: src/CategoryView.vala:2137
 msgid "Mail attachment or file in an email"
 msgstr "Anexo de email ou ficheiro num email"
 
-#: src/CategoryView.vala:2127
+#: src/CategoryView.vala:2142
 msgid "New, unread, or unviewed email"
 msgstr "Email novo, não lido ou não visto"
 
-#: src/CategoryView.vala:2132
+#: src/CategoryView.vala:2147
 msgid "Read or already-viewed email"
 msgstr "Email lido ou já visto"
 
-#: src/CategoryView.vala:2137
+#: src/CategoryView.vala:2152
 msgid "Email that has been replied or responded to"
 msgstr "Email que foi respondido ou respondido a"
 
-#: src/CategoryView.vala:2142
+#: src/CategoryView.vala:2157
 msgid "Email that contains a signature"
 msgstr "Email que contém uma assinatura"
 
-#: src/CategoryView.vala:2147
+#: src/CategoryView.vala:2162
 msgid "Email that contains a signature that is verified by the security system"
 msgstr ""
 "Email que contém uma assinatura que está verificada por um sistema de "
 "segurança"
 
-#: src/CategoryView.vala:2152
+#: src/CategoryView.vala:2167
 msgid "Repeat a song, video, track, album, playlist, or other media"
 msgstr ""
 "Repetir uma música, vídeo, faixa, álbum, lista de reprodução ou outro tipo "
 "de multimédia"
 
-#: src/CategoryView.vala:2157
+#: src/CategoryView.vala:2172
 msgid "Shuffle or randomize an album, playlist, or other media"
 msgstr "Misturar um álbum, lista de reprodução ou outro tipo de multimédia"
 
-#: src/CategoryView.vala:2162
+#: src/CategoryView.vala:2177
 msgid "Error or problem initializing or creating a network connection"
 msgstr "Erro ou problema ao inicializar ou criar uma ligação de rede"
 
-#: src/CategoryView.vala:2167
+#: src/CategoryView.vala:2182
 msgid "No data being transmitted or received while connected to a network"
 msgstr ""
 "Não há dados a serem transmitidos ou a receber enquanto ligado a uma rede"
 
-#: src/CategoryView.vala:2172
+#: src/CategoryView.vala:2187
 msgid "Disconnected or offline from a network"
 msgstr "Desconectado ou desligado de uma rede"
 
-#: src/CategoryView.vala:2177
+#: src/CategoryView.vala:2192
 msgid "Data is being received over a network"
 msgstr "Os dados estão a ser recebidos por uma rede"
 
-#: src/CategoryView.vala:2182
+#: src/CategoryView.vala:2197
 msgid "Data is being transmitted over a network"
 msgstr "Os dados estão a ser transmitidos por uma rede"
 
-#: src/CategoryView.vala:2187
+#: src/CategoryView.vala:2202
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
 msgstr ""
 "Os dados estão a ser ambos transmitidos e recebidos simultaneamente por uma "
 "rede"
 
-#: src/CategoryView.vala:2192
+#: src/CategoryView.vala:2207
 msgid "Wired network, such as Ethernet, is disconnected"
 msgstr "Rede por fio, como por exemplo Ethernet, está desconectada"
 
-#: src/CategoryView.vala:2197
+#: src/CategoryView.vala:2212
 msgid "Item is not starred, favorited, or pinned by the user"
 msgstr ""
 "O item não tem estrela, não é favorito ou não foi afixado pelo utilizador"
 
-#: src/CategoryView.vala:2202
+#: src/CategoryView.vala:2217
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
 msgstr "As notificações estão desativadas ou tem o modo Não Incomodar ligado"
 
-#: src/CategoryView.vala:2207
+#: src/CategoryView.vala:2222
 msgid "Error or problem occurred when attempting to print"
 msgstr "Ocorreu um erro ou problema ao tentar imprimir"
 
-#: src/CategoryView.vala:2212
+#: src/CategoryView.vala:2227
 msgid "Job has been successfully spooled or sent to a printer"
 msgstr "O trabalho foi enviado para a impressora com sucesso"
 
-#: src/CategoryView.vala:2217
+#: src/CategoryView.vala:2232
 msgid "Process, job, or task has successfully completed or finished"
 msgstr "O processo, trabalho ou tarefa completou com sucesso ou terminou"
 
-#: src/CategoryView.vala:2222
+#: src/CategoryView.vala:2237
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
@@ -1993,11 +2005,11 @@ msgstr ""
 "É conhecido por ser seguro, como por exemplo usar uma encriptação forte e um "
 "certificado valido, verificado e confiável"
 
-#: src/CategoryView.vala:2227
+#: src/CategoryView.vala:2242
 msgid "Presumed to be secure, such as using encryption"
 msgstr "Presume-se ser seguro, como por exemplo usar encriptação"
 
-#: src/CategoryView.vala:2232
+#: src/CategoryView.vala:2247
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
@@ -2005,92 +2017,92 @@ msgstr ""
 "Presume-se que seja inseguro, como por exemplo um certificado inseguro, "
 "invalido, não verificado, não conhecido e sem ou com fraca encriptação"
 
-#: src/CategoryView.vala:2237
+#: src/CategoryView.vala:2252
 msgid "Updated apps, software, or drivers are available"
 msgstr ""
 "Estão disponíveis atualizações para aplicações, software ou controladores"
 
-#: src/CategoryView.vala:2242
+#: src/CategoryView.vala:2257
 msgid "Urgent or critical updates are available"
 msgstr "Estão disponíveis atualizações urgentes ou críticas"
 
-#: src/CategoryView.vala:2247
+#: src/CategoryView.vala:2262
 msgid "Item is starred, favorited, or pinned by the user"
 msgstr "O item tem estrela, é favorito ou foi afixado pelo utilizador"
 
-#: src/CategoryView.vala:2252
+#: src/CategoryView.vala:2267
 msgid "Task is due soon"
 msgstr "A tarefa vai terminar brevemente"
 
-#: src/CategoryView.vala:2257
+#: src/CategoryView.vala:2272
 msgid "Task is incomplete past the due date"
 msgstr "A tarefa está incompleta e passou a data limite"
 
-#: src/CategoryView.vala:2262
+#: src/CategoryView.vala:2277
 msgid "User, person, or contact is available or online"
 msgstr "Utilizador, pessoa ou contacto está disponível ou ligado"
 
-#: src/CategoryView.vala:2267
+#: src/CategoryView.vala:2282
 msgid "User, person, or contact is away or unavailable"
 msgstr "Utilizador, pessoa ou contacto está ausente ou indisponível"
 
-#: src/CategoryView.vala:2272
+#: src/CategoryView.vala:2287
 msgid "User, person, or contact is idle or unresponsive"
 msgstr "Utilizador, pessoa ou contacto está inativo ou não responde"
 
-#: src/CategoryView.vala:2277
+#: src/CategoryView.vala:2292
 msgid "User, person, or contact is offline or unreachable"
 msgstr "Utilizador, pessoa ou contacto está desligado ou inacessível"
 
-#: src/CategoryView.vala:2282
+#: src/CategoryView.vala:2297
 msgid "Private, anonymous, untracked, or incognito"
 msgstr "Privado. anónimo, não rastreado ou incógnito"
 
-#: src/CategoryView.vala:2287
+#: src/CategoryView.vala:2302
 msgid "Clear skies or sunny weather"
 msgstr "Tempo com céus limpos ou sol"
 
-#: src/CategoryView.vala:2292
+#: src/CategoryView.vala:2307
 msgid "Clear skies weather during the night"
 msgstr "Tempo durante a noite com céus limpos"
 
-#: src/CategoryView.vala:2297
+#: src/CategoryView.vala:2312
 msgid "Partly cloudy, partly clear, or partly sunny weather"
 msgstr "Tempo parcialmente nublado, parcialmente limpo ou com sol"
 
-#: src/CategoryView.vala:2302
+#: src/CategoryView.vala:2317
 msgid "Partly cloudy or partly clear weather during the night"
 msgstr "Tempo durante a noite parcialmente nublado ou parcialmente limpo"
 
-#: src/CategoryView.vala:2307
+#: src/CategoryView.vala:2322
 msgid "Foggy weather"
 msgstr "Tempo com nevoeiro"
 
-#: src/CategoryView.vala:2312
+#: src/CategoryView.vala:2327
 msgid "Overcast or cloudy weather"
 msgstr "Tempo nublado"
 
-#: src/CategoryView.vala:2317
+#: src/CategoryView.vala:2332
 msgid "Severe or critical weather warning or alert"
 msgstr "Aviso ou alerta de tempo severo ou crítico"
 
-#: src/CategoryView.vala:2322
+#: src/CategoryView.vala:2337
 msgid "Showers or rainy weather"
 msgstr "Tempo de chuva ou com chuviscos"
 
-#: src/CategoryView.vala:2327
+#: src/CategoryView.vala:2342
 msgid "Scattered showers or partly rainy weather"
 msgstr "Tempo com chuva esporádica ou parcialmente chuvoso"
 
-#: src/CategoryView.vala:2332
+#: src/CategoryView.vala:2347
 msgid "Snow showers or snowy weather"
 msgstr "Tempo com neve ou com caída de neve"
 
-#: src/CategoryView.vala:2337
+#: src/CategoryView.vala:2352
 msgid "Thunderstorms or stormy weather"
 msgstr "Tempo com trovoada ou chuvas torrenciais"
 
-#: src/CategoryView.vala:2347
+#: src/CategoryView.vala:2362
 #, fuzzy
 #| msgid "Search Icon Names or Descriptions"
 msgid "Search Names or Descriptions"
