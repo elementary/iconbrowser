@@ -2113,6 +2113,21 @@ public class CategoryView : Gtk.Box {
             category = STATUS
         },
         Icon () {
+            name = "location-active",
+            description = _("Location services are in use"),
+            category = STATUS
+        },
+        Icon () {
+            name = "location-disabled",
+            description = _("Location services are disabled and unavailable"),
+            category = STATUS
+        },
+        Icon () {
+            name = "location-inactive",
+            description = _("Location services are available, but not in use"),
+            category = STATUS
+        },
+        Icon () {
             name = "locked",
             description = _("Locked or secured, typically requiring authentication or a password to unlock"),
             category = STATUS
