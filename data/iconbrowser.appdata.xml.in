@@ -44,6 +44,7 @@
       <description>
       <p>A modern redesign!</p>
         <ul>
+          <li>Fancy new icon</li>
           <li>Drag the window from anywhere</li>
           <li>Follow the system dark style preference</li>
           <li>Updated for Gtk 4</li>
