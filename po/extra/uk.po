@@ -8,120 +8,127 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-24 14:03-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-09-25 22:20+0000\n"
+"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
+"extra/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
 msgid "Icon Browser"
-msgstr ""
+msgstr "Переглядач піктограм"
 
 #: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:10
 msgid "Browse and find system icons"
-msgstr ""
+msgstr "Перегляд і пошук системних піктограм"
 
 #: data/iconbrowser.desktop.in:9
 msgid "icons;iconography;"
-msgstr ""
+msgstr "піктограми;icons;iconography;"
 
 #: data/iconbrowser.appdata.xml.in:12
 msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
 msgstr ""
+"Переглядайте системні піктограми за категоріями або шукайте за назвою "
+"піктограми. Переглядайте піктограми різних розмірів і отримуйте швидкий "
+"фрагмент коду для використання у своїх програмах."
 
 #: data/iconbrowser.appdata.xml.in:17
 msgid "Browse system icons"
-msgstr ""
+msgstr "Переглядайте системні піктограми"
 
 #: data/iconbrowser.appdata.xml.in:21
 msgid "Search by description"
-msgstr ""
+msgstr "Шукайте за описом"
 
 #: data/iconbrowser.appdata.xml.in:38
 msgid "elementary, Inc."
-msgstr ""
+msgstr "elementary, Inc."
 
 #: data/iconbrowser.appdata.xml.in:45
 msgid "Modern redesign"
-msgstr ""
+msgstr "Сучасний редизайн"
 
 #: data/iconbrowser.appdata.xml.in:46
 msgid "Drag the window from anywhere"
-msgstr ""
+msgstr "Перетягуйте вікно звідки завгодно"
 
 #: data/iconbrowser.appdata.xml.in:47
 msgid "Follow the system dark style preference"
-msgstr ""
+msgstr "Дотримання системних налаштувань темного стилю"
 
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Code snippets in dark mode"
-msgstr ""
+msgstr "Фрагменти коду в темному режимі"
 
 #: data/iconbrowser.appdata.xml.in:49
 msgid "Updated for Gtk 4"
-msgstr ""
+msgstr "Оновлення для Gtk 4"
 
 #: data/iconbrowser.appdata.xml.in:55
 msgid "Add audio-headphones and audio-headset"
-msgstr ""
+msgstr "Додано аудіонавушники та аудіогарнітуру"
 
 #: data/iconbrowser.appdata.xml.in:56
 msgid "Add distribute actions"
-msgstr ""
+msgstr "Додано дії з розповсюдження"
 
 #: data/iconbrowser.appdata.xml.in:57
 msgid "Disable sidebar when searching"
-msgstr ""
+msgstr "Вимкнення бічної панелі під час пошуку"
 
 #: data/iconbrowser.appdata.xml.in:58
 msgid "Remove non-fdo app names"
-msgstr ""
+msgstr "Вилучено назви застосунків, що не належать до fdo"
 
 #: data/iconbrowser.appdata.xml.in:59
 msgid "Add status emblems"
-msgstr ""
+msgstr "Додано емблеми станів"
 
 #: data/iconbrowser.appdata.xml.in:60
 msgid "Mimetypes → Media Types"
-msgstr ""
+msgstr "Mimetypes → Типи медіа"
 
 #: data/iconbrowser.appdata.xml.in:61
 msgid "Added French and Portuguese translations"
-msgstr ""
+msgstr "Додано переклади французькою та португальською мовами"
 
 #: data/iconbrowser.appdata.xml.in:66
 msgid "Better support for symbolic-only icons and under the hood improvements!"
-msgstr ""
+msgstr "Краща підтримка лише символьних піктограм і поліпшення під капотом!"
 
 #: data/iconbrowser.appdata.xml.in:71
 msgid "I'm a new soul"
-msgstr ""
+msgstr "Я — нова душа"
 
 #: data/iconbrowser.appdata.xml.in:72
 msgid "I came to this strange world"
-msgstr ""
+msgstr "Я прийшов у цей дивний світ"
 
 #: data/iconbrowser.appdata.xml.in:73
 msgid "Hoping I could learn a bit bout how to give and take"
-msgstr ""
+msgstr "Сподіваюся, що зможу трохи навчитися давати та брати"
 
 #: data/iconbrowser.appdata.xml.in:74
 msgid "But since I came here"
-msgstr ""
+msgstr "Але з того часу, як я прийшов сюди"
 
 #: data/iconbrowser.appdata.xml.in:75
 msgid "Felt the joy and the fear"
-msgstr ""
+msgstr "Відчув радість і страх"
 
 #: data/iconbrowser.appdata.xml.in:76
 msgid "Finding myself making every possible mistake"
-msgstr ""
+msgstr "Здається, що я роблю всі можливі помилки"
 
 #: data/iconbrowser.appdata.xml.in:77
 msgid "La-la-la-la-la-la-la-la…"
-msgstr ""
+msgstr "Ла-ла-ла-ла-ла-ла-ла-ла…"
