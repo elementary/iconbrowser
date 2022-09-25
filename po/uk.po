@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:20-0700\n"
-"PO-Revision-Date: 2022-09-25 22:20+0000\n"
+"PO-Revision-Date: 2022-09-25 22:50+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
@@ -330,43 +330,43 @@ msgstr "Форматувати текст як закреслений"
 
 #: src/CategoryView.vala:397
 msgid "Go to the bottom, such as in a list"
-msgstr ""
+msgstr "Перейти в самий низ, наприклад, у списку"
 
 #: src/CategoryView.vala:402
 msgid "Go down, such as in a list"
-msgstr ""
+msgstr "Перейти нижче, наприклад, у списку"
 
 #: src/CategoryView.vala:407
 msgid "Go to the first item, such as in a list"
-msgstr ""
+msgstr "Перейти до першого елемента, наприклад, у списку"
 
 #: src/CategoryView.vala:412
 msgid "Go to the home location"
-msgstr ""
+msgstr "Перейти у домашнє розташування"
 
 #: src/CategoryView.vala:417
 msgid "Jump to a location"
-msgstr ""
+msgstr "Перейти до розташування"
 
 #: src/CategoryView.vala:422
 msgid "Go to the last item, such as in a list"
-msgstr ""
+msgstr "Перейти до останнього елемента, наприклад, у списку"
 
 #: src/CategoryView.vala:427
 msgid "Go forward to the next item, such as in a list or navigation"
-msgstr ""
+msgstr "Перейти до наступного елемента, наприклад, у списку або навігації"
 
 #: src/CategoryView.vala:432
 msgid "Go back to the previous item, such as in a list or navigation"
-msgstr ""
+msgstr "Повернутися до попереднього елемента, наприклад, у списку або навігації"
 
 #: src/CategoryView.vala:437
 msgid "Go to the top, such as in a list"
-msgstr ""
+msgstr "Перейти на початок, наприклад, у списку"
 
 #: src/CategoryView.vala:442
 msgid "Go up, such as in a list"
-msgstr ""
+msgstr "Перейти вгору, наприклад, у списку"
 
 #: src/CategoryView.vala:447
 msgid "Information about an app"
@@ -422,47 +422,47 @@ msgstr "Вилучити зі списку"
 
 #: src/CategoryView.vala:512
 msgid "Forward an email"
-msgstr ""
+msgstr "Переслати електронний лист"
 
 #: src/CategoryView.vala:517
 msgid "Mark an email as important"
-msgstr ""
+msgstr "Позначити лист важливим"
 
 #: src/CategoryView.vala:522
 msgid "Mark an email as junk or spam"
-msgstr ""
+msgstr "Позначити лист небажаним або спамом"
 
 #: src/CategoryView.vala:527
 msgid "Mark an email as not junk or spam"
-msgstr ""
+msgstr "Позначити лист небажаним або спамом"
 
 #: src/CategoryView.vala:532
 msgid "Mark an email as read"
-msgstr ""
+msgstr "Позначити лист прочитаним"
 
 #: src/CategoryView.vala:537
 msgid "Mark an email as unread"
-msgstr ""
+msgstr "Позначити лист непрочитаним"
 
 #: src/CategoryView.vala:542
 msgid "Compose a new email"
-msgstr ""
+msgstr "Створити новий електронний лист"
 
 #: src/CategoryView.vala:547
 msgid "Reply to all participants of an email"
-msgstr ""
+msgstr "Відповісти всім учасникам електронного листа"
 
 #: src/CategoryView.vala:552
 msgid "Reply to the sender of an email"
-msgstr ""
+msgstr "Відповісти відправнику електронного листа"
 
 #: src/CategoryView.vala:557
 msgid "Send an email"
-msgstr ""
+msgstr "Надіслати електронний лист"
 
 #: src/CategoryView.vala:562
 msgid "Eject removable media"
-msgstr ""
+msgstr "Витягнути знімний носій"
 
 #: src/CategoryView.vala:567
 msgid "Pause media playback"
@@ -549,10 +549,8 @@ msgid "Shut the device down"
 msgstr ""
 
 #: src/CategoryView.vala:667
-#, fuzzy
-#| msgid "Create a new database"
 msgid "Create a new tag"
-msgstr "Створити нову базу даних"
+msgstr "Створити новий теґ"
 
 #: src/CategoryView.vala:672
 msgid "Check spelling"
