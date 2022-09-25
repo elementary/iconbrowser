@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:20-0700\n"
-"PO-Revision-Date: 2022-09-25 22:20+0000\n"
+"PO-Revision-Date: 2022-09-26 16:12+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "extra/uk/>\n"
@@ -54,14 +54,12 @@ msgid "elementary, Inc."
 msgstr "elementary, Inc."
 
 #: data/iconbrowser.appdata.xml.in:45
-#, fuzzy
-#| msgid "Modern redesign"
 msgid "A modern redesign!"
-msgstr "Сучасний редизайн"
+msgstr "Сучасний редизайн!"
 
 #: data/iconbrowser.appdata.xml.in:47
 msgid "Fancy new icon"
-msgstr ""
+msgstr "Вишукана нова піктограма"
 
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Drag the window from anywhere"
