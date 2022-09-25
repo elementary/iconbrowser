@@ -663,6 +663,11 @@ public class CategoryView : Gtk.Box {
             category = ACTIONS
         },
         Icon () {
+            name = "tag-new",
+            description = _("Create a new tag"),
+            category = ACTIONS
+        },
+        Icon () {
             name = "tools-check-spelling",
             description = _("Check spelling"),
             category = ACTIONS
@@ -1840,11 +1845,6 @@ public class CategoryView : Gtk.Box {
         Icon () {
             name = "folder-saved-search",
             description = _("Saved search folder"),
-            category = PLACES
-        },
-        Icon () {
-            name = "folder-tag",
-            description = _("Folder tag"),
             category = PLACES
         },
         Icon () {
