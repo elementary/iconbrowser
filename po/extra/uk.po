@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-26 09:12-0700\n"
-"PO-Revision-Date: 2022-09-26 16:12+0000\n"
+"PO-Revision-Date: 2022-09-28 11:49+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "extra/uk/>\n"
@@ -107,7 +107,7 @@ msgstr "Краща підтримка лише символьних піктог
 
 #: data/iconbrowser.appdata.xml.in:79
 msgid "Initial release! 🎉️"
-msgstr ""
+msgstr "Початковий випуск! 🎉️"
 
 #~ msgid "I'm a new soul"
 #~ msgstr "Я — нова душа"
