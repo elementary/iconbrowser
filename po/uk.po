@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
-"PO-Revision-Date: 2022-09-26 15:17+0000\n"
-"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"PO-Revision-Date: 2022-09-26 15:59+0000\n"
+"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -1382,7 +1382,7 @@ msgstr "Файли мови програмування C"
 
 #: src/CategoryView.vala:1652
 msgid "Generic text file types"
-msgstr "Типові текстові файли"
+msgstr "Текстові файли"
 
 #: src/CategoryView.vala:1657
 msgid "Generic text templates"
@@ -1971,11 +1971,11 @@ msgstr "Символьні знаки"
 
 #: src/IconView.vala:75
 msgid "Code Sample"
-msgstr ""
+msgstr "Зразок коду"
 
 #: src/IconView.vala:157
 msgid "Unavailable"
-msgstr ""
+msgstr "Недоступно"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
