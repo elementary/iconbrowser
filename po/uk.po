@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
-"PO-Revision-Date: 2022-09-26 14:52+0000\n"
+"PO-Revision-Date: 2022-09-26 14:54+0000\n"
 "Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
@@ -1891,7 +1891,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2272
 msgid "Task is incomplete past the due date"
-msgstr ""
+msgstr "Після встановленого терміну завдання не виконано"
 
 #: src/CategoryView.vala:2277
 msgid "User, person, or contact is available or online"
