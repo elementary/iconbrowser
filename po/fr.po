@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: com.github.danrabbit.lookbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
-"PO-Revision-Date: 2019-04-01 11:33+0200\n"
-"Last-Translator: Nathan Bonnemains (@NathanBnm)\n"
-"Language-Team: Français\n"
+"PO-Revision-Date: 2022-09-26 16:12+0000\n"
+"Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
+"Language-Team: French <https://l10n.elementary.io/projects/icon-browser/"
+"icon-browser/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -42,10 +44,8 @@ msgid "Emotes"
 msgstr "Émojis"
 
 #: src/CategoryView.vala:38
-#, fuzzy
-#| msgid "Mimetypes"
 msgid "Media Types"
-msgstr "Types MIME"
+msgstr "Types de média"
 
 #: src/CategoryView.vala:40
 msgid "Places"
@@ -101,7 +101,7 @@ msgstr "Créer un nouveau marque-page"
 
 #: src/CategoryView.vala:112
 msgid "Download a file from the Internet"
-msgstr ""
+msgstr "Télécharger un fichier sur Internet"
 
 #: src/CategoryView.vala:117
 msgid "Initiate or accept a call"
@@ -115,16 +115,16 @@ msgstr "Interrompre l'appel en cours"
 msgid "Allow changes by unlocking such as with a password"
 msgstr ""
 "Autoriser les modifications en déverrouillant, par exemple à l'aide d'un mot "
-"de passe."
+"de passe"
 
 #: src/CategoryView.vala:132
 msgid "Prevent changes by locking such as with a password"
 msgstr ""
-"Empêcher les changements en verrouillant, par exemple avec un mot de passe."
+"Prévenir les modifications en verrouillant, par exemple avec un mot de passe"
 
 #: src/CategoryView.vala:137
 msgid "Pick a color from elsewhere on screen"
-msgstr ""
+msgstr "Récupérer une couleur à l'écran"
 
 #: src/CategoryView.vala:142
 msgid "Create a new contact in an address book application"
@@ -520,10 +520,8 @@ msgstr ""
 "Tourner un objet vers la droite ou dans le sens des aiguilles d'une montre"
 
 #: src/CategoryView.vala:627
-#, fuzzy
-#| msgid "Create a new folder"
 msgid "Create a new database"
-msgstr "Créer un nouveau dossier"
+msgstr "Créer une nouvelle base de données"
 
 #: src/CategoryView.vala:632
 msgid ""
@@ -558,10 +556,8 @@ msgid "Shut the device down"
 msgstr "Éteindre l'appareil"
 
 #: src/CategoryView.vala:667
-#, fuzzy
-#| msgid "Create a new folder"
 msgid "Create a new tag"
-msgstr "Créer un nouveau dossier"
+msgstr "Créer une nouvelle étiquette"
 
 #: src/CategoryView.vala:672
 msgid "Check spelling"
@@ -617,7 +613,7 @@ msgstr "Afficher la vue actuelle comme une collection de pages"
 
 #: src/CategoryView.vala:732
 msgid "Pin the current view so that it does not automatically hide"
-msgstr "Afficher la vue courante pour qu'elle ne se cache pas automatiquement."
+msgstr "Afficher la vue courante pour qu'elle ne se masque pas automatiquement"
 
 #: src/CategoryView.vala:737
 msgid "Sort items in an ascending order, such as in a list"
@@ -781,10 +777,8 @@ msgid "Display settings, such as resolution or scaling"
 msgstr "Paramètres d'affichage, tels que la résolution ou la mise à l'échelle"
 
 #: src/CategoryView.vala:932
-#, fuzzy
-#| msgid "Bluetooth settings"
 msgid "Font settings"
-msgstr "Paramètres Bluetooth"
+msgstr "Paramètres des polices"
 
 #: src/CategoryView.vala:937
 msgid "Keyboard settings, such as layout or shortcuts"
@@ -948,7 +942,7 @@ msgstr ""
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
 msgstr ""
 "Entrée pour pavé tactile, tel qu'un pavé tactile multipoints ou un pavé "
-"tactile tactile"
+"tactile classique"
 
 #: src/CategoryView.vala:1127
 msgid "Flash media such as a memory stick or SD card"
@@ -972,7 +966,7 @@ msgid ""
 "connection, modem, or SIM card"
 msgstr ""
 "Réseau ou dispositif sans fil de type cellulaire, tel qu'une connexion LTE "
-"2G, 3G ou 4G, modem ou carte SIM "
+"2G, 3G ou 4G, modem ou carte SIM"
 
 #: src/CategoryView.vala:1152
 msgid "Networking firewall"
@@ -1026,7 +1020,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1207
 msgid "Disabled feature or service emblem"
-msgstr ""
+msgstr "Emblème de fonctionnalité ou service désactivé"
 
 #: src/CategoryView.vala:1212
 msgid "Documents emblem"
@@ -1038,11 +1032,11 @@ msgstr "Symbole Téléchargements"
 
 #: src/CategoryView.vala:1222
 msgid "Enabled feature or service emblem"
-msgstr ""
+msgstr "Emblème de fonctionnalité ou service activé"
 
 #: src/CategoryView.vala:1227
 msgid "Emblem for the error status of a feature or service"
-msgstr ""
+msgstr "Emblème pour l'état d'erreur d'une fonctionnalité ou service"
 
 #: src/CategoryView.vala:1232
 msgid "Item the user has marked as a favorite"
@@ -1059,6 +1053,7 @@ msgstr "Élément relatif à l'e-mail"
 #: src/CategoryView.vala:1247
 msgid "Emblem for the partially enabled status of a feature or service"
 msgstr ""
+"Emblème pour l'état partiellement activé d'une fonctionnalité ou service"
 
 #: src/CategoryView.vala:1252
 msgid "Photos emblem"
@@ -1096,7 +1091,7 @@ msgstr "L'élément est illisible ou inaccessible"
 
 #: src/CategoryView.vala:1287
 msgid "Emblem for the warning status of a feature or service"
-msgstr ""
+msgstr "Emblème pour l'état d'avertissement d'une fonctionnalité ou service"
 
 #: src/CategoryView.vala:1292
 msgid "0:-) emoticon"
@@ -1223,10 +1218,8 @@ msgid "Debian package file types"
 msgstr "Types de fichiers de paquets Debian"
 
 #: src/CategoryView.vala:1447
-#, fuzzy
-#| msgid "Makefile file types"
 msgid "Flatpak reference file types"
-msgstr "Types de fichiers Makefile"
+msgstr "Types de fichier de référence Flatpak"
 
 #: src/CategoryView.vala:1452
 msgid "Microsoft Access file types"
@@ -1793,15 +1786,15 @@ msgstr ""
 
 #: src/CategoryView.vala:2117
 msgid "Location services are in use"
-msgstr ""
+msgstr "Les services de localisation sont en cours d'utilisation"
 
 #: src/CategoryView.vala:2122
 msgid "Location services are disabled and unavailable"
-msgstr ""
+msgstr "Les services de localisation sont désactivés et indisponibles"
 
 #: src/CategoryView.vala:2127
 msgid "Location services are available, but not in use"
-msgstr ""
+msgstr "Les services de localisation sont disponibles, mais non utilisés"
 
 #: src/CategoryView.vala:2132
 msgid ""
@@ -2009,10 +2002,8 @@ msgid "Thunderstorms or stormy weather"
 msgstr "Orages ou tempêtes ou temps orageux"
 
 #: src/CategoryView.vala:2362
-#, fuzzy
-#| msgid "Search Icon Names or Descriptions"
 msgid "Search Names or Descriptions"
-msgstr "Rechercher des noms d'icônes ou descriptions"
+msgstr "Rechercher par nom ou description"
 
 #: src/IconView.vala:55
 msgid "Color Icons"
@@ -2031,10 +2022,8 @@ msgid "Unavailable"
 msgstr "Indisponible"
 
 #: src/MainWindow.vala:16
-#, fuzzy
-#| msgid "Web browser"
 msgid "Icon Browser"
-msgstr "Navigateur web"
+msgstr "Explorateur d'icônes"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
