@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-25 15:20-0700\n"
+"POT-Creation-Date: 2022-09-26 09:12-0700\n"
 "PO-Revision-Date: 2022-09-26 16:12+0000\n"
 "Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
 "Language-Team: French <https://l10n.elementary.io/projects/icon-browser/"
@@ -72,67 +72,64 @@ msgstr "Respect du thème du système"
 msgid "Updated for Gtk 4"
 msgstr "Mise à jour pour Gtk 4"
 
-#: data/iconbrowser.appdata.xml.in:61
+#: data/iconbrowser.appdata.xml.in:62
 msgid "Add audio-headphones and audio-headset"
 msgstr "Ajout des icônes audio-headphones et audio-headset"
 
-#: data/iconbrowser.appdata.xml.in:62
+#: data/iconbrowser.appdata.xml.in:63
 msgid "Add distribute actions"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:63
+#: data/iconbrowser.appdata.xml.in:64
 msgid "Disable sidebar when searching"
 msgstr "Désactivation de la barre latérale pendant la recherche"
 
-#: data/iconbrowser.appdata.xml.in:64
+#: data/iconbrowser.appdata.xml.in:65
 msgid "Remove non-fdo app names"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:65
+#: data/iconbrowser.appdata.xml.in:66
 msgid "Add status emblems"
 msgstr "Ajout des emblèmes d'état"
 
-#: data/iconbrowser.appdata.xml.in:66
+#: data/iconbrowser.appdata.xml.in:67
 msgid "Mimetypes → Media Types"
 msgstr "Types MIME → Types de média"
 
-#: data/iconbrowser.appdata.xml.in:67
+#: data/iconbrowser.appdata.xml.in:68
 msgid "Added French and Portuguese translations"
 msgstr "Ajout des traductions française et portugaise"
 
-#: data/iconbrowser.appdata.xml.in:72
+#: data/iconbrowser.appdata.xml.in:74
 msgid "Better support for symbolic-only icons and under the hood improvements!"
 msgstr ""
 "Meilleur prise en charge pour les icônes symbolic-only et corrections "
 "mineures !"
 
-#: data/iconbrowser.appdata.xml.in:77
-msgid "I'm a new soul"
-msgstr "Je suis une nouvelle âme"
-
-#: data/iconbrowser.appdata.xml.in:78
-msgid "I came to this strange world"
-msgstr "Je suis arrivé dans ce monde étrange"
-
 #: data/iconbrowser.appdata.xml.in:79
-msgid "Hoping I could learn a bit bout how to give and take"
-msgstr "Espérant pouvoir apprendre un peu à donner et à reprendre"
+msgid "Initial release! 🎉️"
+msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:80
-msgid "But since I came here"
-msgstr "Mais depuis que je suis là"
+#~ msgid "I'm a new soul"
+#~ msgstr "Je suis une nouvelle âme"
 
-#: data/iconbrowser.appdata.xml.in:81
-msgid "Felt the joy and the fear"
-msgstr "J'ai ressenti la joie et la peur"
+#~ msgid "I came to this strange world"
+#~ msgstr "Je suis arrivé dans ce monde étrange"
 
-#: data/iconbrowser.appdata.xml.in:82
-msgid "Finding myself making every possible mistake"
-msgstr "Me retrouvant à faire toutes les erreurs possibles"
+#~ msgid "Hoping I could learn a bit bout how to give and take"
+#~ msgstr "Espérant pouvoir apprendre un peu à donner et à reprendre"
 
-#: data/iconbrowser.appdata.xml.in:83
-msgid "La-la-la-la-la-la-la-la…"
-msgstr "La-la-la-la-la-la-la-la…"
+#~ msgid "But since I came here"
+#~ msgstr "Mais depuis que je suis là"
+
+#~ msgid "Felt the joy and the fear"
+#~ msgstr "J'ai ressenti la joie et la peur"
+
+#~ msgid "Finding myself making every possible mistake"
+#~ msgstr "Me retrouvant à faire toutes les erreurs possibles"
+
+#~ msgid "La-la-la-la-la-la-la-la…"
+#~ msgstr "La-la-la-la-la-la-la-la…"
 
 #~ msgid "LookBook"
 #~ msgstr "LookBook"
