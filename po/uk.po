@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
-"PO-Revision-Date: 2022-09-26 15:59+0000\n"
+"PO-Revision-Date: 2022-09-26 16:12+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
@@ -1386,7 +1386,7 @@ msgstr "Звичайні текстові файли"
 
 #: src/CategoryView.vala:1657
 msgid "Generic text templates"
-msgstr "Текстові шаблони"
+msgstr "Звичайні текстові шаблони"
 
 #: src/CategoryView.vala:1662
 msgid "Gettext translation file types"
@@ -1824,79 +1824,90 @@ msgstr "Електронна пошта, яка містить підпис"
 #: src/CategoryView.vala:2162
 msgid "Email that contains a signature that is verified by the security system"
 msgstr ""
+"Електронна пошта, що містить підпис, який перевіряється системою безпеки"
 
 #: src/CategoryView.vala:2167
 msgid "Repeat a song, video, track, album, playlist, or other media"
 msgstr ""
+"Повторення пісні, відео, доріжки, альбому, добірки або іншого медіафайлу"
 
 #: src/CategoryView.vala:2172
 msgid "Shuffle or randomize an album, playlist, or other media"
 msgstr ""
+"Перемішати або впорядкувати альбом, добірку або інші медіафайли у "
+"випадковому порядку"
 
 #: src/CategoryView.vala:2177
 msgid "Error or problem initializing or creating a network connection"
-msgstr ""
+msgstr "Помилка або проблема ініціалізації або створення мережного з'єднання"
 
 #: src/CategoryView.vala:2182
 msgid "No data being transmitted or received while connected to a network"
-msgstr ""
+msgstr "Під час під'єднання до мережі дані не передаються і не приймаються"
 
 #: src/CategoryView.vala:2187
 msgid "Disconnected or offline from a network"
-msgstr ""
+msgstr "Мережа від'єднана або офлайн"
 
 #: src/CategoryView.vala:2192
 msgid "Data is being received over a network"
-msgstr ""
+msgstr "Дані надходять через мережу"
 
 #: src/CategoryView.vala:2197
 msgid "Data is being transmitted over a network"
-msgstr ""
+msgstr "Дані передаються через мережу"
 
 #: src/CategoryView.vala:2202
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
-msgstr ""
+msgstr "Дані одночасно передаються та надходять через мережу"
 
 #: src/CategoryView.vala:2207
 msgid "Wired network, such as Ethernet, is disconnected"
-msgstr ""
+msgstr "Дротова мережа, наприклад, Ethernet, відключена"
 
 #: src/CategoryView.vala:2212
 msgid "Item is not starred, favorited, or pinned by the user"
 msgstr ""
+"Елемент не позначений зірочкою, не вподобаний або не закріплений користувачем"
 
 #: src/CategoryView.vala:2217
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
-msgstr ""
+msgstr "Сповіщення вимкнені або режим «Не турбувати»"
 
 #: src/CategoryView.vala:2222
 msgid "Error or problem occurred when attempting to print"
-msgstr ""
+msgstr "Виникла помилка або проблема під час спроби друку"
 
 #: src/CategoryView.vala:2227
 msgid "Job has been successfully spooled or sent to a printer"
-msgstr ""
+msgstr "Завдання успішно розміщено або надіслано на принтер"
 
 #: src/CategoryView.vala:2232
 msgid "Process, job, or task has successfully completed or finished"
-msgstr ""
+msgstr "Процес, робота або завдання успішно виконано або завершено"
 
 #: src/CategoryView.vala:2237
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
 msgstr ""
+"Відомо, що вони захищені, наприклад, за допомогою надійного шифрування та "
+"дійсного, перевіреного або довіреного сертифіката"
 
 #: src/CategoryView.vala:2242
 msgid "Presumed to be secure, such as using encryption"
 msgstr ""
+"Передбачається, що вони є захищеними, наприклад, за допомогою шифрування"
 
 #: src/CategoryView.vala:2247
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
 msgstr ""
+"Передбачається, що вони не безпечні, наприклад, незахищені, незашифровані, "
+"зі слабким шифруванням або з недійсним, неперевіреним або ненадійним "
+"сертифікатом"
 
 #: src/CategoryView.vala:2252
 msgid "Updated apps, software, or drivers are available"
