@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
-"PO-Revision-Date: 2022-09-26 14:49+0000\n"
-"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"PO-Revision-Date: 2022-09-26 14:50+0000\n"
+"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -1634,7 +1634,7 @@ msgstr "Пропущено подію в календарі"
 
 #: src/CategoryView.vala:1967
 msgid "An appointment or calendar event will be happening soon"
-msgstr ""
+msgstr "Незабаром відбудеться подія в календарі"
 
 #: src/CategoryView.vala:1972
 msgid "High or loud audio volume"
