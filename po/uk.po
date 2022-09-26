@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
 "PO-Revision-Date: 2022-09-26 15:13+0000\n"
-"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -1951,7 +1951,7 @@ msgstr "Місцями злива або дощ"
 
 #: src/CategoryView.vala:2347
 msgid "Snow showers or snowy weather"
-msgstr ""
+msgstr "Снігопад або сніжна погода"
 
 #: src/CategoryView.vala:2352
 msgid "Thunderstorms or stormy weather"
