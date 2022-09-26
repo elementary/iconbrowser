@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
 "PO-Revision-Date: 2022-09-26 14:54+0000\n"
-"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
+"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -1891,7 +1891,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2272
 msgid "Task is incomplete past the due date"
-msgstr "Після встановленого терміну завдання не виконано"
+msgstr "Завдання не виконано за вказаний час"
 
 #: src/CategoryView.vala:2277
 msgid "User, person, or contact is available or online"
