@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
-"PO-Revision-Date: 2022-09-26 14:55+0000\n"
-"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"PO-Revision-Date: 2022-09-26 14:57+0000\n"
+"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -1919,23 +1919,23 @@ msgstr "Чиста або сонячна погода"
 
 #: src/CategoryView.vala:2307
 msgid "Clear skies weather during the night"
-msgstr ""
+msgstr "Ясна погода протягом ночі"
 
 #: src/CategoryView.vala:2312
 msgid "Partly cloudy, partly clear, or partly sunny weather"
-msgstr ""
+msgstr "Мінливо хмарна, частково ясна або частково сонячна погода"
 
 #: src/CategoryView.vala:2317
 msgid "Partly cloudy or partly clear weather during the night"
-msgstr ""
+msgstr "Мінливо хмарна або частково ясна погода протягом ночі"
 
 #: src/CategoryView.vala:2322
 msgid "Foggy weather"
-msgstr ""
+msgstr "Туман"
 
 #: src/CategoryView.vala:2327
 msgid "Overcast or cloudy weather"
-msgstr ""
+msgstr "Похмура або хмарна погода"
 
 #: src/CategoryView.vala:2332
 msgid "Severe or critical weather warning or alert"
@@ -1943,7 +1943,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2337
 msgid "Showers or rainy weather"
-msgstr ""
+msgstr "Злива або дощова погода"
 
 #: src/CategoryView.vala:2342
 msgid "Scattered showers or partly rainy weather"
