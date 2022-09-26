@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
-"PO-Revision-Date: 2022-09-26 16:12+0000\n"
+"PO-Revision-Date: 2022-09-28 11:49+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
@@ -1897,8 +1897,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2242
 msgid "Presumed to be secure, such as using encryption"
-msgstr ""
-"Передбачається, що вони є захищеними, наприклад, за допомогою шифрування"
+msgstr "Передбачається, що вони захищені, наприклад, за допомогою шифрування"
 
 #: src/CategoryView.vala:2247
 msgid ""
@@ -1911,19 +1910,19 @@ msgstr ""
 
 #: src/CategoryView.vala:2252
 msgid "Updated apps, software, or drivers are available"
-msgstr ""
+msgstr "Доступні оновлення застосунків, програмного забезпечення або драйверів"
 
 #: src/CategoryView.vala:2257
 msgid "Urgent or critical updates are available"
-msgstr ""
+msgstr "Доступні термінові або критичні оновлення"
 
 #: src/CategoryView.vala:2262
 msgid "Item is starred, favorited, or pinned by the user"
-msgstr ""
+msgstr "Елемент позначений зірочкою, уподобаний або закріплений користувачем"
 
 #: src/CategoryView.vala:2267
 msgid "Task is due soon"
-msgstr ""
+msgstr "Завдання має бути виконане найближчим часом"
 
 #: src/CategoryView.vala:2272
 msgid "Task is incomplete past the due date"
@@ -1975,7 +1974,7 @@ msgstr "Похмура або хмарна погода"
 
 #: src/CategoryView.vala:2332
 msgid "Severe or critical weather warning or alert"
-msgstr ""
+msgstr "Попередження або застереження про сильні або критичні погодні умови"
 
 #: src/CategoryView.vala:2337
 msgid "Showers or rainy weather"
@@ -1999,7 +1998,7 @@ msgstr "Пошук імен або описів"
 
 #: src/IconView.vala:55
 msgid "Color Icons"
-msgstr ""
+msgstr "Кольорові піктограми"
 
 #: src/IconView.vala:62
 msgid "Symbolic Icons"
