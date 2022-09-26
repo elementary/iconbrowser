@@ -58,13 +58,15 @@
 
     <release version="1.2.0" date="2020-07-29">
       <description>
-        <p>Add audio-headphones and audio-headset</p>
-        <p>Add distribute actions</p>
-        <p>Disable sidebar when searching</p>
-        <p>Remove non-fdo app names</p>
-        <p>Add status emblems</p>
-        <p>Mimetypes → Media Types</p>
-        <p>Added French and Portuguese translations</p>
+        <ul>
+          <li>Add audio-headphones and audio-headset</li>
+          <li>Add distribute actions</li>
+          <li>Disable sidebar when searching</li>
+          <li>Remove non-fdo app names</li>
+          <li>Add status emblems</li>
+          <li>Mimetypes → Media Types</li>
+          <li>Added French and Portuguese translations</li>
+        </ul>
       </description>
     </release>
     <release version="1.1.0" date="2018-10-25">
@@ -74,13 +76,7 @@
     </release>
     <release version="1.0.0" date="2018-7-3">
       <description>
-        <p>I'm a new soul</p>
-        <p>I came to this strange world</p>
-        <p>Hoping I could learn a bit bout how to give and take</p>
-        <p>But since I came here</p>
-        <p>Felt the joy and the fear</p>
-        <p>Finding myself making every possible mistake</p>
-        <p>La-la-la-la-la-la-la-la…</p>
+        <p>Initial release! 🎉️</p>
       </description>
     </release>
   </releases>
