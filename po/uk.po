@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
 "PO-Revision-Date: 2022-09-26 14:54+0000\n"
-"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -1895,19 +1895,19 @@ msgstr "Після встановленого терміну завдання н
 
 #: src/CategoryView.vala:2277
 msgid "User, person, or contact is available or online"
-msgstr ""
+msgstr "Користувач, особа або контакт доступні або онлайн"
 
 #: src/CategoryView.vala:2282
 msgid "User, person, or contact is away or unavailable"
-msgstr ""
+msgstr "Користувач, особа або контакт відсутні або недоступні"
 
 #: src/CategoryView.vala:2287
 msgid "User, person, or contact is idle or unresponsive"
-msgstr ""
+msgstr "Користувач, особа або контакт неактивний або не відповідає"
 
 #: src/CategoryView.vala:2292
 msgid "User, person, or contact is offline or unreachable"
-msgstr ""
+msgstr "Користувач, особа або контакт в офлайні або недоступні"
 
 #: src/CategoryView.vala:2297
 msgid "Private, anonymous, untracked, or incognito"
