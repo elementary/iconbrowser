@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
 "PO-Revision-Date: 2022-09-26 14:47+0000\n"
-"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -1582,15 +1582,15 @@ msgstr "Надісланий лист"
 
 #: src/CategoryView.vala:1902
 msgid "Network server"
-msgstr ""
+msgstr "Мережевий сервер"
 
 #: src/CategoryView.vala:1907
 msgid "Network workgroup"
-msgstr ""
+msgstr "Мережева робоча група"
 
 #: src/CategoryView.vala:1912
 msgid "Playlist"
-msgstr ""
+msgstr "Список відтворення"
 
 #: src/CategoryView.vala:1917
 msgid "Automatic playlist"
