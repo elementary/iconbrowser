@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
-"PO-Revision-Date: 2022-09-26 14:51+0000\n"
+"PO-Revision-Date: 2022-09-26 14:52+0000\n"
 "Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
@@ -1650,7 +1650,7 @@ msgstr "Помірна або нормальна гучність звуку"
 
 #: src/CategoryView.vala:1987
 msgid "Audio volume is muted or off"
-msgstr ""
+msgstr "Гучність звуку приглушено або вимкнено"
 
 #: src/CategoryView.vala:1992
 msgid ""
