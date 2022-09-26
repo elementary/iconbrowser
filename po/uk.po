@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
 "PO-Revision-Date: 2022-09-26 14:40+0000\n"
-"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
+"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -1402,7 +1402,7 @@ msgstr "Файли мови програмування Go"
 
 #: src/CategoryView.vala:1677
 msgid "Install file types"
-msgstr "Типи інсталяційних файлів"
+msgstr "Інсталяційні файли"
 
 #: src/CategoryView.vala:1682
 msgid "Makefile file types"
