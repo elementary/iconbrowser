@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
 "PO-Revision-Date: 2022-09-26 15:59+0000\n"
-"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
+"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -551,7 +551,7 @@ msgstr "Вимкнути пристрій"
 
 #: src/CategoryView.vala:667
 msgid "Create a new tag"
-msgstr "Створити новий теґ"
+msgstr "Створити нову мітку"
 
 #: src/CategoryView.vala:672
 msgid "Check spelling"
@@ -1466,11 +1466,11 @@ msgstr "Типові файли шаблонів документів і лис�
 
 #: src/CategoryView.vala:1757
 msgid "Generic drawing file types"
-msgstr ""
+msgstr "Типові файли для малювання"
 
 #: src/CategoryView.vala:1762
 msgid "Generic drawing template file types"
-msgstr ""
+msgstr "Типові шаблони файлів для малювання"
 
 #: src/CategoryView.vala:1767
 msgid "Generic presentation file types"
@@ -1494,7 +1494,7 @@ msgstr "Відсутня закладка"
 
 #: src/CategoryView.vala:1792
 msgid "Distributor logo"
-msgstr ""
+msgstr "Логотип дистрибутиву"
 
 #: src/CategoryView.vala:1797
 msgid "Folder"
@@ -1606,7 +1606,7 @@ msgstr "Схожа добірка"
 
 #: src/CategoryView.vala:1932
 msgid "Tag"
-msgstr "Теґ"
+msgstr "Мітка"
 
 #: src/CategoryView.vala:1937
 msgid "Bookmarks"
@@ -1662,139 +1662,164 @@ msgid ""
 "The default avatar to represent a user, such as someone who has not set a "
 "profile picture"
 msgstr ""
+"Типовий аватар для представлення користувача, наприклад, того, хто не "
+"налаштував фотографію профілю"
 
 #: src/CategoryView.vala:2002
 msgid "A charger or AC adapter for a battery-powered device"
 msgstr ""
+"Зарядний пристрій або адаптер змінного струму для пристрою, що працює від "
+"акумуляторів"
 
 #: src/CategoryView.vala:2007
 msgid "Low battery level"
-msgstr ""
+msgstr "Низький рівень заряду акумулятора"
 
 #: src/CategoryView.vala:2012
 msgid "Low battery level, plugged into a charger or AC adapter"
 msgstr ""
+"Низький рівень заряду акумулятора, підключено до зарядного пристрою або "
+"адаптера змінного струму"
 
 #: src/CategoryView.vala:2017
 msgid "Critically low battery level"
-msgstr ""
+msgstr "Критично низький рівень заряду акумулятора"
 
 #: src/CategoryView.vala:2022
 msgid "Critically low battery, plugged into a charger or AC adapter"
 msgstr ""
+"Критично низький рівень заряду акумулятора, підключено до зарядного пристрою "
+"або адаптера змінного струму"
 
 #: src/CategoryView.vala:2027
 msgid "Mostly charged battery level"
-msgstr ""
+msgstr "Майже заряджений акумулятор"
 
 #: src/CategoryView.vala:2032
 msgid "Completely charged battery level"
-msgstr ""
+msgstr "Повністю заряджений акумулятор"
 
 #: src/CategoryView.vala:2037
 msgid "Mostly charged battery level, plugged into a charger or AC adapter"
 msgstr ""
+"Майже заряджений акумулятор, підключено до зарядного пристрою або адаптера "
+"змінного струму"
 
 #: src/CategoryView.vala:2042
 msgid "Medium-high charged battery level"
-msgstr ""
+msgstr "Середньо-високий рівень заряду акумулятора"
 
 #: src/CategoryView.vala:2047
 msgid "Medium-high charged battery level, plugged into a charger or AC adapter"
 msgstr ""
+"Середньо-високий рівень заряду акумулятора, підключено до зарядного пристрою "
+"або адаптера змінного струму"
 
 #: src/CategoryView.vala:2052
 msgid "Medium-low charged battery level"
-msgstr ""
+msgstr "Середньо-низький рівень заряду акумулятора"
 
 #: src/CategoryView.vala:2057
 msgid "Medium-low charged battery level, plugged into a charger or AC adapter"
 msgstr ""
+"Середньо-низький рівень заряду акумулятора, підключено до зарядного пристрою "
+"або адаптера змінного струму"
 
 #: src/CategoryView.vala:2062
 msgid "Missing or malfunctioning battery"
-msgstr ""
+msgstr "Відсутній або несправний акумулятор"
 
 #: src/CategoryView.vala:2067
 msgid "Bluetooth radio is disabled or off"
-msgstr ""
+msgstr "Модуль Bluetooth відключено або вимкнено"
 
 #: src/CategoryView.vala:2072
 msgid ""
 "Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
 msgstr ""
+"Незахищений, небезпечний або незашифрований зв'язок або з'єднання, "
+"наприклад, HTTP"
 
 #: src/CategoryView.vala:2077
 msgid ""
 "Secure or encrypted communication or connection, such as HTTPS or encrypted "
 "Wi-Fi"
 msgstr ""
+"Безпечний або зашифрований зв'язок або з'єднання, наприклад, HTTPS або "
+"зашифрований Wi-Fi"
 
 #: src/CategoryView.vala:2082
 msgid "Critical, unrecoverable, or other serious error"
-msgstr ""
+msgstr "Критична, невиправна або інша серйозна помилка"
 
 #: src/CategoryView.vala:2087
 msgid "Contextual information or explanation"
-msgstr ""
+msgstr "Контекстна інформація або пояснення"
 
 #: src/CategoryView.vala:2092
 msgid "Requesting authentication details, such as a password or encryption key"
-msgstr ""
+msgstr "Запит даних для автентифікації, наприклад, пароля або ключа шифрування"
 
 #: src/CategoryView.vala:2097
 msgid "Question, decision, or choice for the user"
-msgstr ""
+msgstr "Питання, рішення або вибір для користувача"
 
 #: src/CategoryView.vala:2102
 msgid "Warning of potentially dangerous actions or consequences"
-msgstr ""
+msgstr "Попередження про потенційно небезпечні дії або наслідки"
 
 #: src/CategoryView.vala:2107
 msgid "Placeholder used when an image or thumbnail is loading"
 msgstr ""
+"Заповнювач, що використовується під час завантаження зображення або мініатюри"
 
 #: src/CategoryView.vala:2112
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
 msgstr ""
+"Заповнювач, що використовується, коли зображення або мініатюра відсутні або "
+"не можуть бути завантажені"
 
 #: src/CategoryView.vala:2117
 msgid "Location services are in use"
-msgstr ""
+msgstr "Використовується служба визначення розташування"
 
 #: src/CategoryView.vala:2122
 msgid "Location services are disabled and unavailable"
-msgstr ""
+msgstr "Служби визначення розташування вимкнені й недоступні"
 
 #: src/CategoryView.vala:2127
 msgid "Location services are available, but not in use"
-msgstr ""
+msgstr "Служби визначення розташування доступні, але не використовуються"
 
 #: src/CategoryView.vala:2132
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
 msgstr ""
+"Заблоковані або захищені, як правило, вимагають автентифікації або пароля "
+"для розблокування"
 
 #: src/CategoryView.vala:2137
 msgid "Mail attachment or file in an email"
-msgstr ""
+msgstr "Поштове вкладення або файл в електронному листі"
 
 #: src/CategoryView.vala:2142
 msgid "New, unread, or unviewed email"
-msgstr ""
+msgstr "Новий, непрочитаний або не переглянутий лист"
 
 #: src/CategoryView.vala:2147
 msgid "Read or already-viewed email"
-msgstr ""
+msgstr "Прочитаний або вже переглянутий лист"
 
 #: src/CategoryView.vala:2152
 msgid "Email that has been replied or responded to"
 msgstr ""
+"Електронні листи, на які було надано відповідь або на які було надіслано "
+"відповідь"
 
 #: src/CategoryView.vala:2157
 msgid "Email that contains a signature"
-msgstr ""
+msgstr "Електронна пошта, яка містить підпис"
 
 #: src/CategoryView.vala:2162
 msgid "Email that contains a signature that is verified by the security system"
@@ -1967,7 +1992,7 @@ msgstr ""
 
 #: src/IconView.vala:62
 msgid "Symbolic Icons"
-msgstr "Символьні знаки"
+msgstr "Символічні піктограми"
 
 #: src/IconView.vala:75
 msgid "Code Sample"
