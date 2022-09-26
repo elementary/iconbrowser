@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
 "PO-Revision-Date: 2022-09-26 15:13+0000\n"
-"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
+"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -1943,7 +1943,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2337
 msgid "Showers or rainy weather"
-msgstr "Злива або дощова погода"
+msgstr "Злива або дощ"
 
 #: src/CategoryView.vala:2342
 msgid "Scattered showers or partly rainy weather"
