@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
-"PO-Revision-Date: 2022-09-26 14:54+0000\n"
-"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"PO-Revision-Date: 2022-09-26 14:55+0000\n"
+"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -1911,11 +1911,11 @@ msgstr "Користувач, особа або контакт в офлайні
 
 #: src/CategoryView.vala:2297
 msgid "Private, anonymous, untracked, or incognito"
-msgstr ""
+msgstr "Приватний, анонімний, невідстежуваний або інкогніто"
 
 #: src/CategoryView.vala:2302
 msgid "Clear skies or sunny weather"
-msgstr ""
+msgstr "Чиста або сонячна погода"
 
 #: src/CategoryView.vala:2307
 msgid "Clear skies weather during the night"
