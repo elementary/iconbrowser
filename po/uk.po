@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
 "PO-Revision-Date: 2022-09-26 14:51+0000\n"
-"Last-Translator: pandreyko <andrii.pavloshchuk@gmail.com>\n"
+"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
 "Language: uk\n"
@@ -1638,7 +1638,7 @@ msgstr "Зустріч або подія в календарі відбудет�
 
 #: src/CategoryView.vala:1972
 msgid "High or loud audio volume"
-msgstr "Висока чи шумна гучність звуку"
+msgstr "Високий або гучний рівень звуку"
 
 #: src/CategoryView.vala:1977
 msgid "Low or quiet audio volume"
