@@ -8,53 +8,56 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-25 15:50-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-09-28 11:49+0000\n"
+"Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
+"Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
+"icon-browser/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
-msgstr ""
+msgstr "アクション"
 
 #: src/CategoryView.vala:28
 msgid "Applications"
-msgstr ""
+msgstr "アプリケーション"
 
 #: src/CategoryView.vala:30
 msgid "Categories"
-msgstr ""
+msgstr "カテゴリー"
 
 #: src/CategoryView.vala:32
 msgid "Devices"
-msgstr ""
+msgstr "デバイス"
 
 #: src/CategoryView.vala:34
 msgid "Emblems"
-msgstr ""
+msgstr "エンブレム"
 
 #: src/CategoryView.vala:36
 msgid "Emotes"
-msgstr ""
+msgstr "感情"
 
 #: src/CategoryView.vala:38
 msgid "Media Types"
-msgstr ""
+msgstr "メディアタイプ"
 
 #: src/CategoryView.vala:40
 msgid "Places"
-msgstr ""
+msgstr "場所"
 
 #: src/CategoryView.vala:42
 msgid "Status"
-msgstr ""
+msgstr "ステータス"
 
 #: src/CategoryView.vala:44
 msgid "OTHER"
-msgstr ""
+msgstr "そのほか"
 
 #: src/CategoryView.vala:62 src/IconView.vala:13
 msgid "Create a new address book"
@@ -1916,32 +1919,32 @@ msgstr ""
 
 #: src/CategoryView.vala:2362
 msgid "Search Names or Descriptions"
-msgstr ""
+msgstr "アイコン名または説明で検索"
 
 #: src/IconView.vala:55
 msgid "Color Icons"
-msgstr ""
+msgstr "色付きアイコン"
 
 #: src/IconView.vala:62
 msgid "Symbolic Icons"
-msgstr ""
+msgstr "シンボリックアイコン"
 
 #: src/IconView.vala:75
 msgid "Code Sample"
-msgstr ""
+msgstr "コードの例"
 
 #: src/IconView.vala:157
 msgid "Unavailable"
-msgstr ""
+msgstr "利用できません"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr ""
+msgstr "アイコンビューアー"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr ""
+msgstr "ライトモード"
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr ""
+msgstr "ダークモード"
