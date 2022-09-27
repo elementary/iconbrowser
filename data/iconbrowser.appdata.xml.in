@@ -60,7 +60,7 @@
       <description>
         <ul>
           <li>Add "audio-headphones" and "audio-headset"</li>
-          <li>Add GitHub Actions for distribution</li>
+          <li>Add "distribute-*" action icons</li>
           <li>Disable sidebar when searching</li>
           <li>Remove app icons that aren't in the freedesktop.org specification</li>
           <li>Add status emblems</li>
