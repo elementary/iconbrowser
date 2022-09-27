@@ -59,10 +59,10 @@
     <release version="1.2.0" date="2020-07-29">
       <description>
         <ul>
-          <li>Add audio-headphones and audio-headset</li>
-          <li>Add distribute actions</li>
+          <li>Add "audio-headphones" and "audio-headset"</li>
+          <li>Add GitHub Actions for distribution</li>
           <li>Disable sidebar when searching</li>
-          <li>Remove non-fdo app names</li>
+          <li>Remove freedesktop.org non-compliant app icons</li>
           <li>Add status emblems</li>
           <li>Mimetypes → Media Types</li>
           <li>Added French and Portuguese translations</li>
