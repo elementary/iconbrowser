@@ -123,16 +123,6 @@ public class CategoryView : Gtk.Box {
             category = ACTIONS
         },
         Icon () {
-            name = "changes-allow",
-            description = _("Allow changes by unlocking such as with a password"),
-            category = ACTIONS
-        },
-        Icon () {
-            name = "changes-prevent",
-            description = _("Prevent changes by locking such as with a password"),
-            category = ACTIONS
-        },
-        Icon () {
             name = "color-picker",
             description = _("Pick a color from elsewhere on screen"),
             category = ACTIONS
@@ -2065,6 +2055,16 @@ public class CategoryView : Gtk.Box {
         Icon () {
             name = "bluetooth-disabled",
             description = _("Bluetooth radio is disabled or off"),
+            category = STATUS
+        },
+        Icon () {
+            name = "changes-allow",
+            description = _("Allow changes by unlocking such as with a password"),
+            category = STATUS
+        },
+        Icon () {
+            name = "changes-prevent",
+            description = _("Prevent changes by locking such as with a password"),
             category = STATUS
         },
         Icon () {
