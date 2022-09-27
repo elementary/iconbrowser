@@ -62,7 +62,7 @@
           <li>Add "audio-headphones" and "audio-headset"</li>
           <li>Add GitHub Actions for distribution</li>
           <li>Disable sidebar when searching</li>
-          <li>Remove freedesktop.org non-compliant app icons</li>
+          <li>Remove app icons that aren't in the freedesktop.org specification</li>
           <li>Add status emblems</li>
           <li>Mimetypes → Media Types</li>
           <li>Added French and Portuguese translations</li>
