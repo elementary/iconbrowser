@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-26 09:12-0700\n"
+"POT-Creation-Date: 2022-09-28 11:33-0700\n"
 "PO-Revision-Date: 2022-09-28 11:49+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
@@ -36,8 +36,9 @@ msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
 msgstr ""
-"システムアイコンを、カテゴリー別で確認したりアイコン名で検索したりできます。また、アイコンを様々な大きさで確認したり、コードスニペットをご自身が開発するア"
-"プリに挿入したりできます。"
+"システムアイコンを、カテゴリー別で確認したりアイコン名で検索したりできます。"
+"また、アイコンを様々な大きさで確認したり、コードスニペットをご自身が開発する"
+"アプリに挿入したりできます。"
 
 #: data/iconbrowser.appdata.xml.in:17
 msgid "Browse system icons"
@@ -72,11 +73,15 @@ msgid "Updated for Gtk 4"
 msgstr "GTK 4 にアップデート"
 
 #: data/iconbrowser.appdata.xml.in:62
-msgid "Add audio-headphones and audio-headset"
+#, fuzzy
+#| msgid "Add audio-headphones and audio-headset"
+msgid "Add \"audio-headphones\" and \"audio-headset\""
 msgstr "audio-headphones と audio-headset を追加"
 
 #: data/iconbrowser.appdata.xml.in:63
-msgid "Add distribute actions"
+#, fuzzy
+#| msgid "Add distribute actions"
+msgid "Add \"distribute-*\" action icons"
 msgstr "\"distribute-*\" アクションアイコンを追加"
 
 #: data/iconbrowser.appdata.xml.in:64
@@ -84,8 +89,8 @@ msgid "Disable sidebar when searching"
 msgstr "検索中はサイドバーを無効化するように修正"
 
 #: data/iconbrowser.appdata.xml.in:65
-msgid "Remove non-fdo app names"
-msgstr "freedesktop.org 非準拠のアプリアイコンを削除"
+msgid "Remove app icons that aren't in the freedesktop.org specification"
+msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:66
 msgid "Add status emblems"
@@ -101,8 +106,12 @@ msgstr "フランス語翻訳とポルトガル語翻訳を追加"
 
 #: data/iconbrowser.appdata.xml.in:74
 msgid "Better support for symbolic-only icons and under the hood improvements!"
-msgstr "シンボリック版のみ存在するアイコンへの対応、および内部処理を改善しました！"
+msgstr ""
+"シンボリック版のみ存在するアイコンへの対応、および内部処理を改善しました！"
 
 #: data/iconbrowser.appdata.xml.in:79
 msgid "Initial release! 🎉️"
 msgstr "最初のリリース！🎉️"
+
+#~ msgid "Remove non-fdo app names"
+#~ msgstr "freedesktop.org 非準拠のアプリアイコンを削除"
