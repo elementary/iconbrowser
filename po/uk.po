@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-09-28 11:49+0000\n"
+"PO-Revision-Date: 2022-09-29 19:57+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
@@ -1975,7 +1975,8 @@ msgstr "Похмура або хмарна погода"
 
 #: src/CategoryView.vala:2332
 msgid "Severe or critical weather warning or alert"
-msgstr "Попередження або застереження про сильні або критичні погодні умови"
+msgstr ""
+"Попередження чи сповіщення про несприятливі або небезпечні погодні умови"
 
 #: src/CategoryView.vala:2337
 msgid "Showers or rainy weather"
