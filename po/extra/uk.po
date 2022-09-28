@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-09-28 11:49+0000\n"
+"PO-Revision-Date: 2022-09-29 19:57+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "extra/uk/>\n"
@@ -74,16 +74,12 @@ msgid "Updated for Gtk 4"
 msgstr "Оновлення для Gtk 4"
 
 #: data/iconbrowser.appdata.xml.in:62
-#, fuzzy
-#| msgid "Add audio-headphones and audio-headset"
 msgid "Add \"audio-headphones\" and \"audio-headset\""
-msgstr "Додано аудіонавушники та аудіогарнітуру"
+msgstr "Додано «audio-headphones» і «audio-headset»"
 
 #: data/iconbrowser.appdata.xml.in:63
-#, fuzzy
-#| msgid "Add distribute actions"
 msgid "Add \"distribute-*\" action icons"
-msgstr "Додано дії з розповсюдження"
+msgstr "Додано піктограми дій «distribute-*»"
 
 #: data/iconbrowser.appdata.xml.in:64
 msgid "Disable sidebar when searching"
@@ -92,6 +88,7 @@ msgstr "Вимкнення бічної панелі під час пошуку"
 #: data/iconbrowser.appdata.xml.in:65
 msgid "Remove app icons that aren't in the freedesktop.org specification"
 msgstr ""
+"Вилучено піктограми застосунків, яких немає в специфікації freedesktop.org"
 
 #: data/iconbrowser.appdata.xml.in:66
 msgid "Add status emblems"
