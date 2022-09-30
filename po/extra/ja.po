@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-09-28 11:49+0000\n"
+"PO-Revision-Date: 2022-09-30 23:35+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "extra/ja/>\n"
@@ -73,14 +73,10 @@ msgid "Updated for Gtk 4"
 msgstr "GTK 4 にアップデート"
 
 #: data/iconbrowser.appdata.xml.in:62
-#, fuzzy
-#| msgid "Add audio-headphones and audio-headset"
 msgid "Add \"audio-headphones\" and \"audio-headset\""
-msgstr "audio-headphones と audio-headset を追加"
+msgstr "\"audio-headphones\" と \"audio-headset\" を追加"
 
 #: data/iconbrowser.appdata.xml.in:63
-#, fuzzy
-#| msgid "Add distribute actions"
 msgid "Add \"distribute-*\" action icons"
 msgstr "\"distribute-*\" アクションアイコンを追加"
 
@@ -90,7 +86,7 @@ msgstr "検索中はサイドバーを無効化するように修正"
 
 #: data/iconbrowser.appdata.xml.in:65
 msgid "Remove app icons that aren't in the freedesktop.org specification"
-msgstr ""
+msgstr "freedesktop.org の仕様に存在しないアプリアイコンを削除"
 
 #: data/iconbrowser.appdata.xml.in:66
 msgid "Add status emblems"
