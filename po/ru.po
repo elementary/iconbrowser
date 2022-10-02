@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
 "PO-Revision-Date: 2022-10-03 03:41+0000\n"
-"Last-Translator: lenemter <lenemter@gmail.com>\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -42,7 +42,7 @@ msgstr "Эмблемы"
 
 #: src/CategoryView.vala:36
 msgid "Emotes"
-msgstr ""
+msgstr "Эмодзи"
 
 #: src/CategoryView.vala:38
 msgid "Media Types"
@@ -1920,23 +1920,23 @@ msgstr ""
 
 #: src/CategoryView.vala:2362
 msgid "Search Names or Descriptions"
-msgstr ""
+msgstr "Поиск по названию или описанию"
 
 #: src/IconView.vala:55
 msgid "Color Icons"
-msgstr ""
+msgstr "Цветные значки"
 
 #: src/IconView.vala:62
 msgid "Symbolic Icons"
-msgstr ""
+msgstr "Символьные значки"
 
 #: src/IconView.vala:75
 msgid "Code Sample"
-msgstr ""
+msgstr "Образец кода"
 
 #: src/IconView.vala:157
 msgid "Unavailable"
-msgstr ""
+msgstr "Недоступно"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
@@ -1944,8 +1944,8 @@ msgstr "Icon Browser"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr ""
+msgstr "Светлый фон"
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr ""
+msgstr "Тёмный фон"
