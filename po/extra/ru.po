@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the extra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 11:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
+msgid "Icon Browser"
+msgstr ""
+
+#: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:10
+msgid "Browse and find system icons"
+msgstr ""
+
+#: data/iconbrowser.desktop.in:9
+msgid "icons;iconography;"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:12
+msgid ""
+"Browse system icons by category or search by icon name. See icons at "
+"different sizes and get a quick code snippet to use in your apps."
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:17
+msgid "Browse system icons"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:21
+msgid "Search by description"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:38
+msgid "elementary, Inc."
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:45
+msgid "A modern redesign!"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:47
+msgid "Fancy new icon"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:48
+msgid "Drag the window from anywhere"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:49
+msgid "Follow the system dark style preference"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:50
+msgid "Updated for Gtk 4"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:62
+msgid "Add \"audio-headphones\" and \"audio-headset\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:63
+msgid "Add \"distribute-*\" action icons"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:64
+msgid "Disable sidebar when searching"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:65
+msgid "Remove app icons that aren't in the freedesktop.org specification"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:66
+msgid "Add status emblems"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:67
+msgid "Mimetypes → Media Types"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:68
+msgid "Added French and Portuguese translations"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:74
+msgid "Better support for symbolic-only icons and under the hood improvements!"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:79
+msgid "Initial release! 🎉️"
+msgstr ""
