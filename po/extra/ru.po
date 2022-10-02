@@ -8,13 +8,17 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-10-03 15:57+0000\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
+"Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
+"extra/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
 msgid "Icon Browser"
@@ -22,82 +26,85 @@ msgstr ""
 
 #: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:10
 msgid "Browse and find system icons"
-msgstr ""
+msgstr "Просмотр и поиск системных значков"
 
 #: data/iconbrowser.desktop.in:9
 msgid "icons;iconography;"
-msgstr ""
+msgstr "значки;иконки;icons;iconography"
 
 #: data/iconbrowser.appdata.xml.in:12
 msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
 msgstr ""
+"Просматривайте системные значки по категориям или ищите их по названию. "
+"Просматривайте значки в разных размерах и получайте фрагмент кода для "
+"использования в своих приложениях."
 
 #: data/iconbrowser.appdata.xml.in:17
 msgid "Browse system icons"
-msgstr ""
+msgstr "Просмотр системных значков"
 
 #: data/iconbrowser.appdata.xml.in:21
 msgid "Search by description"
-msgstr ""
+msgstr "Поиск по описанию"
 
 #: data/iconbrowser.appdata.xml.in:38
 msgid "elementary, Inc."
-msgstr ""
+msgstr "elementary, Inc."
 
 #: data/iconbrowser.appdata.xml.in:45
 msgid "A modern redesign!"
-msgstr ""
+msgstr "Теперь в современном дизайне!"
 
 #: data/iconbrowser.appdata.xml.in:47
 msgid "Fancy new icon"
-msgstr ""
+msgstr "Новая красивая иконка"
 
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Drag the window from anywhere"
-msgstr ""
+msgstr "Перемещайте окно откуда угодно"
 
 #: data/iconbrowser.appdata.xml.in:49
 msgid "Follow the system dark style preference"
-msgstr ""
+msgstr "Следует системным настройкам темы оформления"
 
 #: data/iconbrowser.appdata.xml.in:50
 msgid "Updated for Gtk 4"
-msgstr ""
+msgstr "Обновлено до GTK 4"
 
 #: data/iconbrowser.appdata.xml.in:62
 msgid "Add \"audio-headphones\" and \"audio-headset\""
-msgstr ""
+msgstr "Добавлены «audio-headphones» и «audio-headset»"
 
 #: data/iconbrowser.appdata.xml.in:63
 msgid "Add \"distribute-*\" action icons"
-msgstr ""
+msgstr "Добавлены значки действий «distribute-*»"
 
 #: data/iconbrowser.appdata.xml.in:64
 msgid "Disable sidebar when searching"
-msgstr ""
+msgstr "Отключение боковой панели во время поиска"
 
 #: data/iconbrowser.appdata.xml.in:65
 msgid "Remove app icons that aren't in the freedesktop.org specification"
-msgstr ""
+msgstr "Удалены значки приложений, которых нет в спецификации freedesktop.org"
 
 #: data/iconbrowser.appdata.xml.in:66
 msgid "Add status emblems"
-msgstr ""
+msgstr "Добавлены эмблемы состояний"
 
 #: data/iconbrowser.appdata.xml.in:67
 msgid "Mimetypes → Media Types"
-msgstr ""
+msgstr "Mimetypes → Типы медиафайлов"
 
 #: data/iconbrowser.appdata.xml.in:68
 msgid "Added French and Portuguese translations"
-msgstr ""
+msgstr "Добавлены французский и португальский переводы"
 
 #: data/iconbrowser.appdata.xml.in:74
 msgid "Better support for symbolic-only icons and under the hood improvements!"
-msgstr ""
+msgstr "Улучшена поддержка символьных значков и прочие улучшения!"
 
 #: data/iconbrowser.appdata.xml.in:79
 msgid "Initial release! 🎉️"
-msgstr ""
+msgstr "Первый релиз! 🎉️"
