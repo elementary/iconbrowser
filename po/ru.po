@@ -3,43 +3,46 @@
 # This file is distributed under the same license as the io.elementary.iconbrowser package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2022-10-03 03:41+0000\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
+"Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
+"icon-browser/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
-msgstr ""
+msgstr "Действия"
 
 #: src/CategoryView.vala:28
 msgid "Applications"
-msgstr ""
+msgstr "Приложения"
 
 #: src/CategoryView.vala:30
 msgid "Categories"
-msgstr ""
+msgstr "Категории"
 
 #: src/CategoryView.vala:32
 msgid "Devices"
-msgstr ""
+msgstr "Устройства"
 
 #: src/CategoryView.vala:34
 msgid "Emblems"
-msgstr ""
+msgstr "Эмблемы"
 
 #: src/CategoryView.vala:36
 msgid "Emotes"
-msgstr ""
+msgstr "Эмодзи"
 
 #: src/CategoryView.vala:38
 msgid "Media Types"
@@ -47,15 +50,15 @@ msgstr ""
 
 #: src/CategoryView.vala:40
 msgid "Places"
-msgstr ""
+msgstr "Места"
 
 #: src/CategoryView.vala:42
 msgid "Status"
-msgstr ""
+msgstr "Состояние"
 
 #: src/CategoryView.vala:44
 msgid "OTHER"
-msgstr ""
+msgstr "ДРУГОЕ"
 
 #: src/CategoryView.vala:62 src/IconView.vala:13
 msgid "Create a new address book"
@@ -1917,32 +1920,32 @@ msgstr ""
 
 #: src/CategoryView.vala:2362
 msgid "Search Names or Descriptions"
-msgstr ""
+msgstr "Поиск по названию или описанию"
 
 #: src/IconView.vala:55
 msgid "Color Icons"
-msgstr ""
+msgstr "Цветные значки"
 
 #: src/IconView.vala:62
 msgid "Symbolic Icons"
-msgstr ""
+msgstr "Символьные значки"
 
 #: src/IconView.vala:75
 msgid "Code Sample"
-msgstr ""
+msgstr "Образец кода"
 
 #: src/IconView.vala:157
 msgid "Unavailable"
-msgstr ""
+msgstr "Недоступно"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr ""
+msgstr "Icon Browser"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr ""
+msgstr "Светлый фон"
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr ""
+msgstr "Тёмный фон"
