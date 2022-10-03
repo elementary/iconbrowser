@@ -54,9 +54,13 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         sidebar_box.append (mode_switch);
         sidebar_box.add_css_class ("sidebar");
 
+        var sidebar_handle = new Gtk.WindowHandle () {
+            child = sidebar_box
+        };
+
         var paned = new Gtk.Paned (Gtk.Orientation.HORIZONTAL) {
             position = 128,
-            start_child = sidebar_box,
+            start_child = sidebar_handle,
             end_child = category_view,
             resize_start_child = false,
             shrink_end_child = false,
@@ -69,11 +73,7 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         };
         set_titlebar (null_title);
 
-        var window_handle = new Gtk.WindowHandle () {
-            child = paned
-        };
-
-        child = window_handle;
+        child = paned;
 
         var gtk_settings = Gtk.Settings.get_default ();
         gtk_settings.bind_property ("gtk-application-prefer-dark-theme", mode_switch, "active", BindingFlags.BIDIRECTIONAL);

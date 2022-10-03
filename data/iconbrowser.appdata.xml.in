@@ -53,6 +53,7 @@
       <issues>
         <issue url="https://github.com/elementary/iconbrowser/issues/7">Use elementary styles on all platforms</issue>
         <issue url="https://github.com/elementary/iconbrowser/issues/8">Use Solarized Dark in dark mode</issue>
+        <issue url="https://github.com/elementary/iconbrowser/issues/20">Dragging on the code sample selects instead of moving the window</issue>
       </issues>
     </release>
 

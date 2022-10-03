@@ -2386,8 +2386,12 @@ public class CategoryView : Gtk.Box {
         box.append (scrolled_window);
         box.add_css_class (Granite.STYLE_CLASS_VIEW);
 
+        var list_handle = new Gtk.WindowHandle () {
+            child = box
+        };
+
         var paned = new Gtk.Paned (Gtk.Orientation.HORIZONTAL) {
-            start_child = box,
+            start_child = list_handle,
             resize_start_child = false,
             shrink_start_child = false,
             end_child = icon_view,

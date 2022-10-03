@@ -45,12 +45,16 @@ public class IconView : Gtk.Box {
 
         var header_area = new Gtk.Grid ();
         header_area.add_css_class ("header-area");
-        header_area.add_css_class ("titlebar");
-        header_area.add_css_class (Granite.STYLE_CLASS_FLAT);
         header_area.attach (title_label, 1, 0);
         header_area.attach (header_icon, 0, 0, 1, 2);
         header_area.attach (description_label, 1, 1, 2);
         header_area.attach (window_controls, 2, 0, 1, 2);
+
+        var header_handle = new Gtk.WindowHandle () {
+            child = header_area
+        };
+        header_handle.add_css_class ("titlebar");
+        header_handle.add_css_class (Granite.STYLE_CLASS_FLAT);
 
         var color_title = new Granite.HeaderLabel (_("Color Icons"));
 
@@ -114,7 +118,7 @@ public class IconView : Gtk.Box {
         };
 
         orientation = Gtk.Orientation.VERTICAL;
-        append (header_area);
+        append (header_handle);
         append (scrolled);
 
         var gtk_settings = Gtk.Settings.get_default ();
