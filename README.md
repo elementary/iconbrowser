@@ -3,7 +3,7 @@
 
 [![Translation status](https://l10n.elementary.io/widgets/icon-browser/-/svg-badge.svg)](https://l10n.elementary.io/engage/icon-browser/)
 
-![LookBook Screenshot](data/screenshot.png?raw=true)
+![Screenshot](data/screenshot.png?raw=true)
 
 ## Building, Testing, and Installation
 
