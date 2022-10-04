@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gresources>
-  <gresource prefix="/com/github/danrabbit/lookbook">
+  <gresource prefix="/io/elementary/iconbrowser">
     <file alias="Application.css">Application.css</file>
   </gresource>
 </gresources>

@@ -27,7 +27,7 @@ public class IconBrowser.App : Gtk.Application {
         quit_action.activate.connect (quit);
 
         var provider = new Gtk.CssProvider ();
-        provider.load_from_resource ("/com/github/danrabbit/lookbook/Application.css");
+        provider.load_from_resource ("/io/elementary/iconbrowser/Application.css");
         Gtk.StyleContext.add_provider_for_display (Gdk.Display.get_default (), provider, Gtk.STYLE_PROVIDER_PRIORITY_APPLICATION);
     }
 
