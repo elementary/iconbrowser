@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-10-03 03:41+0000\n"
+"PO-Revision-Date: 2022-10-06 02:57+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
@@ -46,7 +46,7 @@ msgstr "Эмодзи"
 
 #: src/CategoryView.vala:38
 msgid "Media Types"
-msgstr ""
+msgstr "Типы медиафайлов"
 
 #: src/CategoryView.vala:40
 msgid "Places"
@@ -62,63 +62,63 @@ msgstr "ДРУГОЕ"
 
 #: src/CategoryView.vala:62 src/IconView.vala:13
 msgid "Create a new address book"
-msgstr ""
+msgstr "Создать новую адресную книгу"
 
 #: src/CategoryView.vala:67
 msgid "Align objects to center along the X axis"
-msgstr ""
+msgstr "Выровнять объекты по центру вдоль оси X"
 
 #: src/CategoryView.vala:72
 msgid "Align objects left along the X axis"
-msgstr ""
+msgstr "Выровнять объекты по левому краю вдоль оси X"
 
 #: src/CategoryView.vala:77
 msgid "Align objects right along the X axis"
-msgstr ""
+msgstr "Выровнять объекты по правому краю вдоль оси X"
 
 #: src/CategoryView.vala:82
 msgid "Align objects to bottom along the Y axis"
-msgstr ""
+msgstr "Выровнять объекты по нижнему краю вдоль оси Y"
 
 #: src/CategoryView.vala:87
 msgid "Align objects to center along the Y axis"
-msgstr ""
+msgstr "Выровнять объекты по центру вдоль оси Y"
 
 #: src/CategoryView.vala:92
 msgid "Align objects to top along the Y axis"
-msgstr ""
+msgstr "Выровнять объекты по верхнему краю вдоль оси Y"
 
 #: src/CategoryView.vala:97
 msgid "Used for exiting an application"
-msgstr ""
+msgstr "Используется для выхода из приложения"
 
 #: src/CategoryView.vala:102
 msgid "Create a new appointment in a calendaring application"
-msgstr ""
+msgstr "Создать новое событие в приложении календаря"
 
 #: src/CategoryView.vala:107
 msgid "Create a new bookmark"
-msgstr ""
+msgstr "Создать новую закладку"
 
 #: src/CategoryView.vala:112
 msgid "Download a file from the Internet"
-msgstr ""
+msgstr "Загрузить файл из Интернета"
 
 #: src/CategoryView.vala:117
 msgid "Initiate or accept a call"
-msgstr ""
+msgstr "Совершить или принять звонок"
 
 #: src/CategoryView.vala:122
 msgid "Stop the current call"
-msgstr ""
+msgstr "Завершить текущий звонок"
 
 #: src/CategoryView.vala:127
 msgid "Pick a color from elsewhere on screen"
-msgstr ""
+msgstr "Выбрать цвет из любой точки на экране"
 
 #: src/CategoryView.vala:132
 msgid "Create a new contact in an address book application"
-msgstr ""
+msgstr "Создать новый контакт в приложении адресной книги"
 
 #: src/CategoryView.vala:137
 msgid "Distribute the center lines of objects horizontally"
