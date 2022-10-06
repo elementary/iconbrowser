@@ -948,6 +948,11 @@ public class CategoryView : Gtk.Box {
             category = CATEGORIES
         },
         Icon () {
+            name = "preferences-desktop-theme",
+            description = _("Look and feel, appearance, style, or theme settings"),
+            category = CATEGORIES
+        },
+        Icon () {
             name = "preferences-desktop-wallpaper",
             description = _("Desktop wallpaper or background settings"),
             category = CATEGORIES
@@ -1495,6 +1500,11 @@ public class CategoryView : Gtk.Box {
         Icon () {
             name = "application-x-ruby",
             description = _("Ruby programming language file types"),
+            category = MIMES
+        },
+        Icon () {
+            name = "application-x-sharedlib",
+            description = _("Shared library file types"),
             category = MIMES
         },
         Icon () {
@@ -2230,6 +2240,16 @@ public class CategoryView : Gtk.Box {
         Icon () {
             name = "process-completed",
             description = _("Process, job, or task has successfully completed or finished"),
+            category = STATUS
+        },
+        Icon () {
+            name = "process-error",
+            description = _("Process, job, or task has failed or been unsuccessful"),
+            category = STATUS
+        },
+        Icon () {
+            name = "process-paused",
+            description = _("Process, job, or task is currently paused or on hold"),
             category = STATUS
         },
         Icon () {
