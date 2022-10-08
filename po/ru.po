@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-10-07 18:52+0000\n"
+"PO-Revision-Date: 2022-10-09 20:57+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
@@ -322,95 +322,97 @@ msgstr "Форматировать текст как зачёркнутый"
 
 #: src/CategoryView.vala:387
 msgid "Go to the bottom, such as in a list"
-msgstr ""
+msgstr "Перейти в конец, например, некоторого списка"
 
 #: src/CategoryView.vala:392
 msgid "Go down, such as in a list"
-msgstr ""
+msgstr "Перейти ниже, например, в некотором списке"
 
 #: src/CategoryView.vala:397
 msgid "Go to the first item, such as in a list"
-msgstr ""
+msgstr "Перейти к первому элементу, например, некоторого списка"
 
 #: src/CategoryView.vala:402
 msgid "Go to the home location"
-msgstr ""
+msgstr "Перейти к расположению домашней папки"
 
 #: src/CategoryView.vala:407
 msgid "Jump to a location"
-msgstr ""
+msgstr "Перейти к расположению"
 
 #: src/CategoryView.vala:412
 msgid "Go to the last item, such as in a list"
-msgstr ""
+msgstr "Перейти к последнему элементу, например, некоторого списка"
 
 #: src/CategoryView.vala:417
 msgid "Go forward to the next item, such as in a list or navigation"
 msgstr ""
+"Перейти к следующему элементу, например, в некотором списке или навигации"
 
 #: src/CategoryView.vala:422
 msgid "Go back to the previous item, such as in a list or navigation"
 msgstr ""
+"Перейти к предыдущему элементу, например, в некотором списке или навигации"
 
 #: src/CategoryView.vala:427
 msgid "Go to the top, such as in a list"
-msgstr ""
+msgstr "Перейти в начало, например, некоторого списка"
 
 #: src/CategoryView.vala:432
 msgid "Go up, such as in a list"
-msgstr ""
+msgstr "Перейти выше, например, в некотором списке"
 
 #: src/CategoryView.vala:437
 msgid "Information about an app"
-msgstr ""
+msgstr "Информация о приложении"
 
 #: src/CategoryView.vala:442
 msgid "Get help"
-msgstr ""
+msgstr "Помощь"
 
 #: src/CategoryView.vala:447
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "Часто задаваемые вопросы"
 
 #: src/CategoryView.vala:452
 msgid "Make adjustments to an image"
-msgstr ""
+msgstr "Коррекция изображения"
 
 #: src/CategoryView.vala:457
 msgid "Automatically adjust an image"
-msgstr ""
+msgstr "Автокоррекция изображения"
 
 #: src/CategoryView.vala:462
 msgid "Crop an image"
-msgstr ""
+msgstr "Обрезать изображение"
 
 #: src/CategoryView.vala:467
 msgid "Remove red eye from an image"
-msgstr ""
+msgstr "Убрать эффект красных глаз с изображения"
 
 #: src/CategoryView.vala:472
 msgid "Insert an image"
-msgstr ""
+msgstr "Вставить изображение"
 
 #: src/CategoryView.vala:477
 msgid "Insert a link"
-msgstr ""
+msgstr "Вставить ссылку"
 
 #: src/CategoryView.vala:482
 msgid "Insert an object"
-msgstr ""
+msgstr "Вставить объект"
 
 #: src/CategoryView.vala:487
 msgid "Insert text"
-msgstr ""
+msgstr "Вставить текст"
 
 #: src/CategoryView.vala:492
 msgid "Add to a list"
-msgstr ""
+msgstr "Добавить в список"
 
 #: src/CategoryView.vala:497
 msgid "Remove from a list"
-msgstr ""
+msgstr "Удалить из списка"
 
 #: src/CategoryView.vala:502
 msgid "Forward an email"
