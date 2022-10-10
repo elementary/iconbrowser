@@ -40,6 +40,18 @@
   <update_contact>contact_at_elementary.io</update_contact>
 
   <releases>
+     <release version="2.1.0" date="2022-10-10">
+      <description>
+      <p>Updated with the latest icons:</p>
+        <ul>
+          <li>"preferences-desktop-theme"</li>
+          <li>"application-x-sharedlib"</li>
+          <li>"process-paused"</li>
+          <li>"process-error"</li>
+        </ul>
+      </description>
+    </release>
+
     <release version="2.0.0" date="2022-10-03">
       <description>
       <p>A modern redesign!</p>
