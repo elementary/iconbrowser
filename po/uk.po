@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-09-29 19:57+0000\n"
+"PO-Revision-Date: 2022-10-08 05:15+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/uk/>\n"
@@ -1996,7 +1996,7 @@ msgstr "Грози або складні погодні умови"
 
 #: src/CategoryView.vala:2362
 msgid "Search Names or Descriptions"
-msgstr "Пошук імен або описів"
+msgstr "Пошук назв або описів"
 
 #: src/IconView.vala:55
 msgid "Color Icons"

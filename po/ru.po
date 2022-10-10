@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-10-06 02:57+0000\n"
-"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
+"PO-Revision-Date: 2022-10-10 13:04+0000\n"
+"Last-Translator: lenemter <lenemter@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -122,299 +122,301 @@ msgstr "Создать новый контакт в приложении адр�
 
 #: src/CategoryView.vala:137
 msgid "Distribute the center lines of objects horizontally"
-msgstr ""
+msgstr "Горизонтально распределить объекты по центрам"
 
 #: src/CategoryView.vala:142
 msgid "Make horizontal gaps between objects equal"
-msgstr ""
+msgstr "Уравнять горизонтальные промежутки между объектами"
 
 #: src/CategoryView.vala:147
 msgid "Distribute left edges of objects horizontally"
-msgstr ""
+msgstr "Горизонтально распределить объекты по левым краям"
 
 #: src/CategoryView.vala:152
 msgid "Distribute right edges of objects horizontally"
-msgstr ""
+msgstr "Горизонтально распределить объекты по правым краям"
 
 #: src/CategoryView.vala:157
 msgid "Distribute bottom edges of objects vertically"
-msgstr ""
+msgstr "Вертикально распределить объекты по нижним краям"
 
 #: src/CategoryView.vala:162
 msgid "Distribute center lines of objects vertically"
-msgstr ""
+msgstr "Вертикально распределить объекты по центрам"
 
 #: src/CategoryView.vala:167
 msgid "Make vertical gaps between objects equal"
-msgstr ""
+msgstr "Уравнять вертикальные промежутки между объектами"
 
 #: src/CategoryView.vala:172
 msgid "Distriute top edges of objects vertically"
-msgstr ""
+msgstr "Вертикально распределить объекты по верхним краям"
 
 #: src/CategoryView.vala:177
 msgid "Export a document"
-msgstr ""
+msgstr "Экспортировать документ"
 
 #: src/CategoryView.vala:182
 msgid "Import a document"
-msgstr ""
+msgstr "Импортировать документ"
 
 #: src/CategoryView.vala:187
 msgid "Create a new document"
-msgstr ""
+msgstr "Создать новый документ"
 
 #: src/CategoryView.vala:192
 msgid "Open a document"
-msgstr ""
+msgstr "Открыть документ"
 
 #: src/CategoryView.vala:197
 msgid "Open a document that was recently opened"
-msgstr ""
+msgstr "Открыть недавно открытый документ"
 
 #: src/CategoryView.vala:202
 msgid "The page setup action of a document editor"
-msgstr ""
+msgstr "Действие настройки страницы в редакторе документов"
 
 #: src/CategoryView.vala:207
 msgid "Print"
-msgstr ""
+msgstr "Печать"
 
 #: src/CategoryView.vala:212
 msgid "The print preview action of an application"
-msgstr ""
+msgstr "Действие предварительного просмотра печати в приложении"
 
 #: src/CategoryView.vala:217
 msgid "View the properties of a document"
-msgstr ""
+msgstr "Просмотр свойств документа"
 
 #: src/CategoryView.vala:222
 msgid "Revert to a previous version of a document"
-msgstr ""
+msgstr "Вернуться к предыдущей версии документа"
 
 #: src/CategoryView.vala:227
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 #: src/CategoryView.vala:232
 msgid "Save as"
-msgstr ""
+msgstr "Сохранить как"
 
 #: src/CategoryView.vala:237
 msgid "Send"
-msgstr ""
+msgstr "Отправить"
 
 #: src/CategoryView.vala:242
 msgid "Edit"
-msgstr ""
+msgstr "Изменить"
 
 #: src/CategoryView.vala:247
 msgid "Clear"
-msgstr ""
+msgstr "Очистить"
 
 #: src/CategoryView.vala:252
 msgid "Copy"
-msgstr ""
+msgstr "Копировать"
 
 #: src/CategoryView.vala:257
 msgid "Cut"
-msgstr ""
+msgstr "Вырезать"
 
 #: src/CategoryView.vala:262
 msgid "Delete"
-msgstr ""
+msgstr "Удалить"
 
 #: src/CategoryView.vala:267
 msgid "Find"
-msgstr ""
+msgstr "Найти"
 
 #: src/CategoryView.vala:272
 msgid "Find & Replace"
-msgstr ""
+msgstr "Найти и заменить"
 
 #: src/CategoryView.vala:277
 msgid "Flag an item, such as a spam email"
-msgstr ""
+msgstr "Пометить элемент, например, спам-письмо"
 
 #: src/CategoryView.vala:282
 msgid "Paste"
-msgstr ""
+msgstr "Вставить"
 
 #: src/CategoryView.vala:287
 msgid "Redo"
-msgstr ""
+msgstr "Повторить"
 
 #: src/CategoryView.vala:292
 msgid "Select all"
-msgstr ""
+msgstr "Выделить всё"
 
 #: src/CategoryView.vala:297
 msgid "Undo"
-msgstr ""
+msgstr "Отменить"
 
 #: src/CategoryView.vala:302
 msgid "Create a new calendar event"
-msgstr ""
+msgstr "Создать новое событие в календаре"
 
 #: src/CategoryView.vala:307
 msgid "Copy a folder"
-msgstr ""
+msgstr "Копировать папку"
 
 #: src/CategoryView.vala:312
 msgid "Move a folder"
-msgstr ""
+msgstr "Переместить папку"
 
 #: src/CategoryView.vala:317
 msgid "Create a new folder"
-msgstr ""
+msgstr "Создать новую папку"
 
 #: src/CategoryView.vala:322
 msgid "Decrease indent"
-msgstr ""
+msgstr "Уменьшить отступ"
 
 #: src/CategoryView.vala:327
 msgid "Increase indent"
-msgstr ""
+msgstr "Увеличить отступ"
 
 #: src/CategoryView.vala:332
 msgid "Center justify text"
-msgstr ""
+msgstr "Выровнять текст по центру"
 
 #: src/CategoryView.vala:337
 msgid "Fill justify text"
-msgstr ""
+msgstr "Заполнить текстом по всей ширине"
 
 #: src/CategoryView.vala:342
 msgid "Left justify text"
-msgstr ""
+msgstr "Выровнять текст по левому краю"
 
 #: src/CategoryView.vala:347
 msgid "Right justify text"
-msgstr ""
+msgstr "Выровнять текст по правому краю"
 
 #: src/CategoryView.vala:352
 msgid "Format text as left-to-right"
-msgstr ""
+msgstr "Форматировать текст слева направо"
 
 #: src/CategoryView.vala:357
 msgid "Format text as right-to-left"
-msgstr ""
+msgstr "Форматировать текст справа налево"
 
 #: src/CategoryView.vala:362
 msgid "Format text as bold"
-msgstr ""
+msgstr "Форматировать текст жирным шрифтом"
 
 #: src/CategoryView.vala:367
 msgid "Format text as highlighted"
-msgstr ""
+msgstr "Форматировать текст как выделенный"
 
 #: src/CategoryView.vala:372
 msgid "Format text as italic"
-msgstr ""
+msgstr "Форматировать текст курсивом"
 
 #: src/CategoryView.vala:377
 msgid "Format text as underlined"
-msgstr ""
+msgstr "Форматировать текст как подчёркнутый"
 
 #: src/CategoryView.vala:382
 msgid "Format text as being struck through"
-msgstr ""
+msgstr "Форматировать текст как зачёркнутый"
 
 #: src/CategoryView.vala:387
 msgid "Go to the bottom, such as in a list"
-msgstr ""
+msgstr "Перейти в конец, например, некоторого списка"
 
 #: src/CategoryView.vala:392
 msgid "Go down, such as in a list"
-msgstr ""
+msgstr "Перейти ниже, например, в некотором списке"
 
 #: src/CategoryView.vala:397
 msgid "Go to the first item, such as in a list"
-msgstr ""
+msgstr "Перейти к первому элементу, например, некоторого списка"
 
 #: src/CategoryView.vala:402
 msgid "Go to the home location"
-msgstr ""
+msgstr "Перейти к расположению домашней папки"
 
 #: src/CategoryView.vala:407
 msgid "Jump to a location"
-msgstr ""
+msgstr "Перейти к расположению"
 
 #: src/CategoryView.vala:412
 msgid "Go to the last item, such as in a list"
-msgstr ""
+msgstr "Перейти к последнему элементу, например, некоторого списка"
 
 #: src/CategoryView.vala:417
 msgid "Go forward to the next item, such as in a list or navigation"
 msgstr ""
+"Перейти к следующему элементу, например, в некотором списке или навигации"
 
 #: src/CategoryView.vala:422
 msgid "Go back to the previous item, such as in a list or navigation"
 msgstr ""
+"Перейти к предыдущему элементу, например, в некотором списке или навигации"
 
 #: src/CategoryView.vala:427
 msgid "Go to the top, such as in a list"
-msgstr ""
+msgstr "Перейти в начало, например, некоторого списка"
 
 #: src/CategoryView.vala:432
 msgid "Go up, such as in a list"
-msgstr ""
+msgstr "Перейти выше, например, в некотором списке"
 
 #: src/CategoryView.vala:437
 msgid "Information about an app"
-msgstr ""
+msgstr "Информация о приложении"
 
 #: src/CategoryView.vala:442
 msgid "Get help"
-msgstr ""
+msgstr "Помощь"
 
 #: src/CategoryView.vala:447
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "Часто задаваемые вопросы"
 
 #: src/CategoryView.vala:452
 msgid "Make adjustments to an image"
-msgstr ""
+msgstr "Коррекция изображения"
 
 #: src/CategoryView.vala:457
 msgid "Automatically adjust an image"
-msgstr ""
+msgstr "Автокоррекция изображения"
 
 #: src/CategoryView.vala:462
 msgid "Crop an image"
-msgstr ""
+msgstr "Обрезать изображение"
 
 #: src/CategoryView.vala:467
 msgid "Remove red eye from an image"
-msgstr ""
+msgstr "Убрать эффект красных глаз с изображения"
 
 #: src/CategoryView.vala:472
 msgid "Insert an image"
-msgstr ""
+msgstr "Вставить изображение"
 
 #: src/CategoryView.vala:477
 msgid "Insert a link"
-msgstr ""
+msgstr "Вставить ссылку"
 
 #: src/CategoryView.vala:482
 msgid "Insert an object"
-msgstr ""
+msgstr "Вставить объект"
 
 #: src/CategoryView.vala:487
 msgid "Insert text"
-msgstr ""
+msgstr "Вставить текст"
 
 #: src/CategoryView.vala:492
 msgid "Add to a list"
-msgstr ""
+msgstr "Добавить в список"
 
 #: src/CategoryView.vala:497
 msgid "Remove from a list"
-msgstr ""
+msgstr "Удалить из списка"
 
 #: src/CategoryView.vala:502
 msgid "Forward an email"
-msgstr ""
+msgstr "Переслать письмо"
 
 #: src/CategoryView.vala:507
 msgid "Mark an email as important"
@@ -422,7 +424,7 @@ msgstr ""
 
 #: src/CategoryView.vala:512
 msgid "Mark an email as junk or spam"
-msgstr ""
+msgstr "Отметить письмо как спам"
 
 #: src/CategoryView.vala:517
 msgid "Mark an email as not junk or spam"
@@ -430,15 +432,15 @@ msgstr ""
 
 #: src/CategoryView.vala:522
 msgid "Mark an email as read"
-msgstr ""
+msgstr "Отметить письмо как прочитанное"
 
 #: src/CategoryView.vala:527
 msgid "Mark an email as unread"
-msgstr ""
+msgstr "Отметить письмо как непрочитанное"
 
 #: src/CategoryView.vala:532
 msgid "Compose a new email"
-msgstr ""
+msgstr "Написать новое письмо"
 
 #: src/CategoryView.vala:537
 msgid "Reply to all participants of an email"
@@ -446,11 +448,11 @@ msgstr ""
 
 #: src/CategoryView.vala:542
 msgid "Reply to the sender of an email"
-msgstr ""
+msgstr "Ответить отправителю письма"
 
 #: src/CategoryView.vala:547
 msgid "Send an email"
-msgstr ""
+msgstr "Отправить письмо"
 
 #: src/CategoryView.vala:552
 msgid "Eject removable media"
@@ -458,19 +460,19 @@ msgstr ""
 
 #: src/CategoryView.vala:557
 msgid "Pause media playback"
-msgstr ""
+msgstr "Приостановить воспроизведение"
 
 #: src/CategoryView.vala:562
 msgid "Start playing media"
-msgstr ""
+msgstr "Запустить воспроизведение"
 
 #: src/CategoryView.vala:567
 msgid "Stop playing media"
-msgstr ""
+msgstr "Остановить воспроизведение"
 
 #: src/CategoryView.vala:572
 msgid "Start recording"
-msgstr ""
+msgstr "Начать запись"
 
 #: src/CategoryView.vala:577
 msgid "Seek backwards or rewind"
