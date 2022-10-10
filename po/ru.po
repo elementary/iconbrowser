@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-10-09 20:57+0000\n"
-"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
+"PO-Revision-Date: 2022-10-10 13:04+0000\n"
+"Last-Translator: lenemter <lenemter@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -416,7 +416,7 @@ msgstr "Удалить из списка"
 
 #: src/CategoryView.vala:502
 msgid "Forward an email"
-msgstr ""
+msgstr "Переслать письмо"
 
 #: src/CategoryView.vala:507
 msgid "Mark an email as important"
@@ -424,7 +424,7 @@ msgstr ""
 
 #: src/CategoryView.vala:512
 msgid "Mark an email as junk or spam"
-msgstr ""
+msgstr "Отметить письмо как спам"
 
 #: src/CategoryView.vala:517
 msgid "Mark an email as not junk or spam"
@@ -432,15 +432,15 @@ msgstr ""
 
 #: src/CategoryView.vala:522
 msgid "Mark an email as read"
-msgstr ""
+msgstr "Отметить письмо как прочитанное"
 
 #: src/CategoryView.vala:527
 msgid "Mark an email as unread"
-msgstr ""
+msgstr "Отметить письмо как непрочитанное"
 
 #: src/CategoryView.vala:532
 msgid "Compose a new email"
-msgstr ""
+msgstr "Написать новое письмо"
 
 #: src/CategoryView.vala:537
 msgid "Reply to all participants of an email"
@@ -448,11 +448,11 @@ msgstr ""
 
 #: src/CategoryView.vala:542
 msgid "Reply to the sender of an email"
-msgstr ""
+msgstr "Ответить отправителю письма"
 
 #: src/CategoryView.vala:547
 msgid "Send an email"
-msgstr ""
+msgstr "Отправить письмо"
 
 #: src/CategoryView.vala:552
 msgid "Eject removable media"
@@ -460,19 +460,19 @@ msgstr ""
 
 #: src/CategoryView.vala:557
 msgid "Pause media playback"
-msgstr ""
+msgstr "Приостановить воспроизведение"
 
 #: src/CategoryView.vala:562
 msgid "Start playing media"
-msgstr ""
+msgstr "Запустить воспроизведение"
 
 #: src/CategoryView.vala:567
 msgid "Stop playing media"
-msgstr ""
+msgstr "Остановить воспроизведение"
 
 #: src/CategoryView.vala:572
 msgid "Start recording"
-msgstr ""
+msgstr "Начать запись"
 
 #: src/CategoryView.vala:577
 msgid "Seek backwards or rewind"
