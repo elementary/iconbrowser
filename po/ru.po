@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
 "PO-Revision-Date: 2022-10-11 09:56+0000\n"
-"Last-Translator: lenemter <lenemter@gmail.com>\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -420,11 +420,11 @@ msgstr "Переслать письмо"
 
 #: src/CategoryView.vala:507
 msgid "Mark an email as important"
-msgstr ""
+msgstr "Пометить письмо как важное"
 
 #: src/CategoryView.vala:512
 msgid "Mark an email as junk or spam"
-msgstr "Отметить письмо как спам"
+msgstr "Пометить письмо как спам"
 
 #: src/CategoryView.vala:517
 msgid "Mark an email as not junk or spam"
