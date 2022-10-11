@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-10-11 09:56+0000\n"
+"PO-Revision-Date: 2022-10-12 10:57+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
@@ -428,7 +428,7 @@ msgstr "Пометить письмо как спам"
 
 #: src/CategoryView.vala:517
 msgid "Mark an email as not junk or spam"
-msgstr "Отметить письмо"
+msgstr "Пометить письмо как не спам"
 
 #: src/CategoryView.vala:522
 msgid "Mark an email as read"
@@ -444,7 +444,7 @@ msgstr "Написать новое письмо"
 
 #: src/CategoryView.vala:537
 msgid "Reply to all participants of an email"
-msgstr ""
+msgstr "Ответить всем участникам переписки"
 
 #: src/CategoryView.vala:542
 msgid "Reply to the sender of an email"
@@ -456,7 +456,7 @@ msgstr "Отправить письмо"
 
 #: src/CategoryView.vala:552
 msgid "Eject removable media"
-msgstr ""
+msgstr "Извлечь съёмный носитель"
 
 #: src/CategoryView.vala:557
 msgid "Pause media playback"
@@ -476,39 +476,39 @@ msgstr "Начать запись"
 
 #: src/CategoryView.vala:577
 msgid "Seek backwards or rewind"
-msgstr ""
+msgstr "Перейти или перемотать назад"
 
 #: src/CategoryView.vala:582
 msgid "Seek forwards, or fastforward"
-msgstr ""
+msgstr "Перейти или перемотать вперёд"
 
 #: src/CategoryView.vala:587
 msgid "Skip backwards, such as to the previous track"
-msgstr ""
+msgstr "Перейти к предыдущему, например, треку"
 
 #: src/CategoryView.vala:592
 msgid "Skip forwards, such as to the next track"
-msgstr ""
+msgstr "Перейти к следующему, например, треку"
 
 #: src/CategoryView.vala:597
 msgid "Flip an object horizontally"
-msgstr ""
+msgstr "Отразить объект по горизонтали"
 
 #: src/CategoryView.vala:602
 msgid "Flip an object vertically"
-msgstr ""
+msgstr "Отразить объект по вертикали"
 
 #: src/CategoryView.vala:607
 msgid "Rotate an object to the left or counter-clockwise"
-msgstr ""
+msgstr "Повернуть объект влево или против часовой стрелки"
 
 #: src/CategoryView.vala:612
 msgid "Rotate an object to the right or clockwise"
-msgstr ""
+msgstr "Повернуть объект вправо или по часовой стрелке"
 
 #: src/CategoryView.vala:617
 msgid "Create a new database"
-msgstr ""
+msgstr "Создать новую базу данных"
 
 #: src/CategoryView.vala:622
 msgid ""
