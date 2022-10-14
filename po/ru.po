@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-10-12 10:57+0000\n"
+"PO-Revision-Date: 2022-10-14 18:25+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
@@ -515,94 +515,96 @@ msgid ""
 "Stop an action that may take a while to process, such as web page loading in "
 "a browser"
 msgstr ""
+"Остановить действие, которое может занять некоторое время, например загрузка "
+"веб-страницы"
 
 #: src/CategoryView.vala:627
 msgid "Lock the screen or the user's session"
-msgstr ""
+msgstr "Заблокировать экран или сеанс пользователя"
 
 #: src/CategoryView.vala:632
 msgid "Log out of the user's session"
-msgstr ""
+msgstr "Выход из сеанса пользователя"
 
 #: src/CategoryView.vala:637
 msgid "Run a system app or command"
-msgstr ""
+msgstr "Запуск системного приложения или команды"
 
 #: src/CategoryView.vala:642
 msgid "Search the system"
-msgstr ""
+msgstr "Поиск по системе"
 
 #: src/CategoryView.vala:647
 msgid "Restart the device"
-msgstr ""
+msgstr "Перезапустить (перезагрузить) устройство"
 
 #: src/CategoryView.vala:652
 msgid "Shut the device down"
-msgstr ""
+msgstr "Выключить устройство"
 
 #: src/CategoryView.vala:657
 msgid "Create a new tag"
-msgstr ""
+msgstr "Создать новый тег"
 
 #: src/CategoryView.vala:662
 msgid "Check spelling"
-msgstr ""
+msgstr "Проверка правописания"
 
 #: src/CategoryView.vala:667
 msgid "Set or adjust a timer"
-msgstr ""
+msgstr "Установка или настройка таймера"
 
 #: src/CategoryView.vala:672
 msgid "Display the current view as columns"
-msgstr ""
+msgstr "Отобразить в виде столбцов"
 
 #: src/CategoryView.vala:677
 msgid "display the current view in a continously scrolling list"
-msgstr ""
+msgstr "Отобразить в виде непрерывно прокручивающегося списка"
 
 #: src/CategoryView.vala:682
 msgid "display the current view as a split, dual view"
-msgstr ""
+msgstr "Отобразить в виде разделённого, двойного представления"
 
 #: src/CategoryView.vala:687
 msgid "View fullscreen"
-msgstr ""
+msgstr "Полноэкранный вид"
 
 #: src/CategoryView.vala:692
 msgid "Display the current view as a grid of images or icons"
-msgstr ""
+msgstr "Отобразить в виде сетки изображений или значков"
 
 #: src/CategoryView.vala:697
 msgid "Refresh or reload the current view"
-msgstr ""
+msgstr "Обновить или перезагрузить текущее представление"
 
 #: src/CategoryView.vala:702
 msgid "Leave fullscreen and return to a normal window"
-msgstr ""
+msgstr "Выход из полноэкранного режима и возврат к обычному окну"
 
 #: src/CategoryView.vala:707
 msgid "View more information about the given context in a popover or menu"
-msgstr ""
+msgstr "Просмотр дополнительной информации во всплывающем окне или меню"
 
 #: src/CategoryView.vala:712
 msgid "View more information about the given context in a new view or window"
-msgstr ""
+msgstr "Просмотр дополнительной информации в новом представлении или окне"
 
 #: src/CategoryView.vala:717
 msgid "Display the current view as a collection of pages"
-msgstr ""
+msgstr "Отобразить в виде набора страниц"
 
 #: src/CategoryView.vala:722
 msgid "Pin the current view so that it does not automatically hide"
-msgstr ""
+msgstr "Закрепить текущее представление, чтобы оно не скрывалось автоматически"
 
 #: src/CategoryView.vala:727
 msgid "Sort items in an ascending order, such as in a list"
-msgstr ""
+msgstr "Сортировка элементов в порядке возрастания, например, в списке"
 
 #: src/CategoryView.vala:732
 msgid "Sort items in a descending order, such as in a list"
-msgstr ""
+msgstr "Сортировка элементов в порядке убывания, например, в списке"
 
 #: src/CategoryView.vala:737
 msgid "Close the window"
