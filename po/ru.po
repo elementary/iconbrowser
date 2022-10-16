@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-10-14 18:25+0000\n"
+"PO-Revision-Date: 2022-10-16 06:56+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
@@ -616,7 +616,7 @@ msgstr ""
 
 #: src/CategoryView.vala:747
 msgid "Zoom to the best fit"
-msgstr ""
+msgstr "Масштабировать до оптимального размера"
 
 #: src/CategoryView.vala:752
 msgid "Zoom in"
@@ -624,7 +624,7 @@ msgstr ""
 
 #: src/CategoryView.vala:757
 msgid "Zoom to the original size"
-msgstr ""
+msgstr "Масштабировать до исходного размера"
 
 #: src/CategoryView.vala:762
 msgid "Zoom out"
