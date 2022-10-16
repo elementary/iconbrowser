@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
 "PO-Revision-Date: 2022-10-16 06:56+0000\n"
-"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
+"Last-Translator: lenemter <lenemter@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -608,11 +608,11 @@ msgstr "Сортировка элементов в порядке убывани
 
 #: src/CategoryView.vala:737
 msgid "Close the window"
-msgstr ""
+msgstr "Закрыть окно"
 
 #: src/CategoryView.vala:742
 msgid "Create a new window"
-msgstr ""
+msgstr "Создать новое окно"
 
 #: src/CategoryView.vala:747
 msgid "Zoom to the best fit"
@@ -620,7 +620,7 @@ msgstr "Масштабировать до оптимального размер�
 
 #: src/CategoryView.vala:752
 msgid "Zoom in"
-msgstr ""
+msgstr "Приблизить"
 
 #: src/CategoryView.vala:757
 msgid "Zoom to the original size"
@@ -628,11 +628,11 @@ msgstr "Масштабировать до исходного размера"
 
 #: src/CategoryView.vala:762
 msgid "Zoom out"
-msgstr ""
+msgstr "Отдалить"
 
 #: src/CategoryView.vala:767
 msgid "Calculator"
-msgstr ""
+msgstr "Калькулятор"
 
 #: src/CategoryView.vala:772
 msgid "International and extended text character map"
@@ -640,11 +640,11 @@ msgstr ""
 
 #: src/CategoryView.vala:777
 msgid "Dictionary"
-msgstr ""
+msgstr "Словарь"
 
 #: src/CategoryView.vala:782
 msgid "Text editor"
-msgstr ""
+msgstr "Редактор текста"
 
 #: src/CategoryView.vala:787
 msgid "Default or unprovided app icon"
@@ -652,11 +652,11 @@ msgstr ""
 
 #: src/CategoryView.vala:792
 msgid "Files"
-msgstr ""
+msgstr "Файлы"
 
 #: src/CategoryView.vala:797
 msgid "AppCenter or software installer"
-msgstr ""
+msgstr "AppCenter или установщик приложений"
 
 #: src/CategoryView.vala:802
 msgid "Software updater"
@@ -664,11 +664,11 @@ msgstr ""
 
 #: src/CategoryView.vala:807
 msgid "System resource monitor"
-msgstr ""
+msgstr "Системный монитор ресурсов"
 
 #: src/CategoryView.vala:812
 msgid "Terminal"
-msgstr ""
+msgstr "Терминал"
 
 #: src/CategoryView.vala:817
 msgid "Accessory or utility app category"
@@ -724,7 +724,7 @@ msgstr ""
 
 #: src/CategoryView.vala:882
 msgid "Bluetooth settings"
-msgstr ""
+msgstr "Настройки Bluetooth"
 
 #: src/CategoryView.vala:887
 msgid "Color settings such as printer, display, or camera calibration"
@@ -736,7 +736,7 @@ msgstr ""
 
 #: src/CategoryView.vala:897
 msgid "Universal access settings"
-msgstr ""
+msgstr "Настройки универсального доступа"
 
 #: src/CategoryView.vala:902
 msgid "Universal access settings for pointing, such as controlling the cursor"
@@ -756,15 +756,15 @@ msgstr ""
 
 #: src/CategoryView.vala:922
 msgid "Font settings"
-msgstr ""
+msgstr "Настройки шрифта"
 
 #: src/CategoryView.vala:927
 msgid "Keyboard settings, such as layout or shortcuts"
-msgstr ""
+msgstr "Настройки клавиатуры, например, раскладка или сочетания клавиш"
 
 #: src/CategoryView.vala:932
 msgid "International localization, language, or region settings"
-msgstr ""
+msgstr "Настройки международной локализации, языка или региона"
 
 #: src/CategoryView.vala:937
 msgid "Online account and cloud sync or sign in settings"
@@ -772,7 +772,7 @@ msgstr ""
 
 #: src/CategoryView.vala:942
 msgid "Settings for peripherals, such as a mouse or keyboard"
-msgstr ""
+msgstr "Настройки периферийных устройств, таких как мышь или клавиатура"
 
 #: src/CategoryView.vala:947
 msgid "Sound or audio input and output settings"
@@ -780,7 +780,7 @@ msgstr ""
 
 #: src/CategoryView.vala:952
 msgid "Desktop wallpaper or background settings"
-msgstr ""
+msgstr "Настройки обоев рабочего стола или заднего фона"
 
 #: src/CategoryView.vala:957
 msgid "Other, miscellaneous, or uncategorized settings"
@@ -796,11 +796,11 @@ msgstr ""
 
 #: src/CategoryView.vala:972
 msgid "Notification alert settings"
-msgstr ""
+msgstr "Настройки уведомлений"
 
 #: src/CategoryView.vala:977
 msgid "Parental control settings"
-msgstr ""
+msgstr "Настройки родительского контроля"
 
 #: src/CategoryView.vala:982
 msgid "Power management or energy usage settings, such as battery"
@@ -808,7 +808,7 @@ msgstr ""
 
 #: src/CategoryView.vala:987
 msgid "Privacy and security settings"
-msgstr ""
+msgstr "Настройки приватности и безопасности"
 
 #: src/CategoryView.vala:992
 msgid ""
@@ -817,7 +817,7 @@ msgstr ""
 
 #: src/CategoryView.vala:997
 msgid "Time and date settings"
-msgstr ""
+msgstr "Настройки даты и времени"
 
 #: src/CategoryView.vala:1002
 msgid "Window management settings"
@@ -825,7 +825,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1007
 msgid "Help"
-msgstr ""
+msgstr "Помощь"
 
 #: src/CategoryView.vala:1012
 msgid "Audio output device, such as a sound card or speaker"
@@ -841,7 +841,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1027
 msgid "Microphone"
-msgstr ""
+msgstr "Микрофон"
 
 #: src/CategoryView.vala:1032
 msgid "Subwoofer or bass speaker"
@@ -849,35 +849,35 @@ msgstr ""
 
 #: src/CategoryView.vala:1037
 msgid "Battery"
-msgstr ""
+msgstr "Батарея"
 
 #: src/CategoryView.vala:1042
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: src/CategoryView.vala:1047
 msgid "Digital photo or still camera"
-msgstr ""
+msgstr "Цифровая фотография или фотокамера"
 
 #: src/CategoryView.vala:1052
 msgid "Video or movie camera"
-msgstr ""
+msgstr "Видео или видеокамера"
 
 #: src/CategoryView.vala:1057
 msgid "Webcam or built-in camera"
-msgstr ""
+msgstr "Веб-камера или встроенная камера"
 
 #: src/CategoryView.vala:1062
 msgid "Generic or desktop computer"
-msgstr ""
+msgstr "Обычный или настольный компьютер"
 
 #: src/CategoryView.vala:1067
 msgid "Laptop or notebook computer"
-msgstr ""
+msgstr "Ноутбук"
 
 #: src/CategoryView.vala:1072
 msgid "Hard disk or storage drive"
-msgstr ""
+msgstr "Жесткий диск или накопитель"
 
 #: src/CategoryView.vala:1077
 msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
