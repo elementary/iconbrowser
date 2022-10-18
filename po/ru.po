@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-10-16 06:56+0000\n"
+"PO-Revision-Date: 2022-10-17 23:57+0000\n"
 "Last-Translator: lenemter <lenemter@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
@@ -620,7 +620,7 @@ msgstr "Масштабировать до оптимального размер�
 
 #: src/CategoryView.vala:752
 msgid "Zoom in"
-msgstr "Приблизить"
+msgstr "Увеличить, приблизить"
 
 #: src/CategoryView.vala:757
 msgid "Zoom to the original size"
@@ -628,7 +628,7 @@ msgstr "Масштабировать до исходного размера"
 
 #: src/CategoryView.vala:762
 msgid "Zoom out"
-msgstr "Отдалить"
+msgstr "Уменьшить, отдалить"
 
 #: src/CategoryView.vala:767
 msgid "Calculator"
@@ -636,7 +636,7 @@ msgstr "Калькулятор"
 
 #: src/CategoryView.vala:772
 msgid "International and extended text character map"
-msgstr ""
+msgstr "Таблица международных и дополнительных символов"
 
 #: src/CategoryView.vala:777
 msgid "Dictionary"
@@ -648,7 +648,7 @@ msgstr "Редактор текста"
 
 #: src/CategoryView.vala:787
 msgid "Default or unprovided app icon"
-msgstr ""
+msgstr "Значок по умолчанию, или программа не предоставила значок"
 
 #: src/CategoryView.vala:792
 msgid "Files"
@@ -660,7 +660,7 @@ msgstr "AppCenter или установщик приложений"
 
 #: src/CategoryView.vala:802
 msgid "Software updater"
-msgstr ""
+msgstr "Средство обновлений программного обеспечения"
 
 #: src/CategoryView.vala:807
 msgid "System resource monitor"
@@ -877,7 +877,7 @@ msgstr "Ноутбук"
 
 #: src/CategoryView.vala:1072
 msgid "Hard disk or storage drive"
-msgstr "Жесткий диск или накопитель"
+msgstr "Жёсткий диск или накопитель"
 
 #: src/CategoryView.vala:1077
 msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
