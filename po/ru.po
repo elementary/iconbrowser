@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-10-17 23:57+0000\n"
-"Last-Translator: lenemter <lenemter@gmail.com>\n"
+"PO-Revision-Date: 2022-10-30 12:57+0000\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -672,119 +672,126 @@ msgstr "Терминал"
 
 #: src/CategoryView.vala:817
 msgid "Accessory or utility app category"
-msgstr ""
+msgstr "Категория прикладных приложений и утилит"
 
 #: src/CategoryView.vala:822
 msgid "Programming, software development, code, or IDE app category"
 msgstr ""
+"Категория приложений для программирования, разработки программного "
+"обеспечения, IDE или работы с кодом"
 
 #: src/CategoryView.vala:827
 msgid "Education, learning, or school app category"
-msgstr ""
+msgstr "Категория приложения для образования, обучения или школы"
 
 #: src/CategoryView.vala:832
 msgid "Engineering app category"
-msgstr ""
+msgstr "Категория инженерных приложений"
 
 #: src/CategoryView.vala:837
 msgid "Games app category"
-msgstr ""
+msgstr "Категория игр и приложений для развлечения"
 
 #: src/CategoryView.vala:842
 msgid "Graphics, drawing, art, or photo manipulation app category"
 msgstr ""
+"Категория приложений для рисования и работы с графикой, рисунками или "
+"фотографиями"
 
 #: src/CategoryView.vala:847
 msgid "Internet or web related app category"
-msgstr ""
+msgstr "Категория веб-приложений и приложений, связанных с Интернетом"
 
 #: src/CategoryView.vala:852
 msgid "Multimedia, audio, or video app category"
-msgstr ""
+msgstr "Категория мультимедиа, аудио или видео приложений"
 
 #: src/CategoryView.vala:857
 msgid "Office app category"
-msgstr ""
+msgstr "Категория офисных приложений"
 
 #: src/CategoryView.vala:862
 msgid "Other or uncategorized app category"
-msgstr ""
+msgstr "Категория других, некатегоризированных приложений"
 
 #: src/CategoryView.vala:867
 msgid "Science app category"
-msgstr ""
+msgstr "Категория научных приложений"
 
 #: src/CategoryView.vala:872
 msgid "System tools or OS app category"
-msgstr ""
+msgstr "Категория системных инструментов или приложений операционной системы"
 
 #: src/CategoryView.vala:877
 msgid "Utility app category"
-msgstr ""
+msgstr "Категория приложений-утилит"
 
 #: src/CategoryView.vala:882
 msgid "Bluetooth settings"
-msgstr "Настройки Bluetooth"
+msgstr "Параметры Bluetooth"
 
 #: src/CategoryView.vala:887
 msgid "Color settings such as printer, display, or camera calibration"
-msgstr ""
+msgstr "Параметры цвета, например калибровка принтера, дисплея или камеры"
 
 #: src/CategoryView.vala:892
 msgid "Desktop interface settings"
-msgstr ""
+msgstr "Параметры интерфейса рабочего стола"
 
 #: src/CategoryView.vala:897
 msgid "Universal access settings"
-msgstr "Настройки универсального доступа"
+msgstr "Параметры универсального доступа"
 
 #: src/CategoryView.vala:902
 msgid "Universal access settings for pointing, such as controlling the cursor"
 msgstr ""
+"Параметры универсального доступа для наведения на объекты, например "
+"управление курсором"
 
 #: src/CategoryView.vala:907
 msgid "Universal access settings for zooming or magnifying"
-msgstr ""
+msgstr "Параметры универсального доступа для увеличения или приближения"
 
 #: src/CategoryView.vala:912
 msgid "App-related settings, such as default or startup apps"
-msgstr ""
+msgstr "Настройки приложений, например приложения по умолчанию или автозапуск"
 
 #: src/CategoryView.vala:917
 msgid "Display settings, such as resolution or scaling"
-msgstr ""
+msgstr "Параметры экрана, например, настройка разрешения или масштабирования"
 
 #: src/CategoryView.vala:922
 msgid "Font settings"
-msgstr "Настройки шрифта"
+msgstr "Параметры шрифта"
 
 #: src/CategoryView.vala:927
 msgid "Keyboard settings, such as layout or shortcuts"
-msgstr "Настройки клавиатуры, например, раскладка или сочетания клавиш"
+msgstr "Параметры клавиатуры, например, раскладка или сочетания клавиш"
 
 #: src/CategoryView.vala:932
 msgid "International localization, language, or region settings"
-msgstr "Настройки международной локализации, языка или региона"
+msgstr "Параметры международной локализации, языка или региона"
 
 #: src/CategoryView.vala:937
 msgid "Online account and cloud sync or sign in settings"
 msgstr ""
+"Параметры онлайн-аккаунтов и облачной синхронизации, или параметры входа"
 
 #: src/CategoryView.vala:942
 msgid "Settings for peripherals, such as a mouse or keyboard"
-msgstr "Настройки периферийных устройств, таких как мышь или клавиатура"
+msgstr "Параметры периферийных устройств, таких как мышь или клавиатура"
 
 #: src/CategoryView.vala:947
 msgid "Sound or audio input and output settings"
-msgstr ""
+msgstr "Параметры звука, аудиовходов и аудиовыходов"
 
 #: src/CategoryView.vala:952
 msgid "Desktop wallpaper or background settings"
-msgstr "Настройки обоев рабочего стола или заднего фона"
+msgstr "Параметры фона или обоев рабочего стола"
 
 #: src/CategoryView.vala:957
 msgid "Other, miscellaneous, or uncategorized settings"
-msgstr ""
+msgstr "Другие, прочие или некатегоризированные параметры и настройки"
 
 #: src/CategoryView.vala:962
 msgid "System settings or preferences"
@@ -792,36 +799,39 @@ msgstr ""
 
 #: src/CategoryView.vala:967
 msgid "Network settings, such as wireless, Ethernet, or VPN"
-msgstr ""
+msgstr "Параметры сети, беспроводных подключений, Ethernet или VPN"
 
 #: src/CategoryView.vala:972
 msgid "Notification alert settings"
-msgstr "Настройки уведомлений"
+msgstr "Параметры уведомлений"
 
 #: src/CategoryView.vala:977
 msgid "Parental control settings"
-msgstr "Настройки родительского контроля"
+msgstr "Параметры родительского контроля"
 
 #: src/CategoryView.vala:982
 msgid "Power management or energy usage settings, such as battery"
 msgstr ""
+"Параметры питания или настройка энергопотребления, например, аккумулятора"
 
 #: src/CategoryView.vala:987
 msgid "Privacy and security settings"
-msgstr "Настройки приватности и безопасности"
+msgstr "Параметры конфиденциальности и безопасности"
 
 #: src/CategoryView.vala:992
 msgid ""
 "Sharing settings, such as library sharing or media streaming over a network"
 msgstr ""
+"Параметры общего доступа, такие как общий доступ к библиотеке или потоковая "
+"передача мультимедиа по сети"
 
 #: src/CategoryView.vala:997
 msgid "Time and date settings"
-msgstr "Настройки даты и времени"
+msgstr "Параметры даты и времени"
 
 #: src/CategoryView.vala:1002
 msgid "Window management settings"
-msgstr ""
+msgstr "Параметры управления окнами"
 
 #: src/CategoryView.vala:1007
 msgid "Help"
