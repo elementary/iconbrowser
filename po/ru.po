@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
 "PO-Revision-Date: 2022-10-30 12:57+0000\n"
-"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
+"Last-Translator: lenemter <lenemter@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -795,7 +795,7 @@ msgstr "Другие, прочие или некатегоризированны
 
 #: src/CategoryView.vala:962
 msgid "System settings or preferences"
-msgstr ""
+msgstr "Параметры системы"
 
 #: src/CategoryView.vala:967
 msgid "Network settings, such as wireless, Ethernet, or VPN"
