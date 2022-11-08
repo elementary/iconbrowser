@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.github.danrabbit.lookbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-10-09 20:57+0000\n"
+"PO-Revision-Date: 2022-11-06 22:57+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/pt/>\n"
@@ -2124,10 +2124,8 @@ msgid "Unavailable"
 msgstr "Indisponível"
 
 #: src/MainWindow.vala:16
-#, fuzzy
-#| msgid "Web browser"
 msgid "Icon Browser"
-msgstr "Navegador de Internet"
+msgstr "Explorador de ícones"
 
 #: src/MainWindow.vala:19
 msgid "Light background"

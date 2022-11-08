@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-11-01 23:57+0000\n"
+"PO-Revision-Date: 2022-11-03 03:57+0000\n"
 "Last-Translator: lenemter <lenemter@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "extra/ru/>\n"
@@ -30,7 +30,7 @@ msgstr "Просмотр и поиск системных значков"
 
 #: data/iconbrowser.desktop.in:9
 msgid "icons;iconography;"
-msgstr "icons;iconography;значки;иконки; пиктограммы;"
+msgstr "icons;iconography;значки;иконки;пиктограммы;"
 
 #: data/iconbrowser.appdata.xml.in:12
 msgid ""

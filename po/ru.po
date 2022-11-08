@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-11-01 23:57+0000\n"
-"Last-Translator: DartDeaDia <dartdeadia@protonmail.com>\n"
+"PO-Revision-Date: 2022-11-05 11:57+0000\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -839,15 +839,15 @@ msgstr "Помощь"
 
 #: src/CategoryView.vala:1012
 msgid "Audio output device, such as a sound card or speaker"
-msgstr ""
+msgstr "Устройство вывода звука, например звуковая карта или динамик"
 
 #: src/CategoryView.vala:1017
 msgid "Audio output device representing headphones"
-msgstr ""
+msgstr "Устройство вывода звука типа наушников"
 
 #: src/CategoryView.vala:1022
 msgid "Audio output device representing a headset"
-msgstr ""
+msgstr "Устройство вывода звука типа гарнитуры"
 
 #: src/CategoryView.vala:1027
 msgid "Microphone"
@@ -855,11 +855,11 @@ msgstr "Микрофон"
 
 #: src/CategoryView.vala:1032
 msgid "Subwoofer or bass speaker"
-msgstr ""
+msgstr "Сабвуфер или басовый динамик"
 
 #: src/CategoryView.vala:1037
 msgid "Battery"
-msgstr "Батарея"
+msgstr "Батарея, аккумулятор"
 
 #: src/CategoryView.vala:1042
 msgid "Bluetooth"
@@ -867,11 +867,11 @@ msgstr "Bluetooth"
 
 #: src/CategoryView.vala:1047
 msgid "Digital photo or still camera"
-msgstr "Цифровая фотография или фотокамера"
+msgstr "Цифровая камера или фотоаппарат"
 
 #: src/CategoryView.vala:1052
 msgid "Video or movie camera"
-msgstr "Видео или видеокамера"
+msgstr "Видео- или кинокамера"
 
 #: src/CategoryView.vala:1057
 msgid "Webcam or built-in camera"
@@ -895,22 +895,21 @@ msgstr "Оптический привод, например для дисков 
 
 #: src/CategoryView.vala:1082
 msgid "Removable storage device, such as a portable hard drive"
-msgstr ""
+msgstr "Съёмное запоминающее устройство, например портативный жесткий диск"
 
 #: src/CategoryView.vala:1087
 msgid "USB drive or stick, such as a flash, jump, or thumb drive"
-msgstr ""
+msgstr "USB-накопитель или флешка, флеш-накопитель"
 
 #: src/CategoryView.vala:1092
 msgid "Video game controller, such as a paddle, remote, or joystick"
-msgstr ""
+msgstr "Контроллер для видеоигр, например, геймпад, джойстик или пульт ДУ"
 
 #: src/CategoryView.vala:1097
 msgid "Keyboard"
 msgstr "Клавиатура"
 
 #: src/CategoryView.vala:1102
-#, fuzzy
 msgid "Mouse"
 msgstr "Мышь"
 
@@ -919,10 +918,13 @@ msgid ""
 "Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
 "Bamboo"
 msgstr ""
+"Графический планшет или средство рукописного ввода, например, дигитайзер "
+"Wacom, Intuos, Cintiq или Bamboo"
 
 #: src/CategoryView.vala:1112
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
 msgstr ""
+"Сенсорная панель ввода, например, мультитач-трекпад или сенсорная панель"
 
 #: src/CategoryView.vala:1117
 msgid "Flash media such as a memory stick or SD card"
