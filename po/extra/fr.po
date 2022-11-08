@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-09-26 16:12+0000\n"
+"PO-Revision-Date: 2022-11-09 09:29+0000\n"
 "Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
 "Language-Team: French <https://l10n.elementary.io/projects/icon-browser/"
 "extra/fr/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
 msgid "Icon Browser"
@@ -73,14 +73,12 @@ msgid "Updated for Gtk 4"
 msgstr "Mise à jour pour Gtk 4"
 
 #: data/iconbrowser.appdata.xml.in:62
-#, fuzzy
-#| msgid "Add audio-headphones and audio-headset"
 msgid "Add \"audio-headphones\" and \"audio-headset\""
-msgstr "Ajout des icônes audio-headphones et audio-headset"
+msgstr "Ajout des icônes « audio-headphones » et « audio-headset »"
 
 #: data/iconbrowser.appdata.xml.in:63
 msgid "Add \"distribute-*\" action icons"
-msgstr ""
+msgstr "Ajout des icônes d'action « distribute-* »"
 
 #: data/iconbrowser.appdata.xml.in:64
 msgid "Disable sidebar when searching"
@@ -89,6 +87,8 @@ msgstr "Désactivation de la barre latérale pendant la recherche"
 #: data/iconbrowser.appdata.xml.in:65
 msgid "Remove app icons that aren't in the freedesktop.org specification"
 msgstr ""
+"Suppression des icônes des applications qui ne sont pas dans la "
+"spécification de freedesktop.org"
 
 #: data/iconbrowser.appdata.xml.in:66
 msgid "Add status emblems"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:79
 msgid "Initial release! 🎉️"
-msgstr ""
+msgstr "Version initiale ! 🎉️"
 
 #~ msgid "I'm a new soul"
 #~ msgstr "Je suis une nouvelle âme"
