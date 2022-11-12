@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-11-05 11:57+0000\n"
+"PO-Revision-Date: 2022-11-15 12:37+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -928,139 +928,147 @@ msgstr ""
 
 #: src/CategoryView.vala:1117
 msgid "Flash media such as a memory stick or SD card"
-msgstr ""
+msgstr "Флэш-носитель, например карта памяти или SD-карта"
 
 #: src/CategoryView.vala:1122
 msgid "Optical media, such as a CD, DVD, or Blu-ray disc"
-msgstr ""
+msgstr "Оптический носитель, например компакт-диск (CD), DVD или диск Blu-ray"
 
 #: src/CategoryView.vala:1127
 msgid "Network modem or router"
-msgstr ""
+msgstr "Сетевой модем или маршрутизатор (роутер)"
 
 #: src/CategoryView.vala:1132
 msgid "Media player device, such as a portable mp3 music player or iPod"
-msgstr ""
+msgstr "Медиаплеер, например портативный mp3-плеер или iPod"
 
 #: src/CategoryView.vala:1137
 msgid ""
 "Cellular type wireless network or device, such as a 2G, 3G, or 4G LTE "
 "connection, modem, or SIM card"
 msgstr ""
+"Беспроводная сеть или устройство сотового типа, например соединение 2G, 3G "
+"или 4G LTE, модем или SIM-карта"
 
 #: src/CategoryView.vala:1142
 msgid "Networking firewall"
-msgstr ""
+msgstr "Сетевой брандмауэр"
 
 #: src/CategoryView.vala:1147
 msgid "Virtual private network or VPN connection"
-msgstr ""
+msgstr "Виртуальная частная сеть или VPN-соединение"
 
 #: src/CategoryView.vala:1152
 msgid "Wired network connection, such as Ethernet"
-msgstr ""
+msgstr "Проводное сетевое подключение, например Ethernet"
 
 #: src/CategoryView.vala:1157
 msgid "Wireless network connection, such as Wi-Fi"
-msgstr ""
+msgstr "Беспроводное сетевое подключение, например Wi-Fi"
 
 #: src/CategoryView.vala:1162
 msgid ""
 "Wireless hotspot connection, such as through a mobile cellular phone or "
 "smartphone"
 msgstr ""
+"Беспроводное подключение к точке доступа, например, через мобильный сотовый "
+"телефон или смартфон"
 
 #: src/CategoryView.vala:1167
 msgid "Generic phone, such as a mobile Android smartphone or iPhone"
-msgstr ""
+msgstr "Стандартный телефон, например Android-смартфон или iPhone"
 
 #: src/CategoryView.vala:1172
 msgid "Printer"
-msgstr ""
+msgstr "Принтер"
 
 #: src/CategoryView.vala:1177
 msgid "Network-connected or shared printer"
-msgstr ""
+msgstr "Сетевой или общий принтер"
 
 #: src/CategoryView.vala:1182
 msgid "Scanner"
-msgstr ""
+msgstr "Сканер"
 
 #: src/CategoryView.vala:1187
 msgid "Display, screen, or monitor"
-msgstr ""
+msgstr "Дисплей, экран или монитор"
 
 #: src/CategoryView.vala:1192
 msgid "Default selection emblem, such as for a printer or other device"
-msgstr ""
+msgstr "Стандартная эмблема выбора, например, принтера или другого устройства"
 
 #: src/CategoryView.vala:1197
 msgid "Disabled feature or service emblem"
-msgstr ""
+msgstr "Эмблема отключённой функции или службы"
 
 #: src/CategoryView.vala:1202
 msgid "Documents emblem"
-msgstr ""
+msgstr "Эмблема документов"
 
 #: src/CategoryView.vala:1207
 msgid "Downloads emblem"
-msgstr ""
+msgstr "Эмблема загрузок"
 
 #: src/CategoryView.vala:1212
 msgid "Enabled feature or service emblem"
-msgstr ""
+msgstr "Эмблема включённой функции или службы"
 
 #: src/CategoryView.vala:1217
 msgid "Emblem for the error status of a feature or service"
-msgstr ""
+msgstr "Эмблема статуса ошибки функции или службы"
 
 #: src/CategoryView.vala:1222
 msgid "Item the user has marked as a favorite"
-msgstr ""
+msgstr "Элемент, помеченный пользователем как избранный"
 
 #: src/CategoryView.vala:1227
 msgid "Item marked as important"
-msgstr ""
+msgstr "Элемент, отмеченный как важный"
 
 #: src/CategoryView.vala:1232
 msgid "Item related to email"
-msgstr ""
+msgstr "Элемент, связанный с электронной почтой"
 
 #: src/CategoryView.vala:1237
 msgid "Emblem for the partially enabled status of a feature or service"
-msgstr ""
+msgstr "Эмблема статуса частично включённой функции или службы"
 
 #: src/CategoryView.vala:1242
 msgid "Photos emblem"
-msgstr ""
+msgstr "Эмблема фотографий"
 
 #: src/CategoryView.vala:1247
 msgid "Item is read-only, or the user cannot write to or make changes to it"
 msgstr ""
+"Элемент доступен только для чтения, либо пользователь не может записывать в "
+"него или изменять его"
 
 #: src/CategoryView.vala:1252
 msgid "Item shared with other people or users"
-msgstr ""
+msgstr "Элемент, которым поделились с другими людьми или пользователями"
 
 #: src/CategoryView.vala:1257
 msgid "Item is a symbolic link to a file somewhere else"
 msgstr ""
+"Элемент является символической ссылкой на файл, находящийся в другом месте"
 
 #: src/CategoryView.vala:1262
 msgid "Item is configured to be synchronized to another device or location"
 msgstr ""
+"Элемент настроен на синхронизацию с другим устройством или местоположением"
 
 #: src/CategoryView.vala:1267
 msgid "Item is a system file, library, setting, or data"
-msgstr ""
+msgstr "Элемент является системным файлом, библиотекой, параметрами или данными"
 
 #: src/CategoryView.vala:1272
 msgid "Item is unreadable or inaccessible"
-msgstr ""
+msgstr "Элемент не может быть прочитан или недоступен"
 
 #: src/CategoryView.vala:1277
 msgid "Emblem for the warning status of a feature or service"
-msgstr ""
+msgstr "Эмблема предупреждения о статусе функции или службы"
 
 #: src/CategoryView.vala:1282
 msgid "0:-) emoticon"
