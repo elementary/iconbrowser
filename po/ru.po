@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-11-15 12:37+0000\n"
+"PO-Revision-Date: 2022-11-23 10:41+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
@@ -1072,95 +1072,95 @@ msgstr "Эмблема предупреждения о статусе функц
 
 #: src/CategoryView.vala:1282
 msgid "0:-) emoticon"
-msgstr ""
+msgstr "Смайлик « 0:-) »"
 
 #: src/CategoryView.vala:1287
 msgid "X-( emoticon"
-msgstr ""
+msgstr "Смайлик « X-( »"
 
 #: src/CategoryView.vala:1292
 msgid "B-) emoticon"
-msgstr ""
+msgstr "Смайлик « B-) »"
 
 #: src/CategoryView.vala:1297
 msgid ":'( emoticon"
-msgstr ""
+msgstr "Смайлик « :'( »"
 
 #: src/CategoryView.vala:1302
 msgid ">:-) emoticon"
-msgstr ""
+msgstr "Смайлик « >:-) »"
 
 #: src/CategoryView.vala:1307
 msgid ":-[ emoticon"
-msgstr ""
+msgstr "Смайлик « :-[ »"
 
 #: src/CategoryView.vala:1312
 msgid "<3 emoticon"
-msgstr ""
+msgstr "Смайлик « <3 »"
 
 #: src/CategoryView.vala:1317
 msgid "</3 emoticon"
-msgstr ""
+msgstr "Смайлик « </3 »"
 
 #: src/CategoryView.vala:1322
 msgid ":-* emoticon"
-msgstr ""
+msgstr "Смайлик « :-* »"
 
 #: src/CategoryView.vala:1327
 msgid ":-)) emoticon"
-msgstr ""
+msgstr "Смайлик « :-)) »"
 
 #: src/CategoryView.vala:1332
 msgid ":-(|) emoticon"
-msgstr ""
+msgstr "Смайлик « :-(|) »"
 
 #: src/CategoryView.vala:1337
 msgid ":-| emoticon"
-msgstr ""
+msgstr "Смайлик « :-| »"
 
 #: src/CategoryView.vala:1342
 msgid ":-P emoticon"
-msgstr ""
+msgstr "Смайлик « :-P »"
 
 #: src/CategoryView.vala:1347
 msgid ":-( emoticon"
-msgstr ""
+msgstr "Смайлик « :-( »"
 
 #: src/CategoryView.vala:1352
 msgid ":-& emoticon"
-msgstr ""
+msgstr "Смайлик « :-& »"
 
 #: src/CategoryView.vala:1357
 msgid ":-) emoticon"
-msgstr ""
+msgstr "Смайлик « :-) »"
 
 #: src/CategoryView.vala:1362
 msgid ":-D emoticon"
-msgstr ""
+msgstr "Смайлик « :-D »"
 
 #: src/CategoryView.vala:1367
 msgid ":-! emoticon"
-msgstr ""
+msgstr "Смайлик « :-! »"
 
 #: src/CategoryView.vala:1372
 msgid ":-0 emoticon"
-msgstr ""
+msgstr "Смайлик « :-0 »"
 
 #: src/CategoryView.vala:1377
 msgid "|-) emoticon"
-msgstr ""
+msgstr "Смайлик « |-) »"
 
 #: src/CategoryView.vala:1382
 msgid ":-/ emoticon"
-msgstr ""
+msgstr "Смайлик « :-/ »"
 
 #: src/CategoryView.vala:1387
 msgid ";-) emoticon"
-msgstr ""
+msgstr "Смайлик « ;-) »"
 
 #: src/CategoryView.vala:1392
 msgid ":-S emoticon"
-msgstr ""
+msgstr "Смайлик « :-S »"
 
 #: src/CategoryView.vala:1397
 msgid "EPUB Ebook file types"
