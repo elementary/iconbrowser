@@ -13,7 +13,7 @@ public class IconView : Gtk.Box {
             icon_name: "address-book-new",
             description: _("Create a new address book"),
             category: CategoryView.Category.ACTIONS,
-            selected_icon: new IconDetails(
+            selected_icon: new IconDetails (
                 "address-book-new",
                 24
             )
@@ -155,7 +155,9 @@ public class IconView : Gtk.Box {
         notify["selected-icon"].connect (() => {
             var name = selected_icon.full_icon_name;
             var size = selected_icon.size_in_px;
-            source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\") {\n    pixel_size = %d\n};".printf (name, size);
+            source_buffer.text = """var icon = new Gtk.Image.from_icon_name ("%s") {
+    pixel_size = %d
+};""".printf (name, size);
         });
     }
 
@@ -206,7 +208,7 @@ public class IconView : Gtk.Box {
                 hexpand = true
             };
 
-            var icon_and_label = new Gtk.Grid (){
+            var icon_and_label = new Gtk.Grid () {
                 row_spacing = 12,
                 valign = Gtk.Align.CENTER,
                 margin_top = 4,
@@ -243,7 +245,7 @@ public class IconDetails : Object {
     public string full_icon_name { get; construct; }
     public int size_in_px { get; construct; }
 
-    public IconDetails(string name, int size) {
+    public IconDetails (string name, int size) {
         Object (
             full_icon_name: name,
             size_in_px: size
