@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-11-26 13:52+0000\n"
-"Last-Translator: lenemter <lenemter@gmail.com>\n"
+"PO-Revision-Date: 2022-11-27 14:25+0000\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -1172,7 +1172,7 @@ msgstr "Типы файлов изображений Adobe Illustrator"
 
 #: src/CategoryView.vala:1407
 msgid "Javascript programming language file types"
-msgstr "Типы файлов языка программирования Javascript"
+msgstr "Типы файлов языка программирования JavaScript"
 
 #: src/CategoryView.vala:1412
 msgid "Microsoft Word file types"
@@ -1272,11 +1272,12 @@ msgstr "Типы файлов изображений"
 
 #: src/CategoryView.vala:1532
 msgid "XCF image file types"
-msgstr "Типы файлов XCF изображений"
+msgstr "Типы файлов изображений XCF"
 
 #: src/CategoryView.vala:1537
+#, fuzzy
 msgid "Internet Feed"
-msgstr ""
+msgstr "Данные Интернет-канала связи"
 
 #: src/CategoryView.vala:1542
 msgid "Model"
@@ -1296,35 +1297,35 @@ msgstr "Типы файлов пакетов"
 
 #: src/CategoryView.vala:1562
 msgid "Credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой"
 
 #: src/CategoryView.vala:1567
 msgid "American Express branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой American Express"
 
 #: src/CategoryView.vala:1572
 msgid "Diner's Club branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой Diner's Club"
 
 #: src/CategoryView.vala:1577
 msgid "Discover branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой Discover"
 
 #: src/CategoryView.vala:1582
 msgid "Japan Credit Bureau branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой Japan Credit Bureau"
 
 #: src/CategoryView.vala:1587
 msgid "Mastercard branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой Mastercard"
 
 #: src/CategoryView.vala:1592
 msgid "China UnionPay branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой China UnionPay"
 
 #: src/CategoryView.vala:1597
 msgid "Visa branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой Visa"
 
 #: src/CategoryView.vala:1602
 msgid "CSS text file types"
