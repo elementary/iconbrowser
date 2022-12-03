@@ -106,6 +106,29 @@ public class IconView : Gtk.Box {
         source_view.add_css_class (Granite.STYLE_CLASS_CARD);
         source_view.add_css_class (Granite.STYLE_CLASS_ROUNDED);
 
+        var source_overlay = new Gtk.Overlay () {
+            child = source_view
+        };
+
+        var copy_button = new Gtk.Button.from_icon_name ("edit-copy") {
+            tooltip_markup = Granite.markup_accel_tooltip ({"<Ctrl>C"}, _("Copy")),
+            valign = Gtk.Align.START,
+            halign = Gtk.Align.END,
+            visible = false,
+            margin_top = 8,
+            margin_end = 8
+        };
+        source_overlay.add_overlay (copy_button);
+
+        var enterLeaveCtrl =  new Gtk.EventControllerMotion ();
+        enterLeaveCtrl.enter.connect (() => {
+            copy_button.show ();
+        });
+        enterLeaveCtrl.leave.connect (() => {
+            copy_button.hide ();
+        });
+        source_overlay.add_controller (enterLeaveCtrl);
+
         var content_area = new Gtk.Box (Gtk.Orientation.VERTICAL, 12) {
             vexpand = true
         };
@@ -115,7 +138,7 @@ public class IconView : Gtk.Box {
         content_area.append (symbolic_title);
         content_area.append (symbolic_row);
         content_area.append (snippet_title);
-        content_area.append (source_view);
+        content_area.append (source_overlay);
 
         var scrolled = new Gtk.ScrolledWindow () {
             child = content_area,
