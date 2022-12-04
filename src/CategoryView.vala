@@ -8,6 +8,9 @@ public class CategoryView : Gtk.Box {
 
     public Gtk.ListBox listbox { get; private set; }
     public Gtk.SearchEntry search_entry { get; private set; }
+    public IconDetails selected_icon { get {return icon_view.selected_icon; } }
+
+    private IconView icon_view;
 
     public enum Category {
         ACTIONS,
@@ -2375,7 +2378,7 @@ public class CategoryView : Gtk.Box {
     };
 
     construct {
-        var icon_view = new IconView ();
+        icon_view = new IconView ();
 
         search_entry = new Gtk.SearchEntry () {
             hexpand = true,

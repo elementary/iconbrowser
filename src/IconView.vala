@@ -112,6 +112,7 @@ public class IconView : Gtk.Box {
 
         var copy_button = new Gtk.Button.from_icon_name ("edit-copy") {
             tooltip_markup = Granite.markup_accel_tooltip ({"<Ctrl>C"}, _("Copy")),
+            action_name = "app.copy",
             valign = Gtk.Align.START,
             halign = Gtk.Align.END,
             visible = false,
@@ -176,11 +177,7 @@ public class IconView : Gtk.Box {
         });
 
         notify["selected-icon"].connect (() => {
-            var name = selected_icon.full_icon_name;
-            var size = selected_icon.size_in_px;
-            source_buffer.text = """var icon = new Gtk.Image.from_icon_name ("%s") {
-    pixel_size = %d
-};""".printf (name, size);
+            source_buffer.text = selected_icon.code_snippet ();
         });
     }
 
@@ -264,14 +261,3 @@ public class IconView : Gtk.Box {
     }
 }
 
-public class IconDetails : Object {
-    public string full_icon_name { get; construct; }
-    public int size_in_px { get; construct; }
-
-    public IconDetails (string name, int size) {
-        Object (
-            full_icon_name: name,
-            size_in_px: size
-        );
-    }
-}

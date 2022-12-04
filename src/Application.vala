@@ -26,6 +26,15 @@ public class IconBrowser.App : Gtk.Application {
 
         quit_action.activate.connect (quit);
 
+        var copy_action = new SimpleAction ("copy", null);
+
+        add_action (copy_action);
+        set_accels_for_action ("app.copy",  {"<Control>c"});
+
+        copy_action.activate.connect (() => {
+            ((MainWindow) active_window).copy_code_snippet ();
+        });
+
         var provider = new Gtk.CssProvider ();
         provider.load_from_resource ("/io/elementary/iconbrowser/Application.css");
         Gtk.StyleContext.add_provider_for_display (Gdk.Display.get_default (), provider, Gtk.STYLE_PROVIDER_PRIORITY_APPLICATION);
@@ -58,3 +67,4 @@ public class IconBrowser.App : Gtk.Application {
         return new IconBrowser.App ().run (args);
     }
 }
+
