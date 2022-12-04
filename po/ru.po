@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-11-23 10:41+0000\n"
+"PO-Revision-Date: 2022-11-27 14:25+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
@@ -1164,219 +1164,220 @@ msgstr "Смайлик « :-S »"
 
 #: src/CategoryView.vala:1397
 msgid "EPUB Ebook file types"
-msgstr ""
+msgstr "Типы файлов EPUB Ebook"
 
 #: src/CategoryView.vala:1402
 msgid "Adobe Illustrator image file types"
-msgstr ""
+msgstr "Типы файлов изображений Adobe Illustrator"
 
 #: src/CategoryView.vala:1407
 msgid "Javascript programming language file types"
-msgstr ""
+msgstr "Типы файлов языка программирования JavaScript"
 
 #: src/CategoryView.vala:1412
 msgid "Microsoft Word file types"
-msgstr ""
+msgstr "Типы файлов Microsoft Word"
 
 #: src/CategoryView.vala:1417
 msgid "Binary file types"
-msgstr ""
+msgstr "Бинарные типы файлов"
 
 #: src/CategoryView.vala:1422
 msgid "PDF file types"
-msgstr ""
+msgstr "Типы PDF файлов"
 
 #: src/CategoryView.vala:1427
 msgid "PGP file types"
-msgstr ""
+msgstr "Типы PGP файлов"
 
 #: src/CategoryView.vala:1432
 msgid "Debian package file types"
-msgstr ""
+msgstr "Типы файлов пакетов Debian"
 
 #: src/CategoryView.vala:1437
 msgid "Flatpak reference file types"
-msgstr ""
+msgstr "Типы файлов ссылок Flatpak"
 
 #: src/CategoryView.vala:1442
 msgid "Microsoft Access file types"
-msgstr ""
+msgstr "Типы файлов Microsoft Access"
 
 #: src/CategoryView.vala:1447
 msgid "Microsoft Excel file types"
-msgstr ""
+msgstr "Типы файлов Microsoft Excel"
 
 #: src/CategoryView.vala:1452
 msgid "Microsoft PowerPoint file types"
-msgstr ""
+msgstr "Типы файлов Microsoft PowerPoint"
 
 #: src/CategoryView.vala:1457
 msgid "Oasis OpenDocument file types"
-msgstr ""
+msgstr "Типы файлов Oasis OpenDocument"
 
 #: src/CategoryView.vala:1462
 msgid "Torrent file types"
-msgstr ""
+msgstr "Типы файлов Torrent"
 
 #: src/CategoryView.vala:1467
 msgid "CD Image file types"
-msgstr ""
+msgstr "Типы файлов образов CD-дисков"
 
 #: src/CategoryView.vala:1472
 msgid "Desktop file types"
-msgstr ""
+msgstr "Типы файлов рабочего стола"
 
 #: src/CategoryView.vala:1477
 msgid "Executable file types"
-msgstr ""
+msgstr "Типы исполняемых файлов"
 
 #: src/CategoryView.vala:1482
 msgid "FictionBook file types"
-msgstr ""
+msgstr "Типы файлов FictionBook"
 
 #: src/CategoryView.vala:1487
 msgid "Firmware file types"
-msgstr ""
+msgstr "Типы файлов прошивок"
 
 #: src/CategoryView.vala:1492
 msgid "PHP programming language file types"
-msgstr ""
+msgstr "Типы файлов языка программирования PHP"
 
 #: src/CategoryView.vala:1497
 msgid "Ruby programming language file types"
-msgstr ""
+msgstr "Типы файлов языка программирования Ruby"
 
 #: src/CategoryView.vala:1502
 msgid "Generic audio file types"
-msgstr ""
+msgstr "Типы аудиофайлов"
 
 #: src/CategoryView.vala:1507
 msgid "Audio playlist file types"
-msgstr ""
+msgstr "Типы файлов аудио плейлистов"
 
 #: src/CategoryView.vala:1512
 msgid "Extension"
-msgstr ""
+msgstr "Расширение"
 
 #: src/CategoryView.vala:1517
 msgid "Generic font file types"
-msgstr ""
+msgstr "Типы файлов шрифтов"
 
 #: src/CategoryView.vala:1522
 msgid "Adobe Photoshop image file types"
-msgstr ""
+msgstr "Типы файлов изображений Adobe Photoshop"
 
 #: src/CategoryView.vala:1527
 msgid "Generic image file types"
-msgstr ""
+msgstr "Типы файлов изображений"
 
 #: src/CategoryView.vala:1532
 msgid "XCF image file types"
-msgstr ""
+msgstr "Типы файлов изображений XCF"
 
 #: src/CategoryView.vala:1537
+#, fuzzy
 msgid "Internet Feed"
-msgstr ""
+msgstr "Данные Интернет-канала связи"
 
 #: src/CategoryView.vala:1542
 msgid "Model"
-msgstr ""
+msgstr "Модель"
 
 #: src/CategoryView.vala:1547
 msgid "Contact file types"
-msgstr ""
+msgstr "Типы файлов контактов"
 
 #: src/CategoryView.vala:1552
 msgid "Database file types"
-msgstr ""
+msgstr "Типы файлов баз данных"
 
 #: src/CategoryView.vala:1557
 msgid "Generic package file types"
-msgstr ""
+msgstr "Типы файлов пакетов"
 
 #: src/CategoryView.vala:1562
 msgid "Credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой"
 
 #: src/CategoryView.vala:1567
 msgid "American Express branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой American Express"
 
 #: src/CategoryView.vala:1572
 msgid "Diner's Club branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой Diner's Club"
 
 #: src/CategoryView.vala:1577
 msgid "Discover branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой Discover"
 
 #: src/CategoryView.vala:1582
 msgid "Japan Credit Bureau branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой Japan Credit Bureau"
 
 #: src/CategoryView.vala:1587
 msgid "Mastercard branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой Mastercard"
 
 #: src/CategoryView.vala:1592
 msgid "China UnionPay branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой China UnionPay"
 
 #: src/CategoryView.vala:1597
 msgid "Visa branded credit or debit card payments"
-msgstr ""
+msgstr "Оплата кредитной или дебетовой картой Visa"
 
 #: src/CategoryView.vala:1602
 msgid "CSS text file types"
-msgstr ""
+msgstr "Типы файлов CSS"
 
 #: src/CategoryView.vala:1607
 msgid "HTML text file types"
-msgstr ""
+msgstr "Типы файлов HTML"
 
 #: src/CategoryView.vala:1612
 msgid "Markdown text file types"
-msgstr ""
+msgstr "Типы файлов Markdown"
 
 #: src/CategoryView.vala:1617
 msgid "Bibtext file types"
-msgstr ""
+msgstr "Типы файлов Bibtext"
 
 #: src/CategoryView.vala:1622
 msgid "Changelog file types"
-msgstr ""
+msgstr "Типы файлов Changelog"
 
 #: src/CategoryView.vala:1627
 msgid "C programming language header file types"
-msgstr ""
+msgstr "Типы файлов заголовков языка программирования C"
 
 #: src/CategoryView.vala:1632
 msgid "License file types"
-msgstr ""
+msgstr "Типы файлов лицензий"
 
 #: src/CategoryView.vala:1637
 msgid "C programming language file types"
-msgstr ""
+msgstr "Типы файлов языка программирования C"
 
 #: src/CategoryView.vala:1642
 msgid "Generic text file types"
-msgstr ""
+msgstr "Типы текстовых файлов"
 
 #: src/CategoryView.vala:1647
 msgid "Generic text templates"
-msgstr ""
+msgstr "Общие текстовые шаблоны"
 
 #: src/CategoryView.vala:1652
 msgid "Gettext translation file types"
-msgstr ""
+msgstr "Типы файлов перевода Gettext"
 
 #: src/CategoryView.vala:1657
 msgid "Gettext translation model file types"
-msgstr ""
+msgstr "Типы файлов модели перевода Gettext"
 
 #: src/CategoryView.vala:1662
 msgid "Go programming language file types"
-msgstr ""
+msgstr "Типы файлов языка программирования Go"
 
 #: src/CategoryView.vala:1667
 msgid "Install file types"
