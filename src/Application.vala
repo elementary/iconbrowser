@@ -29,7 +29,7 @@ public class IconBrowser.App : Gtk.Application {
         var copy_action = new SimpleAction ("copy", null);
 
         add_action (copy_action);
-        set_accels_for_action ("app.copy",  {"<Control>c"});
+        set_accels_for_action ("app.copy", {"<Control>c"});
 
         copy_action.activate.connect (() => {
             ((MainWindow) active_window).copy_code_snippet ();
@@ -67,4 +67,3 @@ public class IconBrowser.App : Gtk.Application {
         return new IconBrowser.App ().run (args);
     }
 }
-

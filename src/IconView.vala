@@ -121,14 +121,14 @@ public class IconView : Gtk.Box {
         };
         source_overlay.add_overlay (copy_button);
 
-        var enterLeaveCtrl =  new Gtk.EventControllerMotion ();
-        enterLeaveCtrl.enter.connect (() => {
+        var enter_leave_ctrl = new Gtk.EventControllerMotion ();
+        enter_leave_ctrl.enter.connect (() => {
             copy_button.show ();
         });
-        enterLeaveCtrl.leave.connect (() => {
+        enter_leave_ctrl.leave.connect (() => {
             copy_button.hide ();
         });
-        source_overlay.add_controller (enterLeaveCtrl);
+        source_overlay.add_controller (enter_leave_ctrl);
 
         var content_area = new Gtk.Box (Gtk.Orientation.VERTICAL, 12) {
             vexpand = true
@@ -260,4 +260,3 @@ public class IconView : Gtk.Box {
         ((Gtk.ToggleButton) btn).active = true;
     }
 }
-
