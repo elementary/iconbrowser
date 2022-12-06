@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: com.github.danrabbit.lookbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-09-26 16:12+0000\n"
+"PO-Revision-Date: 2022-12-07 11:25+0000\n"
 "Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
-"Language-Team: French <https://l10n.elementary.io/projects/icon-browser/icon-"
-"browser/fr/>\n"
+"Language-Team: French <https://l10n.elementary.io/projects/icon-browser/"
+"icon-browser/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -1152,7 +1152,7 @@ msgstr "Émoji :D"
 
 #: src/CategoryView.vala:1367
 msgid ":-! emoticon"
-msgstr "Émoji :!"
+msgstr "Émoji :-!"
 
 #: src/CategoryView.vala:1372
 msgid ":-0 emoticon"
@@ -1648,7 +1648,7 @@ msgid ""
 "Audio volume is muted or off and something is being blocked from making noise"
 msgstr ""
 "Le volume audio est muet ou désactivé et quelque chose est empêché de faire "
-"du bruit."
+"du bruit"
 
 #: src/CategoryView.vala:1987
 msgid ""
@@ -1809,7 +1809,7 @@ msgstr "Envoyer une pièce jointe ou un fichier dans un e-mail"
 
 #: src/CategoryView.vala:2142
 msgid "New, unread, or unviewed email"
-msgstr "Nouvel e-mail, non lu ou non consulté."
+msgstr "Nouvel e-mail, non lu ou non consulté"
 
 #: src/CategoryView.vala:2147
 msgid "Read or already-viewed email"
