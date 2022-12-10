@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
 "PO-Revision-Date: 2022-12-10 12:59+0000\n"
-"Last-Translator: lenemter <lenemter@gmail.com>\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -1760,15 +1760,15 @@ msgstr ""
 
 #: src/CategoryView.vala:2117
 msgid "Location services are in use"
-msgstr ""
+msgstr "Используются службы определения местоположения"
 
 #: src/CategoryView.vala:2122
 msgid "Location services are disabled and unavailable"
-msgstr ""
+msgstr "Службы определения местоположения отключены и недоступны"
 
 #: src/CategoryView.vala:2127
 msgid "Location services are available, but not in use"
-msgstr ""
+msgstr "Службы определения местоположения доступны, но не используются"
 
 #: src/CategoryView.vala:2132
 msgid ""
