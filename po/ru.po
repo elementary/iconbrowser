@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
 "PO-Revision-Date: 2022-12-10 15:01+0000\n"
-"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
+"Last-Translator: lenemter <lenemter@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -1755,7 +1755,7 @@ msgstr "Заглушка, используемая при загрузке из�
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
 msgstr ""
-"Заглушка, используемая когда изображение или миниатюра отсутствует или не "
+"Заглушка, используемая, когда изображение или миниатюра отсутствует или не "
 "может быть загружена"
 
 #: src/CategoryView.vala:2117
