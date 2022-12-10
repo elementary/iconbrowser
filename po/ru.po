@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-12-10 15:01+0000\n"
-"Last-Translator: lenemter <lenemter@gmail.com>\n"
+"PO-Revision-Date: 2022-12-11 15:25+0000\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -1895,9 +1895,8 @@ msgid "Item is starred, favorited, or pinned by the user"
 msgstr "Элемент помечен, добавлен в избранное или закреплён пользователем"
 
 #: src/CategoryView.vala:2267
-#, fuzzy
 msgid "Task is due soon"
-msgstr "Близится срок сдачи задания"
+msgstr "Приближается срок сдачи задания"
 
 #: src/CategoryView.vala:2272
 msgid "Task is incomplete past the due date"
