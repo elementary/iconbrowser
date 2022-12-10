@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
 "PO-Revision-Date: 2022-12-11 15:25+0000\n"
-"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
+"Last-Translator: lenemter <lenemter@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -1632,7 +1632,6 @@ msgid "Audio volume is muted or off"
 msgstr "Звук приглушён или выключен"
 
 #: src/CategoryView.vala:1982
-#, fuzzy
 msgid ""
 "Audio volume is muted or off and something is being blocked from making noise"
 msgstr "Звук приглушён или выключен, и что-то блокируется от создания шума"
