@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-12-26 05:25+0000\n"
+"PO-Revision-Date: 2022-12-30 02:25+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -667,220 +667,222 @@ msgstr "ターミナル"
 
 #: src/CategoryView.vala:817
 msgid "Accessory or utility app category"
-msgstr ""
+msgstr "ツールアプリやユーティリティーアプリのカテゴリー"
 
 #: src/CategoryView.vala:822
 msgid "Programming, software development, code, or IDE app category"
-msgstr ""
+msgstr "プログラミング／ソフトウェア開発／コーディング／IDE "
+"に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:827
 msgid "Education, learning, or school app category"
-msgstr ""
+msgstr "教育／学習／教育機関に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:832
 msgid "Engineering app category"
-msgstr ""
+msgstr "機械工学に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:837
 msgid "Games app category"
-msgstr ""
+msgstr "ゲームに関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:842
 msgid "Graphics, drawing, art, or photo manipulation app category"
-msgstr ""
+msgstr "グラフィック／イラスト制作／美術／写真編集に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:847
 msgid "Internet or web related app category"
-msgstr ""
+msgstr "インターネットや Web に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:852
 msgid "Multimedia, audio, or video app category"
-msgstr ""
+msgstr "マルチメディア／音声／動画に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:857
 msgid "Office app category"
-msgstr ""
+msgstr "Office アプリのカテゴリー"
 
 #: src/CategoryView.vala:862
 msgid "Other or uncategorized app category"
-msgstr ""
+msgstr "それ以外のアプリ、および未知のアプリのカテゴリー"
 
 #: src/CategoryView.vala:867
 msgid "Science app category"
-msgstr ""
+msgstr "科学に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:872
 msgid "System tools or OS app category"
-msgstr ""
+msgstr "システムツールおよび OS に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:877
 msgid "Utility app category"
-msgstr ""
+msgstr "ユーティリティーアプリのカテゴリー"
 
 #: src/CategoryView.vala:882
 msgid "Bluetooth settings"
-msgstr ""
+msgstr "Bluetooth の設定"
 
 #: src/CategoryView.vala:887
 msgid "Color settings such as printer, display, or camera calibration"
-msgstr ""
+msgstr "プリンター／ディスプレイ／カメラの補正など、色に関する設定"
 
 #: src/CategoryView.vala:892
 msgid "Desktop interface settings"
-msgstr ""
+msgstr "デスクトップのインターフェースの設定"
 
 #: src/CategoryView.vala:897
 msgid "Universal access settings"
-msgstr ""
+msgstr "ユニバーサルアクセスの設定"
 
 #: src/CategoryView.vala:902
 msgid "Universal access settings for pointing, such as controlling the cursor"
-msgstr ""
+msgstr "カーソルコントロールなど、ポインターに関連するユニバーサルアクセスの設定"
 
 #: src/CategoryView.vala:907
 msgid "Universal access settings for zooming or magnifying"
-msgstr ""
+msgstr "拡大／縮小や拡大鏡に関連するユニバーサルアクセスの設定"
 
 #: src/CategoryView.vala:912
 msgid "App-related settings, such as default or startup apps"
-msgstr ""
+msgstr "デフォルトアプリや自動起動するアプリなど、アプリに関連する設定"
 
 #: src/CategoryView.vala:917
 msgid "Display settings, such as resolution or scaling"
-msgstr ""
+msgstr "解像度やスケーリングなどのディスプレイの設定"
 
 #: src/CategoryView.vala:922
 msgid "Font settings"
-msgstr ""
+msgstr "フォントの設定"
 
 #: src/CategoryView.vala:927
 msgid "Keyboard settings, such as layout or shortcuts"
-msgstr ""
+msgstr "レイアウトやショートカットなどのキーボードの設定"
 
 #: src/CategoryView.vala:932
 msgid "International localization, language, or region settings"
-msgstr ""
+msgstr "国際化／地域化、言語、地域の設定"
 
 #: src/CategoryView.vala:937
 msgid "Online account and cloud sync or sign in settings"
-msgstr ""
+msgstr "オンラインアカウント／クラウド同期／サインインの設定"
 
 #: src/CategoryView.vala:942
 msgid "Settings for peripherals, such as a mouse or keyboard"
-msgstr ""
+msgstr "マウスやキーボードなど、周辺機器に関連する設定"
 
 #: src/CategoryView.vala:947
 msgid "Sound or audio input and output settings"
-msgstr ""
+msgstr "サウンド／音声入出力の設定"
 
 #: src/CategoryView.vala:952
 msgid "Desktop wallpaper or background settings"
-msgstr ""
+msgstr "デスクトップの壁紙や背景の設定"
 
 #: src/CategoryView.vala:957
 msgid "Other, miscellaneous, or uncategorized settings"
-msgstr ""
+msgstr "それ以外の設定や細かい設定、および未知の設定"
 
 #: src/CategoryView.vala:962
 msgid "System settings or preferences"
-msgstr ""
+msgstr "システムの設定"
 
 #: src/CategoryView.vala:967
 msgid "Network settings, such as wireless, Ethernet, or VPN"
-msgstr ""
+msgstr "無線／イーサネット／VPN などの、ネットワークの設定"
 
 #: src/CategoryView.vala:972
 msgid "Notification alert settings"
-msgstr ""
+msgstr "通知アラートの設定"
 
 #: src/CategoryView.vala:977
 msgid "Parental control settings"
-msgstr ""
+msgstr "ペアレンタルコントロールの設定"
 
 #: src/CategoryView.vala:982
 msgid "Power management or energy usage settings, such as battery"
-msgstr ""
+msgstr "バッテリーなど、電源管理および電力使用の設定"
 
 #: src/CategoryView.vala:987
 msgid "Privacy and security settings"
-msgstr ""
+msgstr "プライバシーとセキュリティーの設定"
 
 #: src/CategoryView.vala:992
 msgid ""
 "Sharing settings, such as library sharing or media streaming over a network"
-msgstr ""
+msgstr "ネットワークを介してのライブラリ共有やメディアストリーミングなどの、共有の設"
+"定"
 
 #: src/CategoryView.vala:997
 msgid "Time and date settings"
-msgstr ""
+msgstr "時刻と日付の設定"
 
 #: src/CategoryView.vala:1002
 msgid "Window management settings"
-msgstr ""
+msgstr "ウィンドウ管理の設定"
 
 #: src/CategoryView.vala:1007
 msgid "Help"
-msgstr ""
+msgstr "ヘルプ"
 
 #: src/CategoryView.vala:1012
 msgid "Audio output device, such as a sound card or speaker"
-msgstr ""
+msgstr "サウンドカードやスピーカーなどの、音声出力デバイス"
 
 #: src/CategoryView.vala:1017
 msgid "Audio output device representing headphones"
-msgstr ""
+msgstr "音声出力デバイス (ヘッドフォン)"
 
 #: src/CategoryView.vala:1022
 msgid "Audio output device representing a headset"
-msgstr ""
+msgstr "音声出力デバイス (ヘッドセット)"
 
 #: src/CategoryView.vala:1027
 msgid "Microphone"
-msgstr ""
+msgstr "マイク"
 
 #: src/CategoryView.vala:1032
 msgid "Subwoofer or bass speaker"
-msgstr ""
+msgstr "サブウーファーやベーススピーカー"
 
 #: src/CategoryView.vala:1037
 msgid "Battery"
-msgstr ""
+msgstr "バッテリー"
 
 #: src/CategoryView.vala:1042
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: src/CategoryView.vala:1047
 msgid "Digital photo or still camera"
-msgstr ""
+msgstr "静止画用のデジタルカメラ"
 
 #: src/CategoryView.vala:1052
 msgid "Video or movie camera"
-msgstr ""
+msgstr "ビデオカメラ"
 
 #: src/CategoryView.vala:1057
 msgid "Webcam or built-in camera"
-msgstr ""
+msgstr "Web カメラおよびビルトインカメラ"
 
 #: src/CategoryView.vala:1062
 msgid "Generic or desktop computer"
-msgstr ""
+msgstr "一般的なデスクトップコンピューター"
 
 #: src/CategoryView.vala:1067
 msgid "Laptop or notebook computer"
-msgstr ""
+msgstr "ノート型コンピューター"
 
 #: src/CategoryView.vala:1072
 msgid "Hard disk or storage drive"
-msgstr ""
+msgstr "ハードディスクおよびストレージドライブ"
 
 #: src/CategoryView.vala:1077
 msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
-msgstr ""
+msgstr "CD／DVD／ブルーレイディスクなどを読み書きする光学デバイス"
 
 #: src/CategoryView.vala:1082
 msgid "Removable storage device, such as a portable hard drive"
-msgstr ""
+msgstr "ポータブルハードドライブなどのリムーバブルストレージデバイス"
 
 #: src/CategoryView.vala:1087
 msgid "USB drive or stick, such as a flash, jump, or thumb drive"
@@ -888,89 +890,91 @@ msgstr ""
 
 #: src/CategoryView.vala:1092
 msgid "Video game controller, such as a paddle, remote, or joystick"
-msgstr ""
+msgstr "パドル／リモコン／ジョイスティックなどの、ビデオゲームコントローラー"
 
 #: src/CategoryView.vala:1097
 msgid "Keyboard"
-msgstr ""
+msgstr "キーボード"
 
 #: src/CategoryView.vala:1102
 msgid "Mouse"
-msgstr ""
+msgstr "マウス"
 
 #: src/CategoryView.vala:1107
 msgid ""
 "Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
 "Bamboo"
-msgstr ""
+msgstr "Wacom ペンタブレット／Intuos／Cintiq／Bamboo "
+"などの、グラフィックタブレットやペン"
 
 #: src/CategoryView.vala:1112
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
-msgstr ""
+msgstr "マルチタッチトラックパッドやクリックパッドなどのタッチパッド"
 
 #: src/CategoryView.vala:1117
 msgid "Flash media such as a memory stick or SD card"
-msgstr ""
+msgstr "メモリースティックや SD カードなどのフラッシュメディア"
 
 #: src/CategoryView.vala:1122
 msgid "Optical media, such as a CD, DVD, or Blu-ray disc"
-msgstr ""
+msgstr "CD／DVD／ブルーレイディスクなどの光学メディア"
 
 #: src/CategoryView.vala:1127
 msgid "Network modem or router"
-msgstr ""
+msgstr "ネットワークモデムおよびルーター"
 
 #: src/CategoryView.vala:1132
 msgid "Media player device, such as a portable mp3 music player or iPod"
-msgstr ""
+msgstr "メディア再生デバイス"
 
 #: src/CategoryView.vala:1137
 msgid ""
 "Cellular type wireless network or device, such as a 2G, 3G, or 4G LTE "
 "connection, modem, or SIM card"
-msgstr ""
+msgstr "2G／3G／4G LTE 接続や、モデム、SIM "
+"カードなどの、セルラー方式の無線ネットワークおよびデバイス"
 
 #: src/CategoryView.vala:1142
 msgid "Networking firewall"
-msgstr ""
+msgstr "ネットワークファイアウォール"
 
 #: src/CategoryView.vala:1147
 msgid "Virtual private network or VPN connection"
-msgstr ""
+msgstr "仮想プライベートネットワーク、および VPN 接続"
 
 #: src/CategoryView.vala:1152
 msgid "Wired network connection, such as Ethernet"
-msgstr ""
+msgstr "イーサネットなどの有線ネットワーク接続"
 
 #: src/CategoryView.vala:1157
 msgid "Wireless network connection, such as Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi などの無線ネットワーク接続"
 
 #: src/CategoryView.vala:1162
 msgid ""
 "Wireless hotspot connection, such as through a mobile cellular phone or "
 "smartphone"
-msgstr ""
+msgstr "携帯電話やスマートフォンを介した無線ホットスポット接続"
 
 #: src/CategoryView.vala:1167
 msgid "Generic phone, such as a mobile Android smartphone or iPhone"
-msgstr ""
+msgstr "Android スマートフォンや iPhone などの、一般的な携帯電話"
 
 #: src/CategoryView.vala:1172
 msgid "Printer"
-msgstr ""
+msgstr "プリンター"
 
 #: src/CategoryView.vala:1177
 msgid "Network-connected or shared printer"
-msgstr ""
+msgstr "ネットワーク接続／ネットワーク共有されたプリンター"
 
 #: src/CategoryView.vala:1182
 msgid "Scanner"
-msgstr ""
+msgstr "スキャナー"
 
 #: src/CategoryView.vala:1187
 msgid "Display, screen, or monitor"
-msgstr ""
+msgstr "ディスプレイ、画面、およびモニター"
 
 #: src/CategoryView.vala:1192
 msgid "Default selection emblem, such as for a printer or other device"
