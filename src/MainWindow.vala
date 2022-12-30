@@ -114,6 +114,13 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         });
     }
 
+    public void copy_code_snippet () {
+        var snippet = category_view.selected_icon.code_snippet ();
+        var display = Gdk.Display.get_default ();
+        var clipboard = display.get_clipboard ();
+        clipboard.set_text (snippet);
+    }
+
     [CCode (instance_pos = -1)]
     private bool filter_function (Gtk.ListBoxRow row) {
         if (category_view.search_entry.text == "") {
