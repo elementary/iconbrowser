@@ -8,25 +8,28 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-01-12 06:25+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://l10n.elementary.io/projects/"
+"icon-browser/extra/nb/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
 msgid "Icon Browser"
-msgstr ""
+msgstr "Ikonutforsker"
 
 #: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:10
 msgid "Browse and find system icons"
-msgstr ""
+msgstr "Utforsk og finn systemikoner"
 
 #: data/iconbrowser.desktop.in:9
 msgid "icons;iconography;"
-msgstr ""
+msgstr "ikoner;ikonografi;"
 
 #: data/iconbrowser.appdata.xml.in:12
 msgid ""
@@ -36,11 +39,11 @@ msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:17
 msgid "Browse system icons"
-msgstr ""
+msgstr "Utforsk systemikoner"
 
 #: data/iconbrowser.appdata.xml.in:21
 msgid "Search by description"
-msgstr ""
+msgstr "Søk etter beskrivelse"
 
 #: data/iconbrowser.appdata.xml.in:38
 msgid "elementary, Inc."
