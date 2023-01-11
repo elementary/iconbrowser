@@ -8,33 +8,36 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-01-12 06:25+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://l10n.elementary.io/projects/"
+"icon-browser/icon-browser/nb/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
-msgstr ""
+msgstr "Handlinger"
 
 #: src/CategoryView.vala:28
 msgid "Applications"
-msgstr ""
+msgstr "Programmer"
 
 #: src/CategoryView.vala:30
 msgid "Categories"
-msgstr ""
+msgstr "Kategorier"
 
 #: src/CategoryView.vala:32
 msgid "Devices"
-msgstr ""
+msgstr "Enheter"
 
 #: src/CategoryView.vala:34
 msgid "Emblems"
-msgstr ""
+msgstr "Emblemer"
 
 #: src/CategoryView.vala:36
 msgid "Emotes"
@@ -42,15 +45,15 @@ msgstr ""
 
 #: src/CategoryView.vala:38
 msgid "Media Types"
-msgstr ""
+msgstr "Mediatyper"
 
 #: src/CategoryView.vala:40
 msgid "Places"
-msgstr ""
+msgstr "Steder"
 
 #: src/CategoryView.vala:42
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: src/CategoryView.vala:44
 msgid "OTHER"
@@ -58,7 +61,7 @@ msgstr ""
 
 #: src/CategoryView.vala:62 src/IconView.vala:13
 msgid "Create a new address book"
-msgstr ""
+msgstr "Opprett en ny adressebok"
 
 #: src/CategoryView.vala:67
 msgid "Align objects to center along the X axis"
@@ -94,11 +97,11 @@ msgstr ""
 
 #: src/CategoryView.vala:107
 msgid "Create a new bookmark"
-msgstr ""
+msgstr "Opprett et nytt bokmerke"
 
 #: src/CategoryView.vala:112
 msgid "Download a file from the Internet"
-msgstr ""
+msgstr "Last ned en fil fra Internett"
 
 #: src/CategoryView.vala:117
 msgid "Initiate or accept a call"
@@ -150,19 +153,19 @@ msgstr ""
 
 #: src/CategoryView.vala:177
 msgid "Export a document"
-msgstr ""
+msgstr "Eksporter et dokument"
 
 #: src/CategoryView.vala:182
 msgid "Import a document"
-msgstr ""
+msgstr "Importer et dokument"
 
 #: src/CategoryView.vala:187
 msgid "Create a new document"
-msgstr ""
+msgstr "Opprett et nytt dokument"
 
 #: src/CategoryView.vala:192
 msgid "Open a document"
-msgstr ""
+msgstr "Åpne et dokument"
 
 #: src/CategoryView.vala:197
 msgid "Open a document that was recently opened"
@@ -190,39 +193,39 @@ msgstr ""
 
 #: src/CategoryView.vala:227
 msgid "Save"
-msgstr ""
+msgstr "Lagre"
 
 #: src/CategoryView.vala:232
 msgid "Save as"
-msgstr ""
+msgstr "Lagre som"
 
 #: src/CategoryView.vala:237
 msgid "Send"
-msgstr ""
+msgstr "Send"
 
 #: src/CategoryView.vala:242
 msgid "Edit"
-msgstr ""
+msgstr "Rediger"
 
 #: src/CategoryView.vala:247
 msgid "Clear"
-msgstr ""
+msgstr "Tøm"
 
 #: src/CategoryView.vala:252
 msgid "Copy"
-msgstr ""
+msgstr "Kopier"
 
 #: src/CategoryView.vala:257
 msgid "Cut"
-msgstr ""
+msgstr "Klipp ut"
 
 #: src/CategoryView.vala:262
 msgid "Delete"
-msgstr ""
+msgstr "Slett"
 
 #: src/CategoryView.vala:267
 msgid "Find"
-msgstr ""
+msgstr "Finn"
 
 #: src/CategoryView.vala:272
 msgid "Find & Replace"
@@ -234,19 +237,19 @@ msgstr ""
 
 #: src/CategoryView.vala:282
 msgid "Paste"
-msgstr ""
+msgstr "Lim inn"
 
 #: src/CategoryView.vala:287
 msgid "Redo"
-msgstr ""
+msgstr "Gjenta"
 
 #: src/CategoryView.vala:292
 msgid "Select all"
-msgstr ""
+msgstr "Velg alt"
 
 #: src/CategoryView.vala:297
 msgid "Undo"
-msgstr ""
+msgstr "Angre"
 
 #: src/CategoryView.vala:302
 msgid "Create a new calendar event"
@@ -254,23 +257,23 @@ msgstr ""
 
 #: src/CategoryView.vala:307
 msgid "Copy a folder"
-msgstr ""
+msgstr "Kopier en mappe"
 
 #: src/CategoryView.vala:312
 msgid "Move a folder"
-msgstr ""
+msgstr "Flytt en mappe"
 
 #: src/CategoryView.vala:317
 msgid "Create a new folder"
-msgstr ""
+msgstr "Opprett en ny mappe"
 
 #: src/CategoryView.vala:322
 msgid "Decrease indent"
-msgstr ""
+msgstr "Minsk innrykk"
 
 #: src/CategoryView.vala:327
 msgid "Increase indent"
-msgstr ""
+msgstr "Øk innrykk"
 
 #: src/CategoryView.vala:332
 msgid "Center justify text"
@@ -362,7 +365,7 @@ msgstr ""
 
 #: src/CategoryView.vala:442
 msgid "Get help"
-msgstr ""
+msgstr "Få hjelp"
 
 #: src/CategoryView.vala:447
 msgid "Frequently asked questions"
@@ -524,27 +527,27 @@ msgstr ""
 
 #: src/CategoryView.vala:642
 msgid "Search the system"
-msgstr ""
+msgstr "Søk i systemet"
 
 #: src/CategoryView.vala:647
 msgid "Restart the device"
-msgstr ""
+msgstr "Omstart av enheten"
 
 #: src/CategoryView.vala:652
 msgid "Shut the device down"
-msgstr ""
+msgstr "Slå av enheten"
 
 #: src/CategoryView.vala:657
 msgid "Create a new tag"
-msgstr ""
+msgstr "Opprett en ny etikett"
 
 #: src/CategoryView.vala:662
 msgid "Check spelling"
-msgstr ""
+msgstr "Stavekontroll"
 
 #: src/CategoryView.vala:667
 msgid "Set or adjust a timer"
-msgstr ""
+msgstr "Sett eller juster et tidsur"
 
 #: src/CategoryView.vala:672
 msgid "Display the current view as columns"
@@ -560,7 +563,7 @@ msgstr ""
 
 #: src/CategoryView.vala:687
 msgid "View fullscreen"
-msgstr ""
+msgstr "Fullskjermsvisning"
 
 #: src/CategoryView.vala:692
 msgid "Display the current view as a grid of images or icons"
@@ -600,11 +603,11 @@ msgstr ""
 
 #: src/CategoryView.vala:737
 msgid "Close the window"
-msgstr ""
+msgstr "Lukk vinduet"
 
 #: src/CategoryView.vala:742
 msgid "Create a new window"
-msgstr ""
+msgstr "Opprett et nytt vindu"
 
 #: src/CategoryView.vala:747
 msgid "Zoom to the best fit"
@@ -624,7 +627,7 @@ msgstr ""
 
 #: src/CategoryView.vala:767
 msgid "Calculator"
-msgstr ""
+msgstr "Kalkulator"
 
 #: src/CategoryView.vala:772
 msgid "International and extended text character map"
@@ -632,11 +635,11 @@ msgstr ""
 
 #: src/CategoryView.vala:777
 msgid "Dictionary"
-msgstr ""
+msgstr "Ordbok"
 
 #: src/CategoryView.vala:782
 msgid "Text editor"
-msgstr ""
+msgstr "Tekstbehandler"
 
 #: src/CategoryView.vala:787
 msgid "Default or unprovided app icon"
@@ -644,7 +647,7 @@ msgstr ""
 
 #: src/CategoryView.vala:792
 msgid "Files"
-msgstr ""
+msgstr "Filer"
 
 #: src/CategoryView.vala:797
 msgid "AppCenter or software installer"
@@ -660,7 +663,7 @@ msgstr ""
 
 #: src/CategoryView.vala:812
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: src/CategoryView.vala:817
 msgid "Accessory or utility app category"
@@ -817,7 +820,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1007
 msgid "Help"
-msgstr ""
+msgstr "Hjelp"
 
 #: src/CategoryView.vala:1012
 msgid "Audio output device, such as a sound card or speaker"
@@ -833,7 +836,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1027
 msgid "Microphone"
-msgstr ""
+msgstr "Mikrofon"
 
 #: src/CategoryView.vala:1032
 msgid "Subwoofer or bass speaker"
@@ -841,11 +844,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1037
 msgid "Battery"
-msgstr ""
+msgstr "Batteri"
 
 #: src/CategoryView.vala:1042
 msgid "Bluetooth"
-msgstr ""
+msgstr "Blåtann"
 
 #: src/CategoryView.vala:1047
 msgid "Digital photo or still camera"
@@ -889,11 +892,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1097
 msgid "Keyboard"
-msgstr ""
+msgstr "Tastatur"
 
 #: src/CategoryView.vala:1102
 msgid "Mouse"
-msgstr ""
+msgstr "Mus"
 
 #: src/CategoryView.vala:1107
 msgid ""
@@ -1251,7 +1254,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1542
 msgid "Model"
-msgstr ""
+msgstr "Modell"
 
 #: src/CategoryView.vala:1547
 msgid "Contact file types"
@@ -1463,11 +1466,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1807
 msgid "Music folder"
-msgstr ""
+msgstr "Musikkmappe"
 
 #: src/CategoryView.vala:1812
 msgid "Open folder"
-msgstr ""
+msgstr "Åpne mappe"
 
 #: src/CategoryView.vala:1817
 msgid "Pictures folder"
@@ -1499,7 +1502,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1852
 msgid "Internet radio"
-msgstr ""
+msgstr "Internettradio"
 
 #: src/CategoryView.vala:1857
 msgid "Audiobook library"
@@ -1531,7 +1534,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1892
 msgid "Network server"
-msgstr ""
+msgstr "Nettverkstjener"
 
 #: src/CategoryView.vala:1897
 msgid "Network workgroup"
@@ -1539,39 +1542,39 @@ msgstr ""
 
 #: src/CategoryView.vala:1902
 msgid "Playlist"
-msgstr ""
+msgstr "Spilleliste"
 
 #: src/CategoryView.vala:1907
 msgid "Automatic playlist"
-msgstr ""
+msgstr "Automatisk spilleliste"
 
 #: src/CategoryView.vala:1912
 msgid "Playlist queue"
-msgstr ""
+msgstr "Spillelistekø"
 
 #: src/CategoryView.vala:1917
 msgid "Similar playlist"
-msgstr ""
+msgstr "Lignende spilleliste"
 
 #: src/CategoryView.vala:1922
 msgid "Tag"
-msgstr ""
+msgstr "Etikett"
 
 #: src/CategoryView.vala:1927
 msgid "Bookmarks"
-msgstr ""
+msgstr "Bokmerker"
 
 #: src/CategoryView.vala:1932
 msgid "Home"
-msgstr ""
+msgstr "Hjem"
 
 #: src/CategoryView.vala:1937
 msgid "Trash"
-msgstr ""
+msgstr "Papirkurv"
 
 #: src/CategoryView.vala:1942
 msgid "Trash full"
-msgstr ""
+msgstr "Papirkurv full"
 
 #: src/CategoryView.vala:1947
 msgid "Airplane mode, where wireless radios are disabled or off"
@@ -1618,7 +1621,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1997
 msgid "Low battery level"
-msgstr ""
+msgstr "Lavt batterinivå"
 
 #: src/CategoryView.vala:2002
 msgid "Low battery level, plugged into a charger or AC adapter"
@@ -1626,7 +1629,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2007
 msgid "Critically low battery level"
-msgstr ""
+msgstr "Kritisk lavt batterinivå"
 
 #: src/CategoryView.vala:2012
 msgid "Critically low battery, plugged into a charger or AC adapter"
@@ -1932,16 +1935,16 @@ msgstr ""
 
 #: src/IconView.vala:157
 msgid "Unavailable"
-msgstr ""
+msgstr "Utilgjengelig"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr ""
+msgstr "Ikonutforsker"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr ""
+msgstr "Lys bakgrunn"
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr ""
+msgstr "Mørk bakgrunn"
