@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-01-12 06:25+0000\n"
+"PO-Revision-Date: 2023-01-16 09:25+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://l10n.elementary.io/projects/"
 "icon-browser/icon-browser/nb/>\n"
@@ -113,11 +113,11 @@ msgstr ""
 
 #: src/CategoryView.vala:127
 msgid "Pick a color from elsewhere on screen"
-msgstr ""
+msgstr "Velg en farge fra et annet sted på skjermen"
 
 #: src/CategoryView.vala:132
 msgid "Create a new contact in an address book application"
-msgstr ""
+msgstr "Opprett en ny kontakt i et adressebokprogram"
 
 #: src/CategoryView.vala:137
 msgid "Distribute the center lines of objects horizontally"
@@ -177,7 +177,7 @@ msgstr ""
 
 #: src/CategoryView.vala:207
 msgid "Print"
-msgstr ""
+msgstr "Skriv ut"
 
 #: src/CategoryView.vala:212
 msgid "The print preview action of an application"
@@ -228,8 +228,9 @@ msgid "Find"
 msgstr "Finn"
 
 #: src/CategoryView.vala:272
+#, fuzzy
 msgid "Find & Replace"
-msgstr ""
+msgstr "Finn og erstatt"
 
 #: src/CategoryView.vala:277
 msgid "Flag an item, such as a spam email"
@@ -389,31 +390,32 @@ msgstr ""
 
 #: src/CategoryView.vala:472
 msgid "Insert an image"
-msgstr ""
+msgstr "Sett inn et bilde"
 
 #: src/CategoryView.vala:477
 msgid "Insert a link"
-msgstr ""
+msgstr "Sett inn en lenke"
 
 #: src/CategoryView.vala:482
 msgid "Insert an object"
-msgstr ""
+msgstr "Sett inn et objekt"
 
 #: src/CategoryView.vala:487
 msgid "Insert text"
-msgstr ""
+msgstr "Sett inn tekst"
 
 #: src/CategoryView.vala:492
 msgid "Add to a list"
-msgstr ""
+msgstr "Legg til på en liste"
 
 #: src/CategoryView.vala:497
 msgid "Remove from a list"
-msgstr ""
+msgstr "Fjern fra en liste"
 
 #: src/CategoryView.vala:502
+#, fuzzy
 msgid "Forward an email"
-msgstr ""
+msgstr "Videresend e-post"
 
 #: src/CategoryView.vala:507
 msgid "Mark an email as important"
@@ -448,8 +450,9 @@ msgid "Reply to the sender of an email"
 msgstr ""
 
 #: src/CategoryView.vala:547
+#, fuzzy
 msgid "Send an email"
-msgstr ""
+msgstr "Send en e-post"
 
 #: src/CategoryView.vala:552
 msgid "Eject removable media"
