@@ -8,881 +8,879 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-01-15 00:25+0000\n"
-"Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
-"Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
-"icon-browser/ja/>\n"
-"Language: ja\n"
+"PO-Revision-Date: 2023-01-12 06:25+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://l10n.elementary.io/projects/"
+"icon-browser/icon-browser/nb/>\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.14.2\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
-msgstr "アクション"
+msgstr "Handlinger"
 
 #: src/CategoryView.vala:28
 msgid "Applications"
-msgstr "アプリケーション"
+msgstr "Programmer"
 
 #: src/CategoryView.vala:30
 msgid "Categories"
-msgstr "カテゴリー"
+msgstr "Kategorier"
 
 #: src/CategoryView.vala:32
 msgid "Devices"
-msgstr "デバイス"
+msgstr "Enheter"
 
 #: src/CategoryView.vala:34
 msgid "Emblems"
-msgstr "エンブレム"
+msgstr "Emblemer"
 
 #: src/CategoryView.vala:36
 msgid "Emotes"
-msgstr "感情"
+msgstr ""
 
 #: src/CategoryView.vala:38
 msgid "Media Types"
-msgstr "メディアタイプ"
+msgstr "Mediatyper"
 
 #: src/CategoryView.vala:40
 msgid "Places"
-msgstr "場所"
+msgstr "Steder"
 
 #: src/CategoryView.vala:42
 msgid "Status"
-msgstr "ステータス"
+msgstr "Status"
 
 #: src/CategoryView.vala:44
 msgid "OTHER"
-msgstr "そのほか"
+msgstr ""
 
 #: src/CategoryView.vala:62 src/IconView.vala:13
 msgid "Create a new address book"
-msgstr "新しいアドレス帳を作成"
+msgstr "Opprett en ny adressebok"
 
 #: src/CategoryView.vala:67
 msgid "Align objects to center along the X axis"
-msgstr "オブジェクトを X 軸に対して中央寄せ"
+msgstr ""
 
 #: src/CategoryView.vala:72
 msgid "Align objects left along the X axis"
-msgstr "オブジェクトを X 軸に対して左寄せ"
+msgstr ""
 
 #: src/CategoryView.vala:77
 msgid "Align objects right along the X axis"
-msgstr "オブジェクトを X 軸に対して右寄せ"
+msgstr ""
 
 #: src/CategoryView.vala:82
 msgid "Align objects to bottom along the Y axis"
-msgstr "オブジェクトを Y 軸に対して下寄せ"
+msgstr ""
 
 #: src/CategoryView.vala:87
 msgid "Align objects to center along the Y axis"
-msgstr "オブジェクトを Y 軸に対して中央寄せ"
+msgstr ""
 
 #: src/CategoryView.vala:92
 msgid "Align objects to top along the Y axis"
-msgstr "オブジェクトを Y 軸に対して上寄せ"
+msgstr ""
 
 #: src/CategoryView.vala:97
 msgid "Used for exiting an application"
-msgstr "アプリケーション終了時に使用"
+msgstr ""
 
 #: src/CategoryView.vala:102
 msgid "Create a new appointment in a calendaring application"
-msgstr "カレンダーアプリケーション内で新しい予定を作成"
+msgstr ""
 
 #: src/CategoryView.vala:107
 msgid "Create a new bookmark"
-msgstr "新しいブックマークを作成"
+msgstr "Opprett et nytt bokmerke"
 
 #: src/CategoryView.vala:112
 msgid "Download a file from the Internet"
-msgstr "インターネットからファイルをダウンロード"
+msgstr "Last ned en fil fra Internett"
 
 #: src/CategoryView.vala:117
 msgid "Initiate or accept a call"
-msgstr "通話を開始または応答"
+msgstr ""
 
 #: src/CategoryView.vala:122
 msgid "Stop the current call"
-msgstr "通話を終了"
+msgstr ""
 
 #: src/CategoryView.vala:127
 msgid "Pick a color from elsewhere on screen"
-msgstr "画面上の色を選択"
+msgstr ""
 
 #: src/CategoryView.vala:132
 msgid "Create a new contact in an address book application"
-msgstr "アドレス帳アプリケーション内で、新しい連絡先を作成"
+msgstr ""
 
 #: src/CategoryView.vala:137
 msgid "Distribute the center lines of objects horizontally"
-msgstr "オブジェクトの中心線を基準に、水平方向に等間隔に配置"
+msgstr ""
 
 #: src/CategoryView.vala:142
 msgid "Make horizontal gaps between objects equal"
-msgstr "オブジェクトの水平方向の間隔を均等にする"
+msgstr ""
 
 #: src/CategoryView.vala:147
 msgid "Distribute left edges of objects horizontally"
-msgstr "オブジェクトの左端を基準に、水平方向に等間隔に配置"
+msgstr ""
 
 #: src/CategoryView.vala:152
 msgid "Distribute right edges of objects horizontally"
-msgstr "オブジェクトの右端を基準に、水平方向に等間隔に配置"
+msgstr ""
 
 #: src/CategoryView.vala:157
 msgid "Distribute bottom edges of objects vertically"
-msgstr "オブジェクトの下端を基準に、垂直方向に等間隔に配置"
+msgstr ""
 
 #: src/CategoryView.vala:162
 msgid "Distribute center lines of objects vertically"
-msgstr "オブジェクトの中心線を基準に、垂直方向に等間隔に配置"
+msgstr ""
 
 #: src/CategoryView.vala:167
 msgid "Make vertical gaps between objects equal"
-msgstr "オブジェクトの垂直方向の間隔を均等にする"
+msgstr ""
 
 #: src/CategoryView.vala:172
 msgid "Distriute top edges of objects vertically"
-msgstr "オブジェクトの上端を基準に、垂直方向に等間隔に配置"
+msgstr ""
 
 #: src/CategoryView.vala:177
 msgid "Export a document"
-msgstr "ドキュメントをエクスポート"
+msgstr "Eksporter et dokument"
 
 #: src/CategoryView.vala:182
 msgid "Import a document"
-msgstr "ドキュメントをインポート"
+msgstr "Importer et dokument"
 
 #: src/CategoryView.vala:187
 msgid "Create a new document"
-msgstr "新しいドキュメントを作成"
+msgstr "Opprett et nytt dokument"
 
 #: src/CategoryView.vala:192
 msgid "Open a document"
-msgstr "ドキュメントを開く"
+msgstr "Åpne et dokument"
 
 #: src/CategoryView.vala:197
 msgid "Open a document that was recently opened"
-msgstr "最近開いたドキュメントを開く"
+msgstr ""
 
 #: src/CategoryView.vala:202
 msgid "The page setup action of a document editor"
-msgstr "ドキュメントエディターにおけるページ設定アクション"
+msgstr ""
 
 #: src/CategoryView.vala:207
 msgid "Print"
-msgstr "印刷"
+msgstr ""
 
 #: src/CategoryView.vala:212
 msgid "The print preview action of an application"
-msgstr "アプリケーションにおける印刷プレビューアクション"
+msgstr ""
 
 #: src/CategoryView.vala:217
 msgid "View the properties of a document"
-msgstr "ドキュメントのプロパティを表示"
+msgstr ""
 
 #: src/CategoryView.vala:222
 msgid "Revert to a previous version of a document"
-msgstr "ドキュメントを以前のバージョンに復元"
+msgstr ""
 
 #: src/CategoryView.vala:227
 msgid "Save"
-msgstr "保存"
+msgstr "Lagre"
 
 #: src/CategoryView.vala:232
 msgid "Save as"
-msgstr "名前をつけて保存"
+msgstr "Lagre som"
 
 #: src/CategoryView.vala:237
 msgid "Send"
-msgstr "送信"
+msgstr "Send"
 
 #: src/CategoryView.vala:242
 msgid "Edit"
-msgstr "編集"
+msgstr "Rediger"
 
 #: src/CategoryView.vala:247
 msgid "Clear"
-msgstr "消去"
+msgstr "Tøm"
 
 #: src/CategoryView.vala:252
 msgid "Copy"
-msgstr "コピー"
+msgstr "Kopier"
 
 #: src/CategoryView.vala:257
 msgid "Cut"
-msgstr "切り取り"
+msgstr "Klipp ut"
 
 #: src/CategoryView.vala:262
 msgid "Delete"
-msgstr "削除"
+msgstr "Slett"
 
 #: src/CategoryView.vala:267
 msgid "Find"
-msgstr "検索"
+msgstr "Finn"
 
 #: src/CategoryView.vala:272
 msgid "Find & Replace"
-msgstr "検索と置換"
+msgstr ""
 
 #: src/CategoryView.vala:277
 msgid "Flag an item, such as a spam email"
-msgstr "項目にフラグをつける (迷惑メールなど)"
+msgstr ""
 
 #: src/CategoryView.vala:282
 msgid "Paste"
-msgstr "貼り付け"
+msgstr "Lim inn"
 
 #: src/CategoryView.vala:287
 msgid "Redo"
-msgstr "やり直し"
+msgstr "Gjenta"
 
 #: src/CategoryView.vala:292
 msgid "Select all"
-msgstr "すべて選択"
+msgstr "Velg alt"
 
 #: src/CategoryView.vala:297
 msgid "Undo"
-msgstr "元に戻す"
+msgstr "Angre"
 
 #: src/CategoryView.vala:302
 msgid "Create a new calendar event"
-msgstr "カレンダーに新しい予定を作成"
+msgstr ""
 
 #: src/CategoryView.vala:307
 msgid "Copy a folder"
-msgstr "フォルダーをコピー"
+msgstr "Kopier en mappe"
 
 #: src/CategoryView.vala:312
 msgid "Move a folder"
-msgstr "フォルダーを移動"
+msgstr "Flytt en mappe"
 
 #: src/CategoryView.vala:317
 msgid "Create a new folder"
-msgstr "新しいフォルダーを作成"
+msgstr "Opprett en ny mappe"
 
 #: src/CategoryView.vala:322
 msgid "Decrease indent"
-msgstr "インデントを減らす"
+msgstr "Minsk innrykk"
 
 #: src/CategoryView.vala:327
 msgid "Increase indent"
-msgstr "インデントを増やす"
+msgstr "Øk innrykk"
 
 #: src/CategoryView.vala:332
 msgid "Center justify text"
-msgstr "テキストを中央寄せ"
+msgstr ""
 
 #: src/CategoryView.vala:337
 msgid "Fill justify text"
-msgstr "テキストを両端揃え"
+msgstr ""
 
 #: src/CategoryView.vala:342
 msgid "Left justify text"
-msgstr "テキストを左揃え"
+msgstr ""
 
 #: src/CategoryView.vala:347
 msgid "Right justify text"
-msgstr "テキストを右揃え"
+msgstr ""
 
 #: src/CategoryView.vala:352
 msgid "Format text as left-to-right"
-msgstr "テキストを LTR にする"
+msgstr ""
 
 #: src/CategoryView.vala:357
 msgid "Format text as right-to-left"
-msgstr "テキストを RTL にする"
+msgstr ""
 
 #: src/CategoryView.vala:362
 msgid "Format text as bold"
-msgstr "テキストを太字にする"
+msgstr ""
 
 #: src/CategoryView.vala:367
 msgid "Format text as highlighted"
-msgstr "テキストをハイライト"
+msgstr ""
 
 #: src/CategoryView.vala:372
 msgid "Format text as italic"
-msgstr "テキストを斜体にする"
+msgstr ""
 
 #: src/CategoryView.vala:377
 msgid "Format text as underlined"
-msgstr "テキストに下線を引く"
+msgstr ""
 
 #: src/CategoryView.vala:382
 msgid "Format text as being struck through"
-msgstr "テキストに打ち消し線を引く"
+msgstr ""
 
 #: src/CategoryView.vala:387
 msgid "Go to the bottom, such as in a list"
-msgstr "一覧などにおいて、一番下に移動"
+msgstr ""
 
 #: src/CategoryView.vala:392
 msgid "Go down, such as in a list"
-msgstr "一覧などにおいて、下に移動"
+msgstr ""
 
 #: src/CategoryView.vala:397
 msgid "Go to the first item, such as in a list"
-msgstr "一覧などにおいて、最初の項目に移動"
+msgstr ""
 
 #: src/CategoryView.vala:402
 msgid "Go to the home location"
-msgstr "ホームに移動"
+msgstr ""
 
 #: src/CategoryView.vala:407
 msgid "Jump to a location"
-msgstr "場所に移動"
+msgstr ""
 
 #: src/CategoryView.vala:412
 msgid "Go to the last item, such as in a list"
-msgstr "一覧などにおいて、最後の項目に移動"
+msgstr ""
 
 #: src/CategoryView.vala:417
 msgid "Go forward to the next item, such as in a list or navigation"
-msgstr "一覧やナビゲーションなどにおいて、次の項目に移動する"
+msgstr ""
 
 #: src/CategoryView.vala:422
 msgid "Go back to the previous item, such as in a list or navigation"
-msgstr "一覧やナビゲーションなどにおいて、前の項目に移動する"
+msgstr ""
 
 #: src/CategoryView.vala:427
 msgid "Go to the top, such as in a list"
-msgstr "一覧などにおいて、一番上に移動"
+msgstr ""
 
 #: src/CategoryView.vala:432
 msgid "Go up, such as in a list"
-msgstr "一覧などにおいて、上に移動"
+msgstr ""
 
 #: src/CategoryView.vala:437
 msgid "Information about an app"
-msgstr "アプリについての情報"
+msgstr ""
 
 #: src/CategoryView.vala:442
 msgid "Get help"
-msgstr "ヘルプを見る"
+msgstr "Få hjelp"
 
 #: src/CategoryView.vala:447
 msgid "Frequently asked questions"
-msgstr "よくある質問"
+msgstr ""
 
 #: src/CategoryView.vala:452
 msgid "Make adjustments to an image"
-msgstr "画像を補正"
+msgstr ""
 
 #: src/CategoryView.vala:457
 msgid "Automatically adjust an image"
-msgstr "画像を自動補正"
+msgstr ""
 
 #: src/CategoryView.vala:462
 msgid "Crop an image"
-msgstr "画像を切り抜く"
+msgstr ""
 
 #: src/CategoryView.vala:467
 msgid "Remove red eye from an image"
-msgstr "画像から赤目を取り除く"
+msgstr ""
 
 #: src/CategoryView.vala:472
 msgid "Insert an image"
-msgstr "画像を挿入"
+msgstr ""
 
 #: src/CategoryView.vala:477
 msgid "Insert a link"
-msgstr "リンクを挿入"
+msgstr ""
 
 #: src/CategoryView.vala:482
 msgid "Insert an object"
-msgstr "オブジェクトを挿入"
+msgstr ""
 
 #: src/CategoryView.vala:487
 msgid "Insert text"
-msgstr "テキストを挿入"
+msgstr ""
 
 #: src/CategoryView.vala:492
 msgid "Add to a list"
-msgstr "一覧に追加"
+msgstr ""
 
 #: src/CategoryView.vala:497
 msgid "Remove from a list"
-msgstr "一覧から削除"
+msgstr ""
 
 #: src/CategoryView.vala:502
 msgid "Forward an email"
-msgstr "メールを転送"
+msgstr ""
 
 #: src/CategoryView.vala:507
 msgid "Mark an email as important"
-msgstr "重要なメールとしてマーク"
+msgstr ""
 
 #: src/CategoryView.vala:512
 msgid "Mark an email as junk or spam"
-msgstr "迷惑メールまたはスパムメールとしてマーク"
+msgstr ""
 
 #: src/CategoryView.vala:517
 msgid "Mark an email as not junk or spam"
-msgstr "迷惑メールまたはスパムメールのマークを外す"
+msgstr ""
 
 #: src/CategoryView.vala:522
 msgid "Mark an email as read"
-msgstr "メールを既読にする"
+msgstr ""
 
 #: src/CategoryView.vala:527
 msgid "Mark an email as unread"
-msgstr "メールを未読にする"
+msgstr ""
 
 #: src/CategoryView.vala:532
 msgid "Compose a new email"
-msgstr "新しいメールを作成"
+msgstr ""
 
 #: src/CategoryView.vala:537
 msgid "Reply to all participants of an email"
-msgstr "全員に返信"
+msgstr ""
 
 #: src/CategoryView.vala:542
 msgid "Reply to the sender of an email"
-msgstr "送信者に返信"
+msgstr ""
 
 #: src/CategoryView.vala:547
 msgid "Send an email"
-msgstr "メールを送信"
+msgstr ""
 
 #: src/CategoryView.vala:552
 msgid "Eject removable media"
-msgstr "外部メディアを取り出す"
+msgstr ""
 
 #: src/CategoryView.vala:557
 msgid "Pause media playback"
-msgstr "メディアの再生を一時停止"
+msgstr ""
 
 #: src/CategoryView.vala:562
 msgid "Start playing media"
-msgstr "メディアを再生"
+msgstr ""
 
 #: src/CategoryView.vala:567
 msgid "Stop playing media"
-msgstr "メディアを停止"
+msgstr ""
 
 #: src/CategoryView.vala:572
 msgid "Start recording"
-msgstr "録音を開始"
+msgstr ""
 
 #: src/CategoryView.vala:577
 msgid "Seek backwards or rewind"
-msgstr "スキップ戻しまたは早戻し"
+msgstr ""
 
 #: src/CategoryView.vala:582
 msgid "Seek forwards, or fastforward"
-msgstr "スキップ送りまたは早送り"
+msgstr ""
 
 #: src/CategoryView.vala:587
 msgid "Skip backwards, such as to the previous track"
-msgstr "前にスキップ (前のトラックなど)"
+msgstr ""
 
 #: src/CategoryView.vala:592
 msgid "Skip forwards, such as to the next track"
-msgstr "次にスキップ (次のトラックなど)"
+msgstr ""
 
 #: src/CategoryView.vala:597
 msgid "Flip an object horizontally"
-msgstr "オブジェクトを左右反転"
+msgstr ""
 
 #: src/CategoryView.vala:602
 msgid "Flip an object vertically"
-msgstr "オブジェクトを上下反転"
+msgstr ""
 
 #: src/CategoryView.vala:607
 msgid "Rotate an object to the left or counter-clockwise"
-msgstr "オブジェクトを左回転"
+msgstr ""
 
 #: src/CategoryView.vala:612
 msgid "Rotate an object to the right or clockwise"
-msgstr "オブジェクトを右回転"
+msgstr ""
 
 #: src/CategoryView.vala:617
 msgid "Create a new database"
-msgstr "新しいデータベースを作成"
+msgstr ""
 
 #: src/CategoryView.vala:622
 msgid ""
 "Stop an action that may take a while to process, such as web page loading in "
 "a browser"
-msgstr "時間がかかりそうな処理を停止 (ブラウザでの Web ページの読み込みなど)"
+msgstr ""
 
 #: src/CategoryView.vala:627
 msgid "Lock the screen or the user's session"
-msgstr "画面やユーザーのセッションをロック"
+msgstr ""
 
 #: src/CategoryView.vala:632
 msgid "Log out of the user's session"
-msgstr "ユーザーのセッションからログアウト"
+msgstr ""
 
 #: src/CategoryView.vala:637
 msgid "Run a system app or command"
-msgstr "システムアプリやコマンドを実行"
+msgstr ""
 
 #: src/CategoryView.vala:642
 msgid "Search the system"
-msgstr "システムを検索"
+msgstr "Søk i systemet"
 
 #: src/CategoryView.vala:647
 msgid "Restart the device"
-msgstr "デバイスを再起動"
+msgstr "Omstart av enheten"
 
 #: src/CategoryView.vala:652
 msgid "Shut the device down"
-msgstr "デバイスをシャットダウン"
+msgstr "Slå av enheten"
 
 #: src/CategoryView.vala:657
 msgid "Create a new tag"
-msgstr "新しいタグを作成"
+msgstr "Opprett en ny etikett"
 
 #: src/CategoryView.vala:662
 msgid "Check spelling"
-msgstr "スペルチェック"
+msgstr "Stavekontroll"
 
 #: src/CategoryView.vala:667
 msgid "Set or adjust a timer"
-msgstr "タイマーを設定または調整"
+msgstr "Sett eller juster et tidsur"
 
 #: src/CategoryView.vala:672
 msgid "Display the current view as columns"
-msgstr "現在のビューをカラムで表示"
+msgstr ""
 
 #: src/CategoryView.vala:677
 msgid "display the current view in a continously scrolling list"
-msgstr "現在のビューをスクロール可能な一覧で表示"
+msgstr ""
 
 #: src/CategoryView.vala:682
 msgid "display the current view as a split, dual view"
-msgstr "現在のビューを分割した2つのビューで表示"
+msgstr ""
 
 #: src/CategoryView.vala:687
 msgid "View fullscreen"
-msgstr "全画面表示"
+msgstr "Fullskjermsvisning"
 
 #: src/CategoryView.vala:692
 msgid "Display the current view as a grid of images or icons"
-msgstr "現在のビューを画像やアイコンでグリッド表示"
+msgstr ""
 
 #: src/CategoryView.vala:697
 msgid "Refresh or reload the current view"
-msgstr "現在のビューを再読み込み"
+msgstr ""
 
 #: src/CategoryView.vala:702
 msgid "Leave fullscreen and return to a normal window"
-msgstr "全画面表示を終了し通常のウィンドウに戻る"
+msgstr ""
 
 #: src/CategoryView.vala:707
 msgid "View more information about the given context in a popover or menu"
-msgstr "詳細情報をポップオーバーやメニューに表示"
+msgstr ""
 
 #: src/CategoryView.vala:712
 msgid "View more information about the given context in a new view or window"
-msgstr "詳細情報を新しいビューやウィンドウに表示"
+msgstr ""
 
 #: src/CategoryView.vala:717
 msgid "Display the current view as a collection of pages"
-msgstr "現在のビューをページごとに表示"
+msgstr ""
 
 #: src/CategoryView.vala:722
 msgid "Pin the current view so that it does not automatically hide"
-msgstr "現在のビューが自動で隠れないようにピン留め"
+msgstr ""
 
 #: src/CategoryView.vala:727
 msgid "Sort items in an ascending order, such as in a list"
-msgstr "一覧などにおいて、項目を昇順に並べ替え"
+msgstr ""
 
 #: src/CategoryView.vala:732
 msgid "Sort items in a descending order, such as in a list"
-msgstr "一覧などにおいて、項目を降順に並べ替え"
+msgstr ""
 
 #: src/CategoryView.vala:737
 msgid "Close the window"
-msgstr "ウィンドウを閉じる"
+msgstr "Lukk vinduet"
 
 #: src/CategoryView.vala:742
 msgid "Create a new window"
-msgstr "新しいウィンドウを開く"
+msgstr "Opprett et nytt vindu"
 
 #: src/CategoryView.vala:747
 msgid "Zoom to the best fit"
-msgstr "適切なサイズに拡大"
+msgstr ""
 
 #: src/CategoryView.vala:752
 msgid "Zoom in"
-msgstr "拡大"
+msgstr ""
 
 #: src/CategoryView.vala:757
 msgid "Zoom to the original size"
-msgstr "元のサイズに戻す"
+msgstr ""
 
 #: src/CategoryView.vala:762
 msgid "Zoom out"
-msgstr "縮小"
+msgstr ""
 
 #: src/CategoryView.vala:767
 msgid "Calculator"
-msgstr "電卓"
+msgstr "Kalkulator"
 
 #: src/CategoryView.vala:772
 msgid "International and extended text character map"
-msgstr "国際的な拡張テキスト文字マップ"
+msgstr ""
 
 #: src/CategoryView.vala:777
 msgid "Dictionary"
-msgstr "辞書"
+msgstr "Ordbok"
 
 #: src/CategoryView.vala:782
 msgid "Text editor"
-msgstr "テキストエディター"
+msgstr "Tekstbehandler"
 
 #: src/CategoryView.vala:787
 msgid "Default or unprovided app icon"
-msgstr "デフォルトおよび未指定時のアプリアイコン"
+msgstr ""
 
 #: src/CategoryView.vala:792
 msgid "Files"
-msgstr "ファイルマネージャー"
+msgstr "Filer"
 
 #: src/CategoryView.vala:797
 msgid "AppCenter or software installer"
-msgstr "AppCenter またはソフトウェアインストーラー"
+msgstr ""
 
 #: src/CategoryView.vala:802
 msgid "Software updater"
-msgstr "ソフトウェアの更新アプリ"
+msgstr ""
 
 #: src/CategoryView.vala:807
 msgid "System resource monitor"
-msgstr "システムリソースモニター"
+msgstr ""
 
 #: src/CategoryView.vala:812
 msgid "Terminal"
-msgstr "ターミナル"
+msgstr "Terminal"
 
 #: src/CategoryView.vala:817
 msgid "Accessory or utility app category"
-msgstr "ツールアプリやユーティリティーアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:822
 msgid "Programming, software development, code, or IDE app category"
-msgstr "プログラミング／ソフトウェア開発／コーディング／IDE "
-"に関連するアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:827
 msgid "Education, learning, or school app category"
-msgstr "教育／学習／教育機関に関連するアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:832
 msgid "Engineering app category"
-msgstr "機械工学に関連するアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:837
 msgid "Games app category"
-msgstr "ゲームに関連するアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:842
 msgid "Graphics, drawing, art, or photo manipulation app category"
-msgstr "グラフィック／イラスト制作／美術／写真編集に関連するアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:847
 msgid "Internet or web related app category"
-msgstr "インターネットや Web に関連するアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:852
 msgid "Multimedia, audio, or video app category"
-msgstr "マルチメディア／音声／動画に関連するアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:857
 msgid "Office app category"
-msgstr "Office アプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:862
 msgid "Other or uncategorized app category"
-msgstr "それ以外のアプリ、および未知のアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:867
 msgid "Science app category"
-msgstr "科学に関連するアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:872
 msgid "System tools or OS app category"
-msgstr "システムツールおよび OS に関連するアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:877
 msgid "Utility app category"
-msgstr "ユーティリティーアプリのカテゴリー"
+msgstr ""
 
 #: src/CategoryView.vala:882
 msgid "Bluetooth settings"
-msgstr "Bluetooth の設定"
+msgstr ""
 
 #: src/CategoryView.vala:887
 msgid "Color settings such as printer, display, or camera calibration"
-msgstr "プリンター／ディスプレイ／カメラの補正など、色に関する設定"
+msgstr ""
 
 #: src/CategoryView.vala:892
 msgid "Desktop interface settings"
-msgstr "デスクトップのインターフェースの設定"
+msgstr ""
 
 #: src/CategoryView.vala:897
 msgid "Universal access settings"
-msgstr "ユニバーサルアクセスの設定"
+msgstr ""
 
 #: src/CategoryView.vala:902
 msgid "Universal access settings for pointing, such as controlling the cursor"
-msgstr "カーソルコントロールなど、ポインターに関連するユニバーサルアクセスの設定"
+msgstr ""
 
 #: src/CategoryView.vala:907
 msgid "Universal access settings for zooming or magnifying"
-msgstr "拡大／縮小や拡大鏡に関連するユニバーサルアクセスの設定"
+msgstr ""
 
 #: src/CategoryView.vala:912
 msgid "App-related settings, such as default or startup apps"
-msgstr "デフォルトアプリや自動起動するアプリなど、アプリに関連する設定"
+msgstr ""
 
 #: src/CategoryView.vala:917
 msgid "Display settings, such as resolution or scaling"
-msgstr "解像度やスケーリングなどのディスプレイの設定"
+msgstr ""
 
 #: src/CategoryView.vala:922
 msgid "Font settings"
-msgstr "フォントの設定"
+msgstr ""
 
 #: src/CategoryView.vala:927
 msgid "Keyboard settings, such as layout or shortcuts"
-msgstr "レイアウトやショートカットなどのキーボードの設定"
+msgstr ""
 
 #: src/CategoryView.vala:932
 msgid "International localization, language, or region settings"
-msgstr "国際化／地域化、言語、地域の設定"
+msgstr ""
 
 #: src/CategoryView.vala:937
 msgid "Online account and cloud sync or sign in settings"
-msgstr "オンラインアカウント／クラウド同期／サインインの設定"
+msgstr ""
 
 #: src/CategoryView.vala:942
 msgid "Settings for peripherals, such as a mouse or keyboard"
-msgstr "マウスやキーボードなど、周辺機器に関連する設定"
+msgstr ""
 
 #: src/CategoryView.vala:947
 msgid "Sound or audio input and output settings"
-msgstr "サウンド／音声入出力の設定"
+msgstr ""
 
 #: src/CategoryView.vala:952
 msgid "Desktop wallpaper or background settings"
-msgstr "デスクトップの壁紙や背景の設定"
+msgstr ""
 
 #: src/CategoryView.vala:957
 msgid "Other, miscellaneous, or uncategorized settings"
-msgstr "それ以外の設定や細かい設定、および未知の設定"
+msgstr ""
 
 #: src/CategoryView.vala:962
 msgid "System settings or preferences"
-msgstr "システムの設定"
+msgstr ""
 
 #: src/CategoryView.vala:967
 msgid "Network settings, such as wireless, Ethernet, or VPN"
-msgstr "無線／イーサネット／VPN などの、ネットワークの設定"
+msgstr ""
 
 #: src/CategoryView.vala:972
 msgid "Notification alert settings"
-msgstr "通知アラートの設定"
+msgstr ""
 
 #: src/CategoryView.vala:977
 msgid "Parental control settings"
-msgstr "ペアレンタルコントロールの設定"
+msgstr ""
 
 #: src/CategoryView.vala:982
 msgid "Power management or energy usage settings, such as battery"
-msgstr "バッテリーなど、電源管理および電力使用の設定"
+msgstr ""
 
 #: src/CategoryView.vala:987
 msgid "Privacy and security settings"
-msgstr "プライバシーとセキュリティーの設定"
+msgstr ""
 
 #: src/CategoryView.vala:992
 msgid ""
 "Sharing settings, such as library sharing or media streaming over a network"
-msgstr "ネットワークを介してのライブラリ共有やメディアストリーミングなどの、共有の設"
-"定"
+msgstr ""
 
 #: src/CategoryView.vala:997
 msgid "Time and date settings"
-msgstr "時刻と日付の設定"
+msgstr ""
 
 #: src/CategoryView.vala:1002
 msgid "Window management settings"
-msgstr "ウィンドウ管理の設定"
+msgstr ""
 
 #: src/CategoryView.vala:1007
 msgid "Help"
-msgstr "ヘルプ"
+msgstr "Hjelp"
 
 #: src/CategoryView.vala:1012
 msgid "Audio output device, such as a sound card or speaker"
-msgstr "サウンドカードやスピーカーなどの、音声出力デバイス"
+msgstr ""
 
 #: src/CategoryView.vala:1017
 msgid "Audio output device representing headphones"
-msgstr "音声出力デバイス (ヘッドフォン)"
+msgstr ""
 
 #: src/CategoryView.vala:1022
 msgid "Audio output device representing a headset"
-msgstr "音声出力デバイス (ヘッドセット)"
+msgstr ""
 
 #: src/CategoryView.vala:1027
 msgid "Microphone"
-msgstr "マイク"
+msgstr "Mikrofon"
 
 #: src/CategoryView.vala:1032
 msgid "Subwoofer or bass speaker"
-msgstr "サブウーファーやベーススピーカー"
+msgstr ""
 
 #: src/CategoryView.vala:1037
 msgid "Battery"
-msgstr "バッテリー"
+msgstr "Batteri"
 
 #: src/CategoryView.vala:1042
 msgid "Bluetooth"
-msgstr "Bluetooth"
+msgstr "Blåtann"
 
 #: src/CategoryView.vala:1047
 msgid "Digital photo or still camera"
-msgstr "静止画用のデジタルカメラ"
+msgstr ""
 
 #: src/CategoryView.vala:1052
 msgid "Video or movie camera"
-msgstr "ビデオカメラ"
+msgstr ""
 
 #: src/CategoryView.vala:1057
 msgid "Webcam or built-in camera"
-msgstr "Web カメラおよびビルトインカメラ"
+msgstr ""
 
 #: src/CategoryView.vala:1062
 msgid "Generic or desktop computer"
-msgstr "一般的なデスクトップコンピューター"
+msgstr ""
 
 #: src/CategoryView.vala:1067
 msgid "Laptop or notebook computer"
-msgstr "ノート型コンピューター"
+msgstr ""
 
 #: src/CategoryView.vala:1072
 msgid "Hard disk or storage drive"
-msgstr "ハードディスクおよびストレージドライブ"
+msgstr ""
 
 #: src/CategoryView.vala:1077
 msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
-msgstr "CD／DVD／ブルーレイディスクなどを読み書きする光学デバイス"
+msgstr ""
 
 #: src/CategoryView.vala:1082
 msgid "Removable storage device, such as a portable hard drive"
-msgstr "ポータブルハードドライブなどのリムーバブルストレージデバイス"
+msgstr ""
 
 #: src/CategoryView.vala:1087
 msgid "USB drive or stick, such as a flash, jump, or thumb drive"
@@ -890,256 +888,253 @@ msgstr ""
 
 #: src/CategoryView.vala:1092
 msgid "Video game controller, such as a paddle, remote, or joystick"
-msgstr "パドル／リモコン／ジョイスティックなどの、ビデオゲームコントローラー"
+msgstr ""
 
 #: src/CategoryView.vala:1097
 msgid "Keyboard"
-msgstr "キーボード"
+msgstr "Tastatur"
 
 #: src/CategoryView.vala:1102
 msgid "Mouse"
-msgstr "マウス"
+msgstr "Mus"
 
 #: src/CategoryView.vala:1107
 msgid ""
 "Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
 "Bamboo"
-msgstr "Wacom ペンタブレット／Intuos／Cintiq／Bamboo "
-"などの、グラフィックタブレットやペン"
+msgstr ""
 
 #: src/CategoryView.vala:1112
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
-msgstr "マルチタッチトラックパッドやクリックパッドなどのタッチパッド"
+msgstr ""
 
 #: src/CategoryView.vala:1117
 msgid "Flash media such as a memory stick or SD card"
-msgstr "メモリースティックや SD カードなどのフラッシュメディア"
+msgstr ""
 
 #: src/CategoryView.vala:1122
 msgid "Optical media, such as a CD, DVD, or Blu-ray disc"
-msgstr "CD／DVD／ブルーレイディスクなどの光学メディア"
+msgstr ""
 
 #: src/CategoryView.vala:1127
 msgid "Network modem or router"
-msgstr "ネットワークモデムおよびルーター"
+msgstr ""
 
 #: src/CategoryView.vala:1132
 msgid "Media player device, such as a portable mp3 music player or iPod"
-msgstr "メディア再生デバイス"
+msgstr ""
 
 #: src/CategoryView.vala:1137
 msgid ""
 "Cellular type wireless network or device, such as a 2G, 3G, or 4G LTE "
 "connection, modem, or SIM card"
-msgstr "2G／3G／4G LTE 接続や、モデム、SIM "
-"カードなどの、セルラー方式の無線ネットワークおよびデバイス"
+msgstr ""
 
 #: src/CategoryView.vala:1142
 msgid "Networking firewall"
-msgstr "ネットワークファイアウォール"
+msgstr ""
 
 #: src/CategoryView.vala:1147
 msgid "Virtual private network or VPN connection"
-msgstr "仮想プライベートネットワーク、および VPN 接続"
+msgstr ""
 
 #: src/CategoryView.vala:1152
 msgid "Wired network connection, such as Ethernet"
-msgstr "イーサネットなどの有線ネットワーク接続"
+msgstr ""
 
 #: src/CategoryView.vala:1157
 msgid "Wireless network connection, such as Wi-Fi"
-msgstr "Wi-Fi などの無線ネットワーク接続"
+msgstr ""
 
 #: src/CategoryView.vala:1162
 msgid ""
 "Wireless hotspot connection, such as through a mobile cellular phone or "
 "smartphone"
-msgstr "携帯電話やスマートフォンを介した無線ホットスポット接続"
+msgstr ""
 
 #: src/CategoryView.vala:1167
 msgid "Generic phone, such as a mobile Android smartphone or iPhone"
-msgstr "Android スマートフォンや iPhone などの、一般的な携帯電話"
+msgstr ""
 
 #: src/CategoryView.vala:1172
 msgid "Printer"
-msgstr "プリンター"
+msgstr ""
 
 #: src/CategoryView.vala:1177
 msgid "Network-connected or shared printer"
-msgstr "ネットワーク接続／ネットワーク共有されたプリンター"
+msgstr ""
 
 #: src/CategoryView.vala:1182
 msgid "Scanner"
-msgstr "スキャナー"
+msgstr ""
 
 #: src/CategoryView.vala:1187
 msgid "Display, screen, or monitor"
-msgstr "ディスプレイ、画面、およびモニター"
+msgstr ""
 
 #: src/CategoryView.vala:1192
 msgid "Default selection emblem, such as for a printer or other device"
-msgstr "デフォルトとして選択されていることを示す記号 (プリンターなどのデバイス)"
+msgstr ""
 
 #: src/CategoryView.vala:1197
 msgid "Disabled feature or service emblem"
-msgstr "機能やサービスが無効であることを示す記号"
+msgstr ""
 
 #: src/CategoryView.vala:1202
 msgid "Documents emblem"
-msgstr "文書を示す記号"
+msgstr ""
 
 #: src/CategoryView.vala:1207
 msgid "Downloads emblem"
-msgstr "ダウンロードを示す記号"
+msgstr ""
 
 #: src/CategoryView.vala:1212
 msgid "Enabled feature or service emblem"
-msgstr "機能やサービスが有効であることを示す記号"
+msgstr ""
 
 #: src/CategoryView.vala:1217
 msgid "Emblem for the error status of a feature or service"
-msgstr "機能やサービスにエラーが出ていることを示す記号"
+msgstr ""
 
 #: src/CategoryView.vala:1222
 msgid "Item the user has marked as a favorite"
-msgstr "ユーザーがお気に入りとしてマークした項目"
+msgstr ""
 
 #: src/CategoryView.vala:1227
 msgid "Item marked as important"
-msgstr "重要としてマークされた項目"
+msgstr ""
 
 #: src/CategoryView.vala:1232
 msgid "Item related to email"
-msgstr "メールに関する項目"
+msgstr ""
 
 #: src/CategoryView.vala:1237
 msgid "Emblem for the partially enabled status of a feature or service"
-msgstr "機能やサービスが一部有効であることを示す記号"
+msgstr ""
 
 #: src/CategoryView.vala:1242
 msgid "Photos emblem"
-msgstr "写真を示す記号"
+msgstr ""
 
 #: src/CategoryView.vala:1247
 msgid "Item is read-only, or the user cannot write to or make changes to it"
-msgstr "項目が読み込み専用か、ユーザーが書き込んだり変更を加えることができないことを"
-"示す"
+msgstr ""
 
 #: src/CategoryView.vala:1252
 msgid "Item shared with other people or users"
-msgstr "ほかの人やユーザーと共有している項目"
+msgstr ""
 
 #: src/CategoryView.vala:1257
 msgid "Item is a symbolic link to a file somewhere else"
-msgstr "ほかの場所にあるファイルへのシンボリックリンクとなっている項目"
+msgstr ""
 
 #: src/CategoryView.vala:1262
 msgid "Item is configured to be synchronized to another device or location"
-msgstr "ほかのデバイスや場所に同期する設定になっている項目"
+msgstr ""
 
 #: src/CategoryView.vala:1267
 msgid "Item is a system file, library, setting, or data"
-msgstr "システムのファイル・ライブラリ・設定・データに該当する項目"
+msgstr ""
 
 #: src/CategoryView.vala:1272
 msgid "Item is unreadable or inaccessible"
-msgstr "読み込み不能またはアクセス不能な項目"
+msgstr ""
 
 #: src/CategoryView.vala:1277
 msgid "Emblem for the warning status of a feature or service"
-msgstr "機能やサービスに警告が出ていることを示す記号"
+msgstr ""
 
 #: src/CategoryView.vala:1282
 msgid "0:-) emoticon"
-msgstr "天使の顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1287
 msgid "X-( emoticon"
-msgstr "怒った顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1292
 msgid "B-) emoticon"
-msgstr "サングラスをかけた顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1297
 msgid ":'( emoticon"
-msgstr "泣き顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1302
 msgid ">:-) emoticon"
-msgstr "悪魔の顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1307
 msgid ":-[ emoticon"
-msgstr "紅潮した顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1312
 msgid "<3 emoticon"
-msgstr "ハートの絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1317
 msgid "</3 emoticon"
-msgstr "失恋の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1322
 msgid ":-* emoticon"
-msgstr "キスの顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1327
 msgid ":-)) emoticon"
-msgstr "歯を見せて笑う顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1332
 msgid ":-(|) emoticon"
-msgstr "猿の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1337
 msgid ":-| emoticon"
-msgstr "普通の表情の顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1342
 msgid ":-P emoticon"
-msgstr "不満顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1347
 msgid ":-( emoticon"
-msgstr "悲しい顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1352
 msgid ":-& emoticon"
-msgstr "吐きそうな顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1357
 msgid ":-) emoticon"
-msgstr "笑った顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1362
 msgid ":-D emoticon"
-msgstr "口を開けて笑う顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1367
 msgid ":-! emoticon"
-msgstr "薄笑いする顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1372
 msgid ":-0 emoticon"
-msgstr "驚いた顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1377
 msgid "|-) emoticon"
-msgstr "あくび顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1382
 msgid ":-/ emoticon"
-msgstr "疑う顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1387
 msgid ";-) emoticon"
-msgstr "ウィンクする顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1392
 msgid ":-S emoticon"
-msgstr "心配する顔の絵文字"
+msgstr ""
 
 #: src/CategoryView.vala:1397
 msgid "EPUB Ebook file types"
@@ -1259,7 +1254,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1542
 msgid "Model"
-msgstr ""
+msgstr "Modell"
 
 #: src/CategoryView.vala:1547
 msgid "Contact file types"
@@ -1471,11 +1466,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1807
 msgid "Music folder"
-msgstr ""
+msgstr "Musikkmappe"
 
 #: src/CategoryView.vala:1812
 msgid "Open folder"
-msgstr ""
+msgstr "Åpne mappe"
 
 #: src/CategoryView.vala:1817
 msgid "Pictures folder"
@@ -1507,7 +1502,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1852
 msgid "Internet radio"
-msgstr ""
+msgstr "Internettradio"
 
 #: src/CategoryView.vala:1857
 msgid "Audiobook library"
@@ -1539,7 +1534,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1892
 msgid "Network server"
-msgstr ""
+msgstr "Nettverkstjener"
 
 #: src/CategoryView.vala:1897
 msgid "Network workgroup"
@@ -1547,39 +1542,39 @@ msgstr ""
 
 #: src/CategoryView.vala:1902
 msgid "Playlist"
-msgstr ""
+msgstr "Spilleliste"
 
 #: src/CategoryView.vala:1907
 msgid "Automatic playlist"
-msgstr ""
+msgstr "Automatisk spilleliste"
 
 #: src/CategoryView.vala:1912
 msgid "Playlist queue"
-msgstr ""
+msgstr "Spillelistekø"
 
 #: src/CategoryView.vala:1917
 msgid "Similar playlist"
-msgstr ""
+msgstr "Lignende spilleliste"
 
 #: src/CategoryView.vala:1922
 msgid "Tag"
-msgstr ""
+msgstr "Etikett"
 
 #: src/CategoryView.vala:1927
 msgid "Bookmarks"
-msgstr ""
+msgstr "Bokmerker"
 
 #: src/CategoryView.vala:1932
 msgid "Home"
-msgstr ""
+msgstr "Hjem"
 
 #: src/CategoryView.vala:1937
 msgid "Trash"
-msgstr ""
+msgstr "Papirkurv"
 
 #: src/CategoryView.vala:1942
 msgid "Trash full"
-msgstr ""
+msgstr "Papirkurv full"
 
 #: src/CategoryView.vala:1947
 msgid "Airplane mode, where wireless radios are disabled or off"
@@ -1626,7 +1621,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1997
 msgid "Low battery level"
-msgstr ""
+msgstr "Lavt batterinivå"
 
 #: src/CategoryView.vala:2002
 msgid "Low battery level, plugged into a charger or AC adapter"
@@ -1634,7 +1629,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2007
 msgid "Critically low battery level"
-msgstr ""
+msgstr "Kritisk lavt batterinivå"
 
 #: src/CategoryView.vala:2012
 msgid "Critically low battery, plugged into a charger or AC adapter"
@@ -1924,32 +1919,32 @@ msgstr ""
 
 #: src/CategoryView.vala:2362
 msgid "Search Names or Descriptions"
-msgstr "アイコン名または説明で検索"
+msgstr ""
 
 #: src/IconView.vala:55
 msgid "Color Icons"
-msgstr "色付きアイコン"
+msgstr ""
 
 #: src/IconView.vala:62
 msgid "Symbolic Icons"
-msgstr "シンボリックアイコン"
+msgstr ""
 
 #: src/IconView.vala:75
 msgid "Code Sample"
-msgstr "コードの例"
+msgstr ""
 
 #: src/IconView.vala:157
 msgid "Unavailable"
-msgstr "利用できません"
+msgstr "Utilgjengelig"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr "アイコンビューアー"
+msgstr "Ikonutforsker"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr "ライトモード"
+msgstr "Lys bakgrunn"
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr "ダークモード"
+msgstr "Mørk bakgrunn"

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-11-27 14:25+0000\n"
+"PO-Revision-Date: 2022-12-23 15:25+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
@@ -1275,9 +1275,8 @@ msgid "XCF image file types"
 msgstr "Типы файлов изображений XCF"
 
 #: src/CategoryView.vala:1537
-#, fuzzy
 msgid "Internet Feed"
-msgstr "Данные Интернет-канала связи"
+msgstr "Интернет-канал"
 
 #: src/CategoryView.vala:1542
 msgid "Model"
@@ -1381,568 +1380,589 @@ msgstr "Типы файлов языка программирования Go"
 
 #: src/CategoryView.vala:1667
 msgid "Install file types"
-msgstr ""
+msgstr "Типы файлов установщиков"
 
 #: src/CategoryView.vala:1672
 msgid "Makefile file types"
-msgstr ""
+msgstr "Файлы типа Makefile"
 
 #: src/CategoryView.vala:1677
 msgid "Preview file types"
-msgstr ""
+msgstr "Типы файлов предварительного просмотра"
 
 #: src/CategoryView.vala:1682
 msgid "Python programming language file types"
-msgstr ""
+msgstr "Типы файлов языка программирования Python"
 
 #: src/CategoryView.vala:1687
 msgid "Readme file types"
-msgstr ""
+msgstr "Типы файлов Readme"
 
 #: src/CategoryView.vala:1692
 msgid "Sass programming language file types"
-msgstr ""
+msgstr "Типы файлов языка программирования Sass"
 
 #: src/CategoryView.vala:1697
 msgid "Script file types, such as shell scripts"
-msgstr ""
+msgstr "Типы файлов скриптов, например скрипты оболочки"
 
 #: src/CategoryView.vala:1702
 msgid "SSA file types"
-msgstr ""
+msgstr "Типы файлов SSA"
 
 #: src/CategoryView.vala:1707
 msgid "TEX file types"
-msgstr ""
+msgstr "Типы файлов TEX"
 
 #: src/CategoryView.vala:1712
 msgid "Vala programming language file types"
-msgstr ""
+msgstr "Типы файлов языка программирования Vala"
 
 #: src/CategoryView.vala:1717
 msgid "Unknown file types"
-msgstr ""
+msgstr "Неизвестный тип файла"
 
 #: src/CategoryView.vala:1722
 msgid "Generic video file types"
-msgstr ""
+msgstr "Общий тип видеофайлов"
 
 #: src/CategoryView.vala:1727
 msgid "Generic address book file types"
-msgstr ""
+msgstr "Типы файлов адресной книги"
 
 #: src/CategoryView.vala:1732
 msgid "Generic calendar file types"
-msgstr ""
+msgstr "Типы файлов календаря"
 
 #: src/CategoryView.vala:1737
 msgid "Generic document and letter file types"
-msgstr ""
+msgstr "Общие типы файлов документов и писем"
 
 #: src/CategoryView.vala:1742
 msgid "Generic document and letter template file types"
-msgstr ""
+msgstr "Общие типы файлов шаблонов документов и писем"
 
 #: src/CategoryView.vala:1747
 msgid "Generic drawing file types"
-msgstr ""
+msgstr "Общие типы файлов рисунков"
 
 #: src/CategoryView.vala:1752
 msgid "Generic drawing template file types"
-msgstr ""
+msgstr "Общие типы файлов шаблонов рисунков"
 
 #: src/CategoryView.vala:1757
 msgid "Generic presentation file types"
-msgstr ""
+msgstr "Общие типы файлов презентаций"
 
 #: src/CategoryView.vala:1762
 msgid "Generic presentation template file types"
-msgstr ""
+msgstr "Общие типы файлов шаблонов презентаций"
 
 #: src/CategoryView.vala:1767
 msgid "Generic spreadsheet file types"
-msgstr ""
+msgstr "Общие типы файлов электронных таблиц"
 
 #: src/CategoryView.vala:1772
 msgid "Generic spreadsheet template file types"
-msgstr ""
+msgstr "Общие типы файлов шаблонов электронных таблиц"
 
 #: src/CategoryView.vala:1777
 msgid "Bookmark missing"
-msgstr ""
+msgstr "Закладка отсутствует"
 
 #: src/CategoryView.vala:1782
 msgid "Distributor logo"
-msgstr ""
+msgstr "Логотип дистрибьютора"
 
 #: src/CategoryView.vala:1787
 msgid "Folder"
-msgstr ""
+msgstr "Папка"
 
 #: src/CategoryView.vala:1792
 msgid "Documents folder"
-msgstr ""
+msgstr "Папка документов"
 
 #: src/CategoryView.vala:1797
 msgid "Downloads folder"
-msgstr ""
+msgstr "Папка загрузок"
 
 #: src/CategoryView.vala:1802
 msgid "Folder drag accept"
-msgstr ""
+msgstr "Папка, принимающая перетаскивание"
 
 #: src/CategoryView.vala:1807
 msgid "Music folder"
-msgstr ""
+msgstr "Папка музыки"
 
 #: src/CategoryView.vala:1812
 msgid "Open folder"
-msgstr ""
+msgstr "Открытая папка"
 
 #: src/CategoryView.vala:1817
 msgid "Pictures folder"
-msgstr ""
+msgstr "Папка изображений"
 
 #: src/CategoryView.vala:1822
 msgid "Publicshare folder"
-msgstr ""
+msgstr "Общедоступная папка"
 
 #: src/CategoryView.vala:1827
 msgid "Recent folder"
-msgstr ""
+msgstr "Папка недавних документов"
 
 #: src/CategoryView.vala:1832
 msgid "Remote folder"
-msgstr ""
+msgstr "Удалённая папка"
 
 #: src/CategoryView.vala:1837
 msgid "Saved search folder"
-msgstr ""
+msgstr "Папка сохранённых поисков"
 
 #: src/CategoryView.vala:1842
 msgid "Templates folder"
-msgstr ""
+msgstr "Папка шаблонов"
 
 #: src/CategoryView.vala:1847
 msgid "Videos folder"
-msgstr ""
+msgstr "Папка видео"
 
 #: src/CategoryView.vala:1852
 msgid "Internet radio"
-msgstr ""
+msgstr "Интернет-радио"
 
 #: src/CategoryView.vala:1857
 msgid "Audiobook library"
-msgstr ""
+msgstr "Библиотека аудиокниг"
 
 #: src/CategoryView.vala:1862
 msgid "Library places"
-msgstr ""
+msgstr "Места библиотек"
 
 #: src/CategoryView.vala:1867
 msgid "Podcast library"
-msgstr ""
+msgstr "Библиотека подкастов"
 
 #: src/CategoryView.vala:1872
 msgid "Mail inbox"
-msgstr ""
+msgstr "Входящая почта"
 
 #: src/CategoryView.vala:1877
 msgid "Mail mailbox"
-msgstr ""
+msgstr "Почтовый ящик"
 
 #: src/CategoryView.vala:1882
 msgid "Mail outbox"
-msgstr ""
+msgstr "Отправленная почта"
 
 #: src/CategoryView.vala:1887
 msgid "Mail sent"
-msgstr ""
+msgstr "Почта отправлена"
 
 #: src/CategoryView.vala:1892
 msgid "Network server"
-msgstr ""
+msgstr "Сетевой сервер"
 
 #: src/CategoryView.vala:1897
 msgid "Network workgroup"
-msgstr ""
+msgstr "Сетевая рабочая группа"
 
 #: src/CategoryView.vala:1902
 msgid "Playlist"
-msgstr ""
+msgstr "Плейлист"
 
 #: src/CategoryView.vala:1907
 msgid "Automatic playlist"
-msgstr ""
+msgstr "Автоматический плейлист"
 
 #: src/CategoryView.vala:1912
 msgid "Playlist queue"
-msgstr ""
+msgstr "Очередь плейлиста"
 
 #: src/CategoryView.vala:1917
 msgid "Similar playlist"
-msgstr ""
+msgstr "Похожие плейлисты"
 
 #: src/CategoryView.vala:1922
 msgid "Tag"
-msgstr ""
+msgstr "Метка"
 
 #: src/CategoryView.vala:1927
 msgid "Bookmarks"
-msgstr ""
+msgstr "Закладки"
 
 #: src/CategoryView.vala:1932
 msgid "Home"
-msgstr ""
+msgstr "Домашняя папка"
 
 #: src/CategoryView.vala:1937
 msgid "Trash"
-msgstr ""
+msgstr "Корзина"
 
 #: src/CategoryView.vala:1942
 msgid "Trash full"
-msgstr ""
+msgstr "Полная корзина"
 
 #: src/CategoryView.vala:1947
 msgid "Airplane mode, where wireless radios are disabled or off"
-msgstr ""
+msgstr "Режим полёта, в котором беспроводные радиомодули отключены"
 
 #: src/CategoryView.vala:1952
 msgid "An appointment or calendar event was missed"
-msgstr ""
+msgstr "Была пропущена встреча или событие календаря"
 
 #: src/CategoryView.vala:1957
 msgid "An appointment or calendar event will be happening soon"
-msgstr ""
+msgstr "Скоро состоится встреча или событие в календаре"
 
 #: src/CategoryView.vala:1962
 msgid "High or loud audio volume"
-msgstr ""
+msgstr "Высокая громкость аудио"
 
 #: src/CategoryView.vala:1967
 msgid "Low or quiet audio volume"
-msgstr ""
+msgstr "Низкая громкость аудио"
 
 #: src/CategoryView.vala:1972
 msgid "Medium or normal audio volume"
-msgstr ""
+msgstr "Средняя или нормальная громкость аудио"
 
 #: src/CategoryView.vala:1977
 msgid "Audio volume is muted or off"
-msgstr ""
+msgstr "Звук приглушён или выключен"
 
 #: src/CategoryView.vala:1982
 msgid ""
 "Audio volume is muted or off and something is being blocked from making noise"
-msgstr ""
+msgstr "Звук приглушён или выключен, и что-то блокируется от создания шума"
 
 #: src/CategoryView.vala:1987
 msgid ""
 "The default avatar to represent a user, such as someone who has not set a "
 "profile picture"
 msgstr ""
+"Стандартный аватар для обозначения пользователя, например, того, кто не "
+"установил изображение профиля"
 
 #: src/CategoryView.vala:1992
 msgid "A charger or AC adapter for a battery-powered device"
-msgstr ""
+msgstr "Зарядное устройство для устройства, работающего от батареи"
 
 #: src/CategoryView.vala:1997
 msgid "Low battery level"
-msgstr ""
+msgstr "Низкий уровень заряда батареи"
 
 #: src/CategoryView.vala:2002
 msgid "Low battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "Низкий уровень заряда батареи, подключено к зарядному устройству"
 
 #: src/CategoryView.vala:2007
 msgid "Critically low battery level"
-msgstr ""
+msgstr "Критически низкий уровень заряда батареи"
 
 #: src/CategoryView.vala:2012
 msgid "Critically low battery, plugged into a charger or AC adapter"
 msgstr ""
+"Критически низкий уровень заряда батареи, подключено к зарядному устройству"
 
 #: src/CategoryView.vala:2017
 msgid "Mostly charged battery level"
-msgstr ""
+msgstr "Почти полный уровень заряда батареи"
 
 #: src/CategoryView.vala:2022
 msgid "Completely charged battery level"
-msgstr ""
+msgstr "Полный уровень заряда батареи"
 
 #: src/CategoryView.vala:2027
 msgid "Mostly charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "Почти полный уровень заряда батареи, подключено к зарядному устройству"
 
 #: src/CategoryView.vala:2032
 msgid "Medium-high charged battery level"
-msgstr ""
+msgstr "Средний-высокий уровень заряда батареи"
 
 #: src/CategoryView.vala:2037
 msgid "Medium-high charged battery level, plugged into a charger or AC adapter"
 msgstr ""
+"Средний-высокий уровень заряда батареи, подключено к зарядному устройству"
 
 #: src/CategoryView.vala:2042
 msgid "Medium-low charged battery level"
-msgstr ""
+msgstr "Средний-низкий уровень заряда батареи"
 
 #: src/CategoryView.vala:2047
 msgid "Medium-low charged battery level, plugged into a charger or AC adapter"
 msgstr ""
+"Средний-низкий уровень заряда батареи, подключено к зарядному устройству"
 
 #: src/CategoryView.vala:2052
 msgid "Missing or malfunctioning battery"
-msgstr ""
+msgstr "Батарея отсутствует или неисправна"
 
 #: src/CategoryView.vala:2057
 msgid "Bluetooth radio is disabled or off"
-msgstr ""
+msgstr "Bluetooth-радио отключено"
 
 #: src/CategoryView.vala:2062
 msgid "Allow changes by unlocking such as with a password"
-msgstr ""
+msgstr "Разрешить изменения, разблокировав, например, с помощью пароля"
 
 #: src/CategoryView.vala:2067
 msgid "Prevent changes by locking such as with a password"
-msgstr ""
+msgstr "Предотвратить изменения, заблокировав, например, с помощью пароля"
 
 #: src/CategoryView.vala:2072
 msgid ""
 "Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
 msgstr ""
+"Небезопасная, незащищённая или незашифрованная связь или соединение, "
+"например HTTP"
 
 #: src/CategoryView.vala:2077
 msgid ""
 "Secure or encrypted communication or connection, such as HTTPS or encrypted "
 "Wi-Fi"
 msgstr ""
+"Безопасная или зашифрованная связь или соединение, например HTTPS или "
+"зашифрованный Wi-Fi"
 
 #: src/CategoryView.vala:2082
 msgid "Critical, unrecoverable, or other serious error"
-msgstr ""
+msgstr "Критическая, неисправимая или другая серьёзная ошибка"
 
 #: src/CategoryView.vala:2087
 msgid "Contextual information or explanation"
-msgstr ""
+msgstr "Контекстная информация или объяснение"
 
 #: src/CategoryView.vala:2092
 msgid "Requesting authentication details, such as a password or encryption key"
-msgstr ""
+msgstr "Запрос данных аутентификации, таких как пароль или ключ шифрования"
 
 #: src/CategoryView.vala:2097
 msgid "Question, decision, or choice for the user"
-msgstr ""
+msgstr "Вопрос, решение или выбор для пользователя"
 
 #: src/CategoryView.vala:2102
 msgid "Warning of potentially dangerous actions or consequences"
-msgstr ""
+msgstr "Предупреждение о потенциально опасных действиях или последствиях"
 
 #: src/CategoryView.vala:2107
 msgid "Placeholder used when an image or thumbnail is loading"
-msgstr ""
+msgstr "Заглушка, используемая при загрузке изображения или миниатюры"
 
 #: src/CategoryView.vala:2112
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
 msgstr ""
+"Заглушка, используемая, когда изображение или миниатюра отсутствует или не "
+"может быть загружена"
 
 #: src/CategoryView.vala:2117
 msgid "Location services are in use"
-msgstr ""
+msgstr "Используются службы определения местоположения"
 
 #: src/CategoryView.vala:2122
 msgid "Location services are disabled and unavailable"
-msgstr ""
+msgstr "Службы определения местоположения отключены и недоступны"
 
 #: src/CategoryView.vala:2127
 msgid "Location services are available, but not in use"
-msgstr ""
+msgstr "Службы определения местоположения доступны, но не используются"
 
 #: src/CategoryView.vala:2132
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
 msgstr ""
+"Защищено или заблокировано; как правило, требуется аутентификация или пароль "
+"для разблокировки"
 
 #: src/CategoryView.vala:2137
 msgid "Mail attachment or file in an email"
-msgstr ""
+msgstr "Вложение или файл в электронном письме"
 
 #: src/CategoryView.vala:2142
 msgid "New, unread, or unviewed email"
-msgstr ""
+msgstr "Новое, непрочитанное или непросмотренное письмо"
 
 #: src/CategoryView.vala:2147
 msgid "Read or already-viewed email"
-msgstr ""
+msgstr "Прочитанное или просмотренное письмо"
 
 #: src/CategoryView.vala:2152
 msgid "Email that has been replied or responded to"
-msgstr ""
+msgstr "Письмо, на которое был дан ответ"
 
 #: src/CategoryView.vala:2157
 msgid "Email that contains a signature"
-msgstr ""
+msgstr "Письмо, содержащее подпись"
 
 #: src/CategoryView.vala:2162
 msgid "Email that contains a signature that is verified by the security system"
-msgstr ""
+msgstr "Письмо, содержащее подпись, подтверждённую системой безопасности"
 
 #: src/CategoryView.vala:2167
 msgid "Repeat a song, video, track, album, playlist, or other media"
-msgstr ""
+msgstr "Повтор песни, видео, трека, альбома, плейлиста или другого типа медиа"
 
 #: src/CategoryView.vala:2172
 msgid "Shuffle or randomize an album, playlist, or other media"
 msgstr ""
+"Перемешать, проигрывать в случайном порядке альбом, плейлист или другой тип "
+"медиа"
 
 #: src/CategoryView.vala:2177
 msgid "Error or problem initializing or creating a network connection"
-msgstr ""
+msgstr "Ошибка или проблема с установкой или созданием сетевого подключения"
 
 #: src/CategoryView.vala:2182
 msgid "No data being transmitted or received while connected to a network"
-msgstr ""
+msgstr "Отсутствует передача данных по сети"
 
 #: src/CategoryView.vala:2187
 msgid "Disconnected or offline from a network"
-msgstr ""
+msgstr "Отключено или не подключено к сети"
 
 #: src/CategoryView.vala:2192
 msgid "Data is being received over a network"
-msgstr ""
+msgstr "Получение данных по сети"
 
 #: src/CategoryView.vala:2197
 msgid "Data is being transmitted over a network"
-msgstr ""
+msgstr "Отправка данных по сети"
 
 #: src/CategoryView.vala:2202
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
-msgstr ""
+msgstr "Отправка и получение данных по сети"
 
 #: src/CategoryView.vala:2207
 msgid "Wired network, such as Ethernet, is disconnected"
-msgstr ""
+msgstr "Проводная сеть, например Ethernet, не подключена"
 
 #: src/CategoryView.vala:2212
 msgid "Item is not starred, favorited, or pinned by the user"
 msgstr ""
+"Элемент не помечен, не добавлен в избранное и не закреплён пользователем"
 
 #: src/CategoryView.vala:2217
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
-msgstr ""
+msgstr "Уведомления отключены или включён режим «Не беспокоить»"
 
 #: src/CategoryView.vala:2222
 msgid "Error or problem occurred when attempting to print"
-msgstr ""
+msgstr "Произошла ошибка или проблема при попытке печати"
 
 #: src/CategoryView.vala:2227
 msgid "Job has been successfully spooled or sent to a printer"
-msgstr ""
+msgstr "Задача успешно добавлена в очередь или отправлена на принтер"
 
 #: src/CategoryView.vala:2232
 msgid "Process, job, or task has successfully completed or finished"
-msgstr ""
+msgstr "Процесс, задание или задача успешно завершены или выполнены"
 
 #: src/CategoryView.vala:2237
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
 msgstr ""
+"Заведомо безопасно, например, надёжное шифрование или действительный, "
+"подтверждённый или доверенный сертификат"
 
 #: src/CategoryView.vala:2242
 msgid "Presumed to be secure, such as using encryption"
-msgstr ""
+msgstr "Считается безопасным, например использование шифрования"
 
 #: src/CategoryView.vala:2247
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
 msgstr ""
+"Считается небезопасным, например, незащищенный, незашифрованный или слабо "
+"зашифрованный, или недействительный, неподтверждённый или ненадежный "
+"сертификат"
 
 #: src/CategoryView.vala:2252
 msgid "Updated apps, software, or drivers are available"
-msgstr ""
+msgstr "Доступны обновлённые приложения, программное обеспечение или драйверы"
 
 #: src/CategoryView.vala:2257
 msgid "Urgent or critical updates are available"
-msgstr ""
+msgstr "Доступны срочные или критические обновления"
 
 #: src/CategoryView.vala:2262
 msgid "Item is starred, favorited, or pinned by the user"
-msgstr ""
+msgstr "Элемент помечен, добавлен в избранное или закреплён пользователем"
 
 #: src/CategoryView.vala:2267
 msgid "Task is due soon"
-msgstr ""
+msgstr "Приближается срок сдачи задания"
 
 #: src/CategoryView.vala:2272
 msgid "Task is incomplete past the due date"
-msgstr ""
+msgstr "Задание выполнено не полностью или сдано после срока выполнения"
 
 #: src/CategoryView.vala:2277
 msgid "User, person, or contact is available or online"
-msgstr ""
+msgstr "Пользователь, человек или контакт доступен или в сети"
 
 #: src/CategoryView.vala:2282
 msgid "User, person, or contact is away or unavailable"
-msgstr ""
+msgstr "Пользователь, человек или контакт отсутствует или недоступен"
 
 #: src/CategoryView.vala:2287
 msgid "User, person, or contact is idle or unresponsive"
-msgstr ""
+msgstr "Пользователь, человек или контакт отошёл или не отвечает"
 
 #: src/CategoryView.vala:2292
 msgid "User, person, or contact is offline or unreachable"
-msgstr ""
+msgstr "Пользователь, человек или контакт не в сети или недоступен"
 
 #: src/CategoryView.vala:2297
 msgid "Private, anonymous, untracked, or incognito"
-msgstr ""
+msgstr "Приватный, анонимный, неотслеживаемый или инкогнито"
 
 #: src/CategoryView.vala:2302
 msgid "Clear skies or sunny weather"
-msgstr ""
+msgstr "Ясная или солнечная погода"
 
 #: src/CategoryView.vala:2307
 msgid "Clear skies weather during the night"
-msgstr ""
+msgstr "Ясная погода ночью"
 
 #: src/CategoryView.vala:2312
 msgid "Partly cloudy, partly clear, or partly sunny weather"
-msgstr ""
+msgstr "Переменная облачность, частично ясная или частично солнечная погода"
 
 #: src/CategoryView.vala:2317
 msgid "Partly cloudy or partly clear weather during the night"
-msgstr ""
+msgstr "Переменная облачность или частично ясная погода ночью"
 
 #: src/CategoryView.vala:2322
 msgid "Foggy weather"
-msgstr ""
+msgstr "Туманная погода"
 
 #: src/CategoryView.vala:2327
 msgid "Overcast or cloudy weather"
-msgstr ""
+msgstr "Пасмурная или облачная погода"
 
 #: src/CategoryView.vala:2332
 msgid "Severe or critical weather warning or alert"
-msgstr ""
+msgstr "Предупреждение или оповещение о суровых или опасных погодных условиях"
 
 #: src/CategoryView.vala:2337
 msgid "Showers or rainy weather"
-msgstr ""
+msgstr "Ливни или дождливая погода"
 
 #: src/CategoryView.vala:2342
 msgid "Scattered showers or partly rainy weather"
-msgstr ""
+msgstr "Рассеянные ливни или частично дождливая погода"
 
 #: src/CategoryView.vala:2347
 msgid "Snow showers or snowy weather"
-msgstr ""
+msgstr "Снегопады или снежная погода"
 
 #: src/CategoryView.vala:2352
 msgid "Thunderstorms or stormy weather"
-msgstr ""
+msgstr "Грозы или штормовая погода"
 
 #: src/CategoryView.vala:2362
 msgid "Search Names or Descriptions"
