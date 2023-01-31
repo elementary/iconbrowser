@@ -8,129 +8,132 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-02-01 05:25+0000\n"
+"Last-Translator: David M <rbndavid@gmail.com>\n"
+"Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
+"icon-browser/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
-msgstr ""
+msgstr "Accions"
 
 #: src/CategoryView.vala:28
 msgid "Applications"
-msgstr ""
+msgstr "Aplicacions"
 
 #: src/CategoryView.vala:30
 msgid "Categories"
-msgstr ""
+msgstr "Categories"
 
 #: src/CategoryView.vala:32
 msgid "Devices"
-msgstr ""
+msgstr "Dispositius"
 
 #: src/CategoryView.vala:34
 msgid "Emblems"
-msgstr ""
+msgstr "Emblemes"
 
 #: src/CategoryView.vala:36
 msgid "Emotes"
-msgstr ""
+msgstr "Emoticones"
 
 #: src/CategoryView.vala:38
 msgid "Media Types"
-msgstr ""
+msgstr "Tipus de mitjans"
 
 #: src/CategoryView.vala:40
 msgid "Places"
-msgstr ""
+msgstr "Llocs"
 
 #: src/CategoryView.vala:42
 msgid "Status"
-msgstr ""
+msgstr "Estat"
 
 #: src/CategoryView.vala:44
 msgid "OTHER"
-msgstr ""
+msgstr "ALTRES"
 
 #: src/CategoryView.vala:62 src/IconView.vala:13
 msgid "Create a new address book"
-msgstr ""
+msgstr "Crea una llibreta d'adreces nova"
 
 #: src/CategoryView.vala:67
 msgid "Align objects to center along the X axis"
-msgstr ""
+msgstr "Alinea els objectes per centrar-los al llarg de l'eix X"
 
 #: src/CategoryView.vala:72
 msgid "Align objects left along the X axis"
-msgstr ""
+msgstr "Alinea els objectes a l'esquerra al llarg de l'eix X"
 
 #: src/CategoryView.vala:77
 msgid "Align objects right along the X axis"
-msgstr ""
+msgstr "Alinea els objectes a la dreta al llarg de l'eix X"
 
 #: src/CategoryView.vala:82
 msgid "Align objects to bottom along the Y axis"
-msgstr ""
+msgstr "Alinea els objectes a baix al llarg de l'eix Y"
 
 #: src/CategoryView.vala:87
 msgid "Align objects to center along the Y axis"
-msgstr ""
+msgstr "Alinea els objectes per centrar-los al llarg de l'eix Y"
 
 #: src/CategoryView.vala:92
 msgid "Align objects to top along the Y axis"
-msgstr ""
+msgstr "Alinea els objectes a dalt al llarg de l'eix Y"
 
 #: src/CategoryView.vala:97
 msgid "Used for exiting an application"
-msgstr ""
+msgstr "Usat per sortir d'una aplicació"
 
 #: src/CategoryView.vala:102
 msgid "Create a new appointment in a calendaring application"
-msgstr ""
+msgstr "Creeu una cita nova en una aplicació de calendari"
 
 #: src/CategoryView.vala:107
 msgid "Create a new bookmark"
-msgstr ""
+msgstr "Crea un marcador nou"
 
 #: src/CategoryView.vala:112
 msgid "Download a file from the Internet"
-msgstr ""
+msgstr "Descarrega un fitxer d'Internet"
 
 #: src/CategoryView.vala:117
 msgid "Initiate or accept a call"
-msgstr ""
+msgstr "Inicia o accepta una trucada"
 
 #: src/CategoryView.vala:122
 msgid "Stop the current call"
-msgstr ""
+msgstr "Atura la trucada actual"
 
 #: src/CategoryView.vala:127
 msgid "Pick a color from elsewhere on screen"
-msgstr ""
+msgstr "Trieu un color d'un altre lloc de la pantalla"
 
 #: src/CategoryView.vala:132
 msgid "Create a new contact in an address book application"
-msgstr ""
+msgstr "Crea un contacte nou en una aplicació de llibreta d'adreces"
 
 #: src/CategoryView.vala:137
 msgid "Distribute the center lines of objects horizontally"
-msgstr ""
+msgstr "Distribueix horitzontalment les línies centrals dels objectes"
 
 #: src/CategoryView.vala:142
 msgid "Make horizontal gaps between objects equal"
-msgstr ""
+msgstr "Fes que els espais horitzontals entre els objectes siguin iguals"
 
 #: src/CategoryView.vala:147
 msgid "Distribute left edges of objects horizontally"
-msgstr ""
+msgstr "Distribueix horitzontalment les vores esquerres dels objectes"
 
 #: src/CategoryView.vala:152
 msgid "Distribute right edges of objects horizontally"
-msgstr ""
+msgstr "Distribueix horitzontalment les vores dretes dels objectes"
 
 #: src/CategoryView.vala:157
 msgid "Distribute bottom edges of objects vertically"
