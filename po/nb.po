@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-01-16 09:25+0000\n"
+"PO-Revision-Date: 2023-02-01 05:25+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://l10n.elementary.io/projects/"
 "icon-browser/icon-browser/nb/>\n"
@@ -105,11 +105,12 @@ msgstr "Last ned en fil fra Internett"
 
 #: src/CategoryView.vala:117
 msgid "Initiate or accept a call"
-msgstr ""
+msgstr "Utfør eller besvar et anrop"
 
 #: src/CategoryView.vala:122
+#, fuzzy
 msgid "Stop the current call"
-msgstr ""
+msgstr "Legg på"
 
 #: src/CategoryView.vala:127
 msgid "Pick a color from elsewhere on screen"
@@ -168,8 +169,9 @@ msgid "Open a document"
 msgstr "Åpne et dokument"
 
 #: src/CategoryView.vala:197
+#, fuzzy
 msgid "Open a document that was recently opened"
-msgstr ""
+msgstr "Åpne et nylig åpnet dokument"
 
 #: src/CategoryView.vala:202
 msgid "The page setup action of a document editor"
@@ -326,11 +328,11 @@ msgstr ""
 
 #: src/CategoryView.vala:392
 msgid "Go down, such as in a list"
-msgstr ""
+msgstr "Gå nedover, som i en liste"
 
 #: src/CategoryView.vala:397
 msgid "Go to the first item, such as in a list"
-msgstr ""
+msgstr "Gå til første element, som i en liste"
 
 #: src/CategoryView.vala:402
 msgid "Go to the home location"
@@ -338,11 +340,11 @@ msgstr ""
 
 #: src/CategoryView.vala:407
 msgid "Jump to a location"
-msgstr ""
+msgstr "Hopp til en posisjon"
 
 #: src/CategoryView.vala:412
 msgid "Go to the last item, such as in a list"
-msgstr ""
+msgstr "Gå til siste element, som i en liste"
 
 #: src/CategoryView.vala:417
 msgid "Go forward to the next item, such as in a list or navigation"
@@ -354,15 +356,15 @@ msgstr ""
 
 #: src/CategoryView.vala:427
 msgid "Go to the top, such as in a list"
-msgstr ""
+msgstr "Gå til toppen, som i en liste"
 
 #: src/CategoryView.vala:432
 msgid "Go up, such as in a list"
-msgstr ""
+msgstr "Gå oppover, som i en liste"
 
 #: src/CategoryView.vala:437
 msgid "Information about an app"
-msgstr ""
+msgstr "Info om programmet"
 
 #: src/CategoryView.vala:442
 msgid "Get help"
@@ -370,7 +372,7 @@ msgstr "Få hjelp"
 
 #: src/CategoryView.vala:447
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "Ofte stilte spørsmål"
 
 #: src/CategoryView.vala:452
 msgid "Make adjustments to an image"
@@ -382,7 +384,7 @@ msgstr ""
 
 #: src/CategoryView.vala:462
 msgid "Crop an image"
-msgstr ""
+msgstr "Beskjær et bilde"
 
 #: src/CategoryView.vala:467
 msgid "Remove red eye from an image"
@@ -434,12 +436,14 @@ msgid "Mark an email as read"
 msgstr ""
 
 #: src/CategoryView.vala:527
+#, fuzzy
 msgid "Mark an email as unread"
-msgstr ""
+msgstr "Marker en e-post som ulest"
 
 #: src/CategoryView.vala:532
+#, fuzzy
 msgid "Compose a new email"
-msgstr ""
+msgstr "Skriv en ny e-post"
 
 #: src/CategoryView.vala:537
 msgid "Reply to all participants of an email"
@@ -618,15 +622,16 @@ msgstr ""
 
 #: src/CategoryView.vala:752
 msgid "Zoom in"
-msgstr ""
+msgstr "Forstørr"
 
 #: src/CategoryView.vala:757
+#, fuzzy
 msgid "Zoom to the original size"
-msgstr ""
+msgstr "Vis i opprinnelig størrelse"
 
 #: src/CategoryView.vala:762
 msgid "Zoom out"
-msgstr ""
+msgstr "Forminsk"
 
 #: src/CategoryView.vala:767
 msgid "Calculator"
@@ -722,7 +727,7 @@ msgstr ""
 
 #: src/CategoryView.vala:882
 msgid "Bluetooth settings"
-msgstr ""
+msgstr "Blåtannsinnstillinger"
 
 #: src/CategoryView.vala:887
 msgid "Color settings such as printer, display, or camera calibration"
@@ -733,8 +738,9 @@ msgid "Desktop interface settings"
 msgstr ""
 
 #: src/CategoryView.vala:897
+#, fuzzy
 msgid "Universal access settings"
-msgstr ""
+msgstr "Innstillinger for tilgjengelighet"
 
 #: src/CategoryView.vala:902
 msgid "Universal access settings for pointing, such as controlling the cursor"
@@ -754,7 +760,7 @@ msgstr ""
 
 #: src/CategoryView.vala:922
 msgid "Font settings"
-msgstr ""
+msgstr "Skriftinnstillinger"
 
 #: src/CategoryView.vala:927
 msgid "Keyboard settings, such as layout or shortcuts"
@@ -794,11 +800,11 @@ msgstr ""
 
 #: src/CategoryView.vala:972
 msgid "Notification alert settings"
-msgstr ""
+msgstr "Innstillinger for merknadsvarsel"
 
 #: src/CategoryView.vala:977
 msgid "Parental control settings"
-msgstr ""
+msgstr "Innstillinger for foreldrekontroll"
 
 #: src/CategoryView.vala:982
 msgid "Power management or energy usage settings, such as battery"
@@ -806,7 +812,7 @@ msgstr ""
 
 #: src/CategoryView.vala:987
 msgid "Privacy and security settings"
-msgstr ""
+msgstr "Personvern- og sikkerhetsinnstillinger"
 
 #: src/CategoryView.vala:992
 msgid ""
@@ -815,11 +821,11 @@ msgstr ""
 
 #: src/CategoryView.vala:997
 msgid "Time and date settings"
-msgstr ""
+msgstr "Tid- og datoinnstillinger"
 
 #: src/CategoryView.vala:1002
 msgid "Window management settings"
-msgstr ""
+msgstr "Vinduhåndteringsinnstillinger"
 
 #: src/CategoryView.vala:1007
 msgid "Help"
@@ -859,19 +865,19 @@ msgstr ""
 
 #: src/CategoryView.vala:1052
 msgid "Video or movie camera"
-msgstr ""
+msgstr "Video- eller filmkamera"
 
 #: src/CategoryView.vala:1057
 msgid "Webcam or built-in camera"
-msgstr ""
+msgstr "Nett-, eller innebygd kamera"
 
 #: src/CategoryView.vala:1062
 msgid "Generic or desktop computer"
-msgstr ""
+msgstr "Generisk- eller skrivebordsdatamaskin"
 
 #: src/CategoryView.vala:1067
 msgid "Laptop or notebook computer"
-msgstr ""
+msgstr "Bærbar- eller ultraportabel datamaskin"
 
 #: src/CategoryView.vala:1072
 msgid "Hard disk or storage drive"
@@ -921,7 +927,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1127
 msgid "Network modem or router"
-msgstr ""
+msgstr "Nettverksmodem eller ruter"
 
 #: src/CategoryView.vala:1132
 msgid "Media player device, such as a portable mp3 music player or iPod"
@@ -935,7 +941,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1142
 msgid "Networking firewall"
-msgstr ""
+msgstr "Nettverksbrannmur"
 
 #: src/CategoryView.vala:1147
 msgid "Virtual private network or VPN connection"
@@ -961,7 +967,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1172
 msgid "Printer"
-msgstr ""
+msgstr "Skriver"
 
 #: src/CategoryView.vala:1177
 msgid "Network-connected or shared printer"
@@ -969,7 +975,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1182
 msgid "Scanner"
-msgstr ""
+msgstr "Skanner"
 
 #: src/CategoryView.vala:1187
 msgid "Display, screen, or monitor"
@@ -1397,7 +1403,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1717
 msgid "Unknown file types"
-msgstr ""
+msgstr "Ukjente filtyper"
 
 #: src/CategoryView.vala:1722
 msgid "Generic video file types"
@@ -1509,15 +1515,15 @@ msgstr "Internettradio"
 
 #: src/CategoryView.vala:1857
 msgid "Audiobook library"
-msgstr ""
+msgstr "Lydboksbibliotek"
 
 #: src/CategoryView.vala:1862
 msgid "Library places"
-msgstr ""
+msgstr "Biblioteksteder"
 
 #: src/CategoryView.vala:1867
 msgid "Podcast library"
-msgstr ""
+msgstr "Nettradioopptaksbibliotek"
 
 #: src/CategoryView.vala:1872
 msgid "Mail inbox"
@@ -1541,7 +1547,7 @@ msgstr "Nettverkstjener"
 
 #: src/CategoryView.vala:1897
 msgid "Network workgroup"
-msgstr ""
+msgstr "Nettverksarbeidsgruppe"
 
 #: src/CategoryView.vala:1902
 msgid "Playlist"
@@ -1926,15 +1932,15 @@ msgstr ""
 
 #: src/IconView.vala:55
 msgid "Color Icons"
-msgstr ""
+msgstr "Fargeikoner"
 
 #: src/IconView.vala:62
 msgid "Symbolic Icons"
-msgstr ""
+msgstr "Symbolske ikoner"
 
 #: src/IconView.vala:75
 msgid "Code Sample"
-msgstr ""
+msgstr "Kodeeksempel"
 
 #: src/IconView.vala:157
 msgid "Unavailable"
