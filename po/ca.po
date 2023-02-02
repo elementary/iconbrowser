@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-02-01 05:25+0000\n"
+"PO-Revision-Date: 2023-02-03 10:25+0000\n"
 "Last-Translator: David M <rbndavid@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ca/>\n"
@@ -137,215 +137,215 @@ msgstr "Distribueix horitzontalment les vores dretes dels objectes"
 
 #: src/CategoryView.vala:157
 msgid "Distribute bottom edges of objects vertically"
-msgstr ""
+msgstr "Distribueix les vores inferiors dels objectes verticalment"
 
 #: src/CategoryView.vala:162
 msgid "Distribute center lines of objects vertically"
-msgstr ""
+msgstr "Distribueix les línies centrals dels objectes verticalment"
 
 #: src/CategoryView.vala:167
 msgid "Make vertical gaps between objects equal"
-msgstr ""
+msgstr "Fes que els espais verticals entre els objectes siguin iguals"
 
 #: src/CategoryView.vala:172
 msgid "Distriute top edges of objects vertically"
-msgstr ""
+msgstr "Distribueix les vores superiors dels objectes verticalment"
 
 #: src/CategoryView.vala:177
 msgid "Export a document"
-msgstr ""
+msgstr "Exporta un document"
 
 #: src/CategoryView.vala:182
 msgid "Import a document"
-msgstr ""
+msgstr "Importa un document"
 
 #: src/CategoryView.vala:187
 msgid "Create a new document"
-msgstr ""
+msgstr "Crea un document nou"
 
 #: src/CategoryView.vala:192
 msgid "Open a document"
-msgstr ""
+msgstr "Obre un document"
 
 #: src/CategoryView.vala:197
 msgid "Open a document that was recently opened"
-msgstr ""
+msgstr "Obre un document que s'ha obert recentment"
 
 #: src/CategoryView.vala:202
 msgid "The page setup action of a document editor"
-msgstr ""
+msgstr "L'acció de configuració de la pàgina d'un editor de documents"
 
 #: src/CategoryView.vala:207
 msgid "Print"
-msgstr ""
+msgstr "Imprimeix"
 
 #: src/CategoryView.vala:212
 msgid "The print preview action of an application"
-msgstr ""
+msgstr "L'acció de previsualització d'impressió d'una aplicació"
 
 #: src/CategoryView.vala:217
 msgid "View the properties of a document"
-msgstr ""
+msgstr "Mostra les propietats d'un document"
 
 #: src/CategoryView.vala:222
 msgid "Revert to a previous version of a document"
-msgstr ""
+msgstr "Torna a una versió anterior d'un document"
 
 #: src/CategoryView.vala:227
 msgid "Save"
-msgstr ""
+msgstr "Desa"
 
 #: src/CategoryView.vala:232
 msgid "Save as"
-msgstr ""
+msgstr "Desa com a"
 
 #: src/CategoryView.vala:237
 msgid "Send"
-msgstr ""
+msgstr "Envia"
 
 #: src/CategoryView.vala:242
 msgid "Edit"
-msgstr ""
+msgstr "Edita"
 
 #: src/CategoryView.vala:247
 msgid "Clear"
-msgstr ""
+msgstr "Neteja"
 
 #: src/CategoryView.vala:252
 msgid "Copy"
-msgstr ""
+msgstr "Copia"
 
 #: src/CategoryView.vala:257
 msgid "Cut"
-msgstr ""
+msgstr "Retalla"
 
 #: src/CategoryView.vala:262
 msgid "Delete"
-msgstr ""
+msgstr "Suprimeix"
 
 #: src/CategoryView.vala:267
 msgid "Find"
-msgstr ""
+msgstr "Troba"
 
 #: src/CategoryView.vala:272
 msgid "Find & Replace"
-msgstr ""
+msgstr "Troba i reemplaça"
 
 #: src/CategoryView.vala:277
 msgid "Flag an item, such as a spam email"
-msgstr ""
+msgstr "Marca un element, com ara un missatge com a brossa"
 
 #: src/CategoryView.vala:282
 msgid "Paste"
-msgstr ""
+msgstr "Enganxa"
 
 #: src/CategoryView.vala:287
 msgid "Redo"
-msgstr ""
+msgstr "Refés"
 
 #: src/CategoryView.vala:292
 msgid "Select all"
-msgstr ""
+msgstr "Selecciona-ho tot"
 
 #: src/CategoryView.vala:297
 msgid "Undo"
-msgstr ""
+msgstr "Desfés"
 
 #: src/CategoryView.vala:302
 msgid "Create a new calendar event"
-msgstr ""
+msgstr "Crea un nou esdeveniment del calendari"
 
 #: src/CategoryView.vala:307
 msgid "Copy a folder"
-msgstr ""
+msgstr "Copia una carpeta"
 
 #: src/CategoryView.vala:312
 msgid "Move a folder"
-msgstr ""
+msgstr "Mou una carpeta"
 
 #: src/CategoryView.vala:317
 msgid "Create a new folder"
-msgstr ""
+msgstr "Crea una carpeta nova"
 
 #: src/CategoryView.vala:322
 msgid "Decrease indent"
-msgstr ""
+msgstr "Disminueix el sagnat"
 
 #: src/CategoryView.vala:327
 msgid "Increase indent"
-msgstr ""
+msgstr "Augmenta el sagnat"
 
 #: src/CategoryView.vala:332
 msgid "Center justify text"
-msgstr ""
+msgstr "Ajusta el text al centre"
 
 #: src/CategoryView.vala:337
 msgid "Fill justify text"
-msgstr ""
+msgstr "Emplena el text ajustat"
 
 #: src/CategoryView.vala:342
 msgid "Left justify text"
-msgstr ""
+msgstr "Text ajustat a l'esquerra"
 
 #: src/CategoryView.vala:347
 msgid "Right justify text"
-msgstr ""
+msgstr "Text ajustat a la dreta"
 
 #: src/CategoryView.vala:352
 msgid "Format text as left-to-right"
-msgstr ""
+msgstr "Formata el text d'esquerra a dreta"
 
 #: src/CategoryView.vala:357
 msgid "Format text as right-to-left"
-msgstr ""
+msgstr "Formata el text de dreta a esquerra"
 
 #: src/CategoryView.vala:362
 msgid "Format text as bold"
-msgstr ""
+msgstr "Formata el text en negreta"
 
 #: src/CategoryView.vala:367
 msgid "Format text as highlighted"
-msgstr ""
+msgstr "Formata el text com a ressaltat"
 
 #: src/CategoryView.vala:372
 msgid "Format text as italic"
-msgstr ""
+msgstr "Formata el text en cursiva"
 
 #: src/CategoryView.vala:377
 msgid "Format text as underlined"
-msgstr ""
+msgstr "Formata el text com a subratllat"
 
 #: src/CategoryView.vala:382
 msgid "Format text as being struck through"
-msgstr ""
+msgstr "Formata el text com a ratllat"
 
 #: src/CategoryView.vala:387
 msgid "Go to the bottom, such as in a list"
-msgstr ""
+msgstr "Ves a la part inferior, com ara en una llista"
 
 #: src/CategoryView.vala:392
 msgid "Go down, such as in a list"
-msgstr ""
+msgstr "Ves avall, com ara en una llista"
 
 #: src/CategoryView.vala:397
 msgid "Go to the first item, such as in a list"
-msgstr ""
+msgstr "Ves al primer element, com ara en una llista"
 
 #: src/CategoryView.vala:402
 msgid "Go to the home location"
-msgstr ""
+msgstr "Ves a la ubicació d'inici"
 
 #: src/CategoryView.vala:407
 msgid "Jump to a location"
-msgstr ""
+msgstr "Ves a una ubicació"
 
 #: src/CategoryView.vala:412
 msgid "Go to the last item, such as in a list"
-msgstr ""
+msgstr "Ves a l'últim element, com ara en una llista"
 
 #: src/CategoryView.vala:417
 msgid "Go forward to the next item, such as in a list or navigation"
-msgstr ""
+msgstr "Ves al següent element, com ara en una llista o una navegació"
 
 #: src/CategoryView.vala:422
 msgid "Go back to the previous item, such as in a list or navigation"
