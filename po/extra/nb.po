@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-01-12 06:25+0000\n"
+"PO-Revision-Date: 2023-02-01 05:25+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://l10n.elementary.io/projects/"
 "icon-browser/extra/nb/>\n"
@@ -32,10 +32,13 @@ msgid "icons;iconography;"
 msgstr "ikoner;ikonografi;"
 
 #: data/iconbrowser.appdata.xml.in:12
+#, fuzzy
 msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
 msgstr ""
+"Utforsk systemikoner kategorivist, eller søk etter navnet. Få forskjellige "
+"størrelser og kodesnutter du kan bruke i programmene dine."
 
 #: data/iconbrowser.appdata.xml.in:17
 msgid "Browse system icons"
@@ -46,28 +49,30 @@ msgid "Search by description"
 msgstr "Søk etter beskrivelse"
 
 #: data/iconbrowser.appdata.xml.in:38
+#, fuzzy
 msgid "elementary, Inc."
-msgstr ""
+msgstr "elementary, Inc."
 
 #: data/iconbrowser.appdata.xml.in:45
 msgid "A modern redesign!"
-msgstr ""
+msgstr "Et moderne redesign."
 
 #: data/iconbrowser.appdata.xml.in:47
 msgid "Fancy new icon"
-msgstr ""
+msgstr "Stilig nytt ikon"
 
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Drag the window from anywhere"
-msgstr ""
+msgstr "Dra vinduet fra hvor som helst"
 
 #: data/iconbrowser.appdata.xml.in:49
 msgid "Follow the system dark style preference"
-msgstr ""
+msgstr "Følg systemets mørke stil"
 
 #: data/iconbrowser.appdata.xml.in:50
+#, fuzzy
 msgid "Updated for Gtk 4"
-msgstr ""
+msgstr "Oppdatert for GTK 4"
 
 #: data/iconbrowser.appdata.xml.in:62
 msgid "Add \"audio-headphones\" and \"audio-headset\""

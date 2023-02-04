@@ -8,11 +8,11 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-02-01 05:25+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://l10n.elementary.io/projects/"
-"icon-browser/icon-browser/nb/>\n"
-"Language: nb\n"
+"PO-Revision-Date: 2023-02-03 10:25+0000\n"
+"Last-Translator: David M <rbndavid@gmail.com>\n"
+"Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
+"icon-browser/ca/>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,334 +21,331 @@ msgstr ""
 
 #: src/CategoryView.vala:26
 msgid "Actions"
-msgstr "Handlinger"
+msgstr "Accions"
 
 #: src/CategoryView.vala:28
 msgid "Applications"
-msgstr "Programmer"
+msgstr "Aplicacions"
 
 #: src/CategoryView.vala:30
 msgid "Categories"
-msgstr "Kategorier"
+msgstr "Categories"
 
 #: src/CategoryView.vala:32
 msgid "Devices"
-msgstr "Enheter"
+msgstr "Dispositius"
 
 #: src/CategoryView.vala:34
 msgid "Emblems"
-msgstr "Emblemer"
+msgstr "Emblemes"
 
 #: src/CategoryView.vala:36
 msgid "Emotes"
-msgstr ""
+msgstr "Emoticones"
 
 #: src/CategoryView.vala:38
 msgid "Media Types"
-msgstr "Mediatyper"
+msgstr "Tipus de mitjans"
 
 #: src/CategoryView.vala:40
 msgid "Places"
-msgstr "Steder"
+msgstr "Llocs"
 
 #: src/CategoryView.vala:42
 msgid "Status"
-msgstr "Status"
+msgstr "Estat"
 
 #: src/CategoryView.vala:44
 msgid "OTHER"
-msgstr ""
+msgstr "ALTRES"
 
 #: src/CategoryView.vala:62 src/IconView.vala:13
 msgid "Create a new address book"
-msgstr "Opprett en ny adressebok"
+msgstr "Crea una llibreta d'adreces nova"
 
 #: src/CategoryView.vala:67
 msgid "Align objects to center along the X axis"
-msgstr ""
+msgstr "Alinea els objectes per centrar-los al llarg de l'eix X"
 
 #: src/CategoryView.vala:72
 msgid "Align objects left along the X axis"
-msgstr ""
+msgstr "Alinea els objectes a l'esquerra al llarg de l'eix X"
 
 #: src/CategoryView.vala:77
 msgid "Align objects right along the X axis"
-msgstr ""
+msgstr "Alinea els objectes a la dreta al llarg de l'eix X"
 
 #: src/CategoryView.vala:82
 msgid "Align objects to bottom along the Y axis"
-msgstr ""
+msgstr "Alinea els objectes a baix al llarg de l'eix Y"
 
 #: src/CategoryView.vala:87
 msgid "Align objects to center along the Y axis"
-msgstr ""
+msgstr "Alinea els objectes per centrar-los al llarg de l'eix Y"
 
 #: src/CategoryView.vala:92
 msgid "Align objects to top along the Y axis"
-msgstr ""
+msgstr "Alinea els objectes a dalt al llarg de l'eix Y"
 
 #: src/CategoryView.vala:97
 msgid "Used for exiting an application"
-msgstr ""
+msgstr "Usat per sortir d'una aplicació"
 
 #: src/CategoryView.vala:102
 msgid "Create a new appointment in a calendaring application"
-msgstr ""
+msgstr "Creeu una cita nova en una aplicació de calendari"
 
 #: src/CategoryView.vala:107
 msgid "Create a new bookmark"
-msgstr "Opprett et nytt bokmerke"
+msgstr "Crea un marcador nou"
 
 #: src/CategoryView.vala:112
 msgid "Download a file from the Internet"
-msgstr "Last ned en fil fra Internett"
+msgstr "Descarrega un fitxer d'Internet"
 
 #: src/CategoryView.vala:117
 msgid "Initiate or accept a call"
-msgstr "Utfør eller besvar et anrop"
+msgstr "Inicia o accepta una trucada"
 
 #: src/CategoryView.vala:122
-#, fuzzy
 msgid "Stop the current call"
-msgstr "Legg på"
+msgstr "Atura la trucada actual"
 
 #: src/CategoryView.vala:127
 msgid "Pick a color from elsewhere on screen"
-msgstr "Velg en farge fra et annet sted på skjermen"
+msgstr "Trieu un color d'un altre lloc de la pantalla"
 
 #: src/CategoryView.vala:132
 msgid "Create a new contact in an address book application"
-msgstr "Opprett en ny kontakt i et adressebokprogram"
+msgstr "Crea un contacte nou en una aplicació de llibreta d'adreces"
 
 #: src/CategoryView.vala:137
 msgid "Distribute the center lines of objects horizontally"
-msgstr ""
+msgstr "Distribueix horitzontalment les línies centrals dels objectes"
 
 #: src/CategoryView.vala:142
 msgid "Make horizontal gaps between objects equal"
-msgstr ""
+msgstr "Fes que els espais horitzontals entre els objectes siguin iguals"
 
 #: src/CategoryView.vala:147
 msgid "Distribute left edges of objects horizontally"
-msgstr ""
+msgstr "Distribueix horitzontalment les vores esquerres dels objectes"
 
 #: src/CategoryView.vala:152
 msgid "Distribute right edges of objects horizontally"
-msgstr ""
+msgstr "Distribueix horitzontalment les vores dretes dels objectes"
 
 #: src/CategoryView.vala:157
 msgid "Distribute bottom edges of objects vertically"
-msgstr ""
+msgstr "Distribueix les vores inferiors dels objectes verticalment"
 
 #: src/CategoryView.vala:162
 msgid "Distribute center lines of objects vertically"
-msgstr ""
+msgstr "Distribueix les línies centrals dels objectes verticalment"
 
 #: src/CategoryView.vala:167
 msgid "Make vertical gaps between objects equal"
-msgstr ""
+msgstr "Fes que els espais verticals entre els objectes siguin iguals"
 
 #: src/CategoryView.vala:172
 msgid "Distriute top edges of objects vertically"
-msgstr ""
+msgstr "Distribueix les vores superiors dels objectes verticalment"
 
 #: src/CategoryView.vala:177
 msgid "Export a document"
-msgstr "Eksporter et dokument"
+msgstr "Exporta un document"
 
 #: src/CategoryView.vala:182
 msgid "Import a document"
-msgstr "Importer et dokument"
+msgstr "Importa un document"
 
 #: src/CategoryView.vala:187
 msgid "Create a new document"
-msgstr "Opprett et nytt dokument"
+msgstr "Crea un document nou"
 
 #: src/CategoryView.vala:192
 msgid "Open a document"
-msgstr "Åpne et dokument"
+msgstr "Obre un document"
 
 #: src/CategoryView.vala:197
-#, fuzzy
 msgid "Open a document that was recently opened"
-msgstr "Åpne et nylig åpnet dokument"
+msgstr "Obre un document que s'ha obert recentment"
 
 #: src/CategoryView.vala:202
 msgid "The page setup action of a document editor"
-msgstr ""
+msgstr "L'acció de configuració de la pàgina d'un editor de documents"
 
 #: src/CategoryView.vala:207
 msgid "Print"
-msgstr "Skriv ut"
+msgstr "Imprimeix"
 
 #: src/CategoryView.vala:212
 msgid "The print preview action of an application"
-msgstr ""
+msgstr "L'acció de previsualització d'impressió d'una aplicació"
 
 #: src/CategoryView.vala:217
 msgid "View the properties of a document"
-msgstr ""
+msgstr "Mostra les propietats d'un document"
 
 #: src/CategoryView.vala:222
 msgid "Revert to a previous version of a document"
-msgstr ""
+msgstr "Torna a una versió anterior d'un document"
 
 #: src/CategoryView.vala:227
 msgid "Save"
-msgstr "Lagre"
+msgstr "Desa"
 
 #: src/CategoryView.vala:232
 msgid "Save as"
-msgstr "Lagre som"
+msgstr "Desa com a"
 
 #: src/CategoryView.vala:237
 msgid "Send"
-msgstr "Send"
+msgstr "Envia"
 
 #: src/CategoryView.vala:242
 msgid "Edit"
-msgstr "Rediger"
+msgstr "Edita"
 
 #: src/CategoryView.vala:247
 msgid "Clear"
-msgstr "Tøm"
+msgstr "Neteja"
 
 #: src/CategoryView.vala:252
 msgid "Copy"
-msgstr "Kopier"
+msgstr "Copia"
 
 #: src/CategoryView.vala:257
 msgid "Cut"
-msgstr "Klipp ut"
+msgstr "Retalla"
 
 #: src/CategoryView.vala:262
 msgid "Delete"
-msgstr "Slett"
+msgstr "Suprimeix"
 
 #: src/CategoryView.vala:267
 msgid "Find"
-msgstr "Finn"
+msgstr "Troba"
 
 #: src/CategoryView.vala:272
-#, fuzzy
 msgid "Find & Replace"
-msgstr "Finn og erstatt"
+msgstr "Troba i reemplaça"
 
 #: src/CategoryView.vala:277
 msgid "Flag an item, such as a spam email"
-msgstr ""
+msgstr "Marca un element, com ara un missatge com a brossa"
 
 #: src/CategoryView.vala:282
 msgid "Paste"
-msgstr "Lim inn"
+msgstr "Enganxa"
 
 #: src/CategoryView.vala:287
 msgid "Redo"
-msgstr "Gjenta"
+msgstr "Refés"
 
 #: src/CategoryView.vala:292
 msgid "Select all"
-msgstr "Velg alt"
+msgstr "Selecciona-ho tot"
 
 #: src/CategoryView.vala:297
 msgid "Undo"
-msgstr "Angre"
+msgstr "Desfés"
 
 #: src/CategoryView.vala:302
 msgid "Create a new calendar event"
-msgstr ""
+msgstr "Crea un nou esdeveniment del calendari"
 
 #: src/CategoryView.vala:307
 msgid "Copy a folder"
-msgstr "Kopier en mappe"
+msgstr "Copia una carpeta"
 
 #: src/CategoryView.vala:312
 msgid "Move a folder"
-msgstr "Flytt en mappe"
+msgstr "Mou una carpeta"
 
 #: src/CategoryView.vala:317
 msgid "Create a new folder"
-msgstr "Opprett en ny mappe"
+msgstr "Crea una carpeta nova"
 
 #: src/CategoryView.vala:322
 msgid "Decrease indent"
-msgstr "Minsk innrykk"
+msgstr "Disminueix el sagnat"
 
 #: src/CategoryView.vala:327
 msgid "Increase indent"
-msgstr "Øk innrykk"
+msgstr "Augmenta el sagnat"
 
 #: src/CategoryView.vala:332
 msgid "Center justify text"
-msgstr ""
+msgstr "Ajusta el text al centre"
 
 #: src/CategoryView.vala:337
 msgid "Fill justify text"
-msgstr ""
+msgstr "Emplena el text ajustat"
 
 #: src/CategoryView.vala:342
 msgid "Left justify text"
-msgstr ""
+msgstr "Text ajustat a l'esquerra"
 
 #: src/CategoryView.vala:347
 msgid "Right justify text"
-msgstr ""
+msgstr "Text ajustat a la dreta"
 
 #: src/CategoryView.vala:352
 msgid "Format text as left-to-right"
-msgstr ""
+msgstr "Formata el text d'esquerra a dreta"
 
 #: src/CategoryView.vala:357
 msgid "Format text as right-to-left"
-msgstr ""
+msgstr "Formata el text de dreta a esquerra"
 
 #: src/CategoryView.vala:362
 msgid "Format text as bold"
-msgstr ""
+msgstr "Formata el text en negreta"
 
 #: src/CategoryView.vala:367
 msgid "Format text as highlighted"
-msgstr ""
+msgstr "Formata el text com a ressaltat"
 
 #: src/CategoryView.vala:372
 msgid "Format text as italic"
-msgstr ""
+msgstr "Formata el text en cursiva"
 
 #: src/CategoryView.vala:377
 msgid "Format text as underlined"
-msgstr ""
+msgstr "Formata el text com a subratllat"
 
 #: src/CategoryView.vala:382
 msgid "Format text as being struck through"
-msgstr ""
+msgstr "Formata el text com a ratllat"
 
 #: src/CategoryView.vala:387
 msgid "Go to the bottom, such as in a list"
-msgstr ""
+msgstr "Ves a la part inferior, com ara en una llista"
 
 #: src/CategoryView.vala:392
 msgid "Go down, such as in a list"
-msgstr "Gå nedover, som i en liste"
+msgstr "Ves avall, com ara en una llista"
 
 #: src/CategoryView.vala:397
 msgid "Go to the first item, such as in a list"
-msgstr "Gå til første element, som i en liste"
+msgstr "Ves al primer element, com ara en una llista"
 
 #: src/CategoryView.vala:402
 msgid "Go to the home location"
-msgstr ""
+msgstr "Ves a la ubicació d'inici"
 
 #: src/CategoryView.vala:407
 msgid "Jump to a location"
-msgstr "Hopp til en posisjon"
+msgstr "Ves a una ubicació"
 
 #: src/CategoryView.vala:412
 msgid "Go to the last item, such as in a list"
-msgstr "Gå til siste element, som i en liste"
+msgstr "Ves a l'últim element, com ara en una llista"
 
 #: src/CategoryView.vala:417
 msgid "Go forward to the next item, such as in a list or navigation"
-msgstr ""
+msgstr "Ves al següent element, com ara en una llista o una navegació"
 
 #: src/CategoryView.vala:422
 msgid "Go back to the previous item, such as in a list or navigation"
@@ -356,23 +353,23 @@ msgstr ""
 
 #: src/CategoryView.vala:427
 msgid "Go to the top, such as in a list"
-msgstr "Gå til toppen, som i en liste"
+msgstr ""
 
 #: src/CategoryView.vala:432
 msgid "Go up, such as in a list"
-msgstr "Gå oppover, som i en liste"
+msgstr ""
 
 #: src/CategoryView.vala:437
 msgid "Information about an app"
-msgstr "Info om programmet"
+msgstr ""
 
 #: src/CategoryView.vala:442
 msgid "Get help"
-msgstr "Få hjelp"
+msgstr ""
 
 #: src/CategoryView.vala:447
 msgid "Frequently asked questions"
-msgstr "Ofte stilte spørsmål"
+msgstr ""
 
 #: src/CategoryView.vala:452
 msgid "Make adjustments to an image"
@@ -384,7 +381,7 @@ msgstr ""
 
 #: src/CategoryView.vala:462
 msgid "Crop an image"
-msgstr "Beskjær et bilde"
+msgstr ""
 
 #: src/CategoryView.vala:467
 msgid "Remove red eye from an image"
@@ -392,32 +389,31 @@ msgstr ""
 
 #: src/CategoryView.vala:472
 msgid "Insert an image"
-msgstr "Sett inn et bilde"
+msgstr ""
 
 #: src/CategoryView.vala:477
 msgid "Insert a link"
-msgstr "Sett inn en lenke"
+msgstr ""
 
 #: src/CategoryView.vala:482
 msgid "Insert an object"
-msgstr "Sett inn et objekt"
+msgstr ""
 
 #: src/CategoryView.vala:487
 msgid "Insert text"
-msgstr "Sett inn tekst"
+msgstr ""
 
 #: src/CategoryView.vala:492
 msgid "Add to a list"
-msgstr "Legg til på en liste"
+msgstr ""
 
 #: src/CategoryView.vala:497
 msgid "Remove from a list"
-msgstr "Fjern fra en liste"
+msgstr ""
 
 #: src/CategoryView.vala:502
-#, fuzzy
 msgid "Forward an email"
-msgstr "Videresend e-post"
+msgstr ""
 
 #: src/CategoryView.vala:507
 msgid "Mark an email as important"
@@ -436,14 +432,12 @@ msgid "Mark an email as read"
 msgstr ""
 
 #: src/CategoryView.vala:527
-#, fuzzy
 msgid "Mark an email as unread"
-msgstr "Marker en e-post som ulest"
+msgstr ""
 
 #: src/CategoryView.vala:532
-#, fuzzy
 msgid "Compose a new email"
-msgstr "Skriv en ny e-post"
+msgstr ""
 
 #: src/CategoryView.vala:537
 msgid "Reply to all participants of an email"
@@ -454,9 +448,8 @@ msgid "Reply to the sender of an email"
 msgstr ""
 
 #: src/CategoryView.vala:547
-#, fuzzy
 msgid "Send an email"
-msgstr "Send en e-post"
+msgstr ""
 
 #: src/CategoryView.vala:552
 msgid "Eject removable media"
@@ -534,27 +527,27 @@ msgstr ""
 
 #: src/CategoryView.vala:642
 msgid "Search the system"
-msgstr "Søk i systemet"
+msgstr ""
 
 #: src/CategoryView.vala:647
 msgid "Restart the device"
-msgstr "Omstart av enheten"
+msgstr ""
 
 #: src/CategoryView.vala:652
 msgid "Shut the device down"
-msgstr "Slå av enheten"
+msgstr ""
 
 #: src/CategoryView.vala:657
 msgid "Create a new tag"
-msgstr "Opprett en ny etikett"
+msgstr ""
 
 #: src/CategoryView.vala:662
 msgid "Check spelling"
-msgstr "Stavekontroll"
+msgstr ""
 
 #: src/CategoryView.vala:667
 msgid "Set or adjust a timer"
-msgstr "Sett eller juster et tidsur"
+msgstr ""
 
 #: src/CategoryView.vala:672
 msgid "Display the current view as columns"
@@ -570,7 +563,7 @@ msgstr ""
 
 #: src/CategoryView.vala:687
 msgid "View fullscreen"
-msgstr "Fullskjermsvisning"
+msgstr ""
 
 #: src/CategoryView.vala:692
 msgid "Display the current view as a grid of images or icons"
@@ -610,11 +603,11 @@ msgstr ""
 
 #: src/CategoryView.vala:737
 msgid "Close the window"
-msgstr "Lukk vinduet"
+msgstr ""
 
 #: src/CategoryView.vala:742
 msgid "Create a new window"
-msgstr "Opprett et nytt vindu"
+msgstr ""
 
 #: src/CategoryView.vala:747
 msgid "Zoom to the best fit"
@@ -622,20 +615,19 @@ msgstr ""
 
 #: src/CategoryView.vala:752
 msgid "Zoom in"
-msgstr "Forstørr"
+msgstr ""
 
 #: src/CategoryView.vala:757
-#, fuzzy
 msgid "Zoom to the original size"
-msgstr "Vis i opprinnelig størrelse"
+msgstr ""
 
 #: src/CategoryView.vala:762
 msgid "Zoom out"
-msgstr "Forminsk"
+msgstr ""
 
 #: src/CategoryView.vala:767
 msgid "Calculator"
-msgstr "Kalkulator"
+msgstr ""
 
 #: src/CategoryView.vala:772
 msgid "International and extended text character map"
@@ -643,11 +635,11 @@ msgstr ""
 
 #: src/CategoryView.vala:777
 msgid "Dictionary"
-msgstr "Ordbok"
+msgstr ""
 
 #: src/CategoryView.vala:782
 msgid "Text editor"
-msgstr "Tekstbehandler"
+msgstr ""
 
 #: src/CategoryView.vala:787
 msgid "Default or unprovided app icon"
@@ -655,7 +647,7 @@ msgstr ""
 
 #: src/CategoryView.vala:792
 msgid "Files"
-msgstr "Filer"
+msgstr ""
 
 #: src/CategoryView.vala:797
 msgid "AppCenter or software installer"
@@ -671,7 +663,7 @@ msgstr ""
 
 #: src/CategoryView.vala:812
 msgid "Terminal"
-msgstr "Terminal"
+msgstr ""
 
 #: src/CategoryView.vala:817
 msgid "Accessory or utility app category"
@@ -727,7 +719,7 @@ msgstr ""
 
 #: src/CategoryView.vala:882
 msgid "Bluetooth settings"
-msgstr "Blåtannsinnstillinger"
+msgstr ""
 
 #: src/CategoryView.vala:887
 msgid "Color settings such as printer, display, or camera calibration"
@@ -738,9 +730,8 @@ msgid "Desktop interface settings"
 msgstr ""
 
 #: src/CategoryView.vala:897
-#, fuzzy
 msgid "Universal access settings"
-msgstr "Innstillinger for tilgjengelighet"
+msgstr ""
 
 #: src/CategoryView.vala:902
 msgid "Universal access settings for pointing, such as controlling the cursor"
@@ -760,7 +751,7 @@ msgstr ""
 
 #: src/CategoryView.vala:922
 msgid "Font settings"
-msgstr "Skriftinnstillinger"
+msgstr ""
 
 #: src/CategoryView.vala:927
 msgid "Keyboard settings, such as layout or shortcuts"
@@ -800,11 +791,11 @@ msgstr ""
 
 #: src/CategoryView.vala:972
 msgid "Notification alert settings"
-msgstr "Innstillinger for merknadsvarsel"
+msgstr ""
 
 #: src/CategoryView.vala:977
 msgid "Parental control settings"
-msgstr "Innstillinger for foreldrekontroll"
+msgstr ""
 
 #: src/CategoryView.vala:982
 msgid "Power management or energy usage settings, such as battery"
@@ -812,7 +803,7 @@ msgstr ""
 
 #: src/CategoryView.vala:987
 msgid "Privacy and security settings"
-msgstr "Personvern- og sikkerhetsinnstillinger"
+msgstr ""
 
 #: src/CategoryView.vala:992
 msgid ""
@@ -821,15 +812,15 @@ msgstr ""
 
 #: src/CategoryView.vala:997
 msgid "Time and date settings"
-msgstr "Tid- og datoinnstillinger"
+msgstr ""
 
 #: src/CategoryView.vala:1002
 msgid "Window management settings"
-msgstr "Vinduhåndteringsinnstillinger"
+msgstr ""
 
 #: src/CategoryView.vala:1007
 msgid "Help"
-msgstr "Hjelp"
+msgstr ""
 
 #: src/CategoryView.vala:1012
 msgid "Audio output device, such as a sound card or speaker"
@@ -845,7 +836,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1027
 msgid "Microphone"
-msgstr "Mikrofon"
+msgstr ""
 
 #: src/CategoryView.vala:1032
 msgid "Subwoofer or bass speaker"
@@ -853,11 +844,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1037
 msgid "Battery"
-msgstr "Batteri"
+msgstr ""
 
 #: src/CategoryView.vala:1042
 msgid "Bluetooth"
-msgstr "Blåtann"
+msgstr ""
 
 #: src/CategoryView.vala:1047
 msgid "Digital photo or still camera"
@@ -865,19 +856,19 @@ msgstr ""
 
 #: src/CategoryView.vala:1052
 msgid "Video or movie camera"
-msgstr "Video- eller filmkamera"
+msgstr ""
 
 #: src/CategoryView.vala:1057
 msgid "Webcam or built-in camera"
-msgstr "Nett-, eller innebygd kamera"
+msgstr ""
 
 #: src/CategoryView.vala:1062
 msgid "Generic or desktop computer"
-msgstr "Generisk- eller skrivebordsdatamaskin"
+msgstr ""
 
 #: src/CategoryView.vala:1067
 msgid "Laptop or notebook computer"
-msgstr "Bærbar- eller ultraportabel datamaskin"
+msgstr ""
 
 #: src/CategoryView.vala:1072
 msgid "Hard disk or storage drive"
@@ -901,11 +892,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1097
 msgid "Keyboard"
-msgstr "Tastatur"
+msgstr ""
 
 #: src/CategoryView.vala:1102
 msgid "Mouse"
-msgstr "Mus"
+msgstr ""
 
 #: src/CategoryView.vala:1107
 msgid ""
@@ -927,7 +918,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1127
 msgid "Network modem or router"
-msgstr "Nettverksmodem eller ruter"
+msgstr ""
 
 #: src/CategoryView.vala:1132
 msgid "Media player device, such as a portable mp3 music player or iPod"
@@ -941,7 +932,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1142
 msgid "Networking firewall"
-msgstr "Nettverksbrannmur"
+msgstr ""
 
 #: src/CategoryView.vala:1147
 msgid "Virtual private network or VPN connection"
@@ -967,7 +958,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1172
 msgid "Printer"
-msgstr "Skriver"
+msgstr ""
 
 #: src/CategoryView.vala:1177
 msgid "Network-connected or shared printer"
@@ -975,7 +966,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1182
 msgid "Scanner"
-msgstr "Skanner"
+msgstr ""
 
 #: src/CategoryView.vala:1187
 msgid "Display, screen, or monitor"
@@ -1263,7 +1254,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1542
 msgid "Model"
-msgstr "Modell"
+msgstr ""
 
 #: src/CategoryView.vala:1547
 msgid "Contact file types"
@@ -1403,7 +1394,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1717
 msgid "Unknown file types"
-msgstr "Ukjente filtyper"
+msgstr ""
 
 #: src/CategoryView.vala:1722
 msgid "Generic video file types"
@@ -1475,11 +1466,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1807
 msgid "Music folder"
-msgstr "Musikkmappe"
+msgstr ""
 
 #: src/CategoryView.vala:1812
 msgid "Open folder"
-msgstr "Åpne mappe"
+msgstr ""
 
 #: src/CategoryView.vala:1817
 msgid "Pictures folder"
@@ -1511,19 +1502,19 @@ msgstr ""
 
 #: src/CategoryView.vala:1852
 msgid "Internet radio"
-msgstr "Internettradio"
+msgstr ""
 
 #: src/CategoryView.vala:1857
 msgid "Audiobook library"
-msgstr "Lydboksbibliotek"
+msgstr ""
 
 #: src/CategoryView.vala:1862
 msgid "Library places"
-msgstr "Biblioteksteder"
+msgstr ""
 
 #: src/CategoryView.vala:1867
 msgid "Podcast library"
-msgstr "Nettradioopptaksbibliotek"
+msgstr ""
 
 #: src/CategoryView.vala:1872
 msgid "Mail inbox"
@@ -1543,47 +1534,47 @@ msgstr ""
 
 #: src/CategoryView.vala:1892
 msgid "Network server"
-msgstr "Nettverkstjener"
+msgstr ""
 
 #: src/CategoryView.vala:1897
 msgid "Network workgroup"
-msgstr "Nettverksarbeidsgruppe"
+msgstr ""
 
 #: src/CategoryView.vala:1902
 msgid "Playlist"
-msgstr "Spilleliste"
+msgstr ""
 
 #: src/CategoryView.vala:1907
 msgid "Automatic playlist"
-msgstr "Automatisk spilleliste"
+msgstr ""
 
 #: src/CategoryView.vala:1912
 msgid "Playlist queue"
-msgstr "Spillelistekø"
+msgstr ""
 
 #: src/CategoryView.vala:1917
 msgid "Similar playlist"
-msgstr "Lignende spilleliste"
+msgstr ""
 
 #: src/CategoryView.vala:1922
 msgid "Tag"
-msgstr "Etikett"
+msgstr ""
 
 #: src/CategoryView.vala:1927
 msgid "Bookmarks"
-msgstr "Bokmerker"
+msgstr ""
 
 #: src/CategoryView.vala:1932
 msgid "Home"
-msgstr "Hjem"
+msgstr ""
 
 #: src/CategoryView.vala:1937
 msgid "Trash"
-msgstr "Papirkurv"
+msgstr ""
 
 #: src/CategoryView.vala:1942
 msgid "Trash full"
-msgstr "Papirkurv full"
+msgstr ""
 
 #: src/CategoryView.vala:1947
 msgid "Airplane mode, where wireless radios are disabled or off"
@@ -1630,7 +1621,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1997
 msgid "Low battery level"
-msgstr "Lavt batterinivå"
+msgstr ""
 
 #: src/CategoryView.vala:2002
 msgid "Low battery level, plugged into a charger or AC adapter"
@@ -1638,7 +1629,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2007
 msgid "Critically low battery level"
-msgstr "Kritisk lavt batterinivå"
+msgstr ""
 
 #: src/CategoryView.vala:2012
 msgid "Critically low battery, plugged into a charger or AC adapter"
@@ -1932,28 +1923,28 @@ msgstr ""
 
 #: src/IconView.vala:55
 msgid "Color Icons"
-msgstr "Fargeikoner"
+msgstr ""
 
 #: src/IconView.vala:62
 msgid "Symbolic Icons"
-msgstr "Symbolske ikoner"
+msgstr ""
 
 #: src/IconView.vala:75
 msgid "Code Sample"
-msgstr "Kodeeksempel"
+msgstr ""
 
 #: src/IconView.vala:157
 msgid "Unavailable"
-msgstr "Utilgjengelig"
+msgstr ""
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr "Ikonutforsker"
+msgstr ""
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr "Lys bakgrunn"
+msgstr ""
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr "Mørk bakgrunn"
+msgstr ""
