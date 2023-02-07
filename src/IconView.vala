@@ -217,6 +217,7 @@ public class IconView : Gtk.Box {
             icon_and_label.attach (icon, 0, 0);
             icon_and_label.attach (label, 0, 1);
             icon_btn = new Gtk.ToggleButton () {
+                valign = Gtk.Align.CENTER,
                 child = icon_and_label,
                 has_frame = false,
                 group = icon_btn
@@ -226,18 +227,21 @@ public class IconView : Gtk.Box {
                     selected_icon = new IconDetails (icon.icon_name, icon.pixel_size);
                 }
             });
-
-            row.attach (icon_btn, i, 0);
+            var icon_clamp = new Adw.Clamp () {
+                child = icon_btn,
+                maximum_size = 128
+            };
+            row.attach (icon_clamp, i, 0);
 
             i++;
         }
     }
 
     private void select_one_icon (Gtk.Grid color_row, Gtk.Grid icon_row) {
-        var has_color_icons = color_row.get_first_child () is Gtk.ToggleButton;
+        var has_color_icons = color_row.get_first_child () is Adw.Clamp;
         var row = has_color_icons ? color_row : icon_row;
-        var btn = row.get_child_at (1, 0) ?? row.get_first_child ();
-        ((Gtk.ToggleButton) btn).active = true;
+        var clamp = (Adw.Clamp) (row.get_child_at (1, 0) ?? row.get_first_child ());
+        ((Gtk.ToggleButton) clamp.child).active = true;
     }
 }
 

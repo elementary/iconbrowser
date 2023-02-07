@@ -12,6 +12,7 @@ You'll need the following dependencies to build:
 * libgranite-7-dev
 * libgtk-4-dev
 * libgtksourceview-5-dev
+* libadwaita-1-dev
 * meson
 * valac
 

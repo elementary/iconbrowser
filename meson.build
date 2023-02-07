@@ -36,7 +36,8 @@ executable(
         dependency('gobject-2.0'),
         dependency('granite-7'),
         dependency('gtk4'),
-        dependency('gtksourceview-5')
+        dependency('gtksourceview-5'),
+        dependency('libadwaita-1'),
     ],
     install : true
 )
