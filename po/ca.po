@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-02-03 10:25+0000\n"
+"PO-Revision-Date: 2023-02-06 15:25+0000\n"
 "Last-Translator: David M <rbndavid@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ca/>\n"
@@ -349,417 +349,430 @@ msgstr "Ves al següent element, com ara en una llista o una navegació"
 
 #: src/CategoryView.vala:422
 msgid "Go back to the previous item, such as in a list or navigation"
-msgstr ""
+msgstr "Torna a l'element anterior, com ara en una llista o una navegació"
 
 #: src/CategoryView.vala:427
 msgid "Go to the top, such as in a list"
-msgstr ""
+msgstr "Ves a dalt, com ara en una llista"
 
 #: src/CategoryView.vala:432
 msgid "Go up, such as in a list"
-msgstr ""
+msgstr "Ves amunt, com ara en una llista"
 
 #: src/CategoryView.vala:437
 msgid "Information about an app"
-msgstr ""
+msgstr "Informació sobre una aplicació"
 
 #: src/CategoryView.vala:442
 msgid "Get help"
-msgstr ""
+msgstr "Obteniu ajuda"
 
 #: src/CategoryView.vala:447
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "Preguntes freqüents"
 
 #: src/CategoryView.vala:452
 msgid "Make adjustments to an image"
-msgstr ""
+msgstr "Feu ajustos en una imatge"
 
 #: src/CategoryView.vala:457
 msgid "Automatically adjust an image"
-msgstr ""
+msgstr "Ajusta automàticament una imatge"
 
 #: src/CategoryView.vala:462
 msgid "Crop an image"
-msgstr ""
+msgstr "Escapça una imatge"
 
 #: src/CategoryView.vala:467
 msgid "Remove red eye from an image"
-msgstr ""
+msgstr "Elimina l'ull vermell d'una imatge"
 
 #: src/CategoryView.vala:472
 msgid "Insert an image"
-msgstr ""
+msgstr "Insereix una imatge"
 
 #: src/CategoryView.vala:477
 msgid "Insert a link"
-msgstr ""
+msgstr "Insereix un enllaç"
 
 #: src/CategoryView.vala:482
 msgid "Insert an object"
-msgstr ""
+msgstr "Insereix un objecte"
 
 #: src/CategoryView.vala:487
 msgid "Insert text"
-msgstr ""
+msgstr "Insereix text"
 
 #: src/CategoryView.vala:492
 msgid "Add to a list"
-msgstr ""
+msgstr "Afegeix a una llista"
 
 #: src/CategoryView.vala:497
 msgid "Remove from a list"
-msgstr ""
+msgstr "Suprimeix d'una llista"
 
 #: src/CategoryView.vala:502
 msgid "Forward an email"
-msgstr ""
+msgstr "Reenvia un correu electrònic"
 
 #: src/CategoryView.vala:507
 msgid "Mark an email as important"
-msgstr ""
+msgstr "Marca un correu electrònic com a important"
 
 #: src/CategoryView.vala:512
 msgid "Mark an email as junk or spam"
-msgstr ""
+msgstr "Marca un correu electrònic com a brossa o correu brossa"
 
 #: src/CategoryView.vala:517
 msgid "Mark an email as not junk or spam"
-msgstr ""
+msgstr "Marca un correu electrònic com a no brossa o correu brossa"
 
 #: src/CategoryView.vala:522
 msgid "Mark an email as read"
-msgstr ""
+msgstr "Marca un correu electrònic com a llegit"
 
 #: src/CategoryView.vala:527
 msgid "Mark an email as unread"
-msgstr ""
+msgstr "Marca un correu electrònic com a no llegit"
 
 #: src/CategoryView.vala:532
 msgid "Compose a new email"
-msgstr ""
+msgstr "Redacta un correu electrònic nou"
 
 #: src/CategoryView.vala:537
 msgid "Reply to all participants of an email"
-msgstr ""
+msgstr "Respon a tots els participants d'un correu electrònic"
 
 #: src/CategoryView.vala:542
 msgid "Reply to the sender of an email"
-msgstr ""
+msgstr "Respon al remitent d'un correu electrònic"
 
 #: src/CategoryView.vala:547
 msgid "Send an email"
-msgstr ""
+msgstr "Envia un correu electrònic"
 
 #: src/CategoryView.vala:552
 msgid "Eject removable media"
-msgstr ""
+msgstr "Expulsa el suport extraïble"
 
 #: src/CategoryView.vala:557
 msgid "Pause media playback"
-msgstr ""
+msgstr "Interromp la reproducció multimèdia"
 
 #: src/CategoryView.vala:562
 msgid "Start playing media"
-msgstr ""
+msgstr "Comença a reproduir contingut multimèdia"
 
 #: src/CategoryView.vala:567
 msgid "Stop playing media"
-msgstr ""
+msgstr "Atura la reproducció de contingut multimèdia"
 
 #: src/CategoryView.vala:572
 msgid "Start recording"
-msgstr ""
+msgstr "Comença a gravar"
 
 #: src/CategoryView.vala:577
 msgid "Seek backwards or rewind"
-msgstr ""
+msgstr "Busca cap enrere o rebobina"
 
 #: src/CategoryView.vala:582
 msgid "Seek forwards, or fastforward"
-msgstr ""
+msgstr "Busca endavant o avança ràpidament"
 
 #: src/CategoryView.vala:587
 msgid "Skip backwards, such as to the previous track"
-msgstr ""
+msgstr "Salta enrere, com ara a la pista anterior"
 
 #: src/CategoryView.vala:592
 msgid "Skip forwards, such as to the next track"
-msgstr ""
+msgstr "Salta endavant, com ara a la pista següent"
 
 #: src/CategoryView.vala:597
 msgid "Flip an object horizontally"
-msgstr ""
+msgstr "Gira un objecte horitzontalment"
 
 #: src/CategoryView.vala:602
 msgid "Flip an object vertically"
-msgstr ""
+msgstr "Gira un objecte verticalment"
 
 #: src/CategoryView.vala:607
 msgid "Rotate an object to the left or counter-clockwise"
 msgstr ""
+"Gira un objecte cap a l'esquerra o en sentit contrari a les agulles del "
+"rellotge"
 
 #: src/CategoryView.vala:612
 msgid "Rotate an object to the right or clockwise"
 msgstr ""
+"Gira un objecte cap a la dreta o en el sentit de les agulles del rellotge"
 
 #: src/CategoryView.vala:617
 msgid "Create a new database"
-msgstr ""
+msgstr "Crea una base de dades nova"
 
 #: src/CategoryView.vala:622
 msgid ""
 "Stop an action that may take a while to process, such as web page loading in "
 "a browser"
 msgstr ""
+"Atura una acció que pot trigar una estona a processar-se, com ara la càrrega "
+"de la pàgina web en un navegador"
 
 #: src/CategoryView.vala:627
 msgid "Lock the screen or the user's session"
-msgstr ""
+msgstr "Bloca la pantalla o la sessió de l'usuari"
 
 #: src/CategoryView.vala:632
 msgid "Log out of the user's session"
-msgstr ""
+msgstr "Tanca la sessió de l'usuari"
 
 #: src/CategoryView.vala:637
 msgid "Run a system app or command"
-msgstr ""
+msgstr "Executa una aplicació o una ordre del sistema"
 
 #: src/CategoryView.vala:642
 msgid "Search the system"
-msgstr ""
+msgstr "Cerca al sistema"
 
 #: src/CategoryView.vala:647
 msgid "Restart the device"
-msgstr ""
+msgstr "Reinicia el dispositiu"
 
 #: src/CategoryView.vala:652
 msgid "Shut the device down"
-msgstr ""
+msgstr "Apaga el dispositiu"
 
 #: src/CategoryView.vala:657
 msgid "Create a new tag"
-msgstr ""
+msgstr "Crea una etiqueta nova"
 
 #: src/CategoryView.vala:662
 msgid "Check spelling"
-msgstr ""
+msgstr "Revisa l'ortografia"
 
 #: src/CategoryView.vala:667
 msgid "Set or adjust a timer"
-msgstr ""
+msgstr "Estableix o ajusta un temporitzador"
 
 #: src/CategoryView.vala:672
 msgid "Display the current view as columns"
-msgstr ""
+msgstr "Mostra la vista actual com a columnes"
 
 #: src/CategoryView.vala:677
 msgid "display the current view in a continously scrolling list"
-msgstr ""
+msgstr "mostra la vista actual en una llista de desplaçament continu"
 
 #: src/CategoryView.vala:682
 msgid "display the current view as a split, dual view"
-msgstr ""
+msgstr "mostra la vista actual com una vista dividida i doble"
 
 #: src/CategoryView.vala:687
 msgid "View fullscreen"
-msgstr ""
+msgstr "Mostra la pantalla completa"
 
 #: src/CategoryView.vala:692
 msgid "Display the current view as a grid of images or icons"
-msgstr ""
+msgstr "Mostra la vista actual com una graella d'imatges o icones"
 
 #: src/CategoryView.vala:697
 msgid "Refresh or reload the current view"
-msgstr ""
+msgstr "Actualitza o torna a carregar la vista actual"
 
 #: src/CategoryView.vala:702
 msgid "Leave fullscreen and return to a normal window"
-msgstr ""
+msgstr "Surt de la pantalla completa i torna a una finestra normal"
 
 #: src/CategoryView.vala:707
 msgid "View more information about the given context in a popover or menu"
 msgstr ""
+"Mostra més informació sobre el context donat en una finestra emergent o menú"
 
 #: src/CategoryView.vala:712
 msgid "View more information about the given context in a new view or window"
 msgstr ""
+"Mostra més informació sobre el context donat en una vista o finestra nova"
 
 #: src/CategoryView.vala:717
 msgid "Display the current view as a collection of pages"
-msgstr ""
+msgstr "Mostra la vista actual com una col·lecció de pàgines"
 
 #: src/CategoryView.vala:722
 msgid "Pin the current view so that it does not automatically hide"
-msgstr ""
+msgstr "Fixa la vista actual perquè no s'oculti automàticament"
 
 #: src/CategoryView.vala:727
 msgid "Sort items in an ascending order, such as in a list"
-msgstr ""
+msgstr "Ordena els elements en ordre ascendent, com ara en una llista"
 
 #: src/CategoryView.vala:732
 msgid "Sort items in a descending order, such as in a list"
-msgstr ""
+msgstr "Ordena els elements en ordre descendent, com ara en una llista"
 
 #: src/CategoryView.vala:737
 msgid "Close the window"
-msgstr ""
+msgstr "Tanca la finestra"
 
 #: src/CategoryView.vala:742
 msgid "Create a new window"
-msgstr ""
+msgstr "Crea una finestra nova"
 
 #: src/CategoryView.vala:747
 msgid "Zoom to the best fit"
-msgstr ""
+msgstr "Amplia la millor opció"
 
 #: src/CategoryView.vala:752
 msgid "Zoom in"
-msgstr ""
+msgstr "Amplia"
 
 #: src/CategoryView.vala:757
 msgid "Zoom to the original size"
-msgstr ""
+msgstr "Torna a la mida original"
 
 #: src/CategoryView.vala:762
 msgid "Zoom out"
-msgstr ""
+msgstr "Redueix"
 
 #: src/CategoryView.vala:767
 msgid "Calculator"
-msgstr ""
+msgstr "Calculadora"
 
 #: src/CategoryView.vala:772
 msgid "International and extended text character map"
-msgstr ""
+msgstr "Mapa de caràcters de text internacional i ampliat"
 
 #: src/CategoryView.vala:777
 msgid "Dictionary"
-msgstr ""
+msgstr "Diccionari"
 
 #: src/CategoryView.vala:782
 msgid "Text editor"
-msgstr ""
+msgstr "Editor de textos"
 
 #: src/CategoryView.vala:787
 msgid "Default or unprovided app icon"
-msgstr ""
+msgstr "Icona d'aplicació predeterminada o no proporcionada"
 
 #: src/CategoryView.vala:792
 msgid "Files"
-msgstr ""
+msgstr "Fitxers"
 
 #: src/CategoryView.vala:797
 msgid "AppCenter or software installer"
-msgstr ""
+msgstr "AppCenter o instal·lador de programari"
 
 #: src/CategoryView.vala:802
 msgid "Software updater"
-msgstr ""
+msgstr "Actualitzador de programari"
 
 #: src/CategoryView.vala:807
 msgid "System resource monitor"
-msgstr ""
+msgstr "Monitor de recursos del sistema"
 
 #: src/CategoryView.vala:812
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: src/CategoryView.vala:817
 msgid "Accessory or utility app category"
-msgstr ""
+msgstr "Categoria d'accessoris o aplicacions d'utilitat"
 
 #: src/CategoryView.vala:822
 msgid "Programming, software development, code, or IDE app category"
-msgstr ""
+msgstr "Categoria de programació, desenvolupament de programari, codi o IDE"
 
 #: src/CategoryView.vala:827
 msgid "Education, learning, or school app category"
-msgstr ""
+msgstr "Categoria d'aplicació d'educació, aprenentatge o d'escola"
 
 #: src/CategoryView.vala:832
 msgid "Engineering app category"
-msgstr ""
+msgstr "Categoria d'aplicacions d'enginyeria"
 
 #: src/CategoryView.vala:837
 msgid "Games app category"
-msgstr ""
+msgstr "Categoria d'aplicacions de jocs"
 
 #: src/CategoryView.vala:842
 msgid "Graphics, drawing, art, or photo manipulation app category"
 msgstr ""
+"Categoria d'aplicacions de gràfics, dibuix, art o manipulació de fotografies"
 
 #: src/CategoryView.vala:847
 msgid "Internet or web related app category"
-msgstr ""
+msgstr "Categoria d'aplicacions relacionades amb Internet o xarxa"
 
 #: src/CategoryView.vala:852
 msgid "Multimedia, audio, or video app category"
-msgstr ""
+msgstr "Categoria d'aplicacions multimèdia, d'àudio o vídeo"
 
 #: src/CategoryView.vala:857
 msgid "Office app category"
-msgstr ""
+msgstr "Categoria d'aplicacions d'oficina"
 
 #: src/CategoryView.vala:862
 msgid "Other or uncategorized app category"
-msgstr ""
+msgstr "Una altra categoria d'aplicacions o sense categoria"
 
 #: src/CategoryView.vala:867
 msgid "Science app category"
-msgstr ""
+msgstr "Categoria d'aplicacions científiques"
 
 #: src/CategoryView.vala:872
 msgid "System tools or OS app category"
-msgstr ""
+msgstr "Eines del sistema o categoria d'aplicacions del sistema operatiu"
 
 #: src/CategoryView.vala:877
 msgid "Utility app category"
-msgstr ""
+msgstr "Categoria d'aplicacions d'utilitat"
 
 #: src/CategoryView.vala:882
 msgid "Bluetooth settings"
-msgstr ""
+msgstr "Configuració de Bluetooth"
 
 #: src/CategoryView.vala:887
 msgid "Color settings such as printer, display, or camera calibration"
 msgstr ""
+"Paràmetres del color com ara el calibratge de la impressora, la pantalla o "
+"la càmera"
 
 #: src/CategoryView.vala:892
 msgid "Desktop interface settings"
-msgstr ""
+msgstr "Configuració de la interfície de l'escriptori"
 
 #: src/CategoryView.vala:897
 msgid "Universal access settings"
-msgstr ""
+msgstr "Configuració de l'accés universal"
 
 #: src/CategoryView.vala:902
 msgid "Universal access settings for pointing, such as controlling the cursor"
 msgstr ""
+"Configuració de l'accés universal per indicar, com ara controlar el cursor"
 
 #: src/CategoryView.vala:907
 msgid "Universal access settings for zooming or magnifying"
-msgstr ""
+msgstr "Configuració de l'accés universal per ampliar o usar la lupa"
 
 #: src/CategoryView.vala:912
 msgid "App-related settings, such as default or startup apps"
 msgstr ""
+"Configuració relacionada amb les aplicacions, com ara les aplicacions "
+"predeterminades o d'inici"
 
 #: src/CategoryView.vala:917
 msgid "Display settings, such as resolution or scaling"
-msgstr ""
+msgstr "Configuració de la pantalla, com ara la resolució o l'escala"
 
 #: src/CategoryView.vala:922
 msgid "Font settings"
-msgstr ""
+msgstr "Configuració del tipus de lletra"
 
 #: src/CategoryView.vala:927
 msgid "Keyboard settings, such as layout or shortcuts"
-msgstr ""
+msgstr "Configuració del teclat, com ara la disposició o les dreceres"
 
 #: src/CategoryView.vala:932
 msgid "International localization, language, or region settings"
-msgstr ""
+msgstr "Configuració de localització internacional, llengua o regió"
 
 #: src/CategoryView.vala:937
 msgid "Online account and cloud sync or sign in settings"
