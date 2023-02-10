@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
 "PO-Revision-Date: 2023-02-10 22:55+0000\n"
-"Last-Translator: David M <rbndavid@gmail.com>\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
 "extra/ca/>\n"
 "Language: ca\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
 msgid "Icon Browser"
-msgstr ""
+msgstr "Navegador d'icones"
 
 #: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:10
 msgid "Browse and find system icons"
