@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-02-01 05:25+0000\n"
+"PO-Revision-Date: 2023-02-14 13:25+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://l10n.elementary.io/projects/"
 "icon-browser/extra/nb/>\n"
@@ -76,36 +76,40 @@ msgstr "Oppdatert for GTK 4"
 
 #: data/iconbrowser.appdata.xml.in:62
 msgid "Add \"audio-headphones\" and \"audio-headset\""
-msgstr ""
+msgstr "«audio-headphones» og «audio-headset» lagt til."
 
 #: data/iconbrowser.appdata.xml.in:63
 msgid "Add \"distribute-*\" action icons"
-msgstr ""
+msgstr "«distribute-*»-handlingsikoner lagt til"
 
 #: data/iconbrowser.appdata.xml.in:64
 msgid "Disable sidebar when searching"
-msgstr ""
+msgstr "Sidefelt avskrudd under søk"
 
 #: data/iconbrowser.appdata.xml.in:65
+#, fuzzy
 msgid "Remove app icons that aren't in the freedesktop.org specification"
-msgstr ""
+msgstr "Programikoner som ikke er i freedesktop.org-spesifikasjonen er fjernet"
 
 #: data/iconbrowser.appdata.xml.in:66
 msgid "Add status emblems"
-msgstr ""
+msgstr "Legg til statusemblemer"
 
 #: data/iconbrowser.appdata.xml.in:67
 msgid "Mimetypes → Media Types"
-msgstr ""
+msgstr "MIME-typer → Mediatyper"
 
 #: data/iconbrowser.appdata.xml.in:68
 msgid "Added French and Portuguese translations"
-msgstr ""
+msgstr "Ny fransk og portugisisk oversettelse"
 
 #: data/iconbrowser.appdata.xml.in:74
 msgid "Better support for symbolic-only icons and under the hood improvements!"
 msgstr ""
+"Bedre støtte for ikoner forbeholdt symbolsk stil og andre usynlige "
+"forbedringer."
 
 #: data/iconbrowser.appdata.xml.in:79
+#, fuzzy
 msgid "Initial release! 🎉️"
-msgstr ""
+msgstr "Opprinnelig utgivelse. 🎉️"
