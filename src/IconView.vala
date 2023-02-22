@@ -98,7 +98,8 @@ public class IconView : Gtk.Box {
             bottom_margin = 12,
             top_margin = 12,
             pixels_above_lines = 3,
-            pixels_below_lines = 3
+            pixels_below_lines = 3,
+            wrap_mode = Gtk.WrapMode.WORD
         };
         source_view.add_css_class (Granite.STYLE_CLASS_CARD);
         source_view.add_css_class (Granite.STYLE_CLASS_ROUNDED);
@@ -156,9 +157,14 @@ public class IconView : Gtk.Box {
     private void child_activated (Gtk.FlowBoxChild child) {
         if (child is IconChild) {
             var icon = (IconChild) child;
-            source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\") {\n    pixel_size = %i\n};".printf (
-                icon.icon_name, icon.icon_size
-            );
+
+            if (icon.icon_size > 16) {
+                source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\") {\n    pixel_size = %i\n};".printf (
+                    icon.icon_name, icon.icon_size
+                );
+            } else {
+                source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\");".printf (icon.icon_name);
+            }
         }
     }
 
