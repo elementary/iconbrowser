@@ -7,6 +7,8 @@ public class IconView : Gtk.Box {
     public string description { get; construct set; }
     public CategoryView.Category category { get; construct set; }
 
+    private GtkSource.Buffer source_buffer;
+
     public IconView () {
         Object (
             icon_name: "address-book-new",
@@ -58,7 +60,7 @@ public class IconView : Gtk.Box {
 
         var color_title = new Granite.HeaderLabel (_("Color Icons"));
 
-        var color_row = new Gtk.Grid () {
+        var color_row = new Gtk.FlowBox () {
             column_spacing = 24,
             row_spacing = 12
         };
@@ -67,7 +69,7 @@ public class IconView : Gtk.Box {
             margin_top = 12
         };
 
-        var symbolic_row = new Gtk.Grid () {
+        var symbolic_row = new Gtk.FlowBox () {
             column_spacing = 24,
             row_spacing = 12
         };
@@ -80,7 +82,7 @@ public class IconView : Gtk.Box {
             margin_top = 12
         };
 
-        var source_buffer = new GtkSource.Buffer (null) {
+        source_buffer = new GtkSource.Buffer (null) {
             highlight_syntax = true,
             language = GtkSource.LanguageManager.get_default ().get_language ("vala")
         };
@@ -146,9 +148,21 @@ public class IconView : Gtk.Box {
             fill_icon_row (icon_name, color_row);
             fill_icon_row (icon_name + "-symbolic", symbolic_row);
         });
+
+        color_row.child_activated.connect (child_activated);
+        symbolic_row.child_activated.connect (child_activated);
     }
 
-    private void fill_icon_row (string _icon_name, Gtk.Grid row) {
+    private void child_activated (Gtk.FlowBoxChild child) {
+        if (child is IconChild) {
+            var icon = (IconChild) child;
+            source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\") {\n    pixel_size = %i\n};".printf (
+                icon.icon_name, icon.icon_size
+            );
+        }
+    }
+
+    private void fill_icon_row (string _icon_name, Gtk.FlowBox row) {
         while (row.get_first_child () != null) {
             row.remove (row.get_first_child ());
         }
@@ -159,12 +173,14 @@ public class IconView : Gtk.Box {
 
         if (!icon_theme.has_icon (_icon_name)) {
             var not_has_label = new Gtk.Label (_("Unavailable")) {
-                hexpand = true,
+                hexpand = true
             };
             not_has_label.add_css_class (Granite.STYLE_CLASS_DIM_LABEL);
             not_has_label.add_css_class (Granite.STYLE_CLASS_H3_LABEL);
 
-            row.attach (not_has_label, 0, 0);
+            row.append (not_has_label);
+            row.max_children_per_line = 1;
+            row.can_target = false;
 
             return;
         }
@@ -183,22 +199,44 @@ public class IconView : Gtk.Box {
                 break;
         }
 
-        int i = 0;
+        row.max_children_per_line = sizes.length;
+
         foreach (int size in sizes) {
-            var icon = new Gtk.Image.from_icon_name (_icon_name) {
-                pixel_size = size,
-                use_fallback = true,
+            var icon_child = new IconChild (_icon_name, size);
+            row.append (icon_child);
+        }
+    }
+
+    private class IconChild : Gtk.FlowBoxChild {
+        public int icon_size { get; construct; }
+        public string icon_name { get; construct; }
+
+        public IconChild (string icon_name, int icon_size) {
+            Object (
+                icon_name: icon_name,
+                icon_size: icon_size
+            );
+        }
+
+        construct {
+            var icon = new Gtk.Image.from_icon_name (icon_name) {
+                pixel_size = icon_size,
+                use_fallback = true
+            };
+
+            var label = new Gtk.Label ("%ipx".printf (icon_size));
+
+            var box = new Gtk.Box (Gtk.Orientation.VERTICAL, 6) {
+                margin_top = 6,
+                margin_end = 6,
+                margin_bottom = 6,
+                margin_start = 6,
                 valign = Gtk.Align.END
             };
+            box.append (icon);
+            box.append (label);
 
-            var label = new Gtk.Label ("%ipx".printf (size)) {
-                hexpand = true
-            };
-
-            row.attach (icon, i, 0);
-            row.attach (label, i, 1);
-
-            i++;
+            child = box;
         }
     }
 }
