@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-02-19 11:25+0000\n"
+"PO-Revision-Date: 2023-03-18 01:46+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -886,7 +886,7 @@ msgstr "ポータブルハードドライブなどのリムーバブルストレ
 
 #: src/CategoryView.vala:1087
 msgid "USB drive or stick, such as a flash, jump, or thumb drive"
-msgstr ""
+msgstr "USB ドライブや USB スティック (USB フラッシュ・USB メモリなど)"
 
 #: src/CategoryView.vala:1092
 msgid "Video game controller, such as a paddle, remote, or joystick"
@@ -1143,307 +1143,307 @@ msgstr "心配する顔の絵文字"
 
 #: src/CategoryView.vala:1397
 msgid "EPUB Ebook file types"
-msgstr ""
+msgstr "EPUB 電子書籍ファイルタイプ"
 
 #: src/CategoryView.vala:1402
 msgid "Adobe Illustrator image file types"
-msgstr ""
+msgstr "Adobe Illustrator 画像ファイルタイプ"
 
 #: src/CategoryView.vala:1407
 msgid "Javascript programming language file types"
-msgstr ""
+msgstr "Javascript ソースファイルタイプ"
 
 #: src/CategoryView.vala:1412
 msgid "Microsoft Word file types"
-msgstr ""
+msgstr "Microsoft Word ファイルタイプ"
 
 #: src/CategoryView.vala:1417
 msgid "Binary file types"
-msgstr ""
+msgstr "バイナリファイルタイプ"
 
 #: src/CategoryView.vala:1422
 msgid "PDF file types"
-msgstr ""
+msgstr "PDF ファイルタイプ"
 
 #: src/CategoryView.vala:1427
 msgid "PGP file types"
-msgstr ""
+msgstr "PGP ファイルタイプ"
 
 #: src/CategoryView.vala:1432
 msgid "Debian package file types"
-msgstr ""
+msgstr "Debian パッケージファイルタイプ"
 
 #: src/CategoryView.vala:1437
 msgid "Flatpak reference file types"
-msgstr ""
+msgstr "Flatpak リファレンスファイルタイプ"
 
 #: src/CategoryView.vala:1442
 msgid "Microsoft Access file types"
-msgstr ""
+msgstr "Microsoft Access ファイルタイプ"
 
 #: src/CategoryView.vala:1447
 msgid "Microsoft Excel file types"
-msgstr ""
+msgstr "Microsoft Excel ファイルタイプ"
 
 #: src/CategoryView.vala:1452
 msgid "Microsoft PowerPoint file types"
-msgstr ""
+msgstr "Microsoft PowerPoint ファイルタイプ"
 
 #: src/CategoryView.vala:1457
 msgid "Oasis OpenDocument file types"
-msgstr ""
+msgstr "Oasis OpenDocument ファイルタイプ"
 
 #: src/CategoryView.vala:1462
 msgid "Torrent file types"
-msgstr ""
+msgstr "Torrent ファイルタイプ"
 
 #: src/CategoryView.vala:1467
 msgid "CD Image file types"
-msgstr ""
+msgstr "CD イメージファイルタイプ"
 
 #: src/CategoryView.vala:1472
 msgid "Desktop file types"
-msgstr ""
+msgstr "デスクトップファイルタイプ"
 
 #: src/CategoryView.vala:1477
 msgid "Executable file types"
-msgstr ""
+msgstr "実行可能ファイルタイプ"
 
 #: src/CategoryView.vala:1482
 msgid "FictionBook file types"
-msgstr ""
+msgstr "FictionBook ファイルタイプ"
 
 #: src/CategoryView.vala:1487
 msgid "Firmware file types"
-msgstr ""
+msgstr "ファームウェアファイルタイプ"
 
 #: src/CategoryView.vala:1492
 msgid "PHP programming language file types"
-msgstr ""
+msgstr "PHP ソースファイルタイプ"
 
 #: src/CategoryView.vala:1497
 msgid "Ruby programming language file types"
-msgstr ""
+msgstr "Ruby ソースソースファイルタイプ"
 
 #: src/CategoryView.vala:1502
 msgid "Generic audio file types"
-msgstr ""
+msgstr "一般的な音声ファイルタイプ"
 
 #: src/CategoryView.vala:1507
 msgid "Audio playlist file types"
-msgstr ""
+msgstr "音声プレイリストファイルタイプ"
 
 #: src/CategoryView.vala:1512
 msgid "Extension"
-msgstr ""
+msgstr "拡張機能"
 
 #: src/CategoryView.vala:1517
 msgid "Generic font file types"
-msgstr ""
+msgstr "一般的なフォントファイルタイプ"
 
 #: src/CategoryView.vala:1522
 msgid "Adobe Photoshop image file types"
-msgstr ""
+msgstr "Adobe Photoshop 画像ファイルタイプ"
 
 #: src/CategoryView.vala:1527
 msgid "Generic image file types"
-msgstr ""
+msgstr "一般的な画像ファイルタイプ"
 
 #: src/CategoryView.vala:1532
 msgid "XCF image file types"
-msgstr ""
+msgstr "XCF 画像ファイルタイプ"
 
 #: src/CategoryView.vala:1537
 msgid "Internet Feed"
-msgstr ""
+msgstr "インターネットフィード"
 
 #: src/CategoryView.vala:1542
 msgid "Model"
-msgstr ""
+msgstr "モデル"
 
 #: src/CategoryView.vala:1547
 msgid "Contact file types"
-msgstr ""
+msgstr "連絡先ファイルタイプ"
 
 #: src/CategoryView.vala:1552
 msgid "Database file types"
-msgstr ""
+msgstr "データベースファイルタイプ"
 
 #: src/CategoryView.vala:1557
 msgid "Generic package file types"
-msgstr ""
+msgstr "一般的なパッケージファイルタイプ"
 
 #: src/CategoryView.vala:1562
 msgid "Credit or debit card payments"
-msgstr ""
+msgstr "クレジットカード・デビットカードでの支払い"
 
 #: src/CategoryView.vala:1567
 msgid "American Express branded credit or debit card payments"
-msgstr ""
+msgstr "アメリカン・エキスプレスのクレジットカード・デビットカードでの支払い"
 
 #: src/CategoryView.vala:1572
 msgid "Diner's Club branded credit or debit card payments"
-msgstr ""
+msgstr "ダイナースクラブのクレジットカード・デビットカードでの支払い"
 
 #: src/CategoryView.vala:1577
 msgid "Discover branded credit or debit card payments"
-msgstr ""
+msgstr "ディスカバーのクレジットカード・デビットカードでの支払い"
 
 #: src/CategoryView.vala:1582
 msgid "Japan Credit Bureau branded credit or debit card payments"
-msgstr ""
+msgstr "JCB のクレジットカード・デビットカードでの支払い"
 
 #: src/CategoryView.vala:1587
 msgid "Mastercard branded credit or debit card payments"
-msgstr ""
+msgstr "Mastercard のクレジットカード・デビットカードでの支払い"
 
 #: src/CategoryView.vala:1592
 msgid "China UnionPay branded credit or debit card payments"
-msgstr ""
+msgstr "中国銀聯のクレジットカード・デビットカードでの支払い"
 
 #: src/CategoryView.vala:1597
 msgid "Visa branded credit or debit card payments"
-msgstr ""
+msgstr "Visa のクレジットカード・デビットカードでの支払い"
 
 #: src/CategoryView.vala:1602
 msgid "CSS text file types"
-msgstr ""
+msgstr "CSS テキストファイルタイプ"
 
 #: src/CategoryView.vala:1607
 msgid "HTML text file types"
-msgstr ""
+msgstr "HTML テキストファイルタイプ"
 
 #: src/CategoryView.vala:1612
 msgid "Markdown text file types"
-msgstr ""
+msgstr "Markdown テキストファイルタイプ"
 
 #: src/CategoryView.vala:1617
 msgid "Bibtext file types"
-msgstr ""
+msgstr "Bibtext ファイルタイプ"
 
 #: src/CategoryView.vala:1622
 msgid "Changelog file types"
-msgstr ""
+msgstr "Changelog ファイルタイプ"
 
 #: src/CategoryView.vala:1627
 msgid "C programming language header file types"
-msgstr ""
+msgstr "C 言語ヘッダーファイルタイプ"
 
 #: src/CategoryView.vala:1632
 msgid "License file types"
-msgstr ""
+msgstr "ライセンスファイルタイプ"
 
 #: src/CategoryView.vala:1637
 msgid "C programming language file types"
-msgstr ""
+msgstr "C 言語ソースファイルタイプ"
 
 #: src/CategoryView.vala:1642
 msgid "Generic text file types"
-msgstr ""
+msgstr "一般的なテキストファイルタイプ"
 
 #: src/CategoryView.vala:1647
 msgid "Generic text templates"
-msgstr ""
+msgstr "一般的なテキストテンプレート"
 
 #: src/CategoryView.vala:1652
 msgid "Gettext translation file types"
-msgstr ""
+msgstr "Gettext 翻訳ファイルタイプ"
 
 #: src/CategoryView.vala:1657
 msgid "Gettext translation model file types"
-msgstr ""
+msgstr "Gettext 翻訳モデルファイルタイプ"
 
 #: src/CategoryView.vala:1662
 msgid "Go programming language file types"
-msgstr ""
+msgstr "Go 言語ソースファイルタイプ"
 
 #: src/CategoryView.vala:1667
 msgid "Install file types"
-msgstr ""
+msgstr "インストールファイルタイプ"
 
 #: src/CategoryView.vala:1672
 msgid "Makefile file types"
-msgstr ""
+msgstr "Makefile ファイルタイプ"
 
 #: src/CategoryView.vala:1677
 msgid "Preview file types"
-msgstr ""
+msgstr "プレビューファイルタイプ"
 
 #: src/CategoryView.vala:1682
 msgid "Python programming language file types"
-msgstr ""
+msgstr "Python ソースファイルタイプ"
 
 #: src/CategoryView.vala:1687
 msgid "Readme file types"
-msgstr ""
+msgstr "Readme ファイルタイプ"
 
 #: src/CategoryView.vala:1692
 msgid "Sass programming language file types"
-msgstr ""
+msgstr "Sass ソースファイルタイプ"
 
 #: src/CategoryView.vala:1697
 msgid "Script file types, such as shell scripts"
-msgstr ""
+msgstr "スクリプトファイルタイプ (シェルスクリプトなど)"
 
 #: src/CategoryView.vala:1702
 msgid "SSA file types"
-msgstr ""
+msgstr "SSA ファイルタイプ"
 
 #: src/CategoryView.vala:1707
 msgid "TEX file types"
-msgstr ""
+msgstr "TEX ファイルタイプ"
 
 #: src/CategoryView.vala:1712
 msgid "Vala programming language file types"
-msgstr ""
+msgstr "Vala ソースファイルタイプ"
 
 #: src/CategoryView.vala:1717
 msgid "Unknown file types"
-msgstr ""
+msgstr "不明なファイルタイプ"
 
 #: src/CategoryView.vala:1722
 msgid "Generic video file types"
-msgstr ""
+msgstr "一般的な動画ファイルタイプ"
 
 #: src/CategoryView.vala:1727
 msgid "Generic address book file types"
-msgstr ""
+msgstr "一般的なアドレス帳ファイルタイプ"
 
 #: src/CategoryView.vala:1732
 msgid "Generic calendar file types"
-msgstr ""
+msgstr "一般的なカレンダーファイルタイプ"
 
 #: src/CategoryView.vala:1737
 msgid "Generic document and letter file types"
-msgstr ""
+msgstr "一般的なドキュメント・レターファイルタイプ"
 
 #: src/CategoryView.vala:1742
 msgid "Generic document and letter template file types"
-msgstr ""
+msgstr "一般的なドキュメント・レターのテンプレートファイルタイプ"
 
 #: src/CategoryView.vala:1747
 msgid "Generic drawing file types"
-msgstr ""
+msgstr "一般的な図形描画ファイルタイプ"
 
 #: src/CategoryView.vala:1752
 msgid "Generic drawing template file types"
-msgstr ""
+msgstr "一般的な図形描画テンプレートファイルタイプ"
 
 #: src/CategoryView.vala:1757
 msgid "Generic presentation file types"
-msgstr ""
+msgstr "一般的なプレゼンテーションファイルタイプ"
 
 #: src/CategoryView.vala:1762
 msgid "Generic presentation template file types"
-msgstr ""
+msgstr "一般的なプレゼンテーションテンプレートファイルタイプ"
 
 #: src/CategoryView.vala:1767
 msgid "Generic spreadsheet file types"
-msgstr ""
+msgstr "一般的なスプレッドシートファイルタイプ"
 
 #: src/CategoryView.vala:1772
 msgid "Generic spreadsheet template file types"
-msgstr ""
+msgstr "一般的なスプレッドシートテンプレートファイルタイプ"
 
 #: src/CategoryView.vala:1777
 msgid "Bookmark missing"
