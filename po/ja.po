@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-03-18 01:46+0000\n"
+"PO-Revision-Date: 2023-03-22 03:59+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -611,7 +611,7 @@ msgstr "新しいウィンドウを開く"
 
 #: src/CategoryView.vala:747
 msgid "Zoom to the best fit"
-msgstr "適切なサイズに拡大"
+msgstr "表示領域に合うサイズにズーム"
 
 #: src/CategoryView.vala:752
 msgid "Zoom in"
