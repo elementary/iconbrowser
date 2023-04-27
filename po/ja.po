@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-03-22 03:59+0000\n"
+"PO-Revision-Date: 2023-04-28 01:27+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 4.17\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -1447,386 +1447,389 @@ msgstr "一般的なスプレッドシートテンプレートファイルタイ
 
 #: src/CategoryView.vala:1777
 msgid "Bookmark missing"
-msgstr ""
+msgstr "ブックマークの登録がない"
 
 #: src/CategoryView.vala:1782
 msgid "Distributor logo"
-msgstr ""
+msgstr "ディストリビューション開発元のロゴ"
 
 #: src/CategoryView.vala:1787
 msgid "Folder"
-msgstr ""
+msgstr "フォルダー"
 
 #: src/CategoryView.vala:1792
 msgid "Documents folder"
-msgstr ""
+msgstr "“ドキュメント”フォルダー"
 
 #: src/CategoryView.vala:1797
 msgid "Downloads folder"
-msgstr ""
+msgstr "“ダウンロード”フォルダー"
 
 #: src/CategoryView.vala:1802
 msgid "Folder drag accept"
-msgstr ""
+msgstr "ドラッグアンドドロップ受け入れ可能なフォルダー"
 
 #: src/CategoryView.vala:1807
 msgid "Music folder"
-msgstr ""
+msgstr "“ミュージック”フォルダー"
 
 #: src/CategoryView.vala:1812
 msgid "Open folder"
-msgstr ""
+msgstr "開いているフォルダー"
 
 #: src/CategoryView.vala:1817
 msgid "Pictures folder"
-msgstr ""
+msgstr "“ピクチャ”フォルダー"
 
 #: src/CategoryView.vala:1822
 msgid "Publicshare folder"
-msgstr ""
+msgstr "“公開”フォルダー"
 
 #: src/CategoryView.vala:1827
 msgid "Recent folder"
-msgstr ""
+msgstr "“最近使用した項目”フォルダー"
 
 #: src/CategoryView.vala:1832
 msgid "Remote folder"
-msgstr ""
+msgstr "リモートフォルダー"
 
 #: src/CategoryView.vala:1837
 msgid "Saved search folder"
-msgstr ""
+msgstr "検索条件を保存したフォルダー"
 
 #: src/CategoryView.vala:1842
 msgid "Templates folder"
-msgstr ""
+msgstr "“テンプレート”フォルダー"
 
 #: src/CategoryView.vala:1847
 msgid "Videos folder"
-msgstr ""
+msgstr "“ビデオ”フォルダー"
 
 #: src/CategoryView.vala:1852
 msgid "Internet radio"
-msgstr ""
+msgstr "インターネットラジオ"
 
 #: src/CategoryView.vala:1857
 msgid "Audiobook library"
-msgstr ""
+msgstr "オーディオブックライブラリ"
 
 #: src/CategoryView.vala:1862
 msgid "Library places"
-msgstr ""
+msgstr "地図ライブラリ"
 
 #: src/CategoryView.vala:1867
 msgid "Podcast library"
-msgstr ""
+msgstr "ポッドキャストライブラリ"
 
 #: src/CategoryView.vala:1872
 msgid "Mail inbox"
-msgstr ""
+msgstr "メールの受信トレイ"
 
 #: src/CategoryView.vala:1877
 msgid "Mail mailbox"
-msgstr ""
+msgstr "メールのトレイ"
 
 #: src/CategoryView.vala:1882
 msgid "Mail outbox"
-msgstr ""
+msgstr "メールの送信トレイ"
 
 #: src/CategoryView.vala:1887
 msgid "Mail sent"
-msgstr ""
+msgstr "メールを送信"
 
 #: src/CategoryView.vala:1892
 msgid "Network server"
-msgstr ""
+msgstr "ネットワークサーバー"
 
 #: src/CategoryView.vala:1897
 msgid "Network workgroup"
-msgstr ""
+msgstr "ネットワークワークグループ"
 
 #: src/CategoryView.vala:1902
 msgid "Playlist"
-msgstr ""
+msgstr "プレイリスト"
 
 #: src/CategoryView.vala:1907
 msgid "Automatic playlist"
-msgstr ""
+msgstr "自動プレイリスト"
 
 #: src/CategoryView.vala:1912
 msgid "Playlist queue"
-msgstr ""
+msgstr "プレイリストキュー"
 
 #: src/CategoryView.vala:1917
 msgid "Similar playlist"
-msgstr ""
+msgstr "類似のプレイリスト"
 
 #: src/CategoryView.vala:1922
 msgid "Tag"
-msgstr ""
+msgstr "タグ"
 
 #: src/CategoryView.vala:1927
 msgid "Bookmarks"
-msgstr ""
+msgstr "ブックマーク"
 
 #: src/CategoryView.vala:1932
 msgid "Home"
-msgstr ""
+msgstr "“ホーム”フォルダー"
 
 #: src/CategoryView.vala:1937
 msgid "Trash"
-msgstr ""
+msgstr "ゴミ箱"
 
 #: src/CategoryView.vala:1942
 msgid "Trash full"
-msgstr ""
+msgstr "満杯のゴミ箱"
 
 #: src/CategoryView.vala:1947
 msgid "Airplane mode, where wireless radios are disabled or off"
-msgstr ""
+msgstr "機内モード (無線通信が無効またはオフの状態)"
 
 #: src/CategoryView.vala:1952
 msgid "An appointment or calendar event was missed"
-msgstr ""
+msgstr "出席依頼やカレンダーの予定を見落としている"
 
 #: src/CategoryView.vala:1957
 msgid "An appointment or calendar event will be happening soon"
-msgstr ""
+msgstr "出席依頼やカレンダーの予定がまもなく開始"
 
 #: src/CategoryView.vala:1962
 msgid "High or loud audio volume"
-msgstr ""
+msgstr "音声は大"
 
 #: src/CategoryView.vala:1967
 msgid "Low or quiet audio volume"
-msgstr ""
+msgstr "音声は小"
 
 #: src/CategoryView.vala:1972
 msgid "Medium or normal audio volume"
-msgstr ""
+msgstr "音声は中・普通"
 
 #: src/CategoryView.vala:1977
 msgid "Audio volume is muted or off"
-msgstr ""
+msgstr "音声はミュート・オフ"
 
 #: src/CategoryView.vala:1982
 msgid ""
 "Audio volume is muted or off and something is being blocked from making noise"
-msgstr ""
+msgstr "音量がミュート・オフのため、音声出力を制限されているアプリがある状態"
 
 #: src/CategoryView.vala:1987
 msgid ""
 "The default avatar to represent a user, such as someone who has not set a "
 "profile picture"
-msgstr ""
+msgstr "ユーザーのデフォルトアバター (プロフィール画像を設定していないユーザーなど)"
 
 #: src/CategoryView.vala:1992
 msgid "A charger or AC adapter for a battery-powered device"
-msgstr ""
+msgstr "バッテリー駆動デバイス用の充電器や AC アダプター"
 
 #: src/CategoryView.vala:1997
 msgid "Low battery level"
-msgstr ""
+msgstr "バッテリー残量が少ない状態"
 
 #: src/CategoryView.vala:2002
 msgid "Low battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "バッテリー残量が少ない状態 (充電器や AC アダプターに接続済み)"
 
 #: src/CategoryView.vala:2007
 msgid "Critically low battery level"
-msgstr ""
+msgstr "バッテリー残量不足"
 
 #: src/CategoryView.vala:2012
 msgid "Critically low battery, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "バッテリー残量不足 (充電器や AC アダプターに接続済み)"
 
 #: src/CategoryView.vala:2017
 msgid "Mostly charged battery level"
-msgstr ""
+msgstr "バッテリー残量がほとんど減っていない状態"
 
 #: src/CategoryView.vala:2022
 msgid "Completely charged battery level"
-msgstr ""
+msgstr "バッテリーは充電済み"
 
 #: src/CategoryView.vala:2027
 msgid "Mostly charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "バッテリーは充電済み (充電器や AC アダプターに接続済み)"
 
 #: src/CategoryView.vala:2032
 msgid "Medium-high charged battery level"
-msgstr ""
+msgstr "バッテリー残量は半分より多い状態"
 
 #: src/CategoryView.vala:2037
 msgid "Medium-high charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "バッテリー残量は半分より多い状態 (充電器や AC アダプターに接続済み)"
 
 #: src/CategoryView.vala:2042
 msgid "Medium-low charged battery level"
-msgstr ""
+msgstr "バッテリー残量は半分より少ない状態"
 
 #: src/CategoryView.vala:2047
 msgid "Medium-low charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "バッテリー残量は半分より少ない状態 (充電器や AC アダプターに接続済み)"
 
 #: src/CategoryView.vala:2052
 msgid "Missing or malfunctioning battery"
-msgstr ""
+msgstr "バッテリーは未接続または故障中"
 
 #: src/CategoryView.vala:2057
 msgid "Bluetooth radio is disabled or off"
-msgstr ""
+msgstr "Bluetooth が無効またはオフ"
 
 #: src/CategoryView.vala:2062
 msgid "Allow changes by unlocking such as with a password"
-msgstr ""
+msgstr "パスワードなどでロック解除を行い、項目が変更可能な状態"
 
 #: src/CategoryView.vala:2067
 msgid "Prevent changes by locking such as with a password"
-msgstr ""
+msgstr "パスワードなどでロックを行い、項目が変更できない状態"
 
 #: src/CategoryView.vala:2072
 msgid ""
 "Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
-msgstr ""
+msgstr "安全性が低い・安全でない・暗号化されていない、通信や接続 (HTTP など)"
 
 #: src/CategoryView.vala:2077
 msgid ""
 "Secure or encrypted communication or connection, such as HTTPS or encrypted "
 "Wi-Fi"
-msgstr ""
+msgstr "安全・暗号化されている、通信や接続 (HTTPS や暗号化 Wi-Fi など)"
 
 #: src/CategoryView.vala:2082
 msgid "Critical, unrecoverable, or other serious error"
-msgstr ""
+msgstr "致命的・回復不能などの、重大なエラー"
 
 #: src/CategoryView.vala:2087
 msgid "Contextual information or explanation"
-msgstr ""
+msgstr "状況に関する情報や説明"
 
 #: src/CategoryView.vala:2092
 msgid "Requesting authentication details, such as a password or encryption key"
-msgstr ""
+msgstr "認証方法の要求 (パスワードや暗号化キーなど)"
 
 #: src/CategoryView.vala:2097
 msgid "Question, decision, or choice for the user"
-msgstr ""
+msgstr "ユーザーに対する質問・決定・選択"
 
 #: src/CategoryView.vala:2102
 msgid "Warning of potentially dangerous actions or consequences"
-msgstr ""
+msgstr "危険な可能性のある操作や結果についての警告"
 
 #: src/CategoryView.vala:2107
 msgid "Placeholder used when an image or thumbnail is loading"
-msgstr ""
+msgstr "画像やサムネイルを読み込む間に表示されるプレースホルダー"
 
 #: src/CategoryView.vala:2112
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
-msgstr ""
+msgstr "画像やサムネイルが存在しないか読み込めなかった場合に表示されるプレースホルダ"
+"ー"
 
 #: src/CategoryView.vala:2117
 msgid "Location services are in use"
-msgstr ""
+msgstr "位置情報サービスを使用中"
 
 #: src/CategoryView.vala:2122
 msgid "Location services are disabled and unavailable"
-msgstr ""
+msgstr "位置情報サービスは無効または利用不可"
 
 #: src/CategoryView.vala:2127
 msgid "Location services are available, but not in use"
-msgstr ""
+msgstr "位置情報サービスは利用可能だが、使用中ではない"
 
 #: src/CategoryView.vala:2132
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
-msgstr ""
+msgstr "ロック済みまたは安全な状態 "
+"(一般に、認証やパスワードによるロック解除が必要な状態)"
 
 #: src/CategoryView.vala:2137
 msgid "Mail attachment or file in an email"
-msgstr ""
+msgstr "メールの添付ファイル"
 
 #: src/CategoryView.vala:2142
 msgid "New, unread, or unviewed email"
-msgstr ""
+msgstr "新着・未読・未表示のメール"
 
 #: src/CategoryView.vala:2147
 msgid "Read or already-viewed email"
-msgstr ""
+msgstr "既読・表示済みのメール"
 
 #: src/CategoryView.vala:2152
 msgid "Email that has been replied or responded to"
-msgstr ""
+msgstr "返信・応答済みのメール"
 
 #: src/CategoryView.vala:2157
 msgid "Email that contains a signature"
-msgstr ""
+msgstr "電子署名が付いたメール"
 
 #: src/CategoryView.vala:2162
 msgid "Email that contains a signature that is verified by the security system"
-msgstr ""
+msgstr "セキュリティーシステムによって確認済みの電子署名が付いたメール"
 
 #: src/CategoryView.vala:2167
 msgid "Repeat a song, video, track, album, playlist, or other media"
-msgstr ""
+msgstr "曲・動画・トラック・アルバム・プレイリストなどのメディアを繰り返し再生"
 
 #: src/CategoryView.vala:2172
 msgid "Shuffle or randomize an album, playlist, or other media"
-msgstr ""
+msgstr "アルバム・プレイリストなどのメディアをシャッフル・ランダム再生"
 
 #: src/CategoryView.vala:2177
 msgid "Error or problem initializing or creating a network connection"
-msgstr ""
+msgstr "ネットワーク接続初期化時・作成時のエラー・問題"
 
 #: src/CategoryView.vala:2182
 msgid "No data being transmitted or received while connected to a network"
-msgstr ""
+msgstr "ネットワークには接続済みだが、データ送受信をしない"
 
 #: src/CategoryView.vala:2187
 msgid "Disconnected or offline from a network"
-msgstr ""
+msgstr "ネットワークから切断された状態・オフライン"
 
 #: src/CategoryView.vala:2192
 msgid "Data is being received over a network"
-msgstr ""
+msgstr "ネットワーク経由でデータを受信中"
 
 #: src/CategoryView.vala:2197
 msgid "Data is being transmitted over a network"
-msgstr ""
+msgstr "ネットワーク経由でデータを送信中"
 
 #: src/CategoryView.vala:2202
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
-msgstr ""
+msgstr "ネットワーク経由でデータを同時に送受信中"
 
 #: src/CategoryView.vala:2207
 msgid "Wired network, such as Ethernet, is disconnected"
-msgstr ""
+msgstr "有線ネットワーク (イーサネットなど) が切断状態"
 
 #: src/CategoryView.vala:2212
 msgid "Item is not starred, favorited, or pinned by the user"
-msgstr ""
+msgstr "ユーザーの星付き・お気に入り・ピン留め済みではない項目"
 
 #: src/CategoryView.vala:2217
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
-msgstr ""
+msgstr "通知が無効、または非通知モードに設定されている状態"
 
 #: src/CategoryView.vala:2222
 msgid "Error or problem occurred when attempting to print"
-msgstr ""
+msgstr "印刷試行中にエラーや問題が発生"
 
 #: src/CategoryView.vala:2227
 msgid "Job has been successfully spooled or sent to a printer"
-msgstr ""
+msgstr "ジョブが正常にスプールまたはプリンターへ送信された"
 
 #: src/CategoryView.vala:2232
 msgid "Process, job, or task has successfully completed or finished"
-msgstr ""
+msgstr "プロセス・ジョブ・タスクが正常に完了・終了"
 
 #: src/CategoryView.vala:2237
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
-msgstr ""
+msgstr "安全性が既知 "
+"(強力な暗号化と、有効・確認済み・信頼済みの証明書を使用しているなど)"
 
 #: src/CategoryView.vala:2242
 msgid "Presumed to be secure, such as using encryption"
