@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-04-28 01:27+0000\n"
+"PO-Revision-Date: 2023-04-28 04:38+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -1828,102 +1828,103 @@ msgstr "プロセス・ジョブ・タスクが正常に完了・終了"
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
-msgstr "安全性が既知 "
+msgstr "安全性が保証された状態 "
 "(強力な暗号化と、有効・確認済み・信頼済みの証明書を使用しているなど)"
 
 #: src/CategoryView.vala:2242
 msgid "Presumed to be secure, such as using encryption"
-msgstr ""
+msgstr "安全と思われる状態 (暗号化を使用しているなど)"
 
 #: src/CategoryView.vala:2247
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
-msgstr ""
+msgstr "安全でないと思われる状態 (セキュアでない、暗号化されていない、暗号化が弱い、"
+"あるいは不正・未確認・信頼されていない証明書を使用しているなど)"
 
 #: src/CategoryView.vala:2252
 msgid "Updated apps, software, or drivers are available"
-msgstr ""
+msgstr "アプリ・ソフトウェア・ドライバーのアップデートが利用可能"
 
 #: src/CategoryView.vala:2257
 msgid "Urgent or critical updates are available"
-msgstr ""
+msgstr "緊急あるいは重大なアップデートが利用可能"
 
 #: src/CategoryView.vala:2262
 msgid "Item is starred, favorited, or pinned by the user"
-msgstr ""
+msgstr "ユーザーの星付き・お気に入り・ピン留め済み項目"
 
 #: src/CategoryView.vala:2267
 msgid "Task is due soon"
-msgstr ""
+msgstr "タスクの期日が近い"
 
 #: src/CategoryView.vala:2272
 msgid "Task is incomplete past the due date"
-msgstr ""
+msgstr "タスクが未完了のまま期日を経過"
 
 #: src/CategoryView.vala:2277
 msgid "User, person, or contact is available or online"
-msgstr ""
+msgstr "ユーザー・人物・連絡先が連絡可能またはオンライン"
 
 #: src/CategoryView.vala:2282
 msgid "User, person, or contact is away or unavailable"
-msgstr ""
+msgstr "ユーザー・人物・連絡先が離席中または不在"
 
 #: src/CategoryView.vala:2287
 msgid "User, person, or contact is idle or unresponsive"
-msgstr ""
+msgstr "ユーザー・人物・連絡先が時間外または応答不可"
 
 #: src/CategoryView.vala:2292
 msgid "User, person, or contact is offline or unreachable"
-msgstr ""
+msgstr "ユーザー・人物・連絡先がオフラインまたは連絡不可"
 
 #: src/CategoryView.vala:2297
 msgid "Private, anonymous, untracked, or incognito"
-msgstr ""
+msgstr "プライベート・匿名・トラッキング拒否・シークレット"
 
 #: src/CategoryView.vala:2302
 msgid "Clear skies or sunny weather"
-msgstr ""
+msgstr "快晴・晴れ"
 
 #: src/CategoryView.vala:2307
 msgid "Clear skies weather during the night"
-msgstr ""
+msgstr "快晴 (夜間)"
 
 #: src/CategoryView.vala:2312
 msgid "Partly cloudy, partly clear, or partly sunny weather"
-msgstr ""
+msgstr "くもり時々晴れ・晴れ時々曇り"
 
 #: src/CategoryView.vala:2317
 msgid "Partly cloudy or partly clear weather during the night"
-msgstr ""
+msgstr "曇り時々晴れ・晴れ時々曇り (夜間)"
 
 #: src/CategoryView.vala:2322
 msgid "Foggy weather"
-msgstr ""
+msgstr "霧"
 
 #: src/CategoryView.vala:2327
 msgid "Overcast or cloudy weather"
-msgstr ""
+msgstr "曇天・くもり"
 
 #: src/CategoryView.vala:2332
 msgid "Severe or critical weather warning or alert"
-msgstr ""
+msgstr "危険・重大な警戒情報・発令"
 
 #: src/CategoryView.vala:2337
 msgid "Showers or rainy weather"
-msgstr ""
+msgstr "にわか雨または雨"
 
 #: src/CategoryView.vala:2342
 msgid "Scattered showers or partly rainy weather"
-msgstr ""
+msgstr "所によりにわか雨"
 
 #: src/CategoryView.vala:2347
 msgid "Snow showers or snowy weather"
-msgstr ""
+msgstr "にわか雪または雪"
 
 #: src/CategoryView.vala:2352
 msgid "Thunderstorms or stormy weather"
-msgstr ""
+msgstr "雷雨または暴風雨"
 
 #: src/CategoryView.vala:2362
 msgid "Search Names or Descriptions"
@@ -1939,11 +1940,11 @@ msgstr "シンボリックアイコン"
 
 #: src/IconView.vala:75
 msgid "Code Sample"
-msgstr "コードの例"
+msgstr "コード例"
 
 #: src/IconView.vala:157
 msgid "Unavailable"
-msgstr "利用できません"
+msgstr "利用不可"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
