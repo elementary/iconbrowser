@@ -169,7 +169,7 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "distribute-vertical-top",
-            description = _("Distriute top edges of objects vertically"),
+            description = _("Distribute top edges of objects vertically"),
             category = ACTIONS
         },
         Icon () {
