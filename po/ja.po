@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-01 01:41+0100\n"
-"PO-Revision-Date: 2023-04-28 04:38+0000\n"
+"PO-Revision-Date: 2023-05-04 08:06+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -148,8 +148,6 @@ msgid "Make vertical gaps between objects equal"
 msgstr "オブジェクトの垂直方向の間隔を均等にする"
 
 #: src/CategoryView.vala:172
-#, fuzzy
-#| msgid "Distriute top edges of objects vertically"
 msgid "Distribute top edges of objects vertically"
 msgstr "オブジェクトの上端を基準に、垂直方向に等間隔に配置"
 
@@ -780,7 +778,7 @@ msgstr "サウンド／音声入出力の設定"
 
 #: src/CategoryView.vala:952
 msgid "Look and feel, appearance, style, or theme settings"
-msgstr ""
+msgstr "外観と操作性、スタイル、およびテーマ設定"
 
 #: src/CategoryView.vala:957
 msgid "Desktop wallpaper or background settings"
@@ -1239,10 +1237,8 @@ msgid "Ruby programming language file types"
 msgstr "Ruby ソースソースファイルタイプ"
 
 #: src/CategoryView.vala:1507
-#, fuzzy
-#| msgid "Binary file types"
 msgid "Shared library file types"
-msgstr "バイナリファイルタイプ"
+msgstr "共有ライブラリファイルタイプ"
 
 #: src/CategoryView.vala:1512
 msgid "Generic audio file types"
@@ -1847,16 +1843,12 @@ msgid "Process, job, or task has successfully completed or finished"
 msgstr "プロセス・ジョブ・タスクが正常に完了・終了"
 
 #: src/CategoryView.vala:2247
-#, fuzzy
-#| msgid "Process, job, or task has successfully completed or finished"
 msgid "Process, job, or task has failed or been unsuccessful"
-msgstr "プロセス・ジョブ・タスクが正常に完了・終了"
+msgstr "プロセス・ジョブ・タスクが失敗"
 
 #: src/CategoryView.vala:2252
-#, fuzzy
-#| msgid "Process, job, or task has successfully completed or finished"
 msgid "Process, job, or task is currently paused or on hold"
-msgstr "プロセス・ジョブ・タスクが正常に完了・終了"
+msgstr "プロセス・ジョブ・タスクが一時停止中・保留中"
 
 #: src/CategoryView.vala:2257
 msgid ""
