@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-01 01:41+0100\n"
-"PO-Revision-Date: 2023-02-10 22:55+0000\n"
+"PO-Revision-Date: 2023-05-04 08:06+0000\n"
 "Last-Translator: David M <rbndavid@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ca/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.17\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -148,8 +148,6 @@ msgid "Make vertical gaps between objects equal"
 msgstr "Fes que els espais verticals entre els objectes siguin iguals"
 
 #: src/CategoryView.vala:172
-#, fuzzy
-#| msgid "Distriute top edges of objects vertically"
 msgid "Distribute top edges of objects vertically"
 msgstr "Distribueix les vores superiors dels objectes verticalment"
 
@@ -792,7 +790,7 @@ msgstr "Configuració d'entrada i sortida de so o àudio"
 
 #: src/CategoryView.vala:952
 msgid "Look and feel, appearance, style, or theme settings"
-msgstr ""
+msgstr "Configuració d'aparença, estil o tema"
 
 #: src/CategoryView.vala:957
 msgid "Desktop wallpaper or background settings"
@@ -1264,10 +1262,8 @@ msgid "Ruby programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació Ruby"
 
 #: src/CategoryView.vala:1507
-#, fuzzy
-#| msgid "Binary file types"
 msgid "Shared library file types"
-msgstr "Tipus de fitxers binaris"
+msgstr "Tipus de fitxers de la biblioteca compartida"
 
 #: src/CategoryView.vala:1512
 msgid "Generic audio file types"
@@ -1892,16 +1888,12 @@ msgid "Process, job, or task has successfully completed or finished"
 msgstr "El procés, la feina o la tasca s'ha completat o acabat correctament"
 
 #: src/CategoryView.vala:2247
-#, fuzzy
-#| msgid "Process, job, or task has successfully completed or finished"
 msgid "Process, job, or task has failed or been unsuccessful"
-msgstr "El procés, la feina o la tasca s'ha completat o acabat correctament"
+msgstr "El procés, la feina o la tasca ha fallat o no ha tingut èxit."
 
 #: src/CategoryView.vala:2252
-#, fuzzy
-#| msgid "Process, job, or task has successfully completed or finished"
 msgid "Process, job, or task is currently paused or on hold"
-msgstr "El procés, la feina o la tasca s'ha completat o acabat correctament"
+msgstr "El procés, la feina o la tasca està actualment interrompuda o s'espera."
 
 #: src/CategoryView.vala:2257
 msgid ""
