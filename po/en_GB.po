@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-01 01:41+0100\n"
-"PO-Revision-Date: 2023-05-04 08:06+0000\n"
+"PO-Revision-Date: 2023-05-05 09:06+0000\n"
 "Last-Translator: David Hewitt <davidmhewitt@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://l10n.elementary.io/projects/"
 "icon-browser/icon-browser/en_GB/>\n"
@@ -1763,221 +1763,226 @@ msgstr ""
 
 #: src/CategoryView.vala:2147
 msgid "Mail attachment or file in an email"
-msgstr ""
+msgstr "Mail attachment or file in an email"
 
 #: src/CategoryView.vala:2152
 msgid "New, unread, or unviewed email"
-msgstr ""
+msgstr "New, unread, or unviewed email"
 
 #: src/CategoryView.vala:2157
 msgid "Read or already-viewed email"
-msgstr ""
+msgstr "Read or already-viewed email"
 
 #: src/CategoryView.vala:2162
 msgid "Email that has been replied or responded to"
-msgstr ""
+msgstr "Email that has been replied or responded to"
 
 #: src/CategoryView.vala:2167
 msgid "Email that contains a signature"
-msgstr ""
+msgstr "Email that contains a signature"
 
 #: src/CategoryView.vala:2172
 msgid "Email that contains a signature that is verified by the security system"
-msgstr ""
+msgstr "Email that contains a signature that is verified by the security system"
 
 #: src/CategoryView.vala:2177
 msgid "Repeat a song, video, track, album, playlist, or other media"
-msgstr ""
+msgstr "Repeat a song, video, track, album, playlist, or other media"
 
 #: src/CategoryView.vala:2182
 msgid "Shuffle or randomize an album, playlist, or other media"
-msgstr ""
+msgstr "Shuffle or randomise an album, playlist, or other media"
 
 #: src/CategoryView.vala:2187
 msgid "Error or problem initializing or creating a network connection"
-msgstr ""
+msgstr "Error or problem initialising or creating a network connection"
 
 #: src/CategoryView.vala:2192
 msgid "No data being transmitted or received while connected to a network"
-msgstr ""
+msgstr "No data being transmitted or received while connected to a network"
 
 #: src/CategoryView.vala:2197
 msgid "Disconnected or offline from a network"
-msgstr ""
+msgstr "Disconnected or offline from a network"
 
 #: src/CategoryView.vala:2202
 msgid "Data is being received over a network"
-msgstr ""
+msgstr "Data is being received over a network"
 
 #: src/CategoryView.vala:2207
 msgid "Data is being transmitted over a network"
-msgstr ""
+msgstr "Data is being transmitted over a network"
 
 #: src/CategoryView.vala:2212
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
 msgstr ""
+"Data is being both transmitted and received simultaneously over a network"
 
 #: src/CategoryView.vala:2217
 msgid "Wired network, such as Ethernet, is disconnected"
-msgstr ""
+msgstr "Wired network, such as Ethernet, is disconnected"
 
 #: src/CategoryView.vala:2222
 msgid "Item is not starred, favorited, or pinned by the user"
-msgstr ""
+msgstr "Item is not starred, favourited, or pinned by the user"
 
 #: src/CategoryView.vala:2227
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
-msgstr ""
+msgstr "Notifications are disabled or in Do-Not-Disturb mode"
 
 #: src/CategoryView.vala:2232
 msgid "Error or problem occurred when attempting to print"
-msgstr ""
+msgstr "Error or problem occurred when attempting to print"
 
 #: src/CategoryView.vala:2237
 msgid "Job has been successfully spooled or sent to a printer"
-msgstr ""
+msgstr "Job has been successfully spooled or sent to a printer"
 
 #: src/CategoryView.vala:2242
 msgid "Process, job, or task has successfully completed or finished"
-msgstr ""
+msgstr "Process, job, or task has successfully completed or finished"
 
 #: src/CategoryView.vala:2247
 msgid "Process, job, or task has failed or been unsuccessful"
-msgstr ""
+msgstr "Process, job, or task has failed or been unsuccessful"
 
 #: src/CategoryView.vala:2252
 msgid "Process, job, or task is currently paused or on hold"
-msgstr ""
+msgstr "Process, job, or task is currently paused or on hold"
 
 #: src/CategoryView.vala:2257
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
 msgstr ""
+"Known to be secure, such as using strong encryption and a valid, verified, "
+"or trusted certificate"
 
 #: src/CategoryView.vala:2262
 msgid "Presumed to be secure, such as using encryption"
-msgstr ""
+msgstr "Presumed to be secure, such as using encryption"
 
 #: src/CategoryView.vala:2267
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
 msgstr ""
+"Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
+"an invalid, unverified, or untrusted certificate"
 
 #: src/CategoryView.vala:2272
 msgid "Updated apps, software, or drivers are available"
-msgstr ""
+msgstr "Updated apps, software, or drivers are available"
 
 #: src/CategoryView.vala:2277
 msgid "Urgent or critical updates are available"
-msgstr ""
+msgstr "Urgent or critical updates are available"
 
 #: src/CategoryView.vala:2282
 msgid "Item is starred, favorited, or pinned by the user"
-msgstr ""
+msgstr "Item is starred, favourited, or pinned by the user"
 
 #: src/CategoryView.vala:2287
 msgid "Task is due soon"
-msgstr ""
+msgstr "Task is due soon"
 
 #: src/CategoryView.vala:2292
 msgid "Task is incomplete past the due date"
-msgstr ""
+msgstr "Task is incomplete past the due date"
 
 #: src/CategoryView.vala:2297
 msgid "User, person, or contact is available or online"
-msgstr ""
+msgstr "User, person, or contact is available or online"
 
 #: src/CategoryView.vala:2302
 msgid "User, person, or contact is away or unavailable"
-msgstr ""
+msgstr "User, person, or contact is away or unavailable"
 
 #: src/CategoryView.vala:2307
 msgid "User, person, or contact is idle or unresponsive"
-msgstr ""
+msgstr "User, person, or contact is idle or unresponsive"
 
 #: src/CategoryView.vala:2312
 msgid "User, person, or contact is offline or unreachable"
-msgstr ""
+msgstr "User, person, or contact is offline or unreachable"
 
 #: src/CategoryView.vala:2317
 msgid "Private, anonymous, untracked, or incognito"
-msgstr ""
+msgstr "Private, anonymous, untracked, or incognito"
 
 #: src/CategoryView.vala:2322
 msgid "Clear skies or sunny weather"
-msgstr ""
+msgstr "Clear skies or sunny weather"
 
 #: src/CategoryView.vala:2327
 msgid "Clear skies weather during the night"
-msgstr ""
+msgstr "Clear skies weather during the night"
 
 #: src/CategoryView.vala:2332
 msgid "Partly cloudy, partly clear, or partly sunny weather"
-msgstr ""
+msgstr "Partly cloudy, partly clear, or partly sunny weather"
 
 #: src/CategoryView.vala:2337
 msgid "Partly cloudy or partly clear weather during the night"
-msgstr ""
+msgstr "Partly cloudy or partly clear weather during the night"
 
 #: src/CategoryView.vala:2342
 msgid "Foggy weather"
-msgstr ""
+msgstr "Foggy weather"
 
 #: src/CategoryView.vala:2347
 msgid "Overcast or cloudy weather"
-msgstr ""
+msgstr "Overcast or cloudy weather"
 
 #: src/CategoryView.vala:2352
 msgid "Severe or critical weather warning or alert"
-msgstr ""
+msgstr "Severe or critical weather warning or alert"
 
 #: src/CategoryView.vala:2357
 msgid "Showers or rainy weather"
-msgstr ""
+msgstr "Showers or rainy weather"
 
 #: src/CategoryView.vala:2362
 msgid "Scattered showers or partly rainy weather"
-msgstr ""
+msgstr "Scattered showers or partly rainy weather"
 
 #: src/CategoryView.vala:2367
 msgid "Snow showers or snowy weather"
-msgstr ""
+msgstr "Snow showers or snowy weather"
 
 #: src/CategoryView.vala:2372
 msgid "Thunderstorms or stormy weather"
-msgstr ""
+msgstr "Thunderstorms or stormy weather"
 
 #: src/CategoryView.vala:2382
 msgid "Search Names or Descriptions"
-msgstr ""
+msgstr "Search Names or Descriptions"
 
 #: src/IconView.vala:59
 msgid "Color Icons"
-msgstr ""
+msgstr "Colour Icons"
 
 #: src/IconView.vala:66
 msgid "Symbolic Icons"
-msgstr ""
+msgstr "Symbolic Icons"
 
 #: src/IconView.vala:79
 msgid "Code Sample"
-msgstr ""
+msgstr "Code Sample"
 
 #: src/IconView.vala:161
 msgid "Unavailable"
-msgstr ""
+msgstr "Unavailable"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr ""
+msgstr "Icon Browser"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr ""
+msgstr "Light background"
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr ""
+msgstr "Dark background"
