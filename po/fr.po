@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: com.github.danrabbit.lookbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-01 01:41+0100\n"
-"PO-Revision-Date: 2022-12-07 11:25+0000\n"
-"Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
-"Language-Team: French <https://l10n.elementary.io/projects/icon-browser/icon-"
-"browser/fr/>\n"
+"PO-Revision-Date: 2023-05-16 08:06+0000\n"
+"Last-Translator: Benjamin <morantbenjamin@gmail.com>\n"
+"Language-Team: French <https://l10n.elementary.io/projects/icon-browser/"
+"icon-browser/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.17\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -148,8 +148,6 @@ msgid "Make vertical gaps between objects equal"
 msgstr "Rendre égaux les espaces verticaux entre les objets"
 
 #: src/CategoryView.vala:172
-#, fuzzy
-#| msgid "Distriute top edges of objects vertically"
 msgid "Distribute top edges of objects vertically"
 msgstr "Répartir verticalement les bords supérieurs des objets"
 
@@ -519,7 +517,7 @@ msgid ""
 "Stop an action that may take a while to process, such as web page loading in "
 "a browser"
 msgstr ""
-"Interrompre une action qui peut prendre un certain temps à s'éxécuter, comme "
+"Interrompre une action qui peut prendre un certain temps à s’exécuter, comme "
 "le chargement d'une page Web dans un navigateur"
 
 #: src/CategoryView.vala:627
@@ -794,7 +792,7 @@ msgstr "Paramètres d'éntrée et sortie son ou audio"
 
 #: src/CategoryView.vala:952
 msgid "Look and feel, appearance, style, or theme settings"
-msgstr ""
+msgstr "Paramètres de la présentation, de l'apparence, du style ou du thème"
 
 #: src/CategoryView.vala:957
 msgid "Desktop wallpaper or background settings"
@@ -1265,10 +1263,8 @@ msgid "Ruby programming language file types"
 msgstr "Types de fichiers du langage de programmation Ruby"
 
 #: src/CategoryView.vala:1507
-#, fuzzy
-#| msgid "Binary file types"
 msgid "Shared library file types"
-msgstr "Types de fichiers binaires"
+msgstr "Types de fichiers des bibliothèques partagées"
 
 #: src/CategoryView.vala:1512
 msgid "Generic audio file types"
@@ -1906,20 +1902,13 @@ msgstr ""
 "succès"
 
 #: src/CategoryView.vala:2247
-#, fuzzy
-#| msgid "Process, job, or task has successfully completed or finished"
 msgid "Process, job, or task has failed or been unsuccessful"
-msgstr ""
-"Le processus, le travail ou la tâche a été mené à bien ou s'est terminé avec "
-"succès"
+msgstr "Le processus, le travail ou la tâche a échoué ou n'a pas abouti"
 
 #: src/CategoryView.vala:2252
-#, fuzzy
-#| msgid "Process, job, or task has successfully completed or finished"
 msgid "Process, job, or task is currently paused or on hold"
 msgstr ""
-"Le processus, le travail ou la tâche a été mené à bien ou s'est terminé avec "
-"succès"
+"Le processus, le travail ou la tâche est actuellement en pause ou en attente"
 
 #: src/CategoryView.vala:2257
 msgid ""
