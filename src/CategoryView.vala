@@ -1,6 +1,6 @@
 /*
  * SPDX-License-Identifier: GPL-3.0-or-later
- * SPDX-FileCopyrightText: 2017-2022 elementary, Inc. (https://elementary.io)
+ * SPDX-FileCopyrightText: 2017–2023 elementary, Inc. (https://elementary.io)
  */
 
 public class CategoryView : Gtk.Box {
@@ -99,7 +99,7 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "appointment-new",
-            description = _("Create a new appointment in a calendaring application"),
+            description = _("Create a new appointment in a calendar application"),
             category = ACTIONS
         },
         Icon () {
@@ -209,7 +209,7 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "document-print-preview",
-            description = _("The print preview action of an application"),
+            description = _("The print-preview action of an application"),
             category = ACTIONS
         },
         Icon () {
@@ -274,7 +274,7 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "edit-flag",
-            description = _("Flag an item, such as a spam email"),
+            description = _("Flag an item, such as a spam e-mail"),
             category = ACTIONS
         },
         Icon () {
@@ -499,52 +499,52 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "mail-forward",
-            description = _("Forward an email"),
+            description = _("Forward an e-mail"),
             category = ACTIONS
         },
         Icon () {
             name = "mail-mark-important",
-            description = _("Mark an email as important"),
+            description = _("Mark an e-mail as important"),
             category = ACTIONS
         },
         Icon () {
             name = "mail-mark-junk",
-            description = _("Mark an email as junk or spam"),
+            description = _("Mark an e-mail as junk or spam"),
             category = ACTIONS
         },
         Icon () {
             name = "mail-mark-notjunk",
-            description = _("Mark an email as not junk or spam"),
+            description = _("Mark an e-mail as not junk or spam"),
             category = ACTIONS
         },
         Icon () {
             name = "mail-mark-read",
-            description = _("Mark an email as read"),
+            description = _("Mark an e-mail as read"),
             category = ACTIONS
         },
         Icon () {
             name = "mail-mark-unread",
-            description = _("Mark an email as unread"),
+            description = _("Mark an e-mail as unread"),
             category = ACTIONS
         },
         Icon () {
             name = "mail-message-new",
-            description = _("Compose a new email"),
+            description = _("Compose a new e-mail"),
             category = ACTIONS
         },
         Icon () {
             name = "mail-reply-all",
-            description = _("Reply to all participants of an email"),
+            description = _("Reply to all participants of an e-mail"),
             category = ACTIONS
         },
         Icon () {
             name = "mail-reply-sender",
-            description = _("Reply to the sender of an email"),
+            description = _("Reply to the sender of an e-mail"),
             category = ACTIONS
         },
         Icon () {
             name = "mail-send",
-            description = _("Send an email"),
+            description = _("Send an e-mail"),
             category = ACTIONS
         },
         Icon () {
@@ -619,7 +619,7 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "process-stop",
-            description = _("Stop an action that may take a while to process, such as web page loading in a browser"),
+            description = _("Stop an action that may take a while to process, such as web page loading in a web browser"),
             category = ACTIONS
         },
         Icon () {
@@ -1109,7 +1109,7 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "input-tablet",
-            description = _("Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or Bamboo"),
+            description = _("Graphics tablet or pen input, such as a Wacom digitizer (Intuos, Cintiq, or Bamboo)"),
             category = DEVICES
         },
         Icon () {
@@ -1234,7 +1234,7 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "emblem-mail",
-            description = _("Item related to email"),
+            description = _("E-mail related items"),
             category = EMBLEMS
         },
         Icon () {
@@ -1264,7 +1264,7 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "emblem-synchronized",
-            description = _("Item is configured to be synchronized to another device or location"),
+            description = _("Item is configured to be synced to another device or location"),
             category = EMBLEMS
         },
         Icon () {
@@ -1399,122 +1399,122 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "application-epub+zip",
-            description = _("EPUB Ebook file types"),
+            description = _("EPUB e-book filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-illustrator",
-            description = _("Adobe Illustrator image file types"),
+            description = _("Adobe Illustrator image filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-javascript",
-            description = _("Javascript programming language file types"),
+            description = _("JavaScript programming language filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-msword",
-            description = _("Microsoft Word file types"),
+            description = _("Microsoft Word filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-octet-stream",
-            description = _("Binary file types"),
+            description = _("Binary filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-pdf",
-            description = _("PDF file types"),
+            description = _("PDF filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-pgp",
-            description = _("PGP file types"),
+            description = _("PGP filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-vnd.debian.binary-package",
-            description = _("Debian package file types"),
+            description = _("Debian package filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-vnd.flatpak.ref",
-            description = _("Flatpak reference file types"),
+            description = _("Flatpak reference filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-vnd.ms-access",
-            description = _("Microsoft Access file types"),
+            description = _("Microsoft Access filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-vnd.ms-excel",
-            description = _("Microsoft Excel file types"),
+            description = _("Microsoft Excel filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-vnd.ms-powerpoint",
-            description = _("Microsoft PowerPoint file types"),
+            description = _("Microsoft PowerPoint filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-vnd.oasis.opendocument.chart",
-            description = _("Oasis OpenDocument file types"),
+            description = _("Oasis OpenDocument filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-x-bittorrent",
-            description = _("Torrent file types"),
+            description = _("Torrent filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-x-cd-image",
-            description = _("CD Image file types"),
+            description = _("CD Image filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-x-desktop",
-            description = _("Desktop file types"),
+            description = _("Desktop filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-x-executable",
-            description = _("Executable file types"),
+            description = _("Executable filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-x-fictionbook+xml",
-            description = _("FictionBook file types"),
+            description = _("FictionBook filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-x-firmware",
-            description = _("Firmware file types"),
+            description = _("Firmware filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-x-php",
-            description = _("PHP programming language file types"),
+            description = _("PHP programming language filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-x-ruby",
-            description = _("Ruby programming language file types"),
+            description = _("Ruby programming language filetypes"),
             category = MIMES
         },
         Icon () {
             name = "application-x-sharedlib",
-            description = _("Shared library file types"),
+            description = _("Shared library filetypes"),
             category = MIMES
         },
         Icon () {
             name = "audio-x-generic",
-            description = _("Generic audio file types"),
+            description = _("Generic audio filetypes"),
             category = MIMES
         },
         Icon () {
             name = "audio-x-playlist",
-            description = _("Audio playlist file types"),
+            description = _("Audio playlist filetypes"),
             category = MIMES
         },
         Icon () {
@@ -1524,22 +1524,22 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "font-x-generic",
-            description = _("Generic font file types"),
+            description = _("Generic font filetypes"),
             category = MIMES
         },
         Icon () {
             name = "image-vnd.adobe.photoshop",
-            description = _("Adobe Photoshop image file types"),
+            description = _("Adobe Photoshop image filetypes"),
             category = MIMES
         },
         Icon () {
             name = "image-x-generic",
-            description = _("Generic image file types"),
+            description = _("Generic image filetypes"),
             category = MIMES
         },
         Icon () {
             name = "image-x-xcf",
-            description = _("XCF image file types"),
+            description = _("XCF image filetypes"),
             category = MIMES
         },
         Icon () {
@@ -1554,17 +1554,17 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "office-contact",
-            description = _("Contact file types"),
+            description = _("Contact filetypes"),
             category = MIMES
         },
         Icon () {
             name = "office-database",
-            description = _("Database file types"),
+            description = _("Database filetypes"),
             category = MIMES
         },
         Icon () {
             name = "package-x-generic",
-            description = _("Generic package file types"),
+            description = _("Generic package filetypes"),
             category = MIMES
         },
         Icon () {
@@ -1609,47 +1609,47 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "text-css",
-            description = _("CSS text file types"),
+            description = _("CSS text filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-html",
-            description = _("HTML text file types"),
+            description = _("HTML text filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-markdown",
-            description = _("Markdown text file types"),
+            description = _("Markdown text filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-bibtex",
-            description = _("Bibtext file types"),
+            description = _("BibTeX filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-changelog",
-            description = _("Changelog file types"),
+            description = _("Changelog filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-chdr",
-            description = _("C programming language header file types"),
+            description = _("C programming language header filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-copying",
-            description = _("License file types"),
+            description = _("License filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-csrc",
-            description = _("C programming language file types"),
+            description = _("C programming language filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-generic",
-            description = _("Generic text file types"),
+            description = _("Generic text filetypes"),
             category = MIMES
         },
         Icon () {
@@ -1659,127 +1659,127 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "text-x-gettext-translation",
-            description = _("Gettext translation file types"),
+            description = _("Gettext translation filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-gettext-translation-template",
-            description = _("Gettext translation model file types"),
+            description = _("Gettext translation model filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-go",
-            description = _("Go programming language file types"),
+            description = _("Go programming language filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-install",
-            description = _("Install file types"),
+            description = _("Install filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-makefile",
-            description = _("Makefile file types"),
+            description = _("Makefile filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-preview",
-            description = _("Preview file types"),
+            description = _("Preview filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-python",
-            description = _("Python programming language file types"),
+            description = _("Python programming language filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-readme",
-            description = _("Readme file types"),
+            description = _("README filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-sass",
-            description = _("Sass programming language file types"),
+            description = _("Sass programming language filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-script",
-            description = _("Script file types, such as shell scripts"),
+            description = _("Script filetypes, such as shell scripts"),
             category = MIMES
         },
         Icon () {
             name = "text-x-ssa",
-            description = _("SSA file types"),
+            description = _("SSA filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-tex",
-            description = _("TEX file types"),
+            description = _("TEX filetypes"),
             category = MIMES
         },
         Icon () {
             name = "text-x-vala",
-            description = _("Vala programming language file types"),
+            description = _("Vala programming language filetypes"),
             category = MIMES
         },
         Icon () {
             name = "unknown",
-            description = _("Unknown file types"),
+            description = _("Unknown filetypes"),
             category = MIMES
         },
         Icon () {
             name = "video-x-generic",
-            description = _("Generic video file types"),
+            description = _("Generic video filetypes"),
             category = MIMES
         },
         Icon () {
             name = "x-office-address-book",
-            description = _("Generic address book file types"),
+            description = _("Generic address book filetypes"),
             category = MIMES
         },
         Icon () {
             name = "x-office-calendar",
-            description = _("Generic calendar file types"),
+            description = _("Generic calendar filetypes"),
             category = MIMES
         },
         Icon () {
             name = "x-office-document",
-            description = _("Generic document and letter file types"),
+            description = _("Generic document and letter filetypes"),
             category = MIMES
         },
         Icon () {
             name = "x-office-document-template",
-            description = _("Generic document and letter template file types"),
+            description = _("Generic document and letter template filetypes"),
             category = MIMES
         },
         Icon () {
             name = "x-office-drawing",
-            description = _("Generic drawing file types"),
+            description = _("Generic drawing filetypes"),
             category = MIMES
         },
         Icon () {
             name = "x-office-drawing-template",
-            description = _("Generic drawing template file types"),
+            description = _("Generic drawing template filetypes"),
             category = MIMES
         },
         Icon () {
             name = "x-office-presentation",
-            description = _("Generic presentation file types"),
+            description = _("Generic presentation filetypes"),
             category = MIMES
         },
         Icon () {
             name = "x-office-presentation-template",
-            description = _("Generic presentation template file types"),
+            description = _("Generic presentation template filetypes"),
             category = MIMES
         },
         Icon () {
             name = "x-office-spreadsheet",
-            description = _("Generic spreadsheet file types"),
+            description = _("Generic spreadsheet filetypes"),
             category = MIMES
         },
         Icon () {
             name = "x-office-spreadsheet-template",
-            description = _("Generic spreadsheet template file types"),
+            description = _("Generic spreadsheet template filetypes"),
             category = MIMES
         },
         Icon () {
@@ -1879,22 +1879,22 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "mail-inbox",
-            description = _("Mail inbox"),
+            description = _("E-mail inbox"),
             category = PLACES
         },
         Icon () {
             name = "mail-mailbox",
-            description = _("Mail mailbox"),
+            description = _("E-mail mailbox"),
             category = PLACES
         },
         Icon () {
             name = "mail-outbox",
-            description = _("Mail outbox"),
+            description = _("E-mail outbox"),
             category = PLACES
         },
         Icon () {
             name = "mail-sent",
-            description = _("Mail sent"),
+            description = _("E-mail sent"),
             category = PLACES
         },
         Icon () {
@@ -1984,12 +1984,12 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "audio-volume-muted",
-            description = _("Audio volume is muted or off"),
+            description = _("Audio volume muted or off"),
             category = STATUS
         },
         Icon () {
             name = "audio-volume-muted-blocking",
-            description = _("Audio volume is muted or off and something is being blocked from making noise"),
+            description = _("Audio volume muted or off and something is being blocked from making noise"),
             category = STATUS
         },
         Icon () {
@@ -2039,22 +2039,22 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "battery-good",
-            description = _("Medium-high charged battery level"),
+            description = _("Halfway-fully charged battery level"),
             category = STATUS
         },
         Icon () {
             name = "battery-good-charging",
-            description = _("Medium-high charged battery level, plugged into a charger or AC adapter"),
+            description = _("Halfway-fully charged battery level, plugged into a charger or AC adapter"),
             category = STATUS
         },
         Icon () {
             name = "battery-low",
-            description = _("Medium-low charged battery level"),
+            description = _("Halfway-empty battery level"),
             category = STATUS
         },
         Icon () {
             name = "battery-low-charging",
-            description = _("Medium-low charged battery level, plugged into a charger or AC adapter"),
+            description = _("Halfway-empty battery level, plugged into a charger or AC adapter"),
             category = STATUS
         },
         Icon () {
@@ -2064,7 +2064,7 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "bluetooth-disabled",
-            description = _("Bluetooth radio is disabled or off"),
+            description = _("Bluetooth radio disabled or off"),
             category = STATUS
         },
         Icon () {
@@ -2144,32 +2144,32 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "mail-attachment",
-            description = _("Mail attachment or file in an email"),
+            description = _("E-mail attachment or file in an e-mail"),
             category = STATUS
         },
         Icon () {
             name = "mail-unread",
-            description = _("New, unread, or unviewed email"),
+            description = _("New, unread, or unviewed e-mail"),
             category = STATUS
         },
         Icon () {
             name = "mail-read",
-            description = _("Read or already-viewed email"),
+            description = _("Read or already-viewed e-mail"),
             category = STATUS
         },
         Icon () {
             name = "mail-replied",
-            description = _("Email that has been replied or responded to"),
+            description = _("E-mail that has been replied or responded to"),
             category = STATUS
         },
         Icon () {
             name = "mail-signed",
-            description = _("Email that contains a signature"),
+            description = _("E-mail containing a signature"),
             category = STATUS
         },
         Icon () {
             name = "mail-signed-verified",
-            description = _("Email that contains a signature that is verified by the security system"),
+            description = _("E-mail containing a signature verified by the security system"),
             category = STATUS
         },
         Icon () {
@@ -2234,7 +2234,7 @@ public class CategoryView : Gtk.Box {
         },
         Icon () {
             name = "printer-printing",
-            description = _("Job has been successfully spooled or sent to a printer"),
+            description = _("Job spooled or sent to a printer"),
             category = STATUS
         },
         Icon () {
