@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-01 01:41+0100\n"
-"PO-Revision-Date: 2023-02-01 05:25+0000\n"
+"PO-Revision-Date: 2023-07-08 21:07+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://l10n.elementary.io/projects/icon-"
-"browser/icon-browser/nb/>\n"
+"Language-Team: Norwegian Bokmål <https://l10n.elementary.io/projects/"
+"icon-browser/icon-browser/nb/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.17\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -89,11 +89,11 @@ msgstr ""
 
 #: src/CategoryView.vala:97
 msgid "Used for exiting an application"
-msgstr ""
+msgstr "Brukt til å avslutte et program"
 
 #: src/CategoryView.vala:102
 msgid "Create a new appointment in a calendaring application"
-msgstr ""
+msgstr "Opprett nytt møte i kalenderprogrammet"
 
 #: src/CategoryView.vala:107
 msgid "Create a new bookmark"
@@ -187,7 +187,7 @@ msgstr ""
 
 #: src/CategoryView.vala:217
 msgid "View the properties of a document"
-msgstr ""
+msgstr "Vis egenskapene for et dokument"
 
 #: src/CategoryView.vala:222
 msgid "Revert to a previous version of a document"
@@ -256,7 +256,7 @@ msgstr "Angre"
 
 #: src/CategoryView.vala:302
 msgid "Create a new calendar event"
-msgstr ""
+msgstr "Opprett en ny kalenderbegivenhet"
 
 #: src/CategoryView.vala:307
 msgid "Copy a folder"
@@ -316,15 +316,15 @@ msgstr ""
 
 #: src/CategoryView.vala:377
 msgid "Format text as underlined"
-msgstr ""
+msgstr "Formatek tekst som understreket"
 
 #: src/CategoryView.vala:382
 msgid "Format text as being struck through"
-msgstr ""
+msgstr "Formater tekst som gjennomstreket"
 
 #: src/CategoryView.vala:387
 msgid "Go to the bottom, such as in a list"
-msgstr ""
+msgstr "Gå til bunnen, som i en liste"
 
 #: src/CategoryView.vala:392
 msgid "Go down, such as in a list"
@@ -335,8 +335,9 @@ msgid "Go to the first item, such as in a list"
 msgstr "Gå til første element, som i en liste"
 
 #: src/CategoryView.vala:402
+#, fuzzy
 msgid "Go to the home location"
-msgstr ""
+msgstr "Gå til hjemmeplassering"
 
 #: src/CategoryView.vala:407
 msgid "Jump to a location"
@@ -376,11 +377,11 @@ msgstr "Ofte stilte spørsmål"
 
 #: src/CategoryView.vala:452
 msgid "Make adjustments to an image"
-msgstr ""
+msgstr "Gjør justeringer av et bilde"
 
 #: src/CategoryView.vala:457
 msgid "Automatically adjust an image"
-msgstr ""
+msgstr "Juster et bilde automatisk"
 
 #: src/CategoryView.vala:462
 msgid "Crop an image"
@@ -388,7 +389,7 @@ msgstr "Beskjær et bilde"
 
 #: src/CategoryView.vala:467
 msgid "Remove red eye from an image"
-msgstr ""
+msgstr "Fjern røde øyne fra et bilde"
 
 #: src/CategoryView.vala:472
 msgid "Insert an image"
@@ -420,20 +421,22 @@ msgid "Forward an email"
 msgstr "Videresend e-post"
 
 #: src/CategoryView.vala:507
+#, fuzzy
 msgid "Mark an email as important"
-msgstr ""
+msgstr "Marker en e-post som viktig"
 
 #: src/CategoryView.vala:512
+#, fuzzy
 msgid "Mark an email as junk or spam"
-msgstr ""
+msgstr "Marker en e-post som søppelpost eller spam"
 
 #: src/CategoryView.vala:517
 msgid "Mark an email as not junk or spam"
-msgstr ""
+msgstr "Marker en e-post som ikke søppelpost eller spam"
 
 #: src/CategoryView.vala:522
 msgid "Mark an email as read"
-msgstr ""
+msgstr "Marker en e-post som lest"
 
 #: src/CategoryView.vala:527
 #, fuzzy
@@ -446,12 +449,13 @@ msgid "Compose a new email"
 msgstr "Skriv en ny e-post"
 
 #: src/CategoryView.vala:537
+#, fuzzy
 msgid "Reply to all participants of an email"
-msgstr ""
+msgstr "Svar alle deltagerne i en e-post"
 
 #: src/CategoryView.vala:542
 msgid "Reply to the sender of an email"
-msgstr ""
+msgstr "Svar avsenderen av en e-post"
 
 #: src/CategoryView.vala:547
 #, fuzzy
@@ -459,40 +463,41 @@ msgid "Send an email"
 msgstr "Send en e-post"
 
 #: src/CategoryView.vala:552
+#, fuzzy
 msgid "Eject removable media"
-msgstr ""
+msgstr "Løs ut fjernbart medium"
 
 #: src/CategoryView.vala:557
 msgid "Pause media playback"
-msgstr ""
+msgstr "Ta pause i mediaavspilling"
 
 #: src/CategoryView.vala:562
 msgid "Start playing media"
-msgstr ""
+msgstr "Start avspilling av media"
 
 #: src/CategoryView.vala:567
 msgid "Stop playing media"
-msgstr ""
+msgstr "Stopp avspilling av media"
 
 #: src/CategoryView.vala:572
 msgid "Start recording"
-msgstr ""
+msgstr "Start opptak"
 
 #: src/CategoryView.vala:577
 msgid "Seek backwards or rewind"
-msgstr ""
+msgstr "Blafre bakover eller spol tilbake"
 
 #: src/CategoryView.vala:582
 msgid "Seek forwards, or fastforward"
-msgstr ""
+msgstr "Blafre forover, eller hurtigspol forover"
 
 #: src/CategoryView.vala:587
 msgid "Skip backwards, such as to the previous track"
-msgstr ""
+msgstr "Hopp tilbake, som til et tidligere spor"
 
 #: src/CategoryView.vala:592
 msgid "Skip forwards, such as to the next track"
-msgstr ""
+msgstr "Hopp forover, som til neste spor"
 
 #: src/CategoryView.vala:597
 msgid "Flip an object horizontally"
@@ -512,7 +517,7 @@ msgstr ""
 
 #: src/CategoryView.vala:617
 msgid "Create a new database"
-msgstr ""
+msgstr "Opprett en ny database"
 
 #: src/CategoryView.vala:622
 msgid ""
@@ -530,7 +535,7 @@ msgstr ""
 
 #: src/CategoryView.vala:637
 msgid "Run a system app or command"
-msgstr ""
+msgstr "Kjør et systemprogram eller kommando"
 
 #: src/CategoryView.vala:642
 msgid "Search the system"
@@ -558,15 +563,17 @@ msgstr "Sett eller juster et tidsur"
 
 #: src/CategoryView.vala:672
 msgid "Display the current view as columns"
-msgstr ""
+msgstr "Vis nåværende visning som kolonner"
 
 #: src/CategoryView.vala:677
+#, fuzzy
 msgid "display the current view in a continously scrolling list"
-msgstr ""
+msgstr "vis nåværende visning i evig rullende liste"
 
 #: src/CategoryView.vala:682
+#, fuzzy
 msgid "display the current view as a split, dual view"
-msgstr ""
+msgstr "vis nåværende visning som delt, dobbeltvisning"
 
 #: src/CategoryView.vala:687
 msgid "View fullscreen"
@@ -578,35 +585,35 @@ msgstr ""
 
 #: src/CategoryView.vala:697
 msgid "Refresh or reload the current view"
-msgstr ""
+msgstr "Oppdater eller gjenoppfrisk nåværende visning"
 
 #: src/CategoryView.vala:702
 msgid "Leave fullscreen and return to a normal window"
-msgstr ""
+msgstr "Forlat fullskjermsvisning og gå tilbake til normalt vindu"
 
 #: src/CategoryView.vala:707
 msgid "View more information about the given context in a popover or menu"
-msgstr ""
+msgstr "Vis mer info om gitt bindeleddsinfo i et oppsprettsvindu eller meny"
 
 #: src/CategoryView.vala:712
 msgid "View more information about the given context in a new view or window"
-msgstr ""
+msgstr "Vis mer info om gitt bindeleddsinfo i et ny visning eller nytt vindu"
 
 #: src/CategoryView.vala:717
 msgid "Display the current view as a collection of pages"
-msgstr ""
+msgstr "Vis nåværende visning som en ansamling sider"
 
 #: src/CategoryView.vala:722
 msgid "Pin the current view so that it does not automatically hide"
-msgstr ""
+msgstr "Fest nåværende visning, slik at den ikke automatisk skjules"
 
 #: src/CategoryView.vala:727
 msgid "Sort items in an ascending order, such as in a list"
-msgstr ""
+msgstr "Sorter elementer i stigende rekkefølge, som i en liste"
 
 #: src/CategoryView.vala:732
 msgid "Sort items in a descending order, such as in a list"
-msgstr ""
+msgstr "Sorter elementer i synkende rekkefølge, som i en liste"
 
 #: src/CategoryView.vala:737
 msgid "Close the window"
@@ -618,7 +625,7 @@ msgstr "Opprett et nytt vindu"
 
 #: src/CategoryView.vala:747
 msgid "Zoom to the best fit"
-msgstr ""
+msgstr "Forstørr til beste tilpasning"
 
 #: src/CategoryView.vala:752
 msgid "Zoom in"
@@ -638,8 +645,9 @@ msgid "Calculator"
 msgstr "Kalkulator"
 
 #: src/CategoryView.vala:772
+#, fuzzy
 msgid "International and extended text character map"
-msgstr ""
+msgstr "Internasjonelt og utvidet teksttegnsansamling"
 
 #: src/CategoryView.vala:777
 msgid "Dictionary"
@@ -651,7 +659,7 @@ msgstr "Tekstbehandler"
 
 #: src/CategoryView.vala:787
 msgid "Default or unprovided app icon"
-msgstr ""
+msgstr "Forvalgt eller ikke tilbudt programikon"
 
 #: src/CategoryView.vala:792
 msgid "Files"
@@ -659,15 +667,16 @@ msgstr "Filer"
 
 #: src/CategoryView.vala:797
 msgid "AppCenter or software installer"
-msgstr ""
+msgstr "AppSenter eller programvareinstallerer"
 
 #: src/CategoryView.vala:802
+#, fuzzy
 msgid "Software updater"
-msgstr ""
+msgstr "Programvareoppgraderer"
 
 #: src/CategoryView.vala:807
 msgid "System resource monitor"
-msgstr ""
+msgstr "Systemressursmonitor"
 
 #: src/CategoryView.vala:812
 msgid "Terminal"
@@ -691,39 +700,39 @@ msgstr ""
 
 #: src/CategoryView.vala:837
 msgid "Games app category"
-msgstr ""
+msgstr "Spillprogramkategori"
 
 #: src/CategoryView.vala:842
 msgid "Graphics, drawing, art, or photo manipulation app category"
-msgstr ""
+msgstr "Kategori for grafikk, tegning, kunst, eller billedmanipulasjon"
 
 #: src/CategoryView.vala:847
 msgid "Internet or web related app category"
-msgstr ""
+msgstr "Kategori for Internett, eller vev-relaterte programmer"
 
 #: src/CategoryView.vala:852
 msgid "Multimedia, audio, or video app category"
-msgstr ""
+msgstr "Kategori for multimedia-, lyd-, eller video-programmer"
 
 #: src/CategoryView.vala:857
 msgid "Office app category"
-msgstr ""
+msgstr "Kontorprogramkategori"
 
 #: src/CategoryView.vala:862
 msgid "Other or uncategorized app category"
-msgstr ""
+msgstr "Annen, eller ukategorisert programkategori"
 
 #: src/CategoryView.vala:867
 msgid "Science app category"
-msgstr ""
+msgstr "Vitenskapsprogramkategori"
 
 #: src/CategoryView.vala:872
 msgid "System tools or OS app category"
-msgstr ""
+msgstr "Systemverktøy eller OS-programkategori"
 
 #: src/CategoryView.vala:877
 msgid "Utility app category"
-msgstr ""
+msgstr "Nytteprogramskategori"
 
 #: src/CategoryView.vala:882
 msgid "Bluetooth settings"
@@ -732,10 +741,11 @@ msgstr "Blåtannsinnstillinger"
 #: src/CategoryView.vala:887
 msgid "Color settings such as printer, display, or camera calibration"
 msgstr ""
+"Fargeinnstillinger for ting som skrivere, skjermer, eller kamerakalibrering"
 
 #: src/CategoryView.vala:892
 msgid "Desktop interface settings"
-msgstr ""
+msgstr "Innstillinger for skrivebordsgrensesnitt"
 
 #: src/CategoryView.vala:897
 #, fuzzy
@@ -744,7 +754,7 @@ msgstr "Innstillinger for tilgjengelighet"
 
 #: src/CategoryView.vala:902
 msgid "Universal access settings for pointing, such as controlling the cursor"
-msgstr ""
+msgstr "Innstillinger for universell tilgang, som f.eks. kontroll av pekeren"
 
 #: src/CategoryView.vala:907
 msgid "Universal access settings for zooming or magnifying"
@@ -756,7 +766,7 @@ msgstr ""
 
 #: src/CategoryView.vala:917
 msgid "Display settings, such as resolution or scaling"
-msgstr ""
+msgstr "Visningsinnstillinger, som f.eks. oppløsning eller skalering"
 
 #: src/CategoryView.vala:922
 msgid "Font settings"
@@ -764,11 +774,11 @@ msgstr "Skriftinnstillinger"
 
 #: src/CategoryView.vala:927
 msgid "Keyboard settings, such as layout or shortcuts"
-msgstr ""
+msgstr "Tastaturinnstillinger, som f.eks. tastaturoppsett eller snarveier"
 
 #: src/CategoryView.vala:932
 msgid "International localization, language, or region settings"
-msgstr ""
+msgstr "Internasjonell lokalisering, språk- eller regionsinnstillinger"
 
 #: src/CategoryView.vala:937
 msgid "Online account and cloud sync or sign in settings"
@@ -788,19 +798,19 @@ msgstr ""
 
 #: src/CategoryView.vala:957
 msgid "Desktop wallpaper or background settings"
-msgstr ""
+msgstr "Skrivebordsbakgrunn eller bakgrunnsinnstillinger"
 
 #: src/CategoryView.vala:962
 msgid "Other, miscellaneous, or uncategorized settings"
-msgstr ""
+msgstr "Andre, ymse, eller ukategoriserte innstillinger"
 
 #: src/CategoryView.vala:967
 msgid "System settings or preferences"
-msgstr ""
+msgstr "Systeminnstillinger eller preferanser"
 
 #: src/CategoryView.vala:972
 msgid "Network settings, such as wireless, Ethernet, or VPN"
-msgstr ""
+msgstr "Nettverksinnstillinger, som trådløst, kablet, eller VPN"
 
 #: src/CategoryView.vala:977
 msgid "Notification alert settings"
@@ -812,7 +822,7 @@ msgstr "Innstillinger for foreldrekontroll"
 
 #: src/CategoryView.vala:987
 msgid "Power management or energy usage settings, such as battery"
-msgstr ""
+msgstr "Effektstyring eller energibruksinnstillinger, som f.eks batteri"
 
 #: src/CategoryView.vala:992
 msgid "Privacy and security settings"
@@ -822,6 +832,8 @@ msgstr "Personvern- og sikkerhetsinnstillinger"
 msgid ""
 "Sharing settings, such as library sharing or media streaming over a network"
 msgstr ""
+"Delingsinnstillinger, som for biblioteksdeling eller mediastrømming over et "
+"nettverk"
 
 #: src/CategoryView.vala:1002
 msgid "Time and date settings"
@@ -837,15 +849,15 @@ msgstr "Hjelp"
 
 #: src/CategoryView.vala:1017
 msgid "Audio output device, such as a sound card or speaker"
-msgstr ""
+msgstr "Lyd- eller utgangsenhet, som f.eks. lydkort eller høyttaler"
 
 #: src/CategoryView.vala:1022
 msgid "Audio output device representing headphones"
-msgstr ""
+msgstr "Lydutdataenhet som representerer hodetelefoner"
 
 #: src/CategoryView.vala:1027
 msgid "Audio output device representing a headset"
-msgstr ""
+msgstr "Lydutdataenhet som representerer et hodesett"
 
 #: src/CategoryView.vala:1032
 msgid "Microphone"
@@ -853,7 +865,7 @@ msgstr "Mikrofon"
 
 #: src/CategoryView.vala:1037
 msgid "Subwoofer or bass speaker"
-msgstr ""
+msgstr "Basshøyttaler eller subwoofer"
 
 #: src/CategoryView.vala:1042
 msgid "Battery"
@@ -865,7 +877,7 @@ msgstr "Blåtann"
 
 #: src/CategoryView.vala:1052
 msgid "Digital photo or still camera"
-msgstr ""
+msgstr "Digitalkamera, eller stillbildekamera"
 
 #: src/CategoryView.vala:1057
 msgid "Video or movie camera"
@@ -885,23 +897,23 @@ msgstr "Bærbar- eller ultraportabel datamaskin"
 
 #: src/CategoryView.vala:1077
 msgid "Hard disk or storage drive"
-msgstr ""
+msgstr "Harddisk eller lagringsenhet"
 
 #: src/CategoryView.vala:1082
 msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
-msgstr ""
+msgstr "Optisk enhet, som f.eks. CD, DVD, eller Blu-ray-disker"
 
 #: src/CategoryView.vala:1087
 msgid "Removable storage device, such as a portable hard drive"
-msgstr ""
+msgstr "Flyttbart lagringsmedie, som f.eks. en bærbar harddisk"
 
 #: src/CategoryView.vala:1092
 msgid "USB drive or stick, such as a flash, jump, or thumb drive"
-msgstr ""
+msgstr "USB-medie eller -pinne, som f-eks. flashminne"
 
 #: src/CategoryView.vala:1097
 msgid "Video game controller, such as a paddle, remote, or joystick"
-msgstr ""
+msgstr "Videospillkontroller, som f.eks. styrepinne, styrekors, eller ratt"
 
 #: src/CategoryView.vala:1102
 msgid "Keyboard"
@@ -912,22 +924,25 @@ msgid "Mouse"
 msgstr "Mus"
 
 #: src/CategoryView.vala:1112
+#, fuzzy
 msgid ""
 "Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
 "Bamboo"
 msgstr ""
+"Grafikktegneenhet eller penninndata, som brett fra Wacom (Intuous, Cintiq, "
+"eller Bamboo)"
 
 #: src/CategoryView.vala:1117
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
-msgstr ""
+msgstr "Pekeflateinndata, som flerfingersplate, eller trykkeflate"
 
 #: src/CategoryView.vala:1122
 msgid "Flash media such as a memory stick or SD card"
-msgstr ""
+msgstr "Flashmedia, som f.eks. minnepinne eller SD-kort"
 
 #: src/CategoryView.vala:1127
 msgid "Optical media, such as a CD, DVD, or Blu-ray disc"
-msgstr ""
+msgstr "Optisk media, som f.eks. CD, DVD, eller Blu-ray-disk"
 
 #: src/CategoryView.vala:1132
 msgid "Network modem or router"
@@ -953,11 +968,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1157
 msgid "Wired network connection, such as Ethernet"
-msgstr ""
+msgstr "Kablet nettverkstilknytning, som f.eks. Ethernet"
 
 #: src/CategoryView.vala:1162
 msgid "Wireless network connection, such as Wi-Fi"
-msgstr ""
+msgstr "Trådløs nettverkstilkobling, som f.eks. Wi-Fi"
 
 #: src/CategoryView.vala:1167
 msgid ""
@@ -967,7 +982,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1172
 msgid "Generic phone, such as a mobile Android smartphone or iPhone"
-msgstr ""
+msgstr "Generisk telefon, som f.eks. Android-telefon eller iPhone"
 
 #: src/CategoryView.vala:1177
 msgid "Printer"
@@ -975,7 +990,7 @@ msgstr "Skriver"
 
 #: src/CategoryView.vala:1182
 msgid "Network-connected or shared printer"
-msgstr ""
+msgstr "Nettverkstilkoblet eller delt skriver"
 
 #: src/CategoryView.vala:1187
 msgid "Scanner"
@@ -983,7 +998,7 @@ msgstr "Skanner"
 
 #: src/CategoryView.vala:1192
 msgid "Display, screen, or monitor"
-msgstr ""
+msgstr "Skjerm, panel, eller monitor"
 
 #: src/CategoryView.vala:1197
 msgid "Default selection emblem, such as for a printer or other device"
@@ -1019,7 +1034,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1237
 msgid "Item related to email"
-msgstr ""
+msgstr "Elementer som har med e-post å gjøre"
 
 #: src/CategoryView.vala:1242
 msgid "Emblem for the partially enabled status of a feature or service"
@@ -1171,11 +1186,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1427
 msgid "PDF file types"
-msgstr ""
+msgstr "PDF-filtyper"
 
 #: src/CategoryView.vala:1432
 msgid "PGP file types"
-msgstr ""
+msgstr "PGP-filtyper"
 
 #: src/CategoryView.vala:1437
 msgid "Debian package file types"
@@ -1223,7 +1238,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1492
 msgid "Firmware file types"
-msgstr ""
+msgstr "Fastvare-filtyper"
 
 #: src/CategoryView.vala:1497
 msgid "PHP programming language file types"
@@ -1279,7 +1294,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1562
 msgid "Database file types"
-msgstr ""
+msgstr "Database-filtyper"
 
 #: src/CategoryView.vala:1567
 msgid "Generic package file types"
@@ -1287,7 +1302,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1572
 msgid "Credit or debit card payments"
-msgstr ""
+msgstr "Kreditt- eller debet-kortbetalinger"
 
 #: src/CategoryView.vala:1577
 msgid "American Express branded credit or debit card payments"
@@ -1387,7 +1402,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1697
 msgid "Readme file types"
-msgstr ""
+msgstr "LESMEG-filtyper"
 
 #: src/CategoryView.vala:1702
 msgid "Sass programming language file types"
@@ -1467,15 +1482,15 @@ msgstr ""
 
 #: src/CategoryView.vala:1797
 msgid "Folder"
-msgstr ""
+msgstr "Mappe"
 
 #: src/CategoryView.vala:1802
 msgid "Documents folder"
-msgstr ""
+msgstr "Dokumentmappe"
 
 #: src/CategoryView.vala:1807
 msgid "Downloads folder"
-msgstr ""
+msgstr "Nedlastningsmappe"
 
 #: src/CategoryView.vala:1812
 msgid "Folder drag accept"
@@ -1491,7 +1506,7 @@ msgstr "Åpne mappe"
 
 #: src/CategoryView.vala:1827
 msgid "Pictures folder"
-msgstr ""
+msgstr "Bildemappe"
 
 #: src/CategoryView.vala:1832
 msgid "Publicshare folder"
@@ -1499,7 +1514,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1837
 msgid "Recent folder"
-msgstr ""
+msgstr "Nylig-mappe"
 
 #: src/CategoryView.vala:1842
 msgid "Remote folder"
@@ -1511,11 +1526,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1852
 msgid "Templates folder"
-msgstr ""
+msgstr "Mal-mappe"
 
 #: src/CategoryView.vala:1857
 msgid "Videos folder"
-msgstr ""
+msgstr "Video-mappe"
 
 #: src/CategoryView.vala:1862
 msgid "Internet radio"
@@ -1534,20 +1549,24 @@ msgid "Podcast library"
 msgstr "Nettradioopptaksbibliotek"
 
 #: src/CategoryView.vala:1882
+#, fuzzy
 msgid "Mail inbox"
-msgstr ""
+msgstr "E-postinnboks"
 
 #: src/CategoryView.vala:1887
+#, fuzzy
 msgid "Mail mailbox"
-msgstr ""
+msgstr "E-postinnboks"
 
 #: src/CategoryView.vala:1892
+#, fuzzy
 msgid "Mail outbox"
-msgstr ""
+msgstr "E-postutboks"
 
 #: src/CategoryView.vala:1897
+#, fuzzy
 msgid "Mail sent"
-msgstr ""
+msgstr "E-post sendt"
 
 #: src/CategoryView.vala:1902
 msgid "Network server"
@@ -1770,8 +1789,9 @@ msgid "Email that has been replied or responded to"
 msgstr ""
 
 #: src/CategoryView.vala:2167
+#, fuzzy
 msgid "Email that contains a signature"
-msgstr ""
+msgstr "E-post som inneholder en signatur"
 
 #: src/CategoryView.vala:2172
 msgid "Email that contains a signature that is verified by the security system"
@@ -1892,35 +1912,35 @@ msgstr ""
 
 #: src/CategoryView.vala:2312
 msgid "User, person, or contact is offline or unreachable"
-msgstr ""
+msgstr "Brukeren, personen, eller kontakten er frakoblet eller får ikke kontakt"
 
 #: src/CategoryView.vala:2317
 msgid "Private, anonymous, untracked, or incognito"
-msgstr ""
+msgstr "Privat, anonym, usporet, eller inkognito"
 
 #: src/CategoryView.vala:2322
 msgid "Clear skies or sunny weather"
-msgstr ""
+msgstr "Klar himmel eller sol"
 
 #: src/CategoryView.vala:2327
 msgid "Clear skies weather during the night"
-msgstr ""
+msgstr "Klar himmel på natten"
 
 #: src/CategoryView.vala:2332
 msgid "Partly cloudy, partly clear, or partly sunny weather"
-msgstr ""
+msgstr "Delvis skyet, delvis klart, eller delvis sol"
 
 #: src/CategoryView.vala:2337
 msgid "Partly cloudy or partly clear weather during the night"
-msgstr ""
+msgstr "Delvis skyet, eller delvis oppholdsvær om natten"
 
 #: src/CategoryView.vala:2342
 msgid "Foggy weather"
-msgstr ""
+msgstr "Tåkete"
 
 #: src/CategoryView.vala:2347
 msgid "Overcast or cloudy weather"
-msgstr ""
+msgstr "Overskyet eller skyet"
 
 #: src/CategoryView.vala:2352
 msgid "Severe or critical weather warning or alert"
@@ -1940,7 +1960,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2372
 msgid "Thunderstorms or stormy weather"
-msgstr ""
+msgstr "Tordenstormer eller stormvær"
 
 #: src/CategoryView.vala:2382
 msgid "Search Names or Descriptions"
