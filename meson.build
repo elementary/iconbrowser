@@ -1,4 +1,8 @@
-project('io.elementary.iconbrowser', 'vala', 'c')
+project(
+    'io.elementary.iconbrowser',
+    'vala', 'c',
+    meson_version: '>= 0.57'
+)
 
 gnome = import('gnome')
 i18n = import('i18n')
@@ -44,5 +48,4 @@ executable(
 subdir('data')
 subdir('po')
 
-meson.add_install_script('meson/post_install.py')
-
+gnome.post_install(glib_compile_schemas: true)
