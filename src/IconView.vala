@@ -212,6 +212,7 @@ public class IconView : Gtk.Box {
                 break;
         }
 
+        row.can_target = true;
         row.max_children_per_line = sizes.length;
 
         foreach (int size in sizes) {
