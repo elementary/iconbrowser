@@ -144,10 +144,15 @@ public class IconView : Gtk.Box {
         bind_property ("description", description_label, "label");
 
         notify["icon-name"].connect (() => {
-            source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\") {\n    pixel_size = 24\n};".printf (icon_name);
-
             fill_icon_row (icon_name, color_row);
             fill_icon_row (icon_name + "-symbolic", symbolic_row);
+
+            var first_color_child = color_row.get_child_at_index (0);
+            if (first_color_child != null && first_color_child is IconChild) {
+                first_color_child.activate ();
+            } else {
+                symbolic_row.get_child_at_index (0).activate ();
+            }
         });
 
         color_row.child_activated.connect ((child) => {
