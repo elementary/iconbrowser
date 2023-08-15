@@ -150,8 +150,15 @@ public class IconView : Gtk.Box {
             fill_icon_row (icon_name + "-symbolic", symbolic_row);
         });
 
-        color_row.child_activated.connect (child_activated);
-        symbolic_row.child_activated.connect (child_activated);
+        color_row.child_activated.connect ((child) => {
+            symbolic_row.unselect_all ();
+            child_activated (child);
+        });
+
+        symbolic_row.child_activated.connect ((child) => {
+            color_row.unselect_all ();
+            child_activated (child);
+        });
     }
 
     private void child_activated (Gtk.FlowBoxChild child) {
