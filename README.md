@@ -7,21 +7,14 @@
 
 ## Building, Testing, and Installation
 
+Run `flatpak-builder` to configure the build environment, download dependencies, build, and install
 
-You'll need the following dependencies to build:
-* libgranite-7-dev
-* libgtk-4-dev
-* libgtksourceview-5-dev
-* meson
-* valac
+```bash
+    flatpak-builder build io.elementary.iconbrowser.yml --user --install --force-clean --install-deps-from=appcenter
+```
 
-Run `meson build` to configure the build environment and then change to the build directory and run `ninja` to build
+Then execute with
 
-    meson build --prefix=/usr 
-    cd build
-    ninja
-
-To install, use `ninja install`, then execute with `io.elementary.iconbrowser`
-
-    ninja install
-    io.elementary.iconbrowser
+```bash
+    flatpak run io.elementary.iconbrowser
+```
