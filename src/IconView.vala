@@ -6,12 +6,17 @@ public class IconView : Gtk.Box {
     public string icon_name { get; construct set; }
     public string description { get; construct set; }
     public CategoryView.Category category { get; construct set; }
+    public IconDetails selected_icon { get; construct set; }
 
     public IconView () {
         Object (
             icon_name: "address-book-new",
             description: _("Create a new address book"),
-            category: CategoryView.Category.ACTIONS
+            category: CategoryView.Category.ACTIONS,
+            selected_icon: new IconDetails (
+                "address-book-new",
+                24
+            )
         );
     }
 
@@ -101,6 +106,30 @@ public class IconView : Gtk.Box {
         source_view.add_css_class (Granite.STYLE_CLASS_CARD);
         source_view.add_css_class (Granite.STYLE_CLASS_ROUNDED);
 
+        var source_overlay = new Gtk.Overlay () {
+            child = source_view
+        };
+
+        var copy_button = new Gtk.Button.from_icon_name ("edit-copy") {
+            tooltip_markup = Granite.markup_accel_tooltip ({"<Ctrl>C"}, _("Copy")),
+            action_name = "app.copy",
+            valign = Gtk.Align.START,
+            halign = Gtk.Align.END,
+            visible = false,
+            margin_top = 8,
+            margin_end = 8
+        };
+        source_overlay.add_overlay (copy_button);
+
+        var enter_leave_ctrl = new Gtk.EventControllerMotion ();
+        enter_leave_ctrl.enter.connect (() => {
+            copy_button.show ();
+        });
+        enter_leave_ctrl.leave.connect (() => {
+            copy_button.hide ();
+        });
+        source_overlay.add_controller (enter_leave_ctrl);
+
         var content_area = new Gtk.Box (Gtk.Orientation.VERTICAL, 12) {
             vexpand = true
         };
@@ -110,7 +139,7 @@ public class IconView : Gtk.Box {
         content_area.append (symbolic_title);
         content_area.append (symbolic_row);
         content_area.append (snippet_title);
-        content_area.append (source_view);
+        content_area.append (source_overlay);
 
         var scrolled = new Gtk.ScrolledWindow () {
             child = content_area,
@@ -141,14 +170,18 @@ public class IconView : Gtk.Box {
         bind_property ("description", description_label, "label");
 
         notify["icon-name"].connect (() => {
-            source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\") {\n    pixel_size = 24\n};".printf (icon_name);
+            Gtk.ToggleButton btn_group = null;
+            fill_icon_row (icon_name, color_row, ref btn_group);
+            fill_icon_row (icon_name + "-symbolic", symbolic_row, ref btn_group);
+            select_one_icon (color_row, symbolic_row);
+        });
 
-            fill_icon_row (icon_name, color_row);
-            fill_icon_row (icon_name + "-symbolic", symbolic_row);
+        notify["selected-icon"].connect (() => {
+            source_buffer.text = selected_icon.code_snippet ();
         });
     }
 
-    private void fill_icon_row (string _icon_name, Gtk.Grid row) {
+    private void fill_icon_row (string _icon_name, Gtk.Grid row, ref Gtk.ToggleButton? icon_btn) {
         while (row.get_first_child () != null) {
             row.remove (row.get_first_child ());
         }
@@ -195,10 +228,35 @@ public class IconView : Gtk.Box {
                 hexpand = true
             };
 
-            row.attach (icon, i, 0);
-            row.attach (label, i, 1);
+            var icon_and_label = new Gtk.Grid () {
+                row_spacing = 12,
+                valign = Gtk.Align.CENTER,
+                margin_top = 4,
+                margin_bottom = 4
+            };
+            icon_and_label.attach (icon, 0, 0);
+            icon_and_label.attach (label, 0, 1);
+            icon_btn = new Gtk.ToggleButton () {
+                child = icon_and_label,
+                has_frame = false,
+                group = icon_btn
+            };
+            icon_btn.toggled.connect ((target) => {
+                if (target.active) {
+                    selected_icon = new IconDetails (icon.icon_name, icon.pixel_size);
+                }
+            });
+
+            row.attach (icon_btn, i, 0);
 
             i++;
         }
+    }
+
+    private void select_one_icon (Gtk.Grid color_row, Gtk.Grid icon_row) {
+        var has_color_icons = color_row.get_first_child () is Gtk.ToggleButton;
+        var row = has_color_icons ? color_row : icon_row;
+        var btn = row.get_child_at (1, 0) ?? row.get_first_child ();
+        ((Gtk.ToggleButton) btn).active = true;
     }
 }
