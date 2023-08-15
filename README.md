@@ -12,7 +12,7 @@ You'll need the following dependencies to build:
 * libgranite-7-dev
 * libgtk-4-dev
 * libgtksourceview-5-dev
-* meson
+* meson (>= 0.57)
 * valac
 
 Run `meson build` to configure the build environment and then change to the build directory and run `ninja` to build
