@@ -1,6 +1,6 @@
 app-id: io.elementary.iconbrowser
 runtime: io.elementary.Platform
-runtime-version: '7.1'
+runtime-version: '7.2'
 sdk: io.elementary.Sdk
 command: io.elementary.iconbrowser
 finish-args:
@@ -9,12 +9,6 @@ finish-args:
   - '--socket=wayland'
   - '--device=dri'
 modules:
-  - name: gtksourceview
-    buildsystem: meson
-    sources:
-      - type: git
-        url: https://gitlab.gnome.org/GNOME/gtksourceview.git
-        tag: '5.4.0'
   - name: iconbrowser
     buildsystem: meson
     sources:

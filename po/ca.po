@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2023-02-10 22:55+0000\n"
+"POT-Creation-Date: 2023-05-01 01:41+0100\n"
+"PO-Revision-Date: 2023-05-04 08:06+0000\n"
 "Last-Translator: David M <rbndavid@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ca/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.17\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -148,7 +148,7 @@ msgid "Make vertical gaps between objects equal"
 msgstr "Fes que els espais verticals entre els objectes siguin iguals"
 
 #: src/CategoryView.vala:172
-msgid "Distriute top edges of objects vertically"
+msgid "Distribute top edges of objects vertically"
 msgstr "Distribueix les vores superiors dels objectes verticalment"
 
 #: src/CategoryView.vala:177
@@ -789,136 +789,140 @@ msgid "Sound or audio input and output settings"
 msgstr "Configuració d'entrada i sortida de so o àudio"
 
 #: src/CategoryView.vala:952
+msgid "Look and feel, appearance, style, or theme settings"
+msgstr "Configuració d'aparença, estil o tema"
+
+#: src/CategoryView.vala:957
 msgid "Desktop wallpaper or background settings"
 msgstr "Configuració de fons de pantalla o fons d'escriptori"
 
-#: src/CategoryView.vala:957
+#: src/CategoryView.vala:962
 msgid "Other, miscellaneous, or uncategorized settings"
 msgstr "Altres configuracions, diverses o no categoritzades"
 
-#: src/CategoryView.vala:962
+#: src/CategoryView.vala:967
 msgid "System settings or preferences"
 msgstr "Configuració o preferències del sistema"
 
-#: src/CategoryView.vala:967
+#: src/CategoryView.vala:972
 msgid "Network settings, such as wireless, Ethernet, or VPN"
 msgstr "Configuració de xarxa, com ara sense fil, Ethernet o VPN"
 
-#: src/CategoryView.vala:972
+#: src/CategoryView.vala:977
 msgid "Notification alert settings"
 msgstr "Configuració d'alerta de notificació"
 
-#: src/CategoryView.vala:977
+#: src/CategoryView.vala:982
 msgid "Parental control settings"
 msgstr "Configuració del control parental"
 
-#: src/CategoryView.vala:982
+#: src/CategoryView.vala:987
 msgid "Power management or energy usage settings, such as battery"
 msgstr "Configuració de gestió o consum d'energia, com ara la bateria"
 
-#: src/CategoryView.vala:987
+#: src/CategoryView.vala:992
 msgid "Privacy and security settings"
 msgstr "Configuració de privadesa i seguretat"
 
-#: src/CategoryView.vala:992
+#: src/CategoryView.vala:997
 msgid ""
 "Sharing settings, such as library sharing or media streaming over a network"
 msgstr ""
 "Configuració de compartició, com ara compartir una biblioteca o transmissió "
 "de contingut multimèdia a través d'una xarxa"
 
-#: src/CategoryView.vala:997
+#: src/CategoryView.vala:1002
 msgid "Time and date settings"
 msgstr "Configuració de data i hora"
 
-#: src/CategoryView.vala:1002
+#: src/CategoryView.vala:1007
 msgid "Window management settings"
 msgstr "Configuració de la gestió de finestres"
 
-#: src/CategoryView.vala:1007
+#: src/CategoryView.vala:1012
 msgid "Help"
 msgstr "Ajuda"
 
-#: src/CategoryView.vala:1012
+#: src/CategoryView.vala:1017
 msgid "Audio output device, such as a sound card or speaker"
 msgstr "Dispositiu de sortida d'àudio, com ara una targeta de so o un altaveu"
 
-#: src/CategoryView.vala:1017
+#: src/CategoryView.vala:1022
 msgid "Audio output device representing headphones"
 msgstr "Dispositiu de sortida d'àudio que representa els auriculars"
 
-#: src/CategoryView.vala:1022
+#: src/CategoryView.vala:1027
 msgid "Audio output device representing a headset"
 msgstr "Dispositiu de sortida d'àudio que representa un auricular"
 
-#: src/CategoryView.vala:1027
+#: src/CategoryView.vala:1032
 msgid "Microphone"
 msgstr "Micròfon"
 
-#: src/CategoryView.vala:1032
+#: src/CategoryView.vala:1037
 msgid "Subwoofer or bass speaker"
 msgstr "Altaveu de subgreus"
 
-#: src/CategoryView.vala:1037
+#: src/CategoryView.vala:1042
 msgid "Battery"
 msgstr "Bateria"
 
-#: src/CategoryView.vala:1042
+#: src/CategoryView.vala:1047
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: src/CategoryView.vala:1047
+#: src/CategoryView.vala:1052
 msgid "Digital photo or still camera"
 msgstr "Càmera fixa o fotografia digital"
 
-#: src/CategoryView.vala:1052
+#: src/CategoryView.vala:1057
 msgid "Video or movie camera"
 msgstr "Càmera de vídeo o pel·lícula"
 
-#: src/CategoryView.vala:1057
+#: src/CategoryView.vala:1062
 msgid "Webcam or built-in camera"
 msgstr "Càmera web o càmera integrada"
 
-#: src/CategoryView.vala:1062
+#: src/CategoryView.vala:1067
 msgid "Generic or desktop computer"
 msgstr "Ordinador genèric o d'escriptori"
 
-#: src/CategoryView.vala:1067
+#: src/CategoryView.vala:1072
 msgid "Laptop or notebook computer"
 msgstr "Ordinador portàtil o portàtil petit"
 
-#: src/CategoryView.vala:1072
+#: src/CategoryView.vala:1077
 msgid "Hard disk or storage drive"
 msgstr "Disc dur o unitat d'emmagatzematge"
 
-#: src/CategoryView.vala:1077
+#: src/CategoryView.vala:1082
 msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
 msgstr "Unitat òptica, com ara lectors de CD, DVD o Blu-ray"
 
-#: src/CategoryView.vala:1082
+#: src/CategoryView.vala:1087
 msgid "Removable storage device, such as a portable hard drive"
 msgstr "Dispositiu d'emmagatzematge extraïble, com ara un disc dur portàtil"
 
-#: src/CategoryView.vala:1087
+#: src/CategoryView.vala:1092
 msgid "USB drive or stick, such as a flash, jump, or thumb drive"
 msgstr ""
 "Unitat o llapis USB, com ara una unitat extraïble o una unitat de memòria"
 
-#: src/CategoryView.vala:1092
+#: src/CategoryView.vala:1097
 msgid "Video game controller, such as a paddle, remote, or joystick"
 msgstr ""
 "Controlador de videojocs, com ara una paleta, un comandament a distància o "
 "una palanca de control"
 
-#: src/CategoryView.vala:1097
+#: src/CategoryView.vala:1102
 msgid "Keyboard"
 msgstr "Teclat"
 
-#: src/CategoryView.vala:1102
+#: src/CategoryView.vala:1107
 msgid "Mouse"
 msgstr "Ratolí"
 
-#: src/CategoryView.vala:1107
+#: src/CategoryView.vala:1112
 msgid ""
 "Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
 "Bamboo"
@@ -926,31 +930,31 @@ msgstr ""
 "Entrada de tauleta gràfica o llapis, com ara un digitalitzador Wacom, "
 "Intuos, Cintiq o Bamboo"
 
-#: src/CategoryView.vala:1112
+#: src/CategoryView.vala:1117
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
 msgstr ""
 "Entrada de ratolí tàctil, com ara un plafó tàctil multitàctil o un plafó de "
 "clics"
 
-#: src/CategoryView.vala:1117
+#: src/CategoryView.vala:1122
 msgid "Flash media such as a memory stick or SD card"
 msgstr "Mitjans extraïbles com ara un llapis de memòria o una targeta SD"
 
-#: src/CategoryView.vala:1122
+#: src/CategoryView.vala:1127
 msgid "Optical media, such as a CD, DVD, or Blu-ray disc"
 msgstr "Mitjans òptics, com ara un CD, DVD o disc Blu-ray"
 
-#: src/CategoryView.vala:1127
+#: src/CategoryView.vala:1132
 msgid "Network modem or router"
 msgstr "Mòdem o encaminador de xarxa"
 
-#: src/CategoryView.vala:1132
+#: src/CategoryView.vala:1137
 msgid "Media player device, such as a portable mp3 music player or iPod"
 msgstr ""
 "Dispositiu reproductor multimèdia, com ara un reproductor de música mp3 "
 "portàtil o un iPod"
 
-#: src/CategoryView.vala:1137
+#: src/CategoryView.vala:1142
 msgid ""
 "Cellular type wireless network or device, such as a 2G, 3G, or 4G LTE "
 "connection, modem, or SIM card"
@@ -958,23 +962,23 @@ msgstr ""
 "Dispositiu o xarxa sense fil de tipus cel·lular, com ara una connexió, mòdem "
 "o targeta SIM 2G, 3G o 4G LTE"
 
-#: src/CategoryView.vala:1142
+#: src/CategoryView.vala:1147
 msgid "Networking firewall"
 msgstr "Tallafoc de xarxa"
 
-#: src/CategoryView.vala:1147
+#: src/CategoryView.vala:1152
 msgid "Virtual private network or VPN connection"
 msgstr "Xarxa privada virtual o connexió VPN"
 
-#: src/CategoryView.vala:1152
+#: src/CategoryView.vala:1157
 msgid "Wired network connection, such as Ethernet"
 msgstr "Connexió de xarxa amb fil, com ara Ethernet"
 
-#: src/CategoryView.vala:1157
+#: src/CategoryView.vala:1162
 msgid "Wireless network connection, such as Wi-Fi"
 msgstr "Connexió de xarxa sense fil, com ara Wi-Fi"
 
-#: src/CategoryView.vala:1162
+#: src/CategoryView.vala:1167
 msgid ""
 "Wireless hotspot connection, such as through a mobile cellular phone or "
 "smartphone"
@@ -982,673 +986,678 @@ msgstr ""
 "Connexió de punt d'accés sense fil, com ara mitjançant un telèfon mòbil o un "
 "telèfon intel·ligent"
 
-#: src/CategoryView.vala:1167
+#: src/CategoryView.vala:1172
 msgid "Generic phone, such as a mobile Android smartphone or iPhone"
 msgstr ""
 "Telèfon genèric, com ara un telèfon mòbil intel·ligent Android o un iPhone"
 
-#: src/CategoryView.vala:1172
+#: src/CategoryView.vala:1177
 msgid "Printer"
 msgstr "Impressora"
 
-#: src/CategoryView.vala:1177
+#: src/CategoryView.vala:1182
 msgid "Network-connected or shared printer"
 msgstr "Impressora connectada a la xarxa o compartida"
 
-#: src/CategoryView.vala:1182
+#: src/CategoryView.vala:1187
 msgid "Scanner"
 msgstr "Escàner"
 
-#: src/CategoryView.vala:1187
+#: src/CategoryView.vala:1192
 msgid "Display, screen, or monitor"
 msgstr "Pantalla o monitor"
 
-#: src/CategoryView.vala:1192
+#: src/CategoryView.vala:1197
 msgid "Default selection emblem, such as for a printer or other device"
 msgstr ""
 "Emblema de selecció predeterminat, com ara una impressora o un altre "
 "dispositiu"
 
-#: src/CategoryView.vala:1197
+#: src/CategoryView.vala:1202
 msgid "Disabled feature or service emblem"
 msgstr "Emblema de funció o servei desactivats"
 
-#: src/CategoryView.vala:1202
+#: src/CategoryView.vala:1207
 msgid "Documents emblem"
 msgstr "Emblema de documents"
 
-#: src/CategoryView.vala:1207
+#: src/CategoryView.vala:1212
 msgid "Downloads emblem"
 msgstr "Emblema de baixades"
 
-#: src/CategoryView.vala:1212
+#: src/CategoryView.vala:1217
 msgid "Enabled feature or service emblem"
 msgstr "Emblema de funció o servei activats"
 
-#: src/CategoryView.vala:1217
+#: src/CategoryView.vala:1222
 msgid "Emblem for the error status of a feature or service"
 msgstr "Emblema per a l'estat d'error d'una funció o servei"
 
-#: src/CategoryView.vala:1222
+#: src/CategoryView.vala:1227
 msgid "Item the user has marked as a favorite"
 msgstr "Element que l'usuari ha marcat com a favorit"
 
-#: src/CategoryView.vala:1227
+#: src/CategoryView.vala:1232
 msgid "Item marked as important"
 msgstr "Element marcat com a important"
 
-#: src/CategoryView.vala:1232
+#: src/CategoryView.vala:1237
 msgid "Item related to email"
 msgstr "Element relacionat amb el correu electrònic"
 
-#: src/CategoryView.vala:1237
+#: src/CategoryView.vala:1242
 msgid "Emblem for the partially enabled status of a feature or service"
 msgstr "Emblema per a l'estat parcialment activat d'una funció o servei"
 
-#: src/CategoryView.vala:1242
+#: src/CategoryView.vala:1247
 msgid "Photos emblem"
 msgstr "Emblema de fotografies"
 
-#: src/CategoryView.vala:1247
+#: src/CategoryView.vala:1252
 msgid "Item is read-only, or the user cannot write to or make changes to it"
 msgstr ""
 "L'element és només de lectura o l'usuari no pot escriure-hi ni fer-hi canvis"
 
-#: src/CategoryView.vala:1252
+#: src/CategoryView.vala:1257
 msgid "Item shared with other people or users"
 msgstr "Element compartit amb altres persones o usuaris"
 
-#: src/CategoryView.vala:1257
+#: src/CategoryView.vala:1262
 msgid "Item is a symbolic link to a file somewhere else"
 msgstr "L'element és un enllaç simbòlic a un fitxer en un altre lloc"
 
-#: src/CategoryView.vala:1262
+#: src/CategoryView.vala:1267
 msgid "Item is configured to be synchronized to another device or location"
 msgstr ""
 "L'element està configurat per sincronitzar-se amb un altre dispositiu o "
 "ubicació"
 
-#: src/CategoryView.vala:1267
+#: src/CategoryView.vala:1272
 msgid "Item is a system file, library, setting, or data"
 msgstr ""
 "L'element és un fitxer del sistema, una biblioteca, una configuració o dades"
 
-#: src/CategoryView.vala:1272
+#: src/CategoryView.vala:1277
 msgid "Item is unreadable or inaccessible"
 msgstr "L'element és il·legible o inaccessible"
 
-#: src/CategoryView.vala:1277
+#: src/CategoryView.vala:1282
 msgid "Emblem for the warning status of a feature or service"
 msgstr "Emblema per a l'estat d'avís d'una funció o servei"
 
-#: src/CategoryView.vala:1282
+#: src/CategoryView.vala:1287
 msgid "0:-) emoticon"
 msgstr "emoticona 0:-)"
 
-#: src/CategoryView.vala:1287
+#: src/CategoryView.vala:1292
 msgid "X-( emoticon"
 msgstr "emoticona X-("
 
-#: src/CategoryView.vala:1292
+#: src/CategoryView.vala:1297
 msgid "B-) emoticon"
 msgstr "emoticona B-)"
 
-#: src/CategoryView.vala:1297
+#: src/CategoryView.vala:1302
 msgid ":'( emoticon"
 msgstr "emoticona :'("
 
-#: src/CategoryView.vala:1302
+#: src/CategoryView.vala:1307
 msgid ">:-) emoticon"
 msgstr "emoticona >:-)"
 
-#: src/CategoryView.vala:1307
+#: src/CategoryView.vala:1312
 msgid ":-[ emoticon"
 msgstr "emoticona :-["
 
-#: src/CategoryView.vala:1312
+#: src/CategoryView.vala:1317
 msgid "<3 emoticon"
 msgstr "emoticona <3"
 
-#: src/CategoryView.vala:1317
+#: src/CategoryView.vala:1322
 msgid "</3 emoticon"
 msgstr "emoticona </3"
 
-#: src/CategoryView.vala:1322
+#: src/CategoryView.vala:1327
 msgid ":-* emoticon"
 msgstr "emoticona :-*"
 
-#: src/CategoryView.vala:1327
+#: src/CategoryView.vala:1332
 msgid ":-)) emoticon"
 msgstr "emoticona :-))"
 
-#: src/CategoryView.vala:1332
+#: src/CategoryView.vala:1337
 msgid ":-(|) emoticon"
 msgstr "emoticona :-(|)"
 
-#: src/CategoryView.vala:1337
+#: src/CategoryView.vala:1342
 msgid ":-| emoticon"
 msgstr "emoticona :-|"
 
-#: src/CategoryView.vala:1342
+#: src/CategoryView.vala:1347
 msgid ":-P emoticon"
 msgstr "emoticona :-P"
 
-#: src/CategoryView.vala:1347
+#: src/CategoryView.vala:1352
 msgid ":-( emoticon"
 msgstr "emoticona :-("
 
-#: src/CategoryView.vala:1352
+#: src/CategoryView.vala:1357
 msgid ":-& emoticon"
 msgstr "emoticona :-&"
 
-#: src/CategoryView.vala:1357
+#: src/CategoryView.vala:1362
 msgid ":-) emoticon"
 msgstr "emoticona :-)"
 
-#: src/CategoryView.vala:1362
+#: src/CategoryView.vala:1367
 msgid ":-D emoticon"
 msgstr "emoticona :-D"
 
-#: src/CategoryView.vala:1367
+#: src/CategoryView.vala:1372
 msgid ":-! emoticon"
 msgstr "emoticona :-!"
 
-#: src/CategoryView.vala:1372
+#: src/CategoryView.vala:1377
 msgid ":-0 emoticon"
 msgstr "emoticona :-0"
 
-#: src/CategoryView.vala:1377
+#: src/CategoryView.vala:1382
 msgid "|-) emoticon"
 msgstr "emoticona |-)"
 
-#: src/CategoryView.vala:1382
+#: src/CategoryView.vala:1387
 msgid ":-/ emoticon"
 msgstr "emoticona :-/"
 
-#: src/CategoryView.vala:1387
+#: src/CategoryView.vala:1392
 msgid ";-) emoticon"
 msgstr "emoticona ;-)"
 
-#: src/CategoryView.vala:1392
+#: src/CategoryView.vala:1397
 msgid ":-S emoticon"
 msgstr "emoticona :-S"
 
-#: src/CategoryView.vala:1397
+#: src/CategoryView.vala:1402
 msgid "EPUB Ebook file types"
 msgstr "Tipus de fitxers de llibres electrònics EPUB"
 
-#: src/CategoryView.vala:1402
+#: src/CategoryView.vala:1407
 msgid "Adobe Illustrator image file types"
 msgstr "Tipus de fitxers d'imatge d'Adobe Illustrator"
 
-#: src/CategoryView.vala:1407
+#: src/CategoryView.vala:1412
 msgid "Javascript programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació Javascript"
 
-#: src/CategoryView.vala:1412
+#: src/CategoryView.vala:1417
 msgid "Microsoft Word file types"
 msgstr "Tipus de fitxers de Microsoft Word"
 
-#: src/CategoryView.vala:1417
+#: src/CategoryView.vala:1422
 msgid "Binary file types"
 msgstr "Tipus de fitxers binaris"
 
-#: src/CategoryView.vala:1422
+#: src/CategoryView.vala:1427
 msgid "PDF file types"
 msgstr "Tipus de fitxer PDF"
 
-#: src/CategoryView.vala:1427
+#: src/CategoryView.vala:1432
 msgid "PGP file types"
 msgstr "Tipus de fitxer PGP"
 
-#: src/CategoryView.vala:1432
+#: src/CategoryView.vala:1437
 msgid "Debian package file types"
 msgstr "Tipus de fitxers de paquets Debian"
 
-#: src/CategoryView.vala:1437
+#: src/CategoryView.vala:1442
 msgid "Flatpak reference file types"
 msgstr "Tipus de fitxers de referència de Flatpak"
 
-#: src/CategoryView.vala:1442
+#: src/CategoryView.vala:1447
 msgid "Microsoft Access file types"
 msgstr "Tipus de fitxers de Microsoft Access"
 
-#: src/CategoryView.vala:1447
+#: src/CategoryView.vala:1452
 msgid "Microsoft Excel file types"
 msgstr "Tipus de fitxers de Microsoft Excel"
 
-#: src/CategoryView.vala:1452
+#: src/CategoryView.vala:1457
 msgid "Microsoft PowerPoint file types"
 msgstr "Tipus de fitxers de Microsoft PowerPoint"
 
-#: src/CategoryView.vala:1457
+#: src/CategoryView.vala:1462
 msgid "Oasis OpenDocument file types"
 msgstr "Tipus de fitxers Oasis OpenDocument"
 
-#: src/CategoryView.vala:1462
+#: src/CategoryView.vala:1467
 msgid "Torrent file types"
 msgstr "Tipus de fitxers torrent"
 
-#: src/CategoryView.vala:1467
+#: src/CategoryView.vala:1472
 msgid "CD Image file types"
 msgstr "Tipus de fitxers d'imatge de CD"
 
-#: src/CategoryView.vala:1472
+#: src/CategoryView.vala:1477
 msgid "Desktop file types"
 msgstr "Tipus de fitxers d'escriptori"
 
-#: src/CategoryView.vala:1477
+#: src/CategoryView.vala:1482
 msgid "Executable file types"
 msgstr "Tipus de fitxers executables"
 
-#: src/CategoryView.vala:1482
+#: src/CategoryView.vala:1487
 msgid "FictionBook file types"
 msgstr "Tipus de fitxers FictionBook"
 
-#: src/CategoryView.vala:1487
+#: src/CategoryView.vala:1492
 msgid "Firmware file types"
 msgstr "Tipus de fitxers de microprogramari"
 
-#: src/CategoryView.vala:1492
+#: src/CategoryView.vala:1497
 msgid "PHP programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació PHP"
 
-#: src/CategoryView.vala:1497
+#: src/CategoryView.vala:1502
 msgid "Ruby programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació Ruby"
 
-#: src/CategoryView.vala:1502
+#: src/CategoryView.vala:1507
+msgid "Shared library file types"
+msgstr "Tipus de fitxers de la biblioteca compartida"
+
+#: src/CategoryView.vala:1512
 msgid "Generic audio file types"
 msgstr "Tipus de fitxers d'àudio genèrics"
 
-#: src/CategoryView.vala:1507
+#: src/CategoryView.vala:1517
 msgid "Audio playlist file types"
 msgstr "Tipus de fitxers de llistes de reproducció d'àudio"
 
-#: src/CategoryView.vala:1512
+#: src/CategoryView.vala:1522
 msgid "Extension"
 msgstr "Extensió"
 
-#: src/CategoryView.vala:1517
+#: src/CategoryView.vala:1527
 msgid "Generic font file types"
 msgstr "Tipus de fitxers de tipus de lletra genèrics"
 
-#: src/CategoryView.vala:1522
+#: src/CategoryView.vala:1532
 msgid "Adobe Photoshop image file types"
 msgstr "Tipus de fitxers d'imatge d'Adobe Photoshop"
 
-#: src/CategoryView.vala:1527
+#: src/CategoryView.vala:1537
 msgid "Generic image file types"
 msgstr "Tipus genèrics de fitxers d'imatge"
 
-#: src/CategoryView.vala:1532
+#: src/CategoryView.vala:1542
 msgid "XCF image file types"
 msgstr "Tipus de fitxers d'imatge XCF"
 
-#: src/CategoryView.vala:1537
+#: src/CategoryView.vala:1547
 msgid "Internet Feed"
 msgstr "Canal d'Internet"
 
-#: src/CategoryView.vala:1542
+#: src/CategoryView.vala:1552
 msgid "Model"
 msgstr "Model"
 
-#: src/CategoryView.vala:1547
+#: src/CategoryView.vala:1557
 msgid "Contact file types"
 msgstr "Tipus de fitxers de contactes"
 
-#: src/CategoryView.vala:1552
+#: src/CategoryView.vala:1562
 msgid "Database file types"
 msgstr "Tipus de fitxers de bases de dades"
 
-#: src/CategoryView.vala:1557
+#: src/CategoryView.vala:1567
 msgid "Generic package file types"
 msgstr "Tipus de fitxers de paquets genèrics"
 
-#: src/CategoryView.vala:1562
+#: src/CategoryView.vala:1572
 msgid "Credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit"
 
-#: src/CategoryView.vala:1567
+#: src/CategoryView.vala:1577
 msgid "American Express branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de la marca American Express"
 
-#: src/CategoryView.vala:1572
+#: src/CategoryView.vala:1582
 msgid "Diner's Club branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de la marca Diner's Club"
 
-#: src/CategoryView.vala:1577
+#: src/CategoryView.vala:1587
 msgid "Discover branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de Discover"
 
-#: src/CategoryView.vala:1582
+#: src/CategoryView.vala:1592
 msgid "Japan Credit Bureau branded credit or debit card payments"
-msgstr "Pagaments amb targeta de crèdit o dèbit de la marca Japan Credit Bureau"
+msgstr ""
+"Pagaments amb targeta de crèdit o dèbit de la marca Japan Credit Bureau"
 
-#: src/CategoryView.vala:1587
+#: src/CategoryView.vala:1597
 msgid "Mastercard branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de la marca Mastercard"
 
-#: src/CategoryView.vala:1592
+#: src/CategoryView.vala:1602
 msgid "China UnionPay branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de la marca China UnionPay"
 
-#: src/CategoryView.vala:1597
+#: src/CategoryView.vala:1607
 msgid "Visa branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de la marca Visa"
 
-#: src/CategoryView.vala:1602
+#: src/CategoryView.vala:1612
 msgid "CSS text file types"
 msgstr "Tipus de fitxers de text CSS"
 
-#: src/CategoryView.vala:1607
+#: src/CategoryView.vala:1617
 msgid "HTML text file types"
 msgstr "Tipus de fitxers de text HTML"
 
-#: src/CategoryView.vala:1612
+#: src/CategoryView.vala:1622
 msgid "Markdown text file types"
 msgstr "Tipus de fitxer de text Markdown"
 
-#: src/CategoryView.vala:1617
+#: src/CategoryView.vala:1627
 msgid "Bibtext file types"
 msgstr "Tipus de fitxers Bibtext"
 
-#: src/CategoryView.vala:1622
+#: src/CategoryView.vala:1632
 msgid "Changelog file types"
 msgstr "Tipus de fitxer de registre de canvis"
 
-#: src/CategoryView.vala:1627
+#: src/CategoryView.vala:1637
 msgid "C programming language header file types"
 msgstr "Tipus de fitxers de capçalera del llenguatge de programació C"
 
-#: src/CategoryView.vala:1632
+#: src/CategoryView.vala:1642
 msgid "License file types"
 msgstr "Tipus de fitxers de llicència"
 
-#: src/CategoryView.vala:1637
+#: src/CategoryView.vala:1647
 msgid "C programming language file types"
 msgstr "Tipus de fitxers de llenguatge de programació C"
 
-#: src/CategoryView.vala:1642
+#: src/CategoryView.vala:1652
 msgid "Generic text file types"
 msgstr "Tipus de fitxers de text genèrics"
 
-#: src/CategoryView.vala:1647
+#: src/CategoryView.vala:1657
 msgid "Generic text templates"
 msgstr "Plantilles de text genèrics"
 
-#: src/CategoryView.vala:1652
+#: src/CategoryView.vala:1662
 msgid "Gettext translation file types"
 msgstr "Tipus de fitxers de traducció de Gettext"
 
-#: src/CategoryView.vala:1657
+#: src/CategoryView.vala:1667
 msgid "Gettext translation model file types"
 msgstr "Tipus de fitxer de model de traducció de Gettext"
 
-#: src/CategoryView.vala:1662
+#: src/CategoryView.vala:1672
 msgid "Go programming language file types"
 msgstr "Tipus de fitxer de llenguatge de programació de Go"
 
-#: src/CategoryView.vala:1667
+#: src/CategoryView.vala:1677
 msgid "Install file types"
 msgstr "Instal·lació de tipus de fitxers"
 
-#: src/CategoryView.vala:1672
+#: src/CategoryView.vala:1682
 msgid "Makefile file types"
 msgstr "Tipus de fitxer Makefile"
 
-#: src/CategoryView.vala:1677
+#: src/CategoryView.vala:1687
 msgid "Preview file types"
 msgstr "Previsualitza els tipus de fitxers"
 
-#: src/CategoryView.vala:1682
+#: src/CategoryView.vala:1692
 msgid "Python programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació Python"
 
-#: src/CategoryView.vala:1687
+#: src/CategoryView.vala:1697
 msgid "Readme file types"
 msgstr "Tipus de fitxer Llegiu-me"
 
-#: src/CategoryView.vala:1692
+#: src/CategoryView.vala:1702
 msgid "Sass programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació Sass"
 
-#: src/CategoryView.vala:1697
+#: src/CategoryView.vala:1707
 msgid "Script file types, such as shell scripts"
 msgstr "Tipus de fitxers d'script, com ara scripts d'intèrpret d'ordres"
 
-#: src/CategoryView.vala:1702
+#: src/CategoryView.vala:1712
 msgid "SSA file types"
 msgstr "Tipus de fitxer SSA"
 
-#: src/CategoryView.vala:1707
+#: src/CategoryView.vala:1717
 msgid "TEX file types"
 msgstr "Tipus de fitxers TEX"
 
-#: src/CategoryView.vala:1712
+#: src/CategoryView.vala:1722
 msgid "Vala programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació Vala"
 
-#: src/CategoryView.vala:1717
+#: src/CategoryView.vala:1727
 msgid "Unknown file types"
 msgstr "Tipus de fitxer desconegut"
 
-#: src/CategoryView.vala:1722
+#: src/CategoryView.vala:1732
 msgid "Generic video file types"
 msgstr "Tipus genèrics de fitxers de vídeo"
 
-#: src/CategoryView.vala:1727
+#: src/CategoryView.vala:1737
 msgid "Generic address book file types"
 msgstr "Tipus genèrics de fitxers de llibretes d'adreces"
 
-#: src/CategoryView.vala:1732
+#: src/CategoryView.vala:1742
 msgid "Generic calendar file types"
 msgstr "Tipus de fitxers de calendari genèrics"
 
-#: src/CategoryView.vala:1737
+#: src/CategoryView.vala:1747
 msgid "Generic document and letter file types"
 msgstr "Tipus genèrics de document i fitxer de carta"
 
-#: src/CategoryView.vala:1742
+#: src/CategoryView.vala:1752
 msgid "Generic document and letter template file types"
 msgstr "Tipus de fitxer de plantilla de document i carta genèrics"
 
-#: src/CategoryView.vala:1747
+#: src/CategoryView.vala:1757
 msgid "Generic drawing file types"
 msgstr "Tipus genèrics de fitxers de dibuix"
 
-#: src/CategoryView.vala:1752
+#: src/CategoryView.vala:1762
 msgid "Generic drawing template file types"
 msgstr "Tipus de fitxers de plantilla de dibuix genèrics"
 
-#: src/CategoryView.vala:1757
+#: src/CategoryView.vala:1767
 msgid "Generic presentation file types"
 msgstr "Tipus de fitxers de presentació genèrics"
 
-#: src/CategoryView.vala:1762
+#: src/CategoryView.vala:1772
 msgid "Generic presentation template file types"
 msgstr "Tipus de fitxers de plantilla de presentació genèrics"
 
-#: src/CategoryView.vala:1767
+#: src/CategoryView.vala:1777
 msgid "Generic spreadsheet file types"
 msgstr "Tipus de fitxers de full de càlcul genèrics"
 
-#: src/CategoryView.vala:1772
+#: src/CategoryView.vala:1782
 msgid "Generic spreadsheet template file types"
 msgstr "Tipus de fitxer de plantilla de full de càlcul genèric"
 
-#: src/CategoryView.vala:1777
+#: src/CategoryView.vala:1787
 msgid "Bookmark missing"
 msgstr "Falta el marcador"
 
-#: src/CategoryView.vala:1782
+#: src/CategoryView.vala:1792
 msgid "Distributor logo"
 msgstr "Logotip del distribuïdor"
 
-#: src/CategoryView.vala:1787
+#: src/CategoryView.vala:1797
 msgid "Folder"
 msgstr "Carpeta"
 
-#: src/CategoryView.vala:1792
+#: src/CategoryView.vala:1802
 msgid "Documents folder"
 msgstr "Carpeta de documents"
 
-#: src/CategoryView.vala:1797
+#: src/CategoryView.vala:1807
 msgid "Downloads folder"
 msgstr "Carpeta de baixades"
 
-#: src/CategoryView.vala:1802
+#: src/CategoryView.vala:1812
 msgid "Folder drag accept"
 msgstr "Acceptació d'arrossegament de la carpeta"
 
-#: src/CategoryView.vala:1807
+#: src/CategoryView.vala:1817
 msgid "Music folder"
 msgstr "Carpeta de música"
 
-#: src/CategoryView.vala:1812
+#: src/CategoryView.vala:1822
 msgid "Open folder"
 msgstr "Obre la carpeta"
 
-#: src/CategoryView.vala:1817
+#: src/CategoryView.vala:1827
 msgid "Pictures folder"
 msgstr "Carpeta d'imatges"
 
-#: src/CategoryView.vala:1822
+#: src/CategoryView.vala:1832
 msgid "Publicshare folder"
 msgstr "Carpeta pública compartida"
 
-#: src/CategoryView.vala:1827
+#: src/CategoryView.vala:1837
 msgid "Recent folder"
 msgstr "Carpeta de recents"
 
-#: src/CategoryView.vala:1832
+#: src/CategoryView.vala:1842
 msgid "Remote folder"
 msgstr "Carpeta remota"
 
-#: src/CategoryView.vala:1837
+#: src/CategoryView.vala:1847
 msgid "Saved search folder"
 msgstr "Carpeta de cerca desada"
 
-#: src/CategoryView.vala:1842
+#: src/CategoryView.vala:1852
 msgid "Templates folder"
 msgstr "Carpeta de plantilles"
 
-#: src/CategoryView.vala:1847
+#: src/CategoryView.vala:1857
 msgid "Videos folder"
 msgstr "Carpeta de vídeos"
 
-#: src/CategoryView.vala:1852
+#: src/CategoryView.vala:1862
 msgid "Internet radio"
 msgstr "Ràdio per Internet"
 
-#: src/CategoryView.vala:1857
+#: src/CategoryView.vala:1867
 msgid "Audiobook library"
 msgstr "Biblioteca d'audiollibres"
 
-#: src/CategoryView.vala:1862
+#: src/CategoryView.vala:1872
 msgid "Library places"
 msgstr "Llocs de la biblioteca"
 
-#: src/CategoryView.vala:1867
+#: src/CategoryView.vala:1877
 msgid "Podcast library"
 msgstr "Biblioteca de pòdcasts"
 
-#: src/CategoryView.vala:1872
+#: src/CategoryView.vala:1882
 msgid "Mail inbox"
 msgstr "Bústia d'entrada de correu"
 
-#: src/CategoryView.vala:1877
+#: src/CategoryView.vala:1887
 msgid "Mail mailbox"
 msgstr "Bústia de correu"
 
-#: src/CategoryView.vala:1882
+#: src/CategoryView.vala:1892
 msgid "Mail outbox"
 msgstr "Bústia de sortida de correu"
 
-#: src/CategoryView.vala:1887
+#: src/CategoryView.vala:1897
 msgid "Mail sent"
 msgstr "Correu enviat"
 
-#: src/CategoryView.vala:1892
+#: src/CategoryView.vala:1902
 msgid "Network server"
 msgstr "Servidor de xarxa"
 
-#: src/CategoryView.vala:1897
+#: src/CategoryView.vala:1907
 msgid "Network workgroup"
 msgstr "Grup de treball en xarxa"
 
-#: src/CategoryView.vala:1902
+#: src/CategoryView.vala:1912
 msgid "Playlist"
 msgstr "Llista de reproducció"
 
-#: src/CategoryView.vala:1907
+#: src/CategoryView.vala:1917
 msgid "Automatic playlist"
 msgstr "Llista de reproducció automàtica"
 
-#: src/CategoryView.vala:1912
+#: src/CategoryView.vala:1922
 msgid "Playlist queue"
 msgstr "Cua de llistes de reproducció"
 
-#: src/CategoryView.vala:1917
+#: src/CategoryView.vala:1927
 msgid "Similar playlist"
 msgstr "Llista de reproducció semblant"
 
-#: src/CategoryView.vala:1922
+#: src/CategoryView.vala:1932
 msgid "Tag"
 msgstr "Etiqueta"
 
-#: src/CategoryView.vala:1927
+#: src/CategoryView.vala:1937
 msgid "Bookmarks"
 msgstr "Adreces d'interès"
 
-#: src/CategoryView.vala:1932
+#: src/CategoryView.vala:1942
 msgid "Home"
 msgstr "Inici"
 
-#: src/CategoryView.vala:1937
+#: src/CategoryView.vala:1947
 msgid "Trash"
 msgstr "Paperera"
 
-#: src/CategoryView.vala:1942
+#: src/CategoryView.vala:1952
 msgid "Trash full"
 msgstr "Paperera plena"
 
-#: src/CategoryView.vala:1947
+#: src/CategoryView.vala:1957
 msgid "Airplane mode, where wireless radios are disabled or off"
 msgstr "Mode d'avió, on les ràdios sense fil estan desactivades o desactivades"
 
-#: src/CategoryView.vala:1952
+#: src/CategoryView.vala:1962
 msgid "An appointment or calendar event was missed"
 msgstr "S'ha perdut una cita o esdeveniment del calendari"
 
-#: src/CategoryView.vala:1957
+#: src/CategoryView.vala:1967
 msgid "An appointment or calendar event will be happening soon"
 msgstr "Aviat tindrà lloc una cita o un esdeveniment del calendari"
 
-#: src/CategoryView.vala:1962
+#: src/CategoryView.vala:1972
 msgid "High or loud audio volume"
 msgstr "Volum d'àudio alt o molt alt"
 
-#: src/CategoryView.vala:1967
+#: src/CategoryView.vala:1977
 msgid "Low or quiet audio volume"
 msgstr "Volum d'àudio baix o molt baix"
 
-#: src/CategoryView.vala:1972
+#: src/CategoryView.vala:1982
 msgid "Medium or normal audio volume"
 msgstr "Volum d'àudio mitjà o normal"
 
-#: src/CategoryView.vala:1977
+#: src/CategoryView.vala:1987
 msgid "Audio volume is muted or off"
 msgstr "El volum d'àudio està silenciat o desactivat"
 
-#: src/CategoryView.vala:1982
+#: src/CategoryView.vala:1992
 msgid ""
 "Audio volume is muted or off and something is being blocked from making noise"
 msgstr ""
 "El volum de l'àudio està silenciat o desactivat i s'està blocant alguna cosa "
 "perquè no faci soroll"
 
-#: src/CategoryView.vala:1987
+#: src/CategoryView.vala:1997
 msgid ""
 "The default avatar to represent a user, such as someone who has not set a "
 "profile picture"
@@ -1656,228 +1665,237 @@ msgstr ""
 "L'avatar predeterminat per representar un usuari, com ara algú que no hagi "
 "establert una foto de perfil"
 
-#: src/CategoryView.vala:1992
+#: src/CategoryView.vala:2002
 msgid "A charger or AC adapter for a battery-powered device"
 msgstr ""
 "Un carregador o adaptador de CA per a un dispositiu alimentat amb bateria"
 
-#: src/CategoryView.vala:1997
+#: src/CategoryView.vala:2007
 msgid "Low battery level"
 msgstr "Nivell de bateria baix"
 
-#: src/CategoryView.vala:2002
+#: src/CategoryView.vala:2012
 msgid "Low battery level, plugged into a charger or AC adapter"
 msgstr "Nivell de bateria baix, connectat a un carregador o adaptador de CA"
 
-#: src/CategoryView.vala:2007
+#: src/CategoryView.vala:2017
 msgid "Critically low battery level"
 msgstr "Nivell de bateria molt baix"
 
-#: src/CategoryView.vala:2012
+#: src/CategoryView.vala:2022
 msgid "Critically low battery, plugged into a charger or AC adapter"
 msgstr "Bateria molt baixa, connectada a un carregador o adaptador de CA"
 
-#: src/CategoryView.vala:2017
+#: src/CategoryView.vala:2027
 msgid "Mostly charged battery level"
 msgstr "Nivell de bateria majoritàriament carregada"
 
-#: src/CategoryView.vala:2022
+#: src/CategoryView.vala:2032
 msgid "Completely charged battery level"
 msgstr "Nivell de bateria completament carregada"
 
-#: src/CategoryView.vala:2027
+#: src/CategoryView.vala:2037
 msgid "Mostly charged battery level, plugged into a charger or AC adapter"
 msgstr ""
 "Nivell de bateria majoritàriament carregada, connectat a un carregador o "
 "adaptador de CA"
 
-#: src/CategoryView.vala:2032
+#: src/CategoryView.vala:2042
 msgid "Medium-high charged battery level"
 msgstr "Nivell de càrrega de bateria mitjà-alt"
 
-#: src/CategoryView.vala:2037
+#: src/CategoryView.vala:2047
 msgid "Medium-high charged battery level, plugged into a charger or AC adapter"
 msgstr ""
 "Nivell de bateria de càrrega mitjà-alt, connectat a un carregador o "
 "adaptador de CA"
 
-#: src/CategoryView.vala:2042
+#: src/CategoryView.vala:2052
 msgid "Medium-low charged battery level"
 msgstr "Nivell de càrrega de bateria mitjà-baix"
 
-#: src/CategoryView.vala:2047
+#: src/CategoryView.vala:2057
 msgid "Medium-low charged battery level, plugged into a charger or AC adapter"
 msgstr ""
 "Nivell de bateria mitjà-baix, connectat a un carregador o adaptador de CA"
 
-#: src/CategoryView.vala:2052
+#: src/CategoryView.vala:2062
 msgid "Missing or malfunctioning battery"
 msgstr "Falta la bateria o funciona malament"
 
-#: src/CategoryView.vala:2057
+#: src/CategoryView.vala:2067
 msgid "Bluetooth radio is disabled or off"
 msgstr "La ràdio Bluetooth està desactivada o apagada"
 
-#: src/CategoryView.vala:2062
+#: src/CategoryView.vala:2072
 msgid "Allow changes by unlocking such as with a password"
 msgstr "Permet els canvis desblocant, com ara amb una contrasenya"
 
-#: src/CategoryView.vala:2067
+#: src/CategoryView.vala:2077
 msgid "Prevent changes by locking such as with a password"
 msgstr "Evita els canvis mitjançant el bloqueig, com ara amb una contrasenya"
 
-#: src/CategoryView.vala:2072
+#: src/CategoryView.vala:2082
 msgid ""
 "Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
 msgstr ""
 "Comunicació o connexió insegura, no segura o no encriptada, com ara HTTP"
 
-#: src/CategoryView.vala:2077
+#: src/CategoryView.vala:2087
 msgid ""
 "Secure or encrypted communication or connection, such as HTTPS or encrypted "
 "Wi-Fi"
 msgstr ""
 "Comunicació o connexió segura o encriptada, com ara HTTPS o Wi-Fi encriptada"
 
-#: src/CategoryView.vala:2082
+#: src/CategoryView.vala:2092
 msgid "Critical, unrecoverable, or other serious error"
 msgstr "Error crític, irrecuperable o un altre error greu"
 
-#: src/CategoryView.vala:2087
+#: src/CategoryView.vala:2097
 msgid "Contextual information or explanation"
 msgstr "Informació o explicació contextual"
 
-#: src/CategoryView.vala:2092
+#: src/CategoryView.vala:2102
 msgid "Requesting authentication details, such as a password or encryption key"
 msgstr ""
 "Sol·licita detalls d'autenticació, com ara una contrasenya o una clau "
 "d'encriptació"
 
-#: src/CategoryView.vala:2097
+#: src/CategoryView.vala:2107
 msgid "Question, decision, or choice for the user"
 msgstr "Pregunta, decisió o tria per a l'usuari"
 
-#: src/CategoryView.vala:2102
+#: src/CategoryView.vala:2112
 msgid "Warning of potentially dangerous actions or consequences"
 msgstr "Advertència d'accions o conseqüències potencialment perilloses"
 
-#: src/CategoryView.vala:2107
+#: src/CategoryView.vala:2117
 msgid "Placeholder used when an image or thumbnail is loading"
-msgstr "El marcador de posició s'usa quan es carrega una imatge o una miniatura"
+msgstr ""
+"El marcador de posició s'usa quan es carrega una imatge o una miniatura"
 
-#: src/CategoryView.vala:2112
+#: src/CategoryView.vala:2122
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
 msgstr ""
 "El marcador de posició s'usa quan falta una imatge o una miniatura o no es "
 "pot carregar"
 
-#: src/CategoryView.vala:2117
+#: src/CategoryView.vala:2127
 msgid "Location services are in use"
 msgstr "Els serveis d'ubicació estan en ús"
 
-#: src/CategoryView.vala:2122
+#: src/CategoryView.vala:2132
 msgid "Location services are disabled and unavailable"
 msgstr "Els serveis d'ubicació estan desactivats i no estan disponibles"
 
-#: src/CategoryView.vala:2127
+#: src/CategoryView.vala:2137
 msgid "Location services are available, but not in use"
 msgstr "Els serveis d'ubicació estan disponibles, però no s'usen"
 
-#: src/CategoryView.vala:2132
+#: src/CategoryView.vala:2142
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
 msgstr ""
 "Blocat o segur, normalment requereix autenticació o una contrasenya per "
 "desblocar"
 
-#: src/CategoryView.vala:2137
+#: src/CategoryView.vala:2147
 msgid "Mail attachment or file in an email"
 msgstr "Fitxer adjunt o fitxer en un correu electrònic"
 
-#: src/CategoryView.vala:2142
+#: src/CategoryView.vala:2152
 msgid "New, unread, or unviewed email"
 msgstr "Correu electrònic nou, no llegit o no vist"
 
-#: src/CategoryView.vala:2147
+#: src/CategoryView.vala:2157
 msgid "Read or already-viewed email"
 msgstr "Correu electrònic llegit o ja vist"
 
-#: src/CategoryView.vala:2152
+#: src/CategoryView.vala:2162
 msgid "Email that has been replied or responded to"
 msgstr "Correu electrònic que s'ha respost"
 
-#: src/CategoryView.vala:2157
+#: src/CategoryView.vala:2167
 msgid "Email that contains a signature"
 msgstr "Correu electrònic que conté una signatura"
 
-#: src/CategoryView.vala:2162
+#: src/CategoryView.vala:2172
 msgid "Email that contains a signature that is verified by the security system"
 msgstr ""
 "Correu electrònic que conté una signatura verificada pel sistema de seguretat"
 
-#: src/CategoryView.vala:2167
+#: src/CategoryView.vala:2177
 msgid "Repeat a song, video, track, album, playlist, or other media"
 msgstr ""
 "Repeteix una cançó, un vídeo, una pista, un àlbum, una llista de reproducció "
 "o altres mitjans"
 
-#: src/CategoryView.vala:2172
+#: src/CategoryView.vala:2182
 msgid "Shuffle or randomize an album, playlist, or other media"
 msgstr ""
 "Barreja o fes aleatori un àlbum, una llista de reproducció o altres mitjans"
 
-#: src/CategoryView.vala:2177
+#: src/CategoryView.vala:2187
 msgid "Error or problem initializing or creating a network connection"
 msgstr "Error o problema en iniciar o crear una connexió de xarxa"
 
-#: src/CategoryView.vala:2182
+#: src/CategoryView.vala:2192
 msgid "No data being transmitted or received while connected to a network"
 msgstr "No es transmeten ni es reben dades mentre està connectat a una xarxa"
 
-#: src/CategoryView.vala:2187
+#: src/CategoryView.vala:2197
 msgid "Disconnected or offline from a network"
 msgstr "Desconnectat o fora de línia d'una xarxa"
 
-#: src/CategoryView.vala:2192
+#: src/CategoryView.vala:2202
 msgid "Data is being received over a network"
 msgstr "Es reben dades a través d'una xarxa"
 
-#: src/CategoryView.vala:2197
+#: src/CategoryView.vala:2207
 msgid "Data is being transmitted over a network"
 msgstr "Les dades es transmeten a través d'una xarxa"
 
-#: src/CategoryView.vala:2202
+#: src/CategoryView.vala:2212
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
 msgstr "Les dades es transmeten i es reben simultàniament a través d'una xarxa"
 
-#: src/CategoryView.vala:2207
+#: src/CategoryView.vala:2217
 msgid "Wired network, such as Ethernet, is disconnected"
 msgstr "La xarxa amb fil, com ara Ethernet, està desconnectada"
 
-#: src/CategoryView.vala:2212
+#: src/CategoryView.vala:2222
 msgid "Item is not starred, favorited, or pinned by the user"
 msgstr ""
 "L'usuari no destaca l'element, no l'ha marcat com a preferit ni l'ha fixat"
 
-#: src/CategoryView.vala:2217
+#: src/CategoryView.vala:2227
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
 msgstr "Les notificacions estan desactivades o en mode de no molestar"
 
-#: src/CategoryView.vala:2222
+#: src/CategoryView.vala:2232
 msgid "Error or problem occurred when attempting to print"
 msgstr "S'ha produït un error o un problema en intentar imprimir"
 
-#: src/CategoryView.vala:2227
+#: src/CategoryView.vala:2237
 msgid "Job has been successfully spooled or sent to a printer"
 msgstr "La tasca s'ha enviat a una impressora o a la cua correctament"
 
-#: src/CategoryView.vala:2232
+#: src/CategoryView.vala:2242
 msgid "Process, job, or task has successfully completed or finished"
 msgstr "El procés, la feina o la tasca s'ha completat o acabat correctament"
 
-#: src/CategoryView.vala:2237
+#: src/CategoryView.vala:2247
+msgid "Process, job, or task has failed or been unsuccessful"
+msgstr "El procés, la feina o la tasca ha fallat o no ha tingut èxit."
+
+#: src/CategoryView.vala:2252
+msgid "Process, job, or task is currently paused or on hold"
+msgstr "El procés, la feina o la tasca està actualment interrompuda o s'espera."
+
+#: src/CategoryView.vala:2257
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
@@ -1885,11 +1903,11 @@ msgstr ""
 "Se sap que és segur, com ara amb una encriptació forta i un certificat "
 "vàlid, verificat o de confiança"
 
-#: src/CategoryView.vala:2242
+#: src/CategoryView.vala:2262
 msgid "Presumed to be secure, such as using encryption"
 msgstr "Se suposa que és segur, com ara l'ús d'encriptació"
 
-#: src/CategoryView.vala:2247
+#: src/CategoryView.vala:2267
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
@@ -1897,108 +1915,108 @@ msgstr ""
 "Se suposa que no és segur, com ara una encriptació no segura, sense "
 "encriptació, dèbil o un certificat no vàlid, no verificat o de confiança"
 
-#: src/CategoryView.vala:2252
+#: src/CategoryView.vala:2272
 msgid "Updated apps, software, or drivers are available"
 msgstr "Hi ha aplicacions, programari o controladors actualitzats disponibles"
 
-#: src/CategoryView.vala:2257
+#: src/CategoryView.vala:2277
 msgid "Urgent or critical updates are available"
 msgstr "Hi ha actualitzacions urgents o crítiques disponibles"
 
-#: src/CategoryView.vala:2262
+#: src/CategoryView.vala:2282
 msgid "Item is starred, favorited, or pinned by the user"
 msgstr "L'usuari destaca, marca com a preferit o fixa l'element"
 
-#: src/CategoryView.vala:2267
+#: src/CategoryView.vala:2287
 msgid "Task is due soon"
 msgstr "La tasca s'ha de fer aviat"
 
-#: src/CategoryView.vala:2272
+#: src/CategoryView.vala:2292
 msgid "Task is incomplete past the due date"
 msgstr "La tasca està incompleta després de la data de venciment"
 
-#: src/CategoryView.vala:2277
+#: src/CategoryView.vala:2297
 msgid "User, person, or contact is available or online"
 msgstr "L'usuari, la persona o el contacte està disponible o en línia"
 
-#: src/CategoryView.vala:2282
+#: src/CategoryView.vala:2302
 msgid "User, person, or contact is away or unavailable"
 msgstr "L'usuari, la persona o el contacte és absent o no disponible"
 
-#: src/CategoryView.vala:2287
+#: src/CategoryView.vala:2307
 msgid "User, person, or contact is idle or unresponsive"
 msgstr "L'usuari, la persona o el contacte està inactiu o no respon"
 
-#: src/CategoryView.vala:2292
+#: src/CategoryView.vala:2312
 msgid "User, person, or contact is offline or unreachable"
 msgstr ""
 "L'usuari, la persona o el contacte està fora de línia o no s'hi pot accedir"
 
-#: src/CategoryView.vala:2297
+#: src/CategoryView.vala:2317
 msgid "Private, anonymous, untracked, or incognito"
 msgstr "Privat, anònim, sense seguiment o d'incògnit"
 
-#: src/CategoryView.vala:2302
+#: src/CategoryView.vala:2322
 msgid "Clear skies or sunny weather"
 msgstr "Cel clar o temps assolellat"
 
-#: src/CategoryView.vala:2307
+#: src/CategoryView.vala:2327
 msgid "Clear skies weather during the night"
 msgstr "Temps de cel clar durant la nit"
 
-#: src/CategoryView.vala:2312
+#: src/CategoryView.vala:2332
 msgid "Partly cloudy, partly clear, or partly sunny weather"
 msgstr "Temps mig ennuvolat, parcialment clar o parcialment assolellat"
 
-#: src/CategoryView.vala:2317
+#: src/CategoryView.vala:2337
 msgid "Partly cloudy or partly clear weather during the night"
 msgstr "Temps mig ennuvolat o parcialment clar durant la nit"
 
-#: src/CategoryView.vala:2322
+#: src/CategoryView.vala:2342
 msgid "Foggy weather"
 msgstr "Temps boirós"
 
-#: src/CategoryView.vala:2327
+#: src/CategoryView.vala:2347
 msgid "Overcast or cloudy weather"
 msgstr "Ennuvolat o cel tapat"
 
-#: src/CategoryView.vala:2332
+#: src/CategoryView.vala:2352
 msgid "Severe or critical weather warning or alert"
 msgstr "Avís o alerta de mal temps o crític"
 
-#: src/CategoryView.vala:2337
+#: src/CategoryView.vala:2357
 msgid "Showers or rainy weather"
 msgstr "Xàfecs o temps plujós"
 
-#: src/CategoryView.vala:2342
+#: src/CategoryView.vala:2362
 msgid "Scattered showers or partly rainy weather"
 msgstr "Ruixats dispersos o temps parcialment plujós"
 
-#: src/CategoryView.vala:2347
+#: src/CategoryView.vala:2367
 msgid "Snow showers or snowy weather"
 msgstr "Ruixats de neu o temps de neu"
 
-#: src/CategoryView.vala:2352
+#: src/CategoryView.vala:2372
 msgid "Thunderstorms or stormy weather"
 msgstr "Tempestes o temps tempestuós"
 
-#: src/CategoryView.vala:2362
+#: src/CategoryView.vala:2382
 msgid "Search Names or Descriptions"
 msgstr "Cerca noms o descripcions"
 
-#: src/IconView.vala:55
+#: src/IconView.vala:59
 msgid "Color Icons"
 msgstr "Icones de color"
 
-#: src/IconView.vala:62
+#: src/IconView.vala:66
 msgid "Symbolic Icons"
 msgstr "Icones simbòliques"
 
-#: src/IconView.vala:75
+#: src/IconView.vala:79
 msgid "Code Sample"
 msgstr "Exemple de codi"
 
-#: src/IconView.vala:157
+#: src/IconView.vala:161
 msgid "Unavailable"
 msgstr "No disponible"
 
