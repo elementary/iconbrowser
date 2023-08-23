@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-01 01:41+0100\n"
-"PO-Revision-Date: 2023-07-08 21:07+0000\n"
+"PO-Revision-Date: 2023-08-24 05:08+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://l10n.elementary.io/projects/"
 "icon-browser/icon-browser/nb/>\n"
@@ -509,11 +509,11 @@ msgstr ""
 
 #: src/CategoryView.vala:607
 msgid "Rotate an object to the left or counter-clockwise"
-msgstr ""
+msgstr "Roter et objekt til venstre, altså mot klokken"
 
 #: src/CategoryView.vala:612
 msgid "Rotate an object to the right or clockwise"
-msgstr ""
+msgstr "Roter et objekt til høyre, altså med klokken"
 
 #: src/CategoryView.vala:617
 msgid "Create a new database"
@@ -527,11 +527,11 @@ msgstr ""
 
 #: src/CategoryView.vala:627
 msgid "Lock the screen or the user's session"
-msgstr ""
+msgstr "Lås skjermen eller brukerens økt"
 
 #: src/CategoryView.vala:632
 msgid "Log out of the user's session"
-msgstr ""
+msgstr "Logg ut av brukerens økt"
 
 #: src/CategoryView.vala:637
 msgid "Run a system app or command"
