@@ -45,7 +45,6 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
 
         var sidebar_header = new Gtk.Box (Gtk.Orientation.HORIZONTAL, 0);
         sidebar_header.add_css_class ("titlebar");
-        sidebar_header.add_css_class (Granite.STYLE_CLASS_FLAT);
         sidebar_header.append (start_window_controls);
 
         var sidebar_box = new Gtk.Box (Gtk.Orientation.VERTICAL, 0);

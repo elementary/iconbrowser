@@ -56,7 +56,6 @@ public class IconView : Gtk.Box {
             child = header_area
         };
         header_handle.add_css_class ("titlebar");
-        header_handle.add_css_class (Granite.STYLE_CLASS_FLAT);
 
         var color_title = new Granite.HeaderLabel (_("Color Icons"));
 

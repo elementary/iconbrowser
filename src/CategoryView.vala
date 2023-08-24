@@ -2385,7 +2385,6 @@ public class CategoryView : Gtk.Box {
 
         var list_header = new Gtk.Box (Gtk.Orientation.HORIZONTAL, 0);
         list_header.add_css_class ("titlebar");
-        list_header.add_css_class (Granite.STYLE_CLASS_FLAT);
         list_header.append (search_entry);
 
         listbox = new Gtk.ListBox () {
