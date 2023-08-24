@@ -14,6 +14,8 @@ public class IconBrowser.App : Gtk.Application {
     protected override void startup () {
         base.startup ();
 
+        Granite.init ();
+
         Intl.setlocale (LocaleCategory.ALL, "");
         Intl.bindtextdomain (GETTEXT_PACKAGE, LOCALEDIR);
         Intl.bind_textdomain_codeset (GETTEXT_PACKAGE, "UTF-8");
@@ -25,10 +27,6 @@ public class IconBrowser.App : Gtk.Application {
         set_accels_for_action ("app.quit", {"<Control>q"});
 
         quit_action.activate.connect (quit);
-
-        var provider = new Gtk.CssProvider ();
-        provider.load_from_resource ("/io/elementary/iconbrowser/Application.css");
-        Gtk.StyleContext.add_provider_for_display (Gdk.Display.get_default (), provider, Gtk.STYLE_PROVIDER_PRIORITY_APPLICATION);
     }
 
     protected override void activate () {
