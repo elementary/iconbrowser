@@ -40,6 +40,12 @@
   <update_contact>contact_at_elementary.io</update_contact>
 
   <releases>
+     <release version="2.1.2" date="2023-08-23">
+      <description>
+        <p>Update translations</p>
+      </description>
+    </release>
+
      <release version="2.1.1" date="2022-11-01">
       <description>
         <p>Fixed an error that prevented app startup</p>
@@ -89,15 +95,8 @@
         </ul>
       </description>
     </release>
-    <release version="1.1.0" date="2018-10-25">
-      <description>
-        <p>Better support for symbolic-only icons and under the hood improvements!</p>
-      </description>
-    </release>
-    <release version="1.0.0" date="2018-7-3">
-      <description>
-        <p>Initial release! 🎉️</p>
-      </description>
-    </release>
+
+    <release version="1.1.0" date="2018-10-25" />
+    <release version="1.0.0" date="2018-07-03" />
   </releases>
 </component>
