@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright 2017-2022 elementary, Inc. <contact@elementary.io> -->
+<!-- Copyright 2017-2023 elementary, Inc. <contact@elementary.io> -->
 <component type="desktop-application">
   <id>io.elementary.iconbrowser</id>
   <launchable type="desktop-id">io.elementary.iconbrowser.desktop</launchable>
+  <translation type="gettext">io.elementary.iconbrowser</translation>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0+</project_license>
 
