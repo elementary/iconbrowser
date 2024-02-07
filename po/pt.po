@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.github.danrabbit.lookbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-01 01:41+0100\n"
-"PO-Revision-Date: 2024-02-07 21:19+0000\n"
+"PO-Revision-Date: 2024-02-08 22:11+0000\n"
 "Last-Translator: vasco miguel pascoal santos <vascomps@gmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/pt/>\n"
@@ -113,7 +113,7 @@ msgstr "Parar a chamada atual"
 
 #: src/CategoryView.vala:127
 msgid "Pick a color from elsewhere on screen"
-msgstr ""
+msgstr "Escolhe uma cor no ecrâ"
 
 #: src/CategoryView.vala:132
 msgid "Create a new contact in an address book application"
@@ -121,11 +121,11 @@ msgstr "Criar um novo contacto numa aplicação de livro de endereços"
 
 #: src/CategoryView.vala:137
 msgid "Distribute the center lines of objects horizontally"
-msgstr ""
+msgstr "Distribuir as linhas centrais dos objetos horizontalmente"
 
 #: src/CategoryView.vala:142
 msgid "Make horizontal gaps between objects equal"
-msgstr ""
+msgstr "Faça espaços horizontais entre objetos iguais"
 
 #: src/CategoryView.vala:147
 #, fuzzy
