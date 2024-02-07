@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-01 01:41+0100\n"
 "PO-Revision-Date: 2024-02-08 22:11+0000\n"
-"Last-Translator: vasco miguel pascoal santos <vascomps@gmail.com>\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/pt/>\n"
 "Language: pt\n"
@@ -101,7 +101,7 @@ msgstr "Criar um novo marcador"
 
 #: src/CategoryView.vala:112
 msgid "Download a file from the Internet"
-msgstr "Transferir um ficheiro da internet"
+msgstr "Transferir um ficheiro da Internet"
 
 #: src/CategoryView.vala:117
 msgid "Initiate or accept a call"
