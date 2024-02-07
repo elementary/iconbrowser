@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: com.github.danrabbit.lookbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-01 01:41+0100\n"
-"PO-Revision-Date: 2022-11-06 22:57+0000\n"
-"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"PO-Revision-Date: 2024-02-07 21:19+0000\n"
+"Last-Translator: vasco miguel pascoal santos <vascomps@gmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/pt/>\n"
 "Language: pt\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 5.0.2\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -101,7 +101,7 @@ msgstr "Criar um novo marcador"
 
 #: src/CategoryView.vala:112
 msgid "Download a file from the Internet"
-msgstr ""
+msgstr "Transferir um ficheiro da internet"
 
 #: src/CategoryView.vala:117
 msgid "Initiate or accept a call"
