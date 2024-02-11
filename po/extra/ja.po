@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2022-09-30 23:35+0000\n"
+"PO-Revision-Date: 2024-02-12 08:11+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "extra/ja/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 5.0.2\n"
 
 #: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
 msgid "Icon Browser"
@@ -54,7 +54,7 @@ msgstr "elementary, Inc."
 
 #: data/iconbrowser.appdata.xml.in:45
 msgid "A modern redesign!"
-msgstr "よりモダンなデザインに変更しました！"
+msgstr "よりモダンなデザインに変更しました!"
 
 #: data/iconbrowser.appdata.xml.in:47
 msgid "Fancy new icon"
@@ -102,12 +102,11 @@ msgstr "フランス語翻訳とポルトガル語翻訳を追加"
 
 #: data/iconbrowser.appdata.xml.in:74
 msgid "Better support for symbolic-only icons and under the hood improvements!"
-msgstr ""
-"シンボリック版のみ存在するアイコンへの対応、および内部処理を改善しました！"
+msgstr "シンボリック版のみ存在するアイコンへの対応、および内部処理を改善しました!"
 
 #: data/iconbrowser.appdata.xml.in:79
 msgid "Initial release! 🎉️"
-msgstr "最初のリリース！🎉️"
+msgstr "初リリース! 🎉️"
 
 #~ msgid "Remove non-fdo app names"
 #~ msgstr "freedesktop.org 非準拠のアプリアイコンを削除"
