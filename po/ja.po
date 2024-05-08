@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-01 01:41+0100\n"
-"PO-Revision-Date: 2024-02-10 13:11+0000\n"
+"PO-Revision-Date: 2024-05-09 13:13+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.0.2\n"
+"X-Generator: Weblate 5.5\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -671,13 +671,11 @@ msgstr "ツールアプリやユーティリティーアプリのカテゴリー
 
 #: src/CategoryView.vala:822
 msgid "Programming, software development, code, or IDE app category"
-msgstr ""
-"プログラミング／ソフトウェア開発／コーディング／IDE に関連するアプリのカテゴ"
-"リー"
+msgstr "プログラミング/ソフトウェア開発/コーディング/IDE に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:827
 msgid "Education, learning, or school app category"
-msgstr "教育／学習／教育機関に関連するアプリのカテゴリー"
+msgstr "教育/学習/教育機関に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:832
 msgid "Engineering app category"
@@ -689,7 +687,7 @@ msgstr "ゲームに関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:842
 msgid "Graphics, drawing, art, or photo manipulation app category"
-msgstr "グラフィック／イラスト制作／美術／写真編集に関連するアプリのカテゴリー"
+msgstr "グラフィック/イラスト制作/美術/写真編集に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:847
 msgid "Internet or web related app category"
@@ -697,7 +695,7 @@ msgstr "インターネットや Web に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:852
 msgid "Multimedia, audio, or video app category"
-msgstr "マルチメディア／音声／動画に関連するアプリのカテゴリー"
+msgstr "マルチメディア/音声/動画に関連するアプリのカテゴリー"
 
 #: src/CategoryView.vala:857
 msgid "Office app category"
@@ -725,7 +723,7 @@ msgstr "Bluetooth の設定"
 
 #: src/CategoryView.vala:887
 msgid "Color settings such as printer, display, or camera calibration"
-msgstr "プリンター／ディスプレイ／カメラの補正など、色に関する設定"
+msgstr "プリンター/ディスプレイ/カメラの補正など、色に関する設定"
 
 #: src/CategoryView.vala:892
 msgid "Desktop interface settings"
@@ -742,7 +740,7 @@ msgstr ""
 
 #: src/CategoryView.vala:907
 msgid "Universal access settings for zooming or magnifying"
-msgstr "拡大／縮小や拡大鏡に関連するユニバーサルアクセスの設定"
+msgstr "拡大/縮小や拡大鏡に関連するユニバーサルアクセスの設定"
 
 #: src/CategoryView.vala:912
 msgid "App-related settings, such as default or startup apps"
@@ -762,11 +760,11 @@ msgstr "レイアウトやショートカットなどのキーボードの設定
 
 #: src/CategoryView.vala:932
 msgid "International localization, language, or region settings"
-msgstr "国際化／地域化、言語、地域の設定"
+msgstr "国際化/地域化、言語、地域の設定"
 
 #: src/CategoryView.vala:937
 msgid "Online account and cloud sync or sign in settings"
-msgstr "オンラインアカウント／クラウド同期／サインインの設定"
+msgstr "オンラインアカウント/クラウド同期/サインインの設定"
 
 #: src/CategoryView.vala:942
 msgid "Settings for peripherals, such as a mouse or keyboard"
@@ -774,7 +772,7 @@ msgstr "マウスやキーボードなど、周辺機器に関連する設定"
 
 #: src/CategoryView.vala:947
 msgid "Sound or audio input and output settings"
-msgstr "サウンド／音声入出力の設定"
+msgstr "サウンド/音声入出力の設定"
 
 #: src/CategoryView.vala:952
 msgid "Look and feel, appearance, style, or theme settings"
@@ -794,7 +792,7 @@ msgstr "システムの設定"
 
 #: src/CategoryView.vala:972
 msgid "Network settings, such as wireless, Ethernet, or VPN"
-msgstr "無線／イーサネット／VPN などの、ネットワークの設定"
+msgstr "無線/イーサネット/VPN などの、ネットワークの設定"
 
 #: src/CategoryView.vala:977
 msgid "Notification alert settings"
@@ -885,7 +883,7 @@ msgstr "ハードディスクおよびストレージドライブ"
 
 #: src/CategoryView.vala:1082
 msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
-msgstr "CD／DVD／ブルーレイディスクなどを読み書きする光学デバイス"
+msgstr "CD/DVD/ブルーレイディスクなどを読み書きする光学デバイス"
 
 #: src/CategoryView.vala:1087
 msgid "Removable storage device, such as a portable hard drive"
@@ -897,7 +895,7 @@ msgstr "USB ドライブや USB スティック (USB フラッシュ・USB メ�
 
 #: src/CategoryView.vala:1097
 msgid "Video game controller, such as a paddle, remote, or joystick"
-msgstr "パドル／リモコン／ジョイスティックなどの、ビデオゲームコントローラー"
+msgstr "パドル/リモコン/ジョイスティックなどの、ビデオゲームコントローラー"
 
 #: src/CategoryView.vala:1102
 msgid "Keyboard"
@@ -911,9 +909,8 @@ msgstr "マウス"
 msgid ""
 "Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
 "Bamboo"
-msgstr ""
-"Wacom ペンタブレット／Intuos／Cintiq／Bamboo などの、グラフィックタブレットや"
-"ペン"
+msgstr "Wacom ペンタブレット/Intuos/Cintiq/Bamboo "
+"などの、グラフィックタブレットやペン"
 
 #: src/CategoryView.vala:1117
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
@@ -925,7 +922,7 @@ msgstr "メモリースティックや SD カードなどのフラッシュメ�
 
 #: src/CategoryView.vala:1127
 msgid "Optical media, such as a CD, DVD, or Blu-ray disc"
-msgstr "CD／DVD／ブルーレイディスクなどの光学メディア"
+msgstr "CD/DVD/ブルーレイディスクなどの光学メディア"
 
 #: src/CategoryView.vala:1132
 msgid "Network modem or router"
@@ -939,9 +936,8 @@ msgstr "メディア再生デバイス"
 msgid ""
 "Cellular type wireless network or device, such as a 2G, 3G, or 4G LTE "
 "connection, modem, or SIM card"
-msgstr ""
-"2G／3G／4G LTE 接続や、モデム、SIM カードなどの、セルラー方式の無線ネットワー"
-"クおよびデバイス"
+msgstr "2G/3G/4G LTE 接続や、モデム、SIM "
+"カードなどの、セルラー方式の無線ネットワークおよびデバイス"
 
 #: src/CategoryView.vala:1147
 msgid "Networking firewall"
@@ -975,7 +971,7 @@ msgstr "プリンター"
 
 #: src/CategoryView.vala:1182
 msgid "Network-connected or shared printer"
-msgstr "ネットワーク接続／ネットワーク共有されたプリンター"
+msgstr "ネットワーク接続/ネットワーク共有されたプリンター"
 
 #: src/CategoryView.vala:1187
 msgid "Scanner"
@@ -1482,7 +1478,7 @@ msgstr "“ダウンロード”フォルダー"
 
 #: src/CategoryView.vala:1812
 msgid "Folder drag accept"
-msgstr "ドラッグアンドドロップ受け入れ可能なフォルダー"
+msgstr "ドラッグ & ドロップ先のフォルダー"
 
 #: src/CategoryView.vala:1817
 msgid "Music folder"
