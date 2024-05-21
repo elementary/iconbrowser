@@ -778,6 +778,11 @@ public class CategoryView : Gtk.Box {
             category = APPS
         },
         Icon () {
+            name = "accessories-screenshot-tool",
+            description = _("Screenshot application"),
+            category = APPS
+        },
+        Icon () {
             name = "accessories-text-editor",
             description = _("Text editor"),
             category = APPS
@@ -975,11 +980,6 @@ public class CategoryView : Gtk.Box {
         Icon () {
             name = "preferences-system-notifications",
             description = _("Notification alert settings"),
-            category = CATEGORIES
-        },
-        Icon () {
-            name = "preferences-system-parental-controls",
-            description = _("Parental control settings"),
             category = CATEGORIES
         },
         Icon () {
@@ -2060,11 +2060,6 @@ public class CategoryView : Gtk.Box {
         Icon () {
             name = "battery-missing",
             description = _("Missing or malfunctioning battery"),
-            category = STATUS
-        },
-        Icon () {
-            name = "bluetooth-disabled",
-            description = _("Bluetooth radio is disabled or off"),
             category = STATUS
         },
         Icon () {
