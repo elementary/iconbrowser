@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-01 01:41+0100\n"
+"POT-Creation-Date: 2024-05-21 16:33+0000\n"
 "PO-Revision-Date: 2023-05-04 08:06+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
 "Language-Team: Ukrainian <https://l10n.elementary.io/projects/icon-browser/"
@@ -60,7 +60,7 @@ msgstr "Стан"
 msgid "OTHER"
 msgstr "ІНШЕ"
 
-#: src/CategoryView.vala:62 src/IconView.vala:13
+#: src/CategoryView.vala:62 src/IconView.vala:15
 msgid "Create a new address book"
 msgstr "Створити нову адресну книгу"
 
@@ -646,180 +646,180 @@ msgid "Dictionary"
 msgstr "Словник"
 
 #: src/CategoryView.vala:782
+msgid "Screenshot application"
+msgstr ""
+
+#: src/CategoryView.vala:787
 msgid "Text editor"
 msgstr "Текстовий редактор"
 
-#: src/CategoryView.vala:787
+#: src/CategoryView.vala:792
 msgid "Default or unprovided app icon"
 msgstr "Типова або ненадана піктограма застосунку"
 
-#: src/CategoryView.vala:792
+#: src/CategoryView.vala:797
 msgid "Files"
 msgstr "Файли"
 
-#: src/CategoryView.vala:797
+#: src/CategoryView.vala:802
 msgid "AppCenter or software installer"
 msgstr "Встановлювач центру застосунків чи програмного забезпечення"
 
-#: src/CategoryView.vala:802
+#: src/CategoryView.vala:807
 msgid "Software updater"
 msgstr "Оновлювач програмного забезпечення"
 
-#: src/CategoryView.vala:807
+#: src/CategoryView.vala:812
 msgid "System resource monitor"
 msgstr "Монітор системних ресурсів"
 
-#: src/CategoryView.vala:812
+#: src/CategoryView.vala:817
 msgid "Terminal"
 msgstr "Термінал"
 
-#: src/CategoryView.vala:817
+#: src/CategoryView.vala:822
 msgid "Accessory or utility app category"
 msgstr "Категорія утиліт або корисних застосунків"
 
-#: src/CategoryView.vala:822
+#: src/CategoryView.vala:827
 msgid "Programming, software development, code, or IDE app category"
 msgstr ""
 "Програмування, розробка програмного забезпечення, коду або категорії "
 "застосунків IDE"
 
-#: src/CategoryView.vala:827
+#: src/CategoryView.vala:832
 msgid "Education, learning, or school app category"
 msgstr "Категорія застосунків для освіти, навчання або школи"
 
-#: src/CategoryView.vala:832
+#: src/CategoryView.vala:837
 msgid "Engineering app category"
 msgstr "Категорія інженерних застосунків"
 
-#: src/CategoryView.vala:837
+#: src/CategoryView.vala:842
 msgid "Games app category"
 msgstr "Категорія ігрових застосунків"
 
-#: src/CategoryView.vala:842
+#: src/CategoryView.vala:847
 msgid "Graphics, drawing, art, or photo manipulation app category"
 msgstr ""
 "Категорія застосунків для маніпуляцій з графікою, малюнками, мистецтвом або "
 "світлинами"
 
-#: src/CategoryView.vala:847
+#: src/CategoryView.vala:852
 msgid "Internet or web related app category"
 msgstr "Категорія застосунків, пов'язаних з інтернетом або вебзастосунками"
 
-#: src/CategoryView.vala:852
+#: src/CategoryView.vala:857
 msgid "Multimedia, audio, or video app category"
 msgstr "Категорія мультимедійних, аудіо або відео застосунків"
 
-#: src/CategoryView.vala:857
+#: src/CategoryView.vala:862
 msgid "Office app category"
 msgstr "Категорія офісних застосунків"
 
-#: src/CategoryView.vala:862
+#: src/CategoryView.vala:867
 msgid "Other or uncategorized app category"
 msgstr "Категорія інших або не категоризованих застосунків"
 
-#: src/CategoryView.vala:867
+#: src/CategoryView.vala:872
 msgid "Science app category"
 msgstr "Категорія наукових застосунків"
 
-#: src/CategoryView.vala:872
+#: src/CategoryView.vala:877
 msgid "System tools or OS app category"
 msgstr "Категорія системних засобів або застосунків операційної системи"
 
-#: src/CategoryView.vala:877
+#: src/CategoryView.vala:882
 msgid "Utility app category"
 msgstr "Категорія утиліт"
 
-#: src/CategoryView.vala:882
+#: src/CategoryView.vala:887
 msgid "Bluetooth settings"
 msgstr "Налаштування Bluetooth"
 
-#: src/CategoryView.vala:887
+#: src/CategoryView.vala:892
 msgid "Color settings such as printer, display, or camera calibration"
 msgstr ""
 "Налаштування кольору, наприклад, калібрування принтера, дисплея або камери"
 
-#: src/CategoryView.vala:892
+#: src/CategoryView.vala:897
 msgid "Desktop interface settings"
 msgstr "Налаштування інтерфейсу стільниці"
 
-#: src/CategoryView.vala:897
+#: src/CategoryView.vala:902
 msgid "Universal access settings"
 msgstr "Налаштування універсального доступу"
 
-#: src/CategoryView.vala:902
+#: src/CategoryView.vala:907
 msgid "Universal access settings for pointing, such as controlling the cursor"
 msgstr ""
 "Налаштування універсального доступу для наведення, наприклад, керування "
 "курсором"
 
-#: src/CategoryView.vala:907
+#: src/CategoryView.vala:912
 msgid "Universal access settings for zooming or magnifying"
 msgstr "Налаштування універсального доступу для масштабування або збільшення"
 
-#: src/CategoryView.vala:912
+#: src/CategoryView.vala:917
 msgid "App-related settings, such as default or startup apps"
 msgstr ""
 "Налаштування, пов'язані з застосунками, наприклад, типових застосунків або "
 "застосунків запуску"
 
-#: src/CategoryView.vala:917
+#: src/CategoryView.vala:922
 msgid "Display settings, such as resolution or scaling"
 msgstr ""
 "Налаштування дисплея, наприклад, роздільної здатності або масштабування"
 
-#: src/CategoryView.vala:922
+#: src/CategoryView.vala:927
 msgid "Font settings"
 msgstr "Налаштування шрифтів"
 
-#: src/CategoryView.vala:927
+#: src/CategoryView.vala:932
 msgid "Keyboard settings, such as layout or shortcuts"
 msgstr "Налаштування клавіатури, наприклад, розкладка або комбінації клавіш"
 
-#: src/CategoryView.vala:932
+#: src/CategoryView.vala:937
 msgid "International localization, language, or region settings"
 msgstr "Міжнародна локалізація, налаштування мови або регіону"
 
-#: src/CategoryView.vala:937
+#: src/CategoryView.vala:942
 msgid "Online account and cloud sync or sign in settings"
 msgstr ""
 "Налаштування онлайн-синхронізації облікового запису та хмари або входу в "
 "систему"
 
-#: src/CategoryView.vala:942
+#: src/CategoryView.vala:947
 msgid "Settings for peripherals, such as a mouse or keyboard"
 msgstr "Налаштування периферійних пристроїв, наприклад, миші або клавіатури"
 
-#: src/CategoryView.vala:947
+#: src/CategoryView.vala:952
 msgid "Sound or audio input and output settings"
 msgstr "Налаштування звуку або аудіовходу та аудіовиходу"
 
-#: src/CategoryView.vala:952
+#: src/CategoryView.vala:957
 msgid "Look and feel, appearance, style, or theme settings"
 msgstr "Зовнішній вигляд, стиль або налаштування теми"
 
-#: src/CategoryView.vala:957
+#: src/CategoryView.vala:962
 msgid "Desktop wallpaper or background settings"
 msgstr "Налаштування шпалер стільниці або тла"
 
-#: src/CategoryView.vala:962
+#: src/CategoryView.vala:967
 msgid "Other, miscellaneous, or uncategorized settings"
 msgstr "Інші, різні або не категоризовані налаштування"
 
-#: src/CategoryView.vala:967
+#: src/CategoryView.vala:972
 msgid "System settings or preferences"
 msgstr "Системні налаштування або параметри"
 
-#: src/CategoryView.vala:972
+#: src/CategoryView.vala:977
 msgid "Network settings, such as wireless, Ethernet, or VPN"
 msgstr "Налаштування мережі, наприклад, бездротового зв'язку, Ethernet або VPN"
 
-#: src/CategoryView.vala:977
+#: src/CategoryView.vala:982
 msgid "Notification alert settings"
 msgstr "Налаштування сповіщень"
-
-#: src/CategoryView.vala:982
-msgid "Parental control settings"
-msgstr "Налаштування батьківського контролю"
 
 #: src/CategoryView.vala:987
 msgid "Power management or energy usage settings, such as battery"
@@ -1731,25 +1731,21 @@ msgid "Missing or malfunctioning battery"
 msgstr "Відсутній або несправний акумулятор"
 
 #: src/CategoryView.vala:2067
-msgid "Bluetooth radio is disabled or off"
-msgstr "Модуль Bluetooth відключено або вимкнено"
-
-#: src/CategoryView.vala:2072
 msgid "Allow changes by unlocking such as with a password"
 msgstr "Дозволити зміни через розблокування, наприклад, за допомогою пароля"
 
-#: src/CategoryView.vala:2077
+#: src/CategoryView.vala:2072
 msgid "Prevent changes by locking such as with a password"
 msgstr "Запобігти змінам через блокування, наприклад, за допомогою пароля"
 
-#: src/CategoryView.vala:2082
+#: src/CategoryView.vala:2077
 msgid ""
 "Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
 msgstr ""
 "Незахищений, небезпечний або незашифрований зв'язок або з'єднання, "
 "наприклад, HTTP"
 
-#: src/CategoryView.vala:2087
+#: src/CategoryView.vala:2082
 msgid ""
 "Secure or encrypted communication or connection, such as HTTPS or encrypted "
 "Wi-Fi"
@@ -1757,155 +1753,155 @@ msgstr ""
 "Безпечний або зашифрований зв'язок або з'єднання, наприклад, HTTPS або "
 "зашифрований Wi-Fi"
 
-#: src/CategoryView.vala:2092
+#: src/CategoryView.vala:2087
 msgid "Critical, unrecoverable, or other serious error"
 msgstr "Критична, невиправна або інша серйозна помилка"
 
-#: src/CategoryView.vala:2097
+#: src/CategoryView.vala:2092
 msgid "Contextual information or explanation"
 msgstr "Контекстна інформація або пояснення"
 
-#: src/CategoryView.vala:2102
+#: src/CategoryView.vala:2097
 msgid "Requesting authentication details, such as a password or encryption key"
 msgstr "Запит даних для автентифікації, наприклад, пароля або ключа шифрування"
 
-#: src/CategoryView.vala:2107
+#: src/CategoryView.vala:2102
 msgid "Question, decision, or choice for the user"
 msgstr "Питання, рішення або вибір для користувача"
 
-#: src/CategoryView.vala:2112
+#: src/CategoryView.vala:2107
 msgid "Warning of potentially dangerous actions or consequences"
 msgstr "Попередження про потенційно небезпечні дії або наслідки"
 
-#: src/CategoryView.vala:2117
+#: src/CategoryView.vala:2112
 msgid "Placeholder used when an image or thumbnail is loading"
 msgstr ""
 "Заповнювач, що використовується під час завантаження зображення або мініатюри"
 
-#: src/CategoryView.vala:2122
+#: src/CategoryView.vala:2117
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
 msgstr ""
 "Заповнювач, що використовується, коли зображення або мініатюра відсутні або "
 "не можуть бути завантажені"
 
-#: src/CategoryView.vala:2127
+#: src/CategoryView.vala:2122
 msgid "Location services are in use"
 msgstr "Використовується служба визначення розташування"
 
-#: src/CategoryView.vala:2132
+#: src/CategoryView.vala:2127
 msgid "Location services are disabled and unavailable"
 msgstr "Служби визначення розташування вимкнені й недоступні"
 
-#: src/CategoryView.vala:2137
+#: src/CategoryView.vala:2132
 msgid "Location services are available, but not in use"
 msgstr "Служби визначення розташування доступні, але не використовуються"
 
-#: src/CategoryView.vala:2142
+#: src/CategoryView.vala:2137
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
 msgstr ""
 "Заблоковані або захищені, як правило, вимагають автентифікації або пароля "
 "для розблокування"
 
-#: src/CategoryView.vala:2147
+#: src/CategoryView.vala:2142
 msgid "Mail attachment or file in an email"
 msgstr "Поштове вкладення або файл в електронному листі"
 
-#: src/CategoryView.vala:2152
+#: src/CategoryView.vala:2147
 msgid "New, unread, or unviewed email"
 msgstr "Новий, непрочитаний або не переглянутий лист"
 
-#: src/CategoryView.vala:2157
+#: src/CategoryView.vala:2152
 msgid "Read or already-viewed email"
 msgstr "Прочитаний або вже переглянутий лист"
 
-#: src/CategoryView.vala:2162
+#: src/CategoryView.vala:2157
 msgid "Email that has been replied or responded to"
 msgstr ""
 "Електронні листи, на які було надано відповідь або на які було надіслано "
 "відповідь"
 
-#: src/CategoryView.vala:2167
+#: src/CategoryView.vala:2162
 msgid "Email that contains a signature"
 msgstr "Електронна пошта, яка містить підпис"
 
-#: src/CategoryView.vala:2172
+#: src/CategoryView.vala:2167
 msgid "Email that contains a signature that is verified by the security system"
 msgstr ""
 "Електронна пошта, що містить підпис, який перевіряється системою безпеки"
 
-#: src/CategoryView.vala:2177
+#: src/CategoryView.vala:2172
 msgid "Repeat a song, video, track, album, playlist, or other media"
 msgstr ""
 "Повторення пісні, відео, доріжки, альбому, добірки або іншого медіафайлу"
 
-#: src/CategoryView.vala:2182
+#: src/CategoryView.vala:2177
 msgid "Shuffle or randomize an album, playlist, or other media"
 msgstr ""
 "Перемішати або впорядкувати альбом, добірку або інші медіафайли у "
 "випадковому порядку"
 
-#: src/CategoryView.vala:2187
+#: src/CategoryView.vala:2182
 msgid "Error or problem initializing or creating a network connection"
 msgstr "Помилка або проблема ініціалізації або створення мережного з'єднання"
 
-#: src/CategoryView.vala:2192
+#: src/CategoryView.vala:2187
 msgid "No data being transmitted or received while connected to a network"
 msgstr "Під час під'єднання до мережі дані не передаються і не приймаються"
 
-#: src/CategoryView.vala:2197
+#: src/CategoryView.vala:2192
 msgid "Disconnected or offline from a network"
 msgstr "Мережа від'єднана або офлайн"
 
-#: src/CategoryView.vala:2202
+#: src/CategoryView.vala:2197
 msgid "Data is being received over a network"
 msgstr "Дані надходять через мережу"
 
-#: src/CategoryView.vala:2207
+#: src/CategoryView.vala:2202
 msgid "Data is being transmitted over a network"
 msgstr "Дані передаються через мережу"
 
-#: src/CategoryView.vala:2212
+#: src/CategoryView.vala:2207
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
 msgstr "Дані одночасно передаються та надходять через мережу"
 
-#: src/CategoryView.vala:2217
+#: src/CategoryView.vala:2212
 msgid "Wired network, such as Ethernet, is disconnected"
 msgstr "Дротова мережа, наприклад, Ethernet, відключена"
 
-#: src/CategoryView.vala:2222
+#: src/CategoryView.vala:2217
 msgid "Item is not starred, favorited, or pinned by the user"
 msgstr ""
 "Елемент не позначений зірочкою, не вподобаний або не закріплений користувачем"
 
-#: src/CategoryView.vala:2227
+#: src/CategoryView.vala:2222
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
 msgstr "Сповіщення вимкнені або режим «Не турбувати»"
 
-#: src/CategoryView.vala:2232
+#: src/CategoryView.vala:2227
 msgid "Error or problem occurred when attempting to print"
 msgstr "Виникла помилка або проблема під час спроби друку"
 
-#: src/CategoryView.vala:2237
+#: src/CategoryView.vala:2232
 msgid "Job has been successfully spooled or sent to a printer"
 msgstr "Завдання успішно розміщено або надіслано на принтер"
 
-#: src/CategoryView.vala:2242
+#: src/CategoryView.vala:2237
 msgid "Process, job, or task has successfully completed or finished"
 msgstr "Процес, робота або завдання успішно виконано або завершено"
 
-#: src/CategoryView.vala:2247
+#: src/CategoryView.vala:2242
 msgid "Process, job, or task has failed or been unsuccessful"
 msgstr "Невдале або неуспішне виконання процесу, роботи або завдання"
 
-#: src/CategoryView.vala:2252
+#: src/CategoryView.vala:2247
 msgid "Process, job, or task is currently paused or on hold"
 msgstr ""
 "Процес, роботу або завдання наразі призупинено або перебуває на утриманні"
 
-#: src/CategoryView.vala:2257
+#: src/CategoryView.vala:2252
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
@@ -1913,11 +1909,11 @@ msgstr ""
 "Відомо, що вони захищені, наприклад, за допомогою надійного шифрування та "
 "дійсного, перевіреного або довіреного сертифіката"
 
-#: src/CategoryView.vala:2262
+#: src/CategoryView.vala:2257
 msgid "Presumed to be secure, such as using encryption"
 msgstr "Передбачається, що вони захищені, наприклад, за допомогою шифрування"
 
-#: src/CategoryView.vala:2267
+#: src/CategoryView.vala:2262
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
@@ -1926,108 +1922,108 @@ msgstr ""
 "зі слабким шифруванням або з недійсним, неперевіреним або ненадійним "
 "сертифікатом"
 
-#: src/CategoryView.vala:2272
+#: src/CategoryView.vala:2267
 msgid "Updated apps, software, or drivers are available"
 msgstr "Доступні оновлення застосунків, програмного забезпечення або драйверів"
 
-#: src/CategoryView.vala:2277
+#: src/CategoryView.vala:2272
 msgid "Urgent or critical updates are available"
 msgstr "Доступні термінові або критичні оновлення"
 
-#: src/CategoryView.vala:2282
+#: src/CategoryView.vala:2277
 msgid "Item is starred, favorited, or pinned by the user"
 msgstr "Елемент позначений зірочкою, уподобаний або закріплений користувачем"
 
-#: src/CategoryView.vala:2287
+#: src/CategoryView.vala:2282
 msgid "Task is due soon"
 msgstr "Завдання має бути виконане найближчим часом"
 
-#: src/CategoryView.vala:2292
+#: src/CategoryView.vala:2287
 msgid "Task is incomplete past the due date"
 msgstr "Завдання не виконано за вказаний час"
 
-#: src/CategoryView.vala:2297
+#: src/CategoryView.vala:2292
 msgid "User, person, or contact is available or online"
 msgstr "Користувач, особа або контакт доступні або онлайн"
 
-#: src/CategoryView.vala:2302
+#: src/CategoryView.vala:2297
 msgid "User, person, or contact is away or unavailable"
 msgstr "Користувач, особа або контакт відсутні або недоступні"
 
-#: src/CategoryView.vala:2307
+#: src/CategoryView.vala:2302
 msgid "User, person, or contact is idle or unresponsive"
 msgstr "Користувач, особа або контакт неактивний або не відповідає"
 
-#: src/CategoryView.vala:2312
+#: src/CategoryView.vala:2307
 msgid "User, person, or contact is offline or unreachable"
 msgstr "Користувач, особа або контакт офлайн або недоступні"
 
-#: src/CategoryView.vala:2317
+#: src/CategoryView.vala:2312
 msgid "Private, anonymous, untracked, or incognito"
 msgstr "Приватний, анонімний, невідстежуваний або інкогніто"
 
-#: src/CategoryView.vala:2322
+#: src/CategoryView.vala:2317
 msgid "Clear skies or sunny weather"
 msgstr "Ясна або сонячна погода"
 
-#: src/CategoryView.vala:2327
+#: src/CategoryView.vala:2322
 msgid "Clear skies weather during the night"
 msgstr "Ясна погода протягом ночі"
 
-#: src/CategoryView.vala:2332
+#: src/CategoryView.vala:2327
 msgid "Partly cloudy, partly clear, or partly sunny weather"
 msgstr "Мінливо хмарна, частково ясна або частково сонячна погода"
 
-#: src/CategoryView.vala:2337
+#: src/CategoryView.vala:2332
 msgid "Partly cloudy or partly clear weather during the night"
 msgstr "Мінливо хмарна або частково ясна погода протягом ночі"
 
-#: src/CategoryView.vala:2342
+#: src/CategoryView.vala:2337
 msgid "Foggy weather"
 msgstr "Туман"
 
-#: src/CategoryView.vala:2347
+#: src/CategoryView.vala:2342
 msgid "Overcast or cloudy weather"
 msgstr "Похмура або хмарна погода"
 
-#: src/CategoryView.vala:2352
+#: src/CategoryView.vala:2347
 msgid "Severe or critical weather warning or alert"
 msgstr ""
 "Попередження чи сповіщення про несприятливі або небезпечні погодні умови"
 
-#: src/CategoryView.vala:2357
+#: src/CategoryView.vala:2352
 msgid "Showers or rainy weather"
 msgstr "Злива або дощ"
 
-#: src/CategoryView.vala:2362
+#: src/CategoryView.vala:2357
 msgid "Scattered showers or partly rainy weather"
 msgstr "Короткочасні дощі або місцями дощова погода"
 
-#: src/CategoryView.vala:2367
+#: src/CategoryView.vala:2362
 msgid "Snow showers or snowy weather"
 msgstr "Снігопади або сніжна погода"
 
-#: src/CategoryView.vala:2372
+#: src/CategoryView.vala:2367
 msgid "Thunderstorms or stormy weather"
 msgstr "Грози або складні погодні умови"
 
-#: src/CategoryView.vala:2382
+#: src/CategoryView.vala:2377
 msgid "Search Names or Descriptions"
 msgstr "Пошук назв або описів"
 
-#: src/IconView.vala:59
+#: src/IconView.vala:60
 msgid "Color Icons"
 msgstr "Кольорові піктограми"
 
-#: src/IconView.vala:66
+#: src/IconView.vala:67
 msgid "Symbolic Icons"
 msgstr "Символічні піктограми"
 
-#: src/IconView.vala:79
+#: src/IconView.vala:80
 msgid "Code Sample"
 msgstr "Зразок коду"
 
-#: src/IconView.vala:161
+#: src/IconView.vala:192
 msgid "Unavailable"
 msgstr "Недоступно"
 
@@ -2042,3 +2038,9 @@ msgstr "Світле тло"
 #: src/MainWindow.vala:20
 msgid "Dark background"
 msgstr "Темне тло"
+
+#~ msgid "Parental control settings"
+#~ msgstr "Налаштування батьківського контролю"
+
+#~ msgid "Bluetooth radio is disabled or off"
+#~ msgstr "Модуль Bluetooth відключено або вимкнено"

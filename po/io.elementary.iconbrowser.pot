@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-01 01:41+0100\n"
+"POT-Creation-Date: 2024-05-21 16:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgstr ""
 msgid "OTHER"
 msgstr ""
 
-#: src/CategoryView.vala:62 src/IconView.vala:13
+#: src/CategoryView.vala:62 src/IconView.vala:15
 msgid "Create a new address book"
 msgstr ""
 
@@ -636,167 +636,167 @@ msgid "Dictionary"
 msgstr ""
 
 #: src/CategoryView.vala:782
-msgid "Text editor"
+msgid "Screenshot application"
 msgstr ""
 
 #: src/CategoryView.vala:787
-msgid "Default or unprovided app icon"
+msgid "Text editor"
 msgstr ""
 
 #: src/CategoryView.vala:792
-msgid "Files"
+msgid "Default or unprovided app icon"
 msgstr ""
 
 #: src/CategoryView.vala:797
-msgid "AppCenter or software installer"
+msgid "Files"
 msgstr ""
 
 #: src/CategoryView.vala:802
-msgid "Software updater"
+msgid "AppCenter or software installer"
 msgstr ""
 
 #: src/CategoryView.vala:807
-msgid "System resource monitor"
+msgid "Software updater"
 msgstr ""
 
 #: src/CategoryView.vala:812
-msgid "Terminal"
+msgid "System resource monitor"
 msgstr ""
 
 #: src/CategoryView.vala:817
-msgid "Accessory or utility app category"
+msgid "Terminal"
 msgstr ""
 
 #: src/CategoryView.vala:822
-msgid "Programming, software development, code, or IDE app category"
+msgid "Accessory or utility app category"
 msgstr ""
 
 #: src/CategoryView.vala:827
-msgid "Education, learning, or school app category"
+msgid "Programming, software development, code, or IDE app category"
 msgstr ""
 
 #: src/CategoryView.vala:832
-msgid "Engineering app category"
+msgid "Education, learning, or school app category"
 msgstr ""
 
 #: src/CategoryView.vala:837
-msgid "Games app category"
+msgid "Engineering app category"
 msgstr ""
 
 #: src/CategoryView.vala:842
-msgid "Graphics, drawing, art, or photo manipulation app category"
+msgid "Games app category"
 msgstr ""
 
 #: src/CategoryView.vala:847
-msgid "Internet or web related app category"
+msgid "Graphics, drawing, art, or photo manipulation app category"
 msgstr ""
 
 #: src/CategoryView.vala:852
-msgid "Multimedia, audio, or video app category"
+msgid "Internet or web related app category"
 msgstr ""
 
 #: src/CategoryView.vala:857
-msgid "Office app category"
+msgid "Multimedia, audio, or video app category"
 msgstr ""
 
 #: src/CategoryView.vala:862
-msgid "Other or uncategorized app category"
+msgid "Office app category"
 msgstr ""
 
 #: src/CategoryView.vala:867
-msgid "Science app category"
+msgid "Other or uncategorized app category"
 msgstr ""
 
 #: src/CategoryView.vala:872
-msgid "System tools or OS app category"
+msgid "Science app category"
 msgstr ""
 
 #: src/CategoryView.vala:877
-msgid "Utility app category"
+msgid "System tools or OS app category"
 msgstr ""
 
 #: src/CategoryView.vala:882
-msgid "Bluetooth settings"
+msgid "Utility app category"
 msgstr ""
 
 #: src/CategoryView.vala:887
-msgid "Color settings such as printer, display, or camera calibration"
+msgid "Bluetooth settings"
 msgstr ""
 
 #: src/CategoryView.vala:892
-msgid "Desktop interface settings"
+msgid "Color settings such as printer, display, or camera calibration"
 msgstr ""
 
 #: src/CategoryView.vala:897
-msgid "Universal access settings"
+msgid "Desktop interface settings"
 msgstr ""
 
 #: src/CategoryView.vala:902
-msgid "Universal access settings for pointing, such as controlling the cursor"
+msgid "Universal access settings"
 msgstr ""
 
 #: src/CategoryView.vala:907
-msgid "Universal access settings for zooming or magnifying"
+msgid "Universal access settings for pointing, such as controlling the cursor"
 msgstr ""
 
 #: src/CategoryView.vala:912
-msgid "App-related settings, such as default or startup apps"
+msgid "Universal access settings for zooming or magnifying"
 msgstr ""
 
 #: src/CategoryView.vala:917
-msgid "Display settings, such as resolution or scaling"
+msgid "App-related settings, such as default or startup apps"
 msgstr ""
 
 #: src/CategoryView.vala:922
-msgid "Font settings"
+msgid "Display settings, such as resolution or scaling"
 msgstr ""
 
 #: src/CategoryView.vala:927
-msgid "Keyboard settings, such as layout or shortcuts"
+msgid "Font settings"
 msgstr ""
 
 #: src/CategoryView.vala:932
-msgid "International localization, language, or region settings"
+msgid "Keyboard settings, such as layout or shortcuts"
 msgstr ""
 
 #: src/CategoryView.vala:937
-msgid "Online account and cloud sync or sign in settings"
+msgid "International localization, language, or region settings"
 msgstr ""
 
 #: src/CategoryView.vala:942
-msgid "Settings for peripherals, such as a mouse or keyboard"
+msgid "Online account and cloud sync or sign in settings"
 msgstr ""
 
 #: src/CategoryView.vala:947
-msgid "Sound or audio input and output settings"
+msgid "Settings for peripherals, such as a mouse or keyboard"
 msgstr ""
 
 #: src/CategoryView.vala:952
-msgid "Look and feel, appearance, style, or theme settings"
+msgid "Sound or audio input and output settings"
 msgstr ""
 
 #: src/CategoryView.vala:957
-msgid "Desktop wallpaper or background settings"
+msgid "Look and feel, appearance, style, or theme settings"
 msgstr ""
 
 #: src/CategoryView.vala:962
-msgid "Other, miscellaneous, or uncategorized settings"
+msgid "Desktop wallpaper or background settings"
 msgstr ""
 
 #: src/CategoryView.vala:967
-msgid "System settings or preferences"
+msgid "Other, miscellaneous, or uncategorized settings"
 msgstr ""
 
 #: src/CategoryView.vala:972
-msgid "Network settings, such as wireless, Ethernet, or VPN"
+msgid "System settings or preferences"
 msgstr ""
 
 #: src/CategoryView.vala:977
-msgid "Notification alert settings"
+msgid "Network settings, such as wireless, Ethernet, or VPN"
 msgstr ""
 
 #: src/CategoryView.vala:982
-msgid "Parental control settings"
+msgid "Notification alert settings"
 msgstr ""
 
 #: src/CategoryView.vala:987
@@ -1674,280 +1674,276 @@ msgid "Missing or malfunctioning battery"
 msgstr ""
 
 #: src/CategoryView.vala:2067
-msgid "Bluetooth radio is disabled or off"
-msgstr ""
-
-#: src/CategoryView.vala:2072
 msgid "Allow changes by unlocking such as with a password"
 msgstr ""
 
-#: src/CategoryView.vala:2077
+#: src/CategoryView.vala:2072
 msgid "Prevent changes by locking such as with a password"
 msgstr ""
 
-#: src/CategoryView.vala:2082
+#: src/CategoryView.vala:2077
 msgid ""
 "Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
 msgstr ""
 
-#: src/CategoryView.vala:2087
+#: src/CategoryView.vala:2082
 msgid ""
 "Secure or encrypted communication or connection, such as HTTPS or encrypted "
 "Wi-Fi"
 msgstr ""
 
-#: src/CategoryView.vala:2092
+#: src/CategoryView.vala:2087
 msgid "Critical, unrecoverable, or other serious error"
 msgstr ""
 
-#: src/CategoryView.vala:2097
+#: src/CategoryView.vala:2092
 msgid "Contextual information or explanation"
 msgstr ""
 
-#: src/CategoryView.vala:2102
+#: src/CategoryView.vala:2097
 msgid "Requesting authentication details, such as a password or encryption key"
 msgstr ""
 
-#: src/CategoryView.vala:2107
+#: src/CategoryView.vala:2102
 msgid "Question, decision, or choice for the user"
 msgstr ""
 
-#: src/CategoryView.vala:2112
+#: src/CategoryView.vala:2107
 msgid "Warning of potentially dangerous actions or consequences"
 msgstr ""
 
-#: src/CategoryView.vala:2117
+#: src/CategoryView.vala:2112
 msgid "Placeholder used when an image or thumbnail is loading"
 msgstr ""
 
-#: src/CategoryView.vala:2122
+#: src/CategoryView.vala:2117
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
 msgstr ""
 
-#: src/CategoryView.vala:2127
+#: src/CategoryView.vala:2122
 msgid "Location services are in use"
 msgstr ""
 
-#: src/CategoryView.vala:2132
+#: src/CategoryView.vala:2127
 msgid "Location services are disabled and unavailable"
 msgstr ""
 
-#: src/CategoryView.vala:2137
+#: src/CategoryView.vala:2132
 msgid "Location services are available, but not in use"
 msgstr ""
 
-#: src/CategoryView.vala:2142
+#: src/CategoryView.vala:2137
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
 msgstr ""
 
-#: src/CategoryView.vala:2147
+#: src/CategoryView.vala:2142
 msgid "Mail attachment or file in an email"
 msgstr ""
 
-#: src/CategoryView.vala:2152
+#: src/CategoryView.vala:2147
 msgid "New, unread, or unviewed email"
 msgstr ""
 
-#: src/CategoryView.vala:2157
+#: src/CategoryView.vala:2152
 msgid "Read or already-viewed email"
 msgstr ""
 
-#: src/CategoryView.vala:2162
+#: src/CategoryView.vala:2157
 msgid "Email that has been replied or responded to"
 msgstr ""
 
-#: src/CategoryView.vala:2167
+#: src/CategoryView.vala:2162
 msgid "Email that contains a signature"
 msgstr ""
 
-#: src/CategoryView.vala:2172
+#: src/CategoryView.vala:2167
 msgid "Email that contains a signature that is verified by the security system"
 msgstr ""
 
-#: src/CategoryView.vala:2177
+#: src/CategoryView.vala:2172
 msgid "Repeat a song, video, track, album, playlist, or other media"
 msgstr ""
 
-#: src/CategoryView.vala:2182
+#: src/CategoryView.vala:2177
 msgid "Shuffle or randomize an album, playlist, or other media"
 msgstr ""
 
-#: src/CategoryView.vala:2187
+#: src/CategoryView.vala:2182
 msgid "Error or problem initializing or creating a network connection"
 msgstr ""
 
-#: src/CategoryView.vala:2192
+#: src/CategoryView.vala:2187
 msgid "No data being transmitted or received while connected to a network"
 msgstr ""
 
-#: src/CategoryView.vala:2197
+#: src/CategoryView.vala:2192
 msgid "Disconnected or offline from a network"
 msgstr ""
 
-#: src/CategoryView.vala:2202
+#: src/CategoryView.vala:2197
 msgid "Data is being received over a network"
 msgstr ""
 
-#: src/CategoryView.vala:2207
+#: src/CategoryView.vala:2202
 msgid "Data is being transmitted over a network"
 msgstr ""
 
-#: src/CategoryView.vala:2212
+#: src/CategoryView.vala:2207
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
 msgstr ""
 
-#: src/CategoryView.vala:2217
+#: src/CategoryView.vala:2212
 msgid "Wired network, such as Ethernet, is disconnected"
 msgstr ""
 
-#: src/CategoryView.vala:2222
+#: src/CategoryView.vala:2217
 msgid "Item is not starred, favorited, or pinned by the user"
 msgstr ""
 
-#: src/CategoryView.vala:2227
+#: src/CategoryView.vala:2222
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
 msgstr ""
 
-#: src/CategoryView.vala:2232
+#: src/CategoryView.vala:2227
 msgid "Error or problem occurred when attempting to print"
 msgstr ""
 
-#: src/CategoryView.vala:2237
+#: src/CategoryView.vala:2232
 msgid "Job has been successfully spooled or sent to a printer"
 msgstr ""
 
-#: src/CategoryView.vala:2242
+#: src/CategoryView.vala:2237
 msgid "Process, job, or task has successfully completed or finished"
 msgstr ""
 
-#: src/CategoryView.vala:2247
+#: src/CategoryView.vala:2242
 msgid "Process, job, or task has failed or been unsuccessful"
 msgstr ""
 
-#: src/CategoryView.vala:2252
+#: src/CategoryView.vala:2247
 msgid "Process, job, or task is currently paused or on hold"
 msgstr ""
 
-#: src/CategoryView.vala:2257
+#: src/CategoryView.vala:2252
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
 msgstr ""
 
-#: src/CategoryView.vala:2262
+#: src/CategoryView.vala:2257
 msgid "Presumed to be secure, such as using encryption"
 msgstr ""
 
-#: src/CategoryView.vala:2267
+#: src/CategoryView.vala:2262
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
 msgstr ""
 
-#: src/CategoryView.vala:2272
+#: src/CategoryView.vala:2267
 msgid "Updated apps, software, or drivers are available"
 msgstr ""
 
-#: src/CategoryView.vala:2277
+#: src/CategoryView.vala:2272
 msgid "Urgent or critical updates are available"
 msgstr ""
 
-#: src/CategoryView.vala:2282
+#: src/CategoryView.vala:2277
 msgid "Item is starred, favorited, or pinned by the user"
 msgstr ""
 
-#: src/CategoryView.vala:2287
+#: src/CategoryView.vala:2282
 msgid "Task is due soon"
 msgstr ""
 
-#: src/CategoryView.vala:2292
+#: src/CategoryView.vala:2287
 msgid "Task is incomplete past the due date"
 msgstr ""
 
-#: src/CategoryView.vala:2297
+#: src/CategoryView.vala:2292
 msgid "User, person, or contact is available or online"
 msgstr ""
 
-#: src/CategoryView.vala:2302
+#: src/CategoryView.vala:2297
 msgid "User, person, or contact is away or unavailable"
 msgstr ""
 
-#: src/CategoryView.vala:2307
+#: src/CategoryView.vala:2302
 msgid "User, person, or contact is idle or unresponsive"
 msgstr ""
 
-#: src/CategoryView.vala:2312
+#: src/CategoryView.vala:2307
 msgid "User, person, or contact is offline or unreachable"
 msgstr ""
 
-#: src/CategoryView.vala:2317
+#: src/CategoryView.vala:2312
 msgid "Private, anonymous, untracked, or incognito"
 msgstr ""
 
-#: src/CategoryView.vala:2322
+#: src/CategoryView.vala:2317
 msgid "Clear skies or sunny weather"
 msgstr ""
 
-#: src/CategoryView.vala:2327
+#: src/CategoryView.vala:2322
 msgid "Clear skies weather during the night"
 msgstr ""
 
-#: src/CategoryView.vala:2332
+#: src/CategoryView.vala:2327
 msgid "Partly cloudy, partly clear, or partly sunny weather"
 msgstr ""
 
-#: src/CategoryView.vala:2337
+#: src/CategoryView.vala:2332
 msgid "Partly cloudy or partly clear weather during the night"
 msgstr ""
 
-#: src/CategoryView.vala:2342
+#: src/CategoryView.vala:2337
 msgid "Foggy weather"
 msgstr ""
 
-#: src/CategoryView.vala:2347
+#: src/CategoryView.vala:2342
 msgid "Overcast or cloudy weather"
 msgstr ""
 
-#: src/CategoryView.vala:2352
+#: src/CategoryView.vala:2347
 msgid "Severe or critical weather warning or alert"
 msgstr ""
 
-#: src/CategoryView.vala:2357
+#: src/CategoryView.vala:2352
 msgid "Showers or rainy weather"
 msgstr ""
 
-#: src/CategoryView.vala:2362
+#: src/CategoryView.vala:2357
 msgid "Scattered showers or partly rainy weather"
 msgstr ""
 
-#: src/CategoryView.vala:2367
+#: src/CategoryView.vala:2362
 msgid "Snow showers or snowy weather"
 msgstr ""
 
-#: src/CategoryView.vala:2372
+#: src/CategoryView.vala:2367
 msgid "Thunderstorms or stormy weather"
 msgstr ""
 
-#: src/CategoryView.vala:2382
+#: src/CategoryView.vala:2377
 msgid "Search Names or Descriptions"
 msgstr ""
 
-#: src/IconView.vala:59
+#: src/IconView.vala:60
 msgid "Color Icons"
 msgstr ""
 
-#: src/IconView.vala:66
+#: src/IconView.vala:67
 msgid "Symbolic Icons"
 msgstr ""
 
-#: src/IconView.vala:79
+#: src/IconView.vala:80
 msgid "Code Sample"
 msgstr ""
 
-#: src/IconView.vala:161
+#: src/IconView.vala:192
 msgid "Unavailable"
 msgstr ""
 
