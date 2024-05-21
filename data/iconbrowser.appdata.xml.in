@@ -45,6 +45,7 @@
   <releases>
     <release version="8.0.0" date="2024-05-20">
       <description>
+        <p>Update icon list to match Platform 8</p>
         <p>Update translations</p>
       </description>
     </release>
