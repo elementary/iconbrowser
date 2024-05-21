@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-21 16:33+0000\n"
-"PO-Revision-Date: 2024-05-09 13:13+0000\n"
+"PO-Revision-Date: 2024-05-22 22:13+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -117,7 +117,7 @@ msgstr "画面上の色を選択"
 
 #: src/CategoryView.vala:132
 msgid "Create a new contact in an address book application"
-msgstr "アドレス帳アプリケーション内で、新しい連絡先を作成"
+msgstr "アドレス帳アプリケーション内で新しい連絡先を作成"
 
 #: src/CategoryView.vala:137
 msgid "Distribute the center lines of objects horizontally"
@@ -639,7 +639,7 @@ msgstr "辞書"
 
 #: src/CategoryView.vala:782
 msgid "Screenshot application"
-msgstr ""
+msgstr "スクリーンショットアプリケーション"
 
 #: src/CategoryView.vala:787
 msgid "Text editor"
