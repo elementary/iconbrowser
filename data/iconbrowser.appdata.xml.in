@@ -16,11 +16,11 @@
   <screenshots>
     <screenshot type="default">
       <caption>Browse system icons</caption>
-      <image width="1034" height="710">https://raw.githubusercontent.com/elementary/iconbrowser/2.2.0/data/screenshot.png</image>
+      <image width="1034" height="710">https://raw.githubusercontent.com/elementary/iconbrowser/8.0.0/data/screenshot.png</image>
     </screenshot>
     <screenshot>
       <caption>Search by description</caption>
-      <image width="1034" height="710">https://raw.githubusercontent.com/elementary/iconbrowser/2.2.0/data/screenshot2.png</image>
+      <image width="1034" height="710">https://raw.githubusercontent.com/elementary/iconbrowser/8.0.0/data/screenshot2.png</image>
     </screenshot>
   </screenshots>
 
@@ -43,7 +43,7 @@
   <update_contact>contact_at_elementary.io</update_contact>
 
   <releases>
-    <release version="8.0.0" date="2024-05-20">
+    <release version="8.0.0" date="2024-05-21">
       <description>
         <p>Update icon list to match Platform 8</p>
         <p>Update translations</p>
