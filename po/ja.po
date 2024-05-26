@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-21 16:33+0000\n"
-"PO-Revision-Date: 2024-05-22 22:13+0000\n"
+"PO-Revision-Date: 2024-05-27 07:13+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -559,7 +559,7 @@ msgstr "現在のビューをスクロール可能な一覧で表示"
 
 #: src/CategoryView.vala:682
 msgid "display the current view as a split, dual view"
-msgstr "現在のビューを分割した2つのビューで表示"
+msgstr "現在のビューを分割した 2 つのビューで表示"
 
 #: src/CategoryView.vala:687
 msgid "View fullscreen"
