@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-21 16:33+0000\n"
-"PO-Revision-Date: 2024-05-27 07:13+0000\n"
+"PO-Revision-Date: 2024-06-27 16:16+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.5\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
@@ -365,7 +365,7 @@ msgstr "アプリについての情報"
 
 #: src/CategoryView.vala:442
 msgid "Get help"
-msgstr "ヘルプを見る"
+msgstr "サポートを受ける"
 
 #: src/CategoryView.vala:447
 msgid "Frequently asked questions"
