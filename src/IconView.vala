@@ -8,6 +8,7 @@ public class IconView : Gtk.Box {
     public CategoryView.Category category { get; construct set; }
 
     private GtkSource.Buffer source_buffer;
+    private Gtk.Button copy_button;
 
     public IconView () {
         Object (
@@ -103,6 +104,24 @@ public class IconView : Gtk.Box {
         source_view.add_css_class (Granite.STYLE_CLASS_CARD);
         source_view.add_css_class (Granite.STYLE_CLASS_ROUNDED);
 
+        copy_button = new Gtk.Button.with_label (_("Copy")) {
+            valign = START,
+            halign = END,
+            visible = false,
+            margin_top = 8,
+            margin_end = 8
+        };
+        copy_button.add_css_class (Granite.STYLE_CLASS_SMALL_LABEL);
+        copy_button.add_css_class ("copy-button");
+
+        var copy_visible_controller = new Gtk.EventControllerMotion ();
+
+        var source_overlay = new Gtk.Overlay () {
+            child = source_view
+        };
+        source_overlay.add_overlay (copy_button);
+        source_overlay.add_controller (copy_visible_controller);
+
         var content_area = new Gtk.Box (Gtk.Orientation.VERTICAL, 12) {
             vexpand = true
         };
@@ -112,7 +131,7 @@ public class IconView : Gtk.Box {
         content_area.append (symbolic_title);
         content_area.append (symbolic_row);
         content_area.append (snippet_title);
-        content_area.append (source_view);
+        content_area.append (source_overlay);
 
         var scrolled = new Gtk.ScrolledWindow () {
             child = content_area,
@@ -163,6 +182,16 @@ public class IconView : Gtk.Box {
             color_row.unselect_all ();
             child_activated (child);
         });
+
+        copy_button.clicked.connect (copy_button_clicked);
+
+        copy_visible_controller.enter.connect (() => {
+            copy_button.visible = true;
+        });
+
+        copy_visible_controller.leave.connect (() => {
+            copy_button.visible = false;
+        });
     }
 
     private void child_activated (Gtk.FlowBoxChild child) {
@@ -177,6 +206,16 @@ public class IconView : Gtk.Box {
                 source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\");".printf (icon.icon_name);
             }
         }
+    }
+
+    private void copy_button_clicked () {
+        unowned var clipboard = get_clipboard ();
+        clipboard.set_text (source_buffer.text);
+
+        copy_button.label = _("Copied!");
+        Timeout.add_once (1000, () => {
+            copy_button.label = _("Copy");
+        });
     }
 
     private void fill_icon_row (string _icon_name, Gtk.FlowBox row) {

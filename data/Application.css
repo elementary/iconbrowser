@@ -40,3 +40,9 @@
 .content-area {
     padding: 1.33rem;
 }
+
+.copy-button {
+    background: none;
+    border: 1px solid @borders;
+    box-shadow: none;
+}
