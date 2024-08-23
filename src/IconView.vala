@@ -115,6 +115,8 @@ public class IconView : Gtk.Box {
         copy_button.add_css_class ("copy-button");
 
         var copy_visible_controller = new Gtk.EventControllerMotion ();
+        copy_visible_controller.bind_property ("contains-pointer", copy_button, "visible",
+                                                BindingFlags.DEFAULT | BindingFlags.SYNC_CREATE);
 
         var source_overlay = new Gtk.Overlay () {
             child = source_view
@@ -184,14 +186,6 @@ public class IconView : Gtk.Box {
         });
 
         copy_button.clicked.connect (copy_button_clicked);
-
-        copy_visible_controller.enter.connect (() => {
-            copy_button.visible = true;
-        });
-
-        copy_visible_controller.leave.connect (() => {
-            copy_button.visible = false;
-        });
     }
 
     private void child_activated (Gtk.FlowBoxChild child) {
