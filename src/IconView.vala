@@ -112,10 +112,11 @@ public class IconView : Gtk.Box {
         };
         copy_button.add_css_class (Granite.STYLE_CLASS_SMALL_LABEL);
 
+        // Make copy button visible with fade animation when source view contains pointer or focus
         var copy_button_revealer = new Gtk.Revealer () {
+            child = copy_button,
             valign = START,
             halign = END,
-            child = copy_button,
             transition_type = CROSSFADE,
             overflow = VISIBLE
         };
