@@ -108,15 +108,16 @@ public class IconView : Gtk.Box {
             valign = START,
             halign = END,
             visible = false,
-            margin_top = 8,
-            margin_end = 8
+            margin_top = 6,
+            margin_end = 6
         };
         copy_button.add_css_class (Granite.STYLE_CLASS_SMALL_LABEL);
         copy_button.add_css_class ("copy-button");
 
         var copy_visible_controller = new Gtk.EventControllerMotion ();
-        copy_visible_controller.bind_property ("contains-pointer", copy_button, "visible",
-                                                BindingFlags.DEFAULT | BindingFlags.SYNC_CREATE);
+        copy_visible_controller.bind_property (
+            "contains-pointer", copy_button, "visible", DEFAULT | SYNC_CREATE
+        );
 
         var source_overlay = new Gtk.Overlay () {
             child = source_view
