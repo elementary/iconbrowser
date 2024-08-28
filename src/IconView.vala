@@ -112,7 +112,6 @@ public class IconView : Gtk.Box {
             margin_end = 6
         };
         copy_button.add_css_class (Granite.STYLE_CLASS_SMALL_LABEL);
-        copy_button.add_css_class ("copy-button");
 
         var copy_visible_controller = new Gtk.EventControllerMotion ();
         copy_visible_controller.bind_property (
