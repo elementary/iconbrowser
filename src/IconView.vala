@@ -107,22 +107,29 @@ public class IconView : Gtk.Box {
         copy_button = new Gtk.Button.with_label (_("Copy")) {
             valign = START,
             halign = END,
-            visible = false,
             margin_top = 6,
             margin_end = 6
         };
         copy_button.add_css_class (Granite.STYLE_CLASS_SMALL_LABEL);
 
-        var copy_visible_controller = new Gtk.EventControllerMotion ();
-        copy_visible_controller.bind_property (
-            "contains-pointer", copy_button, "visible", DEFAULT | SYNC_CREATE
+        var copy_button_revealer = new Gtk.Revealer () {
+            valign = START,
+            halign = END,
+            child = copy_button,
+            transition_type = CROSSFADE,
+            overflow = VISIBLE
+        };
+
+        var copy_button_controller = new Gtk.EventControllerMotion ();
+        copy_button_controller.bind_property (
+            "contains-pointer", copy_button_revealer, "reveal-child", DEFAULT | SYNC_CREATE
         );
 
         var source_overlay = new Gtk.Overlay () {
             child = source_view
         };
-        source_overlay.add_overlay (copy_button);
-        source_overlay.add_controller (copy_visible_controller);
+        source_overlay.add_overlay (copy_button_revealer);
+        source_overlay.add_controller (copy_button_controller);
 
         var content_area = new Gtk.Box (Gtk.Orientation.VERTICAL, 12) {
             vexpand = true
