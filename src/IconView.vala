@@ -120,16 +120,22 @@ public class IconView : Gtk.Box {
             overflow = VISIBLE
         };
 
-        var copy_button_controller = new Gtk.EventControllerMotion ();
-        copy_button_controller.bind_property (
+        var copy_controller_motion = new Gtk.EventControllerMotion ();
+        copy_controller_motion.bind_property (
             "contains-pointer", copy_button_revealer, "reveal-child", DEFAULT | SYNC_CREATE
+        );
+
+        var copy_controller_focus = new Gtk.EventControllerFocus ();
+        copy_controller_focus.bind_property (
+            "contains-focus", copy_button_revealer, "reveal-child", DEFAULT | SYNC_CREATE
         );
 
         var source_overlay = new Gtk.Overlay () {
             child = source_view
         };
         source_overlay.add_overlay (copy_button_revealer);
-        source_overlay.add_controller (copy_button_controller);
+        source_overlay.add_controller (copy_controller_motion);
+        source_overlay.add_controller (copy_controller_focus);
 
         var content_area = new Gtk.Box (Gtk.Orientation.VERTICAL, 12) {
             vexpand = true
