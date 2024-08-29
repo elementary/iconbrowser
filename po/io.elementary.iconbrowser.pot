@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-21 16:33+0000\n"
+"POT-Creation-Date: 2024-08-29 20:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgstr ""
 msgid "OTHER"
 msgstr ""
 
-#: src/CategoryView.vala:62 src/IconView.vala:15
+#: src/CategoryView.vala:62 src/IconView.vala:16
 msgid "Create a new address book"
 msgstr ""
 
@@ -209,7 +209,7 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-#: src/CategoryView.vala:252
+#: src/CategoryView.vala:252 src/IconView.vala:107 src/IconView.vala:225
 msgid "Copy"
 msgstr ""
 
@@ -1931,19 +1931,23 @@ msgstr ""
 msgid "Search Names or Descriptions"
 msgstr ""
 
-#: src/IconView.vala:60
+#: src/IconView.vala:61
 msgid "Color Icons"
 msgstr ""
 
-#: src/IconView.vala:67
+#: src/IconView.vala:68
 msgid "Symbolic Icons"
 msgstr ""
 
-#: src/IconView.vala:80
+#: src/IconView.vala:81
 msgid "Code Sample"
 msgstr ""
 
-#: src/IconView.vala:192
+#: src/IconView.vala:223
+msgid "Copied!"
+msgstr ""
+
+#: src/IconView.vala:239
 msgid "Unavailable"
 msgstr ""
 
