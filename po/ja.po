@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-29 20:26+0000\n"
-"PO-Revision-Date: 2024-08-04 00:16+0000\n"
+"PO-Revision-Date: 2024-08-30 22:16+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -1967,7 +1967,7 @@ msgstr "コード例"
 
 #: src/IconView.vala:223
 msgid "Copied!"
-msgstr ""
+msgstr "コピーしました!"
 
 #: src/IconView.vala:239
 msgid "Unavailable"
