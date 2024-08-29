@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-21 16:33+0000\n"
+"POT-Creation-Date: 2024-08-29 20:26+0000\n"
 "PO-Revision-Date: 2024-08-04 00:16+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
@@ -59,7 +59,7 @@ msgstr "ステータス"
 msgid "OTHER"
 msgstr "そのほか"
 
-#: src/CategoryView.vala:62 src/IconView.vala:15
+#: src/CategoryView.vala:62 src/IconView.vala:16
 msgid "Create a new address book"
 msgstr "新しいアドレス帳を作成"
 
@@ -211,7 +211,7 @@ msgstr "編集"
 msgid "Clear"
 msgstr "消去"
 
-#: src/CategoryView.vala:252
+#: src/CategoryView.vala:252 src/IconView.vala:107 src/IconView.vala:225
 msgid "Copy"
 msgstr "コピー"
 
@@ -1953,19 +1953,23 @@ msgstr "雷雨または暴風雨"
 msgid "Search Names or Descriptions"
 msgstr "アイコン名または説明で検索"
 
-#: src/IconView.vala:60
+#: src/IconView.vala:61
 msgid "Color Icons"
 msgstr "色付きアイコン"
 
-#: src/IconView.vala:67
+#: src/IconView.vala:68
 msgid "Symbolic Icons"
 msgstr "シンボリックアイコン"
 
-#: src/IconView.vala:80
+#: src/IconView.vala:81
 msgid "Code Sample"
 msgstr "コード例"
 
-#: src/IconView.vala:192
+#: src/IconView.vala:223
+msgid "Copied!"
+msgstr ""
+
+#: src/IconView.vala:239
 msgid "Unavailable"
 msgstr "利用不可"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-21 16:33+0000\n"
+"POT-Creation-Date: 2024-08-29 20:26+0000\n"
 "PO-Revision-Date: 2024-06-15 17:16+0000\n"
 "Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
@@ -60,7 +60,7 @@ msgstr "Состояние"
 msgid "OTHER"
 msgstr "ДРУГОЕ"
 
-#: src/CategoryView.vala:62 src/IconView.vala:15
+#: src/CategoryView.vala:62 src/IconView.vala:16
 msgid "Create a new address book"
 msgstr "Создать новую адресную книгу"
 
@@ -212,7 +212,7 @@ msgstr "Изменить"
 msgid "Clear"
 msgstr "Очистить"
 
-#: src/CategoryView.vala:252
+#: src/CategoryView.vala:252 src/IconView.vala:107 src/IconView.vala:225
 msgid "Copy"
 msgstr "Копировать"
 
@@ -1981,19 +1981,23 @@ msgstr "Грозы или штормовая погода"
 msgid "Search Names or Descriptions"
 msgstr "Поиск по названию или описанию"
 
-#: src/IconView.vala:60
+#: src/IconView.vala:61
 msgid "Color Icons"
 msgstr "Цветные значки"
 
-#: src/IconView.vala:67
+#: src/IconView.vala:68
 msgid "Symbolic Icons"
 msgstr "Символьные значки"
 
-#: src/IconView.vala:80
+#: src/IconView.vala:81
 msgid "Code Sample"
 msgstr "Образец кода"
 
-#: src/IconView.vala:192
+#: src/IconView.vala:223
+msgid "Copied!"
+msgstr ""
+
+#: src/IconView.vala:239
 msgid "Unavailable"
 msgstr "Недоступно"
 

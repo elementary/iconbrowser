@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.github.danrabbit.lookbook\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-21 16:33+0000\n"
+"POT-Creation-Date: 2024-08-29 20:26+0000\n"
 "PO-Revision-Date: 2024-05-23 19:12+0000\n"
 "Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
-"Language-Team: French <https://l10n.elementary.io/projects/icon-browser/"
-"icon-browser/fr/>\n"
+"Language-Team: French <https://l10n.elementary.io/projects/icon-browser/icon-"
+"browser/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,7 +59,7 @@ msgstr "Statut"
 msgid "OTHER"
 msgstr "DIVERS"
 
-#: src/CategoryView.vala:62 src/IconView.vala:15
+#: src/CategoryView.vala:62 src/IconView.vala:16
 msgid "Create a new address book"
 msgstr "Créer un nouveau carnet d'adresses"
 
@@ -211,7 +211,7 @@ msgstr "Modifier"
 msgid "Clear"
 msgstr "Effacer"
 
-#: src/CategoryView.vala:252
+#: src/CategoryView.vala:252 src/IconView.vala:107 src/IconView.vala:225
 msgid "Copy"
 msgstr "Copier"
 
@@ -2018,19 +2018,23 @@ msgstr "Orages ou tempêtes ou temps orageux"
 msgid "Search Names or Descriptions"
 msgstr "Rechercher par nom ou description"
 
-#: src/IconView.vala:60
+#: src/IconView.vala:61
 msgid "Color Icons"
 msgstr "Icônes de couleur"
 
-#: src/IconView.vala:67
+#: src/IconView.vala:68
 msgid "Symbolic Icons"
 msgstr "Icônes symboliques"
 
-#: src/IconView.vala:80
+#: src/IconView.vala:81
 msgid "Code Sample"
 msgstr "Exemple de code"
 
-#: src/IconView.vala:192
+#: src/IconView.vala:223
+msgid "Copied!"
+msgstr ""
+
+#: src/IconView.vala:239
 msgid "Unavailable"
 msgstr "Indisponible"
 
