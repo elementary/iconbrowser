@@ -36,7 +36,7 @@ executable(
     'src/Widgets/IconListRow.vala',
     'src/Widgets/SidebarRow.vala',
     dependencies: [
-        dependency('glib-2.0'),
+        dependency('glib-2.0', version: '>= 2.78'),
         dependency('gobject-2.0'),
         dependency('granite-7'),
         dependency('gtk4'),
