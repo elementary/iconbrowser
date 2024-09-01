@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-28 11:33-0700\n"
+"POT-Creation-Date: 2024-09-01 10:33+0000\n"
 "PO-Revision-Date: 2022-11-06 22:57+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
@@ -19,11 +19,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.4.2\n"
 
-#: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
+#: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:10
 msgid "Icon Browser"
 msgstr "Explorador de ícones"
 
-#: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:10
+#: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:11
 msgid "Browse and find system icons"
 msgstr "Pesquise e encontre ícones de sistema"
 
@@ -31,7 +31,7 @@ msgstr "Pesquise e encontre ícones de sistema"
 msgid "icons;iconography;"
 msgstr "ícones;iconografia;"
 
-#: data/iconbrowser.appdata.xml.in:12
+#: data/iconbrowser.appdata.xml.in:13
 msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
@@ -40,73 +40,69 @@ msgstr ""
 "ícones em diferentes tamanhos e obtenha uma amostra de código para usar nas "
 "suas aplicações."
 
-#: data/iconbrowser.appdata.xml.in:17
+#: data/iconbrowser.appdata.xml.in:18
 msgid "Browse system icons"
 msgstr "Explore ícones do sistema"
 
-#: data/iconbrowser.appdata.xml.in:21
+#: data/iconbrowser.appdata.xml.in:22
 msgid "Search by description"
 msgstr "Procurar por descrição"
 
-#: data/iconbrowser.appdata.xml.in:38
-msgid "elementary, Inc."
-msgstr "elementary, Inc."
-
-#: data/iconbrowser.appdata.xml.in:45
-msgid "A modern redesign!"
-msgstr "Um redesenho moderno!"
-
-#: data/iconbrowser.appdata.xml.in:47
-msgid "Fancy new icon"
-msgstr "Ícone novo e elegante"
-
 #: data/iconbrowser.appdata.xml.in:48
-msgid "Drag the window from anywhere"
-msgstr "Arraste a janela a partir de qualquer lugar"
-
-#: data/iconbrowser.appdata.xml.in:49
-msgid "Follow the system dark style preference"
-msgstr "Segue a preferência de estilo escuro do sistema"
-
-#: data/iconbrowser.appdata.xml.in:50
-msgid "Updated for Gtk 4"
-msgstr "Atualizado para Gtk4"
-
-#: data/iconbrowser.appdata.xml.in:62
-msgid "Add \"audio-headphones\" and \"audio-headset\""
+msgid "Update icon list to match Platform 8"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:63
-msgid "Add \"distribute-*\" action icons"
+#: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:55
+#: data/iconbrowser.appdata.xml.in:65
+msgid "Update translations"
 msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:64
-msgid "Disable sidebar when searching"
+msgid "Fixed an error that prevented app startup"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:65
-msgid "Remove app icons that aren't in the freedesktop.org specification"
+#: data/iconbrowser.appdata.xml.in:71
+msgid "Updated with the latest icons:"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:66
-msgid "Add status emblems"
-msgstr ""
-
-#: data/iconbrowser.appdata.xml.in:67
-msgid "Mimetypes → Media Types"
-msgstr ""
-
-#: data/iconbrowser.appdata.xml.in:68
-msgid "Added French and Portuguese translations"
+#: data/iconbrowser.appdata.xml.in:73
+msgid "\"preferences-desktop-theme\""
 msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:74
-msgid "Better support for symbolic-only icons and under the hood improvements!"
+msgid "\"application-x-sharedlib\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:79
-msgid "Initial release! 🎉️"
+#: data/iconbrowser.appdata.xml.in:75
+msgid "\"process-paused\""
 msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:76
+msgid "\"process-error\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:83
+msgid "A modern redesign!"
+msgstr "Um redesenho moderno!"
+
+#: data/iconbrowser.appdata.xml.in:85
+msgid "Fancy new icon"
+msgstr "Ícone novo e elegante"
+
+#: data/iconbrowser.appdata.xml.in:86
+msgid "Drag the window from anywhere"
+msgstr "Arraste a janela a partir de qualquer lugar"
+
+#: data/iconbrowser.appdata.xml.in:87
+msgid "Follow the system dark style preference"
+msgstr "Segue a preferência de estilo escuro do sistema"
+
+#: data/iconbrowser.appdata.xml.in:88
+msgid "Updated for Gtk 4"
+msgstr "Atualizado para Gtk4"
+
+#~ msgid "elementary, Inc."
+#~ msgstr "elementary, Inc."
 
 #~ msgid "LookBook"
 #~ msgstr "LookBook"

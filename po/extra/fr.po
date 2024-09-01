@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-28 11:33-0700\n"
+"POT-Creation-Date: 2024-09-01 10:33+0000\n"
 "PO-Revision-Date: 2022-11-09 09:29+0000\n"
 "Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
 "Language-Team: French <https://l10n.elementary.io/projects/icon-browser/"
@@ -19,11 +19,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.14.2\n"
 
-#: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
+#: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:10
 msgid "Icon Browser"
 msgstr "Explorateur d'icônes"
 
-#: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:10
+#: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:11
 msgid "Browse and find system icons"
 msgstr "Parcourez et trouvez les icônes du système"
 
@@ -31,7 +31,7 @@ msgstr "Parcourez et trouvez les icônes du système"
 msgid "icons;iconography;"
 msgstr "icônes;iconograhie;"
 
-#: data/iconbrowser.appdata.xml.in:12
+#: data/iconbrowser.appdata.xml.in:13
 msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
@@ -40,77 +40,101 @@ msgstr ""
 "Visualisez les icônes dans différentes tailles et obtenez un simple exemple "
 "de code à utiliser dans vos applications."
 
-#: data/iconbrowser.appdata.xml.in:17
+#: data/iconbrowser.appdata.xml.in:18
 msgid "Browse system icons"
 msgstr "Parcourez les icônes du système"
 
-#: data/iconbrowser.appdata.xml.in:21
+#: data/iconbrowser.appdata.xml.in:22
 msgid "Search by description"
 msgstr "Recherchez par description"
 
-#: data/iconbrowser.appdata.xml.in:38
-msgid "elementary, Inc."
-msgstr "elementary, Inc."
+#: data/iconbrowser.appdata.xml.in:48
+msgid "Update icon list to match Platform 8"
+msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:45
+#: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:55
+#: data/iconbrowser.appdata.xml.in:65
+msgid "Update translations"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:64
+msgid "Fixed an error that prevented app startup"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:71
+msgid "Updated with the latest icons:"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:73
+msgid "\"preferences-desktop-theme\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:74
+msgid "\"application-x-sharedlib\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:75
+msgid "\"process-paused\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:76
+msgid "\"process-error\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:83
 msgid "A modern redesign!"
 msgstr "Nouvelle version moderne !"
 
-#: data/iconbrowser.appdata.xml.in:47
+#: data/iconbrowser.appdata.xml.in:85
 msgid "Fancy new icon"
 msgstr "Une toute nouvelle icône"
 
-#: data/iconbrowser.appdata.xml.in:48
+#: data/iconbrowser.appdata.xml.in:86
 msgid "Drag the window from anywhere"
 msgstr "Déplacez la fenêtre partout"
 
-#: data/iconbrowser.appdata.xml.in:49
+#: data/iconbrowser.appdata.xml.in:87
 msgid "Follow the system dark style preference"
 msgstr "Respect du thème du système"
 
-#: data/iconbrowser.appdata.xml.in:50
+#: data/iconbrowser.appdata.xml.in:88
 msgid "Updated for Gtk 4"
 msgstr "Mise à jour pour Gtk 4"
 
-#: data/iconbrowser.appdata.xml.in:62
-msgid "Add \"audio-headphones\" and \"audio-headset\""
-msgstr "Ajout des icônes « audio-headphones » et « audio-headset »"
+#~ msgid "elementary, Inc."
+#~ msgstr "elementary, Inc."
 
-#: data/iconbrowser.appdata.xml.in:63
-msgid "Add \"distribute-*\" action icons"
-msgstr "Ajout des icônes d'action « distribute-* »"
+#~ msgid "Add \"audio-headphones\" and \"audio-headset\""
+#~ msgstr "Ajout des icônes « audio-headphones » et « audio-headset »"
 
-#: data/iconbrowser.appdata.xml.in:64
-msgid "Disable sidebar when searching"
-msgstr "Désactivation de la barre latérale pendant la recherche"
+#~ msgid "Add \"distribute-*\" action icons"
+#~ msgstr "Ajout des icônes d'action « distribute-* »"
 
-#: data/iconbrowser.appdata.xml.in:65
-msgid "Remove app icons that aren't in the freedesktop.org specification"
-msgstr ""
-"Suppression des icônes des applications qui ne sont pas dans la "
-"spécification de freedesktop.org"
+#~ msgid "Disable sidebar when searching"
+#~ msgstr "Désactivation de la barre latérale pendant la recherche"
 
-#: data/iconbrowser.appdata.xml.in:66
-msgid "Add status emblems"
-msgstr "Ajout des emblèmes d'état"
+#~ msgid "Remove app icons that aren't in the freedesktop.org specification"
+#~ msgstr ""
+#~ "Suppression des icônes des applications qui ne sont pas dans la "
+#~ "spécification de freedesktop.org"
 
-#: data/iconbrowser.appdata.xml.in:67
-msgid "Mimetypes → Media Types"
-msgstr "Types MIME → Types de média"
+#~ msgid "Add status emblems"
+#~ msgstr "Ajout des emblèmes d'état"
 
-#: data/iconbrowser.appdata.xml.in:68
-msgid "Added French and Portuguese translations"
-msgstr "Ajout des traductions française et portugaise"
+#~ msgid "Mimetypes → Media Types"
+#~ msgstr "Types MIME → Types de média"
 
-#: data/iconbrowser.appdata.xml.in:74
-msgid "Better support for symbolic-only icons and under the hood improvements!"
-msgstr ""
-"Meilleur prise en charge pour les icônes symbolic-only et corrections "
-"mineures !"
+#~ msgid "Added French and Portuguese translations"
+#~ msgstr "Ajout des traductions française et portugaise"
 
-#: data/iconbrowser.appdata.xml.in:79
-msgid "Initial release! 🎉️"
-msgstr "Version initiale ! 🎉️"
+#~ msgid ""
+#~ "Better support for symbolic-only icons and under the hood improvements!"
+#~ msgstr ""
+#~ "Meilleur prise en charge pour les icônes symbolic-only et corrections "
+#~ "mineures !"
+
+#~ msgid "Initial release! 🎉️"
+#~ msgstr "Version initiale ! 🎉️"
 
 #~ msgid "I'm a new soul"
 #~ msgstr "Je suis une nouvelle âme"

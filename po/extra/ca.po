@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-28 11:33-0700\n"
+"POT-Creation-Date: 2024-09-01 10:33+0000\n"
 "PO-Revision-Date: 2023-02-10 22:55+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
@@ -19,11 +19,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.14.2\n"
 
-#: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
+#: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:10
 msgid "Icon Browser"
 msgstr "Navegador d'icones"
 
-#: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:10
+#: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:11
 msgid "Browse and find system icons"
 msgstr "Navegueu i trobeu icones del sistema"
 
@@ -31,7 +31,7 @@ msgstr "Navegueu i trobeu icones del sistema"
 msgid "icons;iconography;"
 msgstr "icones;iconografia;"
 
-#: data/iconbrowser.appdata.xml.in:12
+#: data/iconbrowser.appdata.xml.in:13
 msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
@@ -40,72 +40,97 @@ msgstr ""
 "Vegeu icones de diferents mides i obteniu un fragment de codi ràpid per "
 "utilitzar-lo a les vostres aplicacions."
 
-#: data/iconbrowser.appdata.xml.in:17
+#: data/iconbrowser.appdata.xml.in:18
 msgid "Browse system icons"
 msgstr "Navegueu per les icones del sistema"
 
-#: data/iconbrowser.appdata.xml.in:21
+#: data/iconbrowser.appdata.xml.in:22
 msgid "Search by description"
 msgstr "Cerca per descripció"
 
-#: data/iconbrowser.appdata.xml.in:38
-msgid "elementary, Inc."
-msgstr "elementary, Inc."
+#: data/iconbrowser.appdata.xml.in:48
+msgid "Update icon list to match Platform 8"
+msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:45
+#: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:55
+#: data/iconbrowser.appdata.xml.in:65
+msgid "Update translations"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:64
+msgid "Fixed an error that prevented app startup"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:71
+msgid "Updated with the latest icons:"
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:73
+msgid "\"preferences-desktop-theme\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:74
+msgid "\"application-x-sharedlib\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:75
+msgid "\"process-paused\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:76
+msgid "\"process-error\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:83
 msgid "A modern redesign!"
 msgstr "Un redisseny modern!"
 
-#: data/iconbrowser.appdata.xml.in:47
+#: data/iconbrowser.appdata.xml.in:85
 msgid "Fancy new icon"
 msgstr "Nova icona fantàstica"
 
-#: data/iconbrowser.appdata.xml.in:48
+#: data/iconbrowser.appdata.xml.in:86
 msgid "Drag the window from anywhere"
 msgstr "Arrossegueu la finestra des de qualsevol lloc"
 
-#: data/iconbrowser.appdata.xml.in:49
+#: data/iconbrowser.appdata.xml.in:87
 msgid "Follow the system dark style preference"
 msgstr "Segueix la preferència d'estil fosc del sistema"
 
-#: data/iconbrowser.appdata.xml.in:50
+#: data/iconbrowser.appdata.xml.in:88
 msgid "Updated for Gtk 4"
 msgstr "Actualitzat per a Gtk 4"
 
-#: data/iconbrowser.appdata.xml.in:62
-msgid "Add \"audio-headphones\" and \"audio-headset\""
-msgstr "Addició d'\"auriculars d'àudio\" i \"conjunt d'auriculars d'àudio\""
+#~ msgid "elementary, Inc."
+#~ msgstr "elementary, Inc."
 
-#: data/iconbrowser.appdata.xml.in:63
-msgid "Add \"distribute-*\" action icons"
-msgstr "Addició d'icones d'acció \"distribueix-*\"."
+#~ msgid "Add \"audio-headphones\" and \"audio-headset\""
+#~ msgstr "Addició d'\"auriculars d'àudio\" i \"conjunt d'auriculars d'àudio\""
 
-#: data/iconbrowser.appdata.xml.in:64
-msgid "Disable sidebar when searching"
-msgstr "Desactiva la barra lateral quan cerqueu"
+#~ msgid "Add \"distribute-*\" action icons"
+#~ msgstr "Addició d'icones d'acció \"distribueix-*\"."
 
-#: data/iconbrowser.appdata.xml.in:65
-msgid "Remove app icons that aren't in the freedesktop.org specification"
-msgstr ""
-"Suprimeix les icones d'aplicacions que no es troben a l'especificació de "
-"freedesktop.org"
+#~ msgid "Disable sidebar when searching"
+#~ msgstr "Desactiva la barra lateral quan cerqueu"
 
-#: data/iconbrowser.appdata.xml.in:66
-msgid "Add status emblems"
-msgstr "Addició d'emblemes d'estat"
+#~ msgid "Remove app icons that aren't in the freedesktop.org specification"
+#~ msgstr ""
+#~ "Suprimeix les icones d'aplicacions que no es troben a l'especificació de "
+#~ "freedesktop.org"
 
-#: data/iconbrowser.appdata.xml.in:67
-msgid "Mimetypes → Media Types"
-msgstr "Tipus mime → Tipus de suports"
+#~ msgid "Add status emblems"
+#~ msgstr "Addició d'emblemes d'estat"
 
-#: data/iconbrowser.appdata.xml.in:68
-msgid "Added French and Portuguese translations"
-msgstr "S'hi han afegit traduccions al francès i al portuguès"
+#~ msgid "Mimetypes → Media Types"
+#~ msgstr "Tipus mime → Tipus de suports"
 
-#: data/iconbrowser.appdata.xml.in:74
-msgid "Better support for symbolic-only icons and under the hood improvements!"
-msgstr "Millor suport per a icones només simbòliques i millores sota el capó!"
+#~ msgid "Added French and Portuguese translations"
+#~ msgstr "S'hi han afegit traduccions al francès i al portuguès"
 
-#: data/iconbrowser.appdata.xml.in:79
-msgid "Initial release! 🎉️"
-msgstr "Versió inicial! 🎉️"
+#~ msgid ""
+#~ "Better support for symbolic-only icons and under the hood improvements!"
+#~ msgstr ""
+#~ "Millor suport per a icones només simbòliques i millores sota el capó!"
+
+#~ msgid "Initial release! 🎉️"
+#~ msgstr "Versió inicial! 🎉️"
