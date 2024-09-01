@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-01 10:33+0000\n"
-"PO-Revision-Date: 2024-07-15 07:16+0000\n"
+"PO-Revision-Date: 2024-09-02 01:02+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "extra/ja/>\n"
@@ -50,20 +50,20 @@ msgstr "アイコンの説明文での検索が可能です"
 
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Update icon list to match Platform 8"
-msgstr ""
+msgstr "プラットフォームバージョン 8 に合わせてアイコンリストを更新"
 
 #: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:55
 #: data/iconbrowser.appdata.xml.in:65
 msgid "Update translations"
-msgstr ""
+msgstr "翻訳を更新"
 
 #: data/iconbrowser.appdata.xml.in:64
 msgid "Fixed an error that prevented app startup"
-msgstr ""
+msgstr "アプリが起動できないエラーを修正"
 
 #: data/iconbrowser.appdata.xml.in:71
 msgid "Updated with the latest icons:"
-msgstr ""
+msgstr "最新のアイコンに更新:"
 
 #: data/iconbrowser.appdata.xml.in:73
 msgid "\"preferences-desktop-theme\""
@@ -87,7 +87,7 @@ msgstr "よりモダンなデザインに変更しました!"
 
 #: data/iconbrowser.appdata.xml.in:85
 msgid "Fancy new icon"
-msgstr "繊細された新しいアイコン"
+msgstr "おしゃれな新しいアイコン"
 
 #: data/iconbrowser.appdata.xml.in:86
 msgid "Drag the window from anywhere"
