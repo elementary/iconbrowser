@@ -8,29 +8,32 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-01 10:33+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-09-02 01:28+0000\n"
+"Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
+"Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
+"icon-browser/icon-browser/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #: src/CategoryView.vala:26
 msgid "Actions"
-msgstr ""
+msgstr "動作"
 
 #: src/CategoryView.vala:28
 msgid "Applications"
-msgstr ""
+msgstr "應用程式"
 
 #: src/CategoryView.vala:30
 msgid "Categories"
-msgstr ""
+msgstr "分類"
 
 #: src/CategoryView.vala:32
 msgid "Devices"
-msgstr ""
+msgstr "裝置"
 
 #: src/CategoryView.vala:34
 msgid "Emblems"
