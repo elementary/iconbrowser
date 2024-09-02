@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-01 10:33+0000\n"
-"PO-Revision-Date: 2023-02-10 22:55+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-09-02 20:05+0000\n"
+"Last-Translator: David M <rbndavid@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
 "extra/ca/>\n"
 "Language: ca\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:10
 msgid "Icon Browser"
@@ -51,19 +51,20 @@ msgstr "Cerca per descripció"
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Update icon list to match Platform 8"
 msgstr ""
+"Actualització de la llista d'icones perquè coincideixi amb la plataforma 8"
 
 #: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:55
 #: data/iconbrowser.appdata.xml.in:65
 msgid "Update translations"
-msgstr ""
+msgstr "Actualització de les traduccions"
 
 #: data/iconbrowser.appdata.xml.in:64
 msgid "Fixed an error that prevented app startup"
-msgstr ""
+msgstr "S'ha solucionat un error que impedia l'inici de l'aplicació."
 
 #: data/iconbrowser.appdata.xml.in:71
 msgid "Updated with the latest icons:"
-msgstr ""
+msgstr "Actualitzat amb les icones més recents:"
 
 #: data/iconbrowser.appdata.xml.in:73
 msgid "\"preferences-desktop-theme\""
