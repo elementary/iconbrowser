@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-01 10:33+0000\n"
-"PO-Revision-Date: 2024-08-30 22:16+0000\n"
+"PO-Revision-Date: 2024-09-04 11:16+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -1609,19 +1609,19 @@ msgstr "出席依頼やカレンダーの予定がまもなく開始"
 
 #: src/CategoryView.vala:1972
 msgid "High or loud audio volume"
-msgstr "音声は大"
+msgstr "音量は大"
 
 #: src/CategoryView.vala:1977
 msgid "Low or quiet audio volume"
-msgstr "音声は小"
+msgstr "音量は小"
 
 #: src/CategoryView.vala:1982
 msgid "Medium or normal audio volume"
-msgstr "音声は中・普通"
+msgstr "音量は中・普通"
 
 #: src/CategoryView.vala:1987
 msgid "Audio volume is muted or off"
-msgstr "音声はミュート・オフ"
+msgstr "音量はミュート・オフ"
 
 #: src/CategoryView.vala:1992
 msgid ""
