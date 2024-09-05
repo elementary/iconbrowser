@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-01 10:33+0000\n"
-"PO-Revision-Date: 2024-09-02 01:28+0000\n"
+"PO-Revision-Date: 2024-09-05 21:13+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
 "icon-browser/icon-browser/zh_Hant/>\n"
@@ -1474,47 +1474,47 @@ msgstr ""
 
 #: src/CategoryView.vala:1817
 msgid "Music folder"
-msgstr ""
+msgstr "音樂資料夾"
 
 #: src/CategoryView.vala:1822
 msgid "Open folder"
-msgstr ""
+msgstr "開啟資料夾"
 
 #: src/CategoryView.vala:1827
 msgid "Pictures folder"
-msgstr ""
+msgstr "圖片資料夾"
 
 #: src/CategoryView.vala:1832
 msgid "Publicshare folder"
-msgstr ""
+msgstr "公開分享資料夾"
 
 #: src/CategoryView.vala:1837
 msgid "Recent folder"
-msgstr ""
+msgstr "最近使用資料夾"
 
 #: src/CategoryView.vala:1842
 msgid "Remote folder"
-msgstr ""
+msgstr "遠端資料夾"
 
 #: src/CategoryView.vala:1847
 msgid "Saved search folder"
-msgstr ""
+msgstr "已儲存的搜尋資料夾"
 
 #: src/CategoryView.vala:1852
 msgid "Templates folder"
-msgstr ""
+msgstr "模板資料夾"
 
 #: src/CategoryView.vala:1857
 msgid "Videos folder"
-msgstr ""
+msgstr "影片資料夾"
 
 #: src/CategoryView.vala:1862
 msgid "Internet radio"
-msgstr ""
+msgstr "網路廣播"
 
 #: src/CategoryView.vala:1867
 msgid "Audiobook library"
-msgstr ""
+msgstr "有聲書收藏"
 
 #: src/CategoryView.vala:1872
 msgid "Library places"
@@ -1522,71 +1522,71 @@ msgstr ""
 
 #: src/CategoryView.vala:1877
 msgid "Podcast library"
-msgstr ""
+msgstr "Podcast 收藏"
 
 #: src/CategoryView.vala:1882
 msgid "Mail inbox"
-msgstr ""
+msgstr "收件匣"
 
 #: src/CategoryView.vala:1887
 msgid "Mail mailbox"
-msgstr ""
+msgstr "郵箱"
 
 #: src/CategoryView.vala:1892
 msgid "Mail outbox"
-msgstr ""
+msgstr "寄件匣"
 
 #: src/CategoryView.vala:1897
 msgid "Mail sent"
-msgstr ""
+msgstr "郵件已傳送"
 
 #: src/CategoryView.vala:1902
 msgid "Network server"
-msgstr ""
+msgstr "網路伺服器"
 
 #: src/CategoryView.vala:1907
 msgid "Network workgroup"
-msgstr ""
+msgstr "網路工作組"
 
 #: src/CategoryView.vala:1912
 msgid "Playlist"
-msgstr ""
+msgstr "播放清單"
 
 #: src/CategoryView.vala:1917
 msgid "Automatic playlist"
-msgstr ""
+msgstr "自動播放清單"
 
 #: src/CategoryView.vala:1922
 msgid "Playlist queue"
-msgstr ""
+msgstr "播放清單佇列"
 
 #: src/CategoryView.vala:1927
 msgid "Similar playlist"
-msgstr ""
+msgstr "相似的播放清單"
 
 #: src/CategoryView.vala:1932
 msgid "Tag"
-msgstr ""
+msgstr "標籤"
 
 #: src/CategoryView.vala:1937
 msgid "Bookmarks"
-msgstr ""
+msgstr "書籤"
 
 #: src/CategoryView.vala:1942
 msgid "Home"
-msgstr ""
+msgstr "家目錄"
 
 #: src/CategoryView.vala:1947
 msgid "Trash"
-msgstr ""
+msgstr "垃圾桶"
 
 #: src/CategoryView.vala:1952
 msgid "Trash full"
-msgstr ""
+msgstr "垃圾桶已滿"
 
 #: src/CategoryView.vala:1957
 msgid "Airplane mode, where wireless radios are disabled or off"
-msgstr ""
+msgstr "飛航模式（其中無線通信皆為停用或關閉）"
 
 #: src/CategoryView.vala:1962
 msgid "An appointment or calendar event was missed"
