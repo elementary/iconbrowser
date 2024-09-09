@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-01 10:33+0000\n"
-"PO-Revision-Date: 2024-09-05 21:13+0000\n"
+"PO-Revision-Date: 2024-09-09 12:16+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
 "icon-browser/icon-browser/zh_Hant/>\n"
@@ -365,7 +365,7 @@ msgstr ""
 
 #: src/CategoryView.vala:442
 msgid "Get help"
-msgstr ""
+msgstr "取得幫助"
 
 #: src/CategoryView.vala:447
 msgid "Frequently asked questions"
@@ -385,35 +385,35 @@ msgstr ""
 
 #: src/CategoryView.vala:467
 msgid "Remove red eye from an image"
-msgstr ""
+msgstr "從影像移除紅眼"
 
 #: src/CategoryView.vala:472
 msgid "Insert an image"
-msgstr ""
+msgstr "插入影像"
 
 #: src/CategoryView.vala:477
 msgid "Insert a link"
-msgstr ""
+msgstr "插入連結"
 
 #: src/CategoryView.vala:482
 msgid "Insert an object"
-msgstr ""
+msgstr "插入物件"
 
 #: src/CategoryView.vala:487
 msgid "Insert text"
-msgstr ""
+msgstr "插入文字"
 
 #: src/CategoryView.vala:492
 msgid "Add to a list"
-msgstr ""
+msgstr "加入清單"
 
 #: src/CategoryView.vala:497
 msgid "Remove from a list"
-msgstr ""
+msgstr "從清單移除"
 
 #: src/CategoryView.vala:502
 msgid "Forward an email"
-msgstr ""
+msgstr "轉寄郵件"
 
 #: src/CategoryView.vala:507
 msgid "Mark an email as important"
@@ -473,97 +473,97 @@ msgstr ""
 
 #: src/CategoryView.vala:577
 msgid "Seek backwards or rewind"
-msgstr ""
+msgstr "往回跳轉或倒轉"
 
 #: src/CategoryView.vala:582
 msgid "Seek forwards, or fastforward"
-msgstr ""
+msgstr "往前跳轉或快轉"
 
 #: src/CategoryView.vala:587
 msgid "Skip backwards, such as to the previous track"
-msgstr ""
+msgstr "往後跳轉，像是到上一首樂曲"
 
 #: src/CategoryView.vala:592
 msgid "Skip forwards, such as to the next track"
-msgstr ""
+msgstr "往前跳轉，像是到下一首樂曲"
 
 #: src/CategoryView.vala:597
 msgid "Flip an object horizontally"
-msgstr ""
+msgstr "水平翻轉物件"
 
 #: src/CategoryView.vala:602
 msgid "Flip an object vertically"
-msgstr ""
+msgstr "垂直翻轉物件"
 
 #: src/CategoryView.vala:607
 msgid "Rotate an object to the left or counter-clockwise"
-msgstr ""
+msgstr "將物件向左或逆時針旋轉"
 
 #: src/CategoryView.vala:612
 msgid "Rotate an object to the right or clockwise"
-msgstr ""
+msgstr "將物件向右或順時針旋轉"
 
 #: src/CategoryView.vala:617
 msgid "Create a new database"
-msgstr ""
+msgstr "建立新的資料庫"
 
 #: src/CategoryView.vala:622
 msgid ""
 "Stop an action that may take a while to process, such as web page loading in "
 "a browser"
-msgstr ""
+msgstr "停止可能需要一段時間處理的動作，像是瀏覽器中網頁的載入"
 
 #: src/CategoryView.vala:627
 msgid "Lock the screen or the user's session"
-msgstr ""
+msgstr "將螢幕或是使用者的作業階段鎖定"
 
 #: src/CategoryView.vala:632
 msgid "Log out of the user's session"
-msgstr ""
+msgstr "從使用者的作業階段登出"
 
 #: src/CategoryView.vala:637
 msgid "Run a system app or command"
-msgstr ""
+msgstr "執行系統應用程式或指令"
 
 #: src/CategoryView.vala:642
 msgid "Search the system"
-msgstr ""
+msgstr "在系統上搜尋"
 
 #: src/CategoryView.vala:647
 msgid "Restart the device"
-msgstr ""
+msgstr "重新啟動裝置"
 
 #: src/CategoryView.vala:652
 msgid "Shut the device down"
-msgstr ""
+msgstr "將裝置關機"
 
 #: src/CategoryView.vala:657
 msgid "Create a new tag"
-msgstr ""
+msgstr "建立新的標籤"
 
 #: src/CategoryView.vala:662
 msgid "Check spelling"
-msgstr ""
+msgstr "檢查拼字"
 
 #: src/CategoryView.vala:667
 msgid "Set or adjust a timer"
-msgstr ""
+msgstr "設定或調整計時器"
 
 #: src/CategoryView.vala:672
 msgid "Display the current view as columns"
-msgstr ""
+msgstr "以分欄模式顯示目前檢視"
 
 #: src/CategoryView.vala:677
 msgid "display the current view in a continously scrolling list"
-msgstr ""
+msgstr "以連續清單模式顯示目前檢視"
 
 #: src/CategoryView.vala:682
 msgid "display the current view as a split, dual view"
-msgstr ""
+msgstr "以分割雙畫面顯示目前檢視"
 
 #: src/CategoryView.vala:687
 msgid "View fullscreen"
-msgstr ""
+msgstr "全螢幕顯示"
 
 #: src/CategoryView.vala:692
 msgid "Display the current view as a grid of images or icons"
