@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-01 10:33+0000\n"
-"PO-Revision-Date: 2024-09-09 12:16+0000\n"
+"PO-Revision-Date: 2024-09-14 02:16+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
 "icon-browser/icon-browser/zh_Hant/>\n"
@@ -828,15 +828,15 @@ msgstr ""
 
 #: src/CategoryView.vala:1017
 msgid "Audio output device, such as a sound card or speaker"
-msgstr ""
+msgstr "音效輸出裝置，像是音效卡或喇叭"
 
 #: src/CategoryView.vala:1022
 msgid "Audio output device representing headphones"
-msgstr ""
+msgstr "音效輸出裝置（耳機）"
 
 #: src/CategoryView.vala:1027
 msgid "Audio output device representing a headset"
-msgstr ""
+msgstr "音效輸出裝置（耳麥）"
 
 #: src/CategoryView.vala:1032
 msgid "Microphone"
@@ -1050,187 +1050,187 @@ msgstr ""
 
 #: src/CategoryView.vala:1287
 msgid "0:-) emoticon"
-msgstr ""
+msgstr "0:-) 表情符號"
 
 #: src/CategoryView.vala:1292
 msgid "X-( emoticon"
-msgstr ""
+msgstr "X-( 表情符號"
 
 #: src/CategoryView.vala:1297
 msgid "B-) emoticon"
-msgstr ""
+msgstr "B-) 表情符號"
 
 #: src/CategoryView.vala:1302
 msgid ":'( emoticon"
-msgstr ""
+msgstr ":'( 表情符號"
 
 #: src/CategoryView.vala:1307
 msgid ">:-) emoticon"
-msgstr ""
+msgstr ">:-) 表情符號"
 
 #: src/CategoryView.vala:1312
 msgid ":-[ emoticon"
-msgstr ""
+msgstr ":-[ 表情符號"
 
 #: src/CategoryView.vala:1317
 msgid "<3 emoticon"
-msgstr ""
+msgstr "<3 表情符號"
 
 #: src/CategoryView.vala:1322
 msgid "</3 emoticon"
-msgstr ""
+msgstr "</3 表情符號"
 
 #: src/CategoryView.vala:1327
 msgid ":-* emoticon"
-msgstr ""
+msgstr ":-* 表情符號"
 
 #: src/CategoryView.vala:1332
 msgid ":-)) emoticon"
-msgstr ""
+msgstr ":-)) 表情符號"
 
 #: src/CategoryView.vala:1337
 msgid ":-(|) emoticon"
-msgstr ""
+msgstr ":-(|) 表情符號"
 
 #: src/CategoryView.vala:1342
 msgid ":-| emoticon"
-msgstr ""
+msgstr ":-| 表情符號"
 
 #: src/CategoryView.vala:1347
 msgid ":-P emoticon"
-msgstr ""
+msgstr ":-P 表情符號"
 
 #: src/CategoryView.vala:1352
 msgid ":-( emoticon"
-msgstr ""
+msgstr ":-( 表情符號"
 
 #: src/CategoryView.vala:1357
 msgid ":-& emoticon"
-msgstr ""
+msgstr ":-& 表情符號"
 
 #: src/CategoryView.vala:1362
 msgid ":-) emoticon"
-msgstr ""
+msgstr ":-) 表情符號"
 
 #: src/CategoryView.vala:1367
 msgid ":-D emoticon"
-msgstr ""
+msgstr ":-D 表情符號"
 
 #: src/CategoryView.vala:1372
 msgid ":-! emoticon"
-msgstr ""
+msgstr ":-! 表情符號"
 
 #: src/CategoryView.vala:1377
 msgid ":-0 emoticon"
-msgstr ""
+msgstr ":-0 表情符號"
 
 #: src/CategoryView.vala:1382
 msgid "|-) emoticon"
-msgstr ""
+msgstr "|-) 表情符號"
 
 #: src/CategoryView.vala:1387
 msgid ":-/ emoticon"
-msgstr ""
+msgstr ":-/ 表情符號"
 
 #: src/CategoryView.vala:1392
 msgid ";-) emoticon"
-msgstr ""
+msgstr ";-) 表情符號"
 
 #: src/CategoryView.vala:1397
 msgid ":-S emoticon"
-msgstr ""
+msgstr ":-S 表情符號"
 
 #: src/CategoryView.vala:1402
 msgid "EPUB Ebook file types"
-msgstr ""
+msgstr "EPUB 電子書檔案類型"
 
 #: src/CategoryView.vala:1407
 msgid "Adobe Illustrator image file types"
-msgstr ""
+msgstr "Adobe Illustrator 影像檔案類型"
 
 #: src/CategoryView.vala:1412
 msgid "Javascript programming language file types"
-msgstr ""
+msgstr "Javascript 程式語言檔案類型"
 
 #: src/CategoryView.vala:1417
 msgid "Microsoft Word file types"
-msgstr ""
+msgstr "Microsoft Word 檔案類型"
 
 #: src/CategoryView.vala:1422
 msgid "Binary file types"
-msgstr ""
+msgstr "二進制檔案類型"
 
 #: src/CategoryView.vala:1427
 msgid "PDF file types"
-msgstr ""
+msgstr "PDF 檔案類型"
 
 #: src/CategoryView.vala:1432
 msgid "PGP file types"
-msgstr ""
+msgstr "PGP 檔案類型"
 
 #: src/CategoryView.vala:1437
 msgid "Debian package file types"
-msgstr ""
+msgstr "Debian 套件檔案類型"
 
 #: src/CategoryView.vala:1442
 msgid "Flatpak reference file types"
-msgstr ""
+msgstr "Flatpak 參照檔案類型"
 
 #: src/CategoryView.vala:1447
 msgid "Microsoft Access file types"
-msgstr ""
+msgstr "Microsoft Access 檔案類型"
 
 #: src/CategoryView.vala:1452
 msgid "Microsoft Excel file types"
-msgstr ""
+msgstr "Microsoft Excel 檔案類型"
 
 #: src/CategoryView.vala:1457
 msgid "Microsoft PowerPoint file types"
-msgstr ""
+msgstr "Microsoft PowerPoint 檔案類型"
 
 #: src/CategoryView.vala:1462
 msgid "Oasis OpenDocument file types"
-msgstr ""
+msgstr "Oasis OpenDocument 檔案類型"
 
 #: src/CategoryView.vala:1467
 msgid "Torrent file types"
-msgstr ""
+msgstr "Torrent 檔案類型"
 
 #: src/CategoryView.vala:1472
 msgid "CD Image file types"
-msgstr ""
+msgstr "CD 映像檔檔案類型"
 
 #: src/CategoryView.vala:1477
 msgid "Desktop file types"
-msgstr ""
+msgstr "桌面檔案類型"
 
 #: src/CategoryView.vala:1482
 msgid "Executable file types"
-msgstr ""
+msgstr "執行檔檔案類型"
 
 #: src/CategoryView.vala:1487
 msgid "FictionBook file types"
-msgstr ""
+msgstr "FictionBook 檔案類型"
 
 #: src/CategoryView.vala:1492
 msgid "Firmware file types"
-msgstr ""
+msgstr "韌體檔案類型"
 
 #: src/CategoryView.vala:1497
 msgid "PHP programming language file types"
-msgstr ""
+msgstr "PHP 程式語言檔案類型"
 
 #: src/CategoryView.vala:1502
 msgid "Ruby programming language file types"
-msgstr ""
+msgstr "Ruby 程式語言檔案類型"
 
 #: src/CategoryView.vala:1507
 msgid "Shared library file types"
-msgstr ""
+msgstr "共用函式庫檔案類型"
 
 #: src/CategoryView.vala:1512
 msgid "Generic audio file types"
-msgstr ""
+msgstr "一般音效檔案類型"
 
 #: src/CategoryView.vala:1517
 msgid "Audio playlist file types"
@@ -1310,19 +1310,19 @@ msgstr ""
 
 #: src/CategoryView.vala:1612
 msgid "CSS text file types"
-msgstr ""
+msgstr "CSS 文字檔案類型"
 
 #: src/CategoryView.vala:1617
 msgid "HTML text file types"
-msgstr ""
+msgstr "HTML 文字檔案類型"
 
 #: src/CategoryView.vala:1622
 msgid "Markdown text file types"
-msgstr ""
+msgstr "Markdown 文字檔案類型"
 
 #: src/CategoryView.vala:1627
 msgid "Bibtext file types"
-msgstr ""
+msgstr "Bibtext 檔案類型"
 
 #: src/CategoryView.vala:1632
 msgid "Changelog file types"
@@ -1338,11 +1338,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1647
 msgid "C programming language file types"
-msgstr ""
+msgstr "C 程式語言檔案類型"
 
 #: src/CategoryView.vala:1652
 msgid "Generic text file types"
-msgstr ""
+msgstr "一般文字檔案類型"
 
 #: src/CategoryView.vala:1657
 msgid "Generic text templates"
@@ -1358,7 +1358,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1672
 msgid "Go programming language file types"
-msgstr ""
+msgstr "Go 程式語言檔案類型"
 
 #: src/CategoryView.vala:1677
 msgid "Install file types"
@@ -1374,7 +1374,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1692
 msgid "Python programming language file types"
-msgstr ""
+msgstr "Python 程式語言檔案類型"
 
 #: src/CategoryView.vala:1697
 msgid "Readme file types"
@@ -1382,7 +1382,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1702
 msgid "Sass programming language file types"
-msgstr ""
+msgstr "Sass 程式語言檔案類型"
 
 #: src/CategoryView.vala:1707
 msgid "Script file types, such as shell scripts"
@@ -1398,11 +1398,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1722
 msgid "Vala programming language file types"
-msgstr ""
+msgstr "Vala 程式語言檔案類型"
 
 #: src/CategoryView.vala:1727
 msgid "Unknown file types"
-msgstr ""
+msgstr "未知檔案類型"
 
 #: src/CategoryView.vala:1732
 msgid "Generic video file types"
@@ -1598,24 +1598,24 @@ msgstr ""
 
 #: src/CategoryView.vala:1972
 msgid "High or loud audio volume"
-msgstr ""
+msgstr "音量較高或吵雜"
 
 #: src/CategoryView.vala:1977
 msgid "Low or quiet audio volume"
-msgstr ""
+msgstr "音量較低或安靜"
 
 #: src/CategoryView.vala:1982
 msgid "Medium or normal audio volume"
-msgstr ""
+msgstr "音量中等"
 
 #: src/CategoryView.vala:1987
 msgid "Audio volume is muted or off"
-msgstr ""
+msgstr "音量靜音或關閉"
 
 #: src/CategoryView.vala:1992
 msgid ""
 "Audio volume is muted or off and something is being blocked from making noise"
-msgstr ""
+msgstr "音量靜音或關閉，因此有應用程式被阻止發出聲音"
 
 #: src/CategoryView.vala:1997
 msgid ""
@@ -1837,33 +1837,34 @@ msgstr ""
 
 #: src/CategoryView.vala:2257
 msgid "Presumed to be secure, such as using encryption"
-msgstr ""
+msgstr "應是安全的狀態，例如已使用加密"
 
 #: src/CategoryView.vala:2262
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
-msgstr ""
+msgstr "應是不安全的狀態，例如未受保護、未加密或強度不足的加密，或是無效、未驗證或不"
+"信任的憑證"
 
 #: src/CategoryView.vala:2267
 msgid "Updated apps, software, or drivers are available"
-msgstr ""
+msgstr "有應用程式、軟體或驅動程式的更新可用"
 
 #: src/CategoryView.vala:2272
 msgid "Urgent or critical updates are available"
-msgstr ""
+msgstr "有可用的緊急或重要更新"
 
 #: src/CategoryView.vala:2277
 msgid "Item is starred, favorited, or pinned by the user"
-msgstr ""
+msgstr "項目已加星號、加入最愛，或是由使用者釘選"
 
 #: src/CategoryView.vala:2282
 msgid "Task is due soon"
-msgstr ""
+msgstr "待辦事項即將到期"
 
 #: src/CategoryView.vala:2287
 msgid "Task is incomplete past the due date"
-msgstr ""
+msgstr "待辦事項已過期但尚未完成"
 
 #: src/CategoryView.vala:2292
 msgid "User, person, or contact is available or online"
@@ -1931,36 +1932,36 @@ msgstr ""
 
 #: src/CategoryView.vala:2377
 msgid "Search Names or Descriptions"
-msgstr ""
+msgstr "搜尋名稱或描述"
 
 #: src/IconView.vala:61
 msgid "Color Icons"
-msgstr ""
+msgstr "色彩圖示"
 
 #: src/IconView.vala:68
 msgid "Symbolic Icons"
-msgstr ""
+msgstr "符號圖示"
 
 #: src/IconView.vala:81
 msgid "Code Sample"
-msgstr ""
+msgstr "程式碼範例"
 
 #: src/IconView.vala:223
 msgid "Copied!"
-msgstr ""
+msgstr "已複製！"
 
 #: src/IconView.vala:239
 msgid "Unavailable"
-msgstr ""
+msgstr "不可用"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr ""
+msgstr "圖示瀏覽器"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr ""
+msgstr "亮色背景"
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr ""
+msgstr "深色背景"
