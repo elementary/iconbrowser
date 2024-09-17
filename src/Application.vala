@@ -3,8 +3,20 @@
  * SPDX-FileCopyrightText: 2017-2022 elementary, Inc. (https://elementary.io)
  */
 
-public class IconBrowser.App : Gtk.Application {
-    public App () {
+public class IconBrowser : Gtk.Application {
+    public static IconBrowser _instance = null;
+	public static IconBrowser instance {
+		get {
+			if (_instance == null) {
+				_instance = new IconBrowser ();
+			}
+			return _instance;
+		}
+	}
+
+    public MainWindow main_window;
+
+    public IconBrowser () {
         Object (
             application_id: "io.elementary.iconbrowser",
             flags: ApplicationFlags.FLAGS_NONE
@@ -31,7 +43,7 @@ public class IconBrowser.App : Gtk.Application {
 
     protected override void activate () {
         if (active_window == null) {
-            var main_window = new MainWindow (this);
+            main_window = new MainWindow (this);
 
             /*
             * This is very finicky. Bind size after present else set_titlebar gives us bad sizes
@@ -53,6 +65,7 @@ public class IconBrowser.App : Gtk.Application {
     }
 
     public static int main (string[] args) {
-        return new IconBrowser.App ().run (args);
+        IconBrowser app = IconBrowser.instance;
+		return app.run (args);
     }
 }
