@@ -31,16 +31,18 @@ executable(
     gresource,
     'src/Application.vala',
     'src/CategoryView.vala',
-    'src/IconView.vala',
     'src/MainWindow.vala',
-    'src/Widgets/IconListRow.vala',
+    'src/Services/Collection.vala',
+    'src/Widgets/IconListChild.vala',
     'src/Widgets/SidebarRow.vala',
+    'src/Dialogs/IconView.vala',
     dependencies: [
         dependency('glib-2.0', version: '>= 2.78'),
         dependency('gobject-2.0'),
         dependency('granite-7'),
         dependency('gtk4'),
-        dependency('gtksourceview-5')
+        dependency('gtksourceview-5'),
+        dependency('libadwaita-1')
     ],
     install : true
 )

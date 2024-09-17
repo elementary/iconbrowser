@@ -5,14 +5,14 @@
 
 public class IconBrowser : Gtk.Application {
     public static IconBrowser _instance = null;
-	public static IconBrowser instance {
-		get {
-			if (_instance == null) {
-				_instance = new IconBrowser ();
-			}
-			return _instance;
-		}
-	}
+    public static IconBrowser instance {
+        get {
+            if (_instance == null) {
+                _instance = new IconBrowser ();
+            }
+            return _instance;
+        }
+    }
 
     public MainWindow main_window;
 
@@ -66,6 +66,6 @@ public class IconBrowser : Gtk.Application {
 
     public static int main (string[] args) {
         IconBrowser app = IconBrowser.instance;
-		return app.run (args);
+        return app.run (args);
     }
 }

@@ -38,10 +38,10 @@ public class CategoryView : Gtk.Box {
         };
 
         var headerbar = new Adw.HeaderBar () {
-			title_widget = search_entry,
-			hexpand = true,
+            title_widget = search_entry,
+            hexpand = true,
             css_classes = { "flat" }
-		};
+        };
 
         headerbar.pack_end (menu_button);
 
@@ -77,8 +77,8 @@ public class CategoryView : Gtk.Box {
             hexpand = true,
             vexpand = true
         };
-		toolbar_view.add_top_bar (headerbar);
-		toolbar_view.content = list_handle;
+        toolbar_view.add_top_bar (headerbar);
+        toolbar_view.content = list_handle;
 
         append (toolbar_view);
         fill_icons ();

@@ -31,16 +31,18 @@ public class Dialogs.IconView : Gtk.Dialog {
             orientation = Gtk.Orientation.VERTICAL,
         };
 
-        var title_label = new Gtk.Label (icon_name);
+        var title_label = new Gtk.Label ("<b>%s</b>".printf (icon_name)) {
+            use_markup = true
+        };
         title_label.add_css_class (Granite.STYLE_CLASS_H2_LABEL);
 
         var copy_icon_name_button = new Gtk.Button.from_icon_name ("edit-copy-symbolic");
 
         var title_label_box = new Gtk.Box (Gtk.Orientation.HORIZONTAL, 6) {
             halign = CENTER,
+            valign = CENTER,
             hexpand = true,
-            margin_top = 25,
-            valign = CENTER
+            margin_top = 25
         };
         title_label_box.append (title_label);
         title_label_box.append (copy_icon_name_button);
@@ -61,7 +63,6 @@ public class Dialogs.IconView : Gtk.Dialog {
         header_area.append (color_row);
         header_area.append (title_label_box);
         header_area.append (description_label);
-        header_area.append (copy_icon_name_button);
 
         var snippet_title = new Granite.HeaderLabel (_("Code Sample"));
 
@@ -201,7 +202,7 @@ public class Dialogs.IconView : Gtk.Dialog {
             }
         }
     }
-    
+
     private void fill_icon_row (string _icon_name, Gtk.FlowBox row) {
         while (row.get_first_child () != null) {
             row.remove (row.get_first_child ());
@@ -229,13 +230,13 @@ public class Dialogs.IconView : Gtk.Dialog {
         switch (category) {
             case Services.Collection.Category.ACTIONS:
             case Services.Collection.Category.EMBLEMS:
-                sizes = { 16, 32, 48 };
+                sizes = { 16, 24, 32, 48 };
                 break;
             case Services.Collection.Category.EMOTES:
                 sizes = { 16 };
                 break;
             default:
-                sizes = { 16, 32, 64 };
+                sizes = { 16, 24, 32, 64, 128 };
                 break;
         }
 

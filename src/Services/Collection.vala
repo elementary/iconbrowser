@@ -14,7 +14,7 @@ public class Services.Collection {
         MIMES,
         PLACES,
         STATUS;
-    
+
         public string to_string () {
             switch (this) {
                 case ACTIONS:
@@ -39,12 +39,12 @@ public class Services.Collection {
                     return _("OTHER");
             }
         }
-    
+
         public static Category[] all () {
             return { ACTIONS, APPS, CATEGORIES, DEVICES, EMBLEMS, EMOTES, MIMES, PLACES, STATUS };
         }
     }
-    
+
     public struct Icon {
         string name;
         string description;
