@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-01 10:33+0000\n"
-"PO-Revision-Date: 2024-09-14 02:16+0000\n"
+"PO-Revision-Date: 2024-09-20 09:43+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
 "icon-browser/icon-browser/zh_Hant/>\n"
@@ -37,87 +37,87 @@ msgstr "裝置"
 
 #: src/CategoryView.vala:34
 msgid "Emblems"
-msgstr ""
+msgstr "徽章"
 
 #: src/CategoryView.vala:36
 msgid "Emotes"
-msgstr ""
+msgstr "表情"
 
 #: src/CategoryView.vala:38
 msgid "Media Types"
-msgstr ""
+msgstr "媒體類型"
 
 #: src/CategoryView.vala:40
 msgid "Places"
-msgstr ""
+msgstr "位置"
 
 #: src/CategoryView.vala:42
 msgid "Status"
-msgstr ""
+msgstr "狀態"
 
 #: src/CategoryView.vala:44
 msgid "OTHER"
-msgstr ""
+msgstr "其他"
 
 #: src/CategoryView.vala:62 src/IconView.vala:16
 msgid "Create a new address book"
-msgstr ""
+msgstr "建立新的通訊錄"
 
 #: src/CategoryView.vala:67
 msgid "Align objects to center along the X axis"
-msgstr ""
+msgstr "讓物件在 X 軸上置中對齊"
 
 #: src/CategoryView.vala:72
 msgid "Align objects left along the X axis"
-msgstr ""
+msgstr "讓物件在 X 軸上靠左對齊"
 
 #: src/CategoryView.vala:77
 msgid "Align objects right along the X axis"
-msgstr ""
+msgstr "讓物件在 X 軸上靠右對齊"
 
 #: src/CategoryView.vala:82
 msgid "Align objects to bottom along the Y axis"
-msgstr ""
+msgstr "讓物件在 Y 軸上向下對齊"
 
 #: src/CategoryView.vala:87
 msgid "Align objects to center along the Y axis"
-msgstr ""
+msgstr "讓物件在 Y 軸上置中對齊"
 
 #: src/CategoryView.vala:92
 msgid "Align objects to top along the Y axis"
-msgstr ""
+msgstr "讓物件在 Y 軸上向上對齊"
 
 #: src/CategoryView.vala:97
 msgid "Used for exiting an application"
-msgstr ""
+msgstr "用來退出應用程式"
 
 #: src/CategoryView.vala:102
 msgid "Create a new appointment in a calendaring application"
-msgstr ""
+msgstr "在行事曆應用程式中建立新的預定"
 
 #: src/CategoryView.vala:107
 msgid "Create a new bookmark"
-msgstr ""
+msgstr "建立新的書籤"
 
 #: src/CategoryView.vala:112
 msgid "Download a file from the Internet"
-msgstr ""
+msgstr "從網際網路下載一個檔案"
 
 #: src/CategoryView.vala:117
 msgid "Initiate or accept a call"
-msgstr ""
+msgstr "發送或接起通話"
 
 #: src/CategoryView.vala:122
 msgid "Stop the current call"
-msgstr ""
+msgstr "停止目前通話"
 
 #: src/CategoryView.vala:127
 msgid "Pick a color from elsewhere on screen"
-msgstr ""
+msgstr "從螢幕上挑選顏色"
 
 #: src/CategoryView.vala:132
 msgid "Create a new contact in an address book application"
-msgstr ""
+msgstr "在通訊錄應用程式中建立新的聯絡人"
 
 #: src/CategoryView.vala:137
 msgid "Distribute the center lines of objects horizontally"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: src/CategoryView.vala:187
 msgid "Create a new document"
-msgstr ""
+msgstr "建立新的文件"
 
 #: src/CategoryView.vala:192
 msgid "Open a document"
@@ -253,7 +253,7 @@ msgstr ""
 
 #: src/CategoryView.vala:302
 msgid "Create a new calendar event"
-msgstr ""
+msgstr "建立新的行事曆活動"
 
 #: src/CategoryView.vala:307
 msgid "Copy a folder"
@@ -265,15 +265,15 @@ msgstr ""
 
 #: src/CategoryView.vala:317
 msgid "Create a new folder"
-msgstr ""
+msgstr "建立新的資料夾"
 
 #: src/CategoryView.vala:322
 msgid "Decrease indent"
-msgstr ""
+msgstr "降低縮排"
 
 #: src/CategoryView.vala:327
 msgid "Increase indent"
-msgstr ""
+msgstr "提高縮排"
 
 #: src/CategoryView.vala:332
 msgid "Center justify text"
@@ -369,7 +369,7 @@ msgstr "取得幫助"
 
 #: src/CategoryView.vala:447
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "常見問題"
 
 #: src/CategoryView.vala:452
 msgid "Make adjustments to an image"
@@ -381,7 +381,7 @@ msgstr ""
 
 #: src/CategoryView.vala:462
 msgid "Crop an image"
-msgstr ""
+msgstr "裁剪圖片"
 
 #: src/CategoryView.vala:467
 msgid "Remove red eye from an image"
@@ -417,27 +417,27 @@ msgstr "轉寄郵件"
 
 #: src/CategoryView.vala:507
 msgid "Mark an email as important"
-msgstr ""
+msgstr "將郵件標記為重要"
 
 #: src/CategoryView.vala:512
 msgid "Mark an email as junk or spam"
-msgstr ""
+msgstr "將郵件標記為垃圾信"
 
 #: src/CategoryView.vala:517
 msgid "Mark an email as not junk or spam"
-msgstr ""
+msgstr "將郵件標記為不是垃圾信"
 
 #: src/CategoryView.vala:522
 msgid "Mark an email as read"
-msgstr ""
+msgstr "將郵件標記為已讀"
 
 #: src/CategoryView.vala:527
 msgid "Mark an email as unread"
-msgstr ""
+msgstr "將郵件標記為未讀"
 
 #: src/CategoryView.vala:532
 msgid "Compose a new email"
-msgstr ""
+msgstr "撰寫新郵件"
 
 #: src/CategoryView.vala:537
 msgid "Reply to all participants of an email"
@@ -449,27 +449,27 @@ msgstr ""
 
 #: src/CategoryView.vala:547
 msgid "Send an email"
-msgstr ""
+msgstr "傳送郵件"
 
 #: src/CategoryView.vala:552
 msgid "Eject removable media"
-msgstr ""
+msgstr "退出可移除媒體"
 
 #: src/CategoryView.vala:557
 msgid "Pause media playback"
-msgstr ""
+msgstr "暫停媒體播放"
 
 #: src/CategoryView.vala:562
 msgid "Start playing media"
-msgstr ""
+msgstr "開始播放媒體"
 
 #: src/CategoryView.vala:567
 msgid "Stop playing media"
-msgstr ""
+msgstr "停止播放媒體"
 
 #: src/CategoryView.vala:572
 msgid "Start recording"
-msgstr ""
+msgstr "開始錄製"
 
 #: src/CategoryView.vala:577
 msgid "Seek backwards or rewind"
@@ -607,7 +607,7 @@ msgstr ""
 
 #: src/CategoryView.vala:742
 msgid "Create a new window"
-msgstr ""
+msgstr "建立新的視窗"
 
 #: src/CategoryView.vala:747
 msgid "Zoom to the best fit"
@@ -643,31 +643,31 @@ msgstr ""
 
 #: src/CategoryView.vala:787
 msgid "Text editor"
-msgstr ""
+msgstr "文字編輯器"
 
 #: src/CategoryView.vala:792
 msgid "Default or unprovided app icon"
-msgstr ""
+msgstr "預設或未提供應用程式圖示"
 
 #: src/CategoryView.vala:797
 msgid "Files"
-msgstr ""
+msgstr "檔案"
 
 #: src/CategoryView.vala:802
 msgid "AppCenter or software installer"
-msgstr ""
+msgstr "《應用程式中心》或軟體安裝器"
 
 #: src/CategoryView.vala:807
 msgid "Software updater"
-msgstr ""
+msgstr "軟體更新工具"
 
 #: src/CategoryView.vala:812
 msgid "System resource monitor"
-msgstr ""
+msgstr "系統資源監控"
 
 #: src/CategoryView.vala:817
 msgid "Terminal"
-msgstr ""
+msgstr "終端機"
 
 #: src/CategoryView.vala:822
 msgid "Accessory or utility app category"
@@ -723,7 +723,7 @@ msgstr ""
 
 #: src/CategoryView.vala:887
 msgid "Bluetooth settings"
-msgstr ""
+msgstr "藍牙設定值"
 
 #: src/CategoryView.vala:892
 msgid "Color settings such as printer, display, or camera calibration"
@@ -731,11 +731,11 @@ msgstr ""
 
 #: src/CategoryView.vala:897
 msgid "Desktop interface settings"
-msgstr ""
+msgstr "桌面介面設定值"
 
 #: src/CategoryView.vala:902
 msgid "Universal access settings"
-msgstr ""
+msgstr "無障礙功能設定值"
 
 #: src/CategoryView.vala:907
 msgid "Universal access settings for pointing, such as controlling the cursor"
@@ -755,7 +755,7 @@ msgstr ""
 
 #: src/CategoryView.vala:927
 msgid "Font settings"
-msgstr ""
+msgstr "字型設定值"
 
 #: src/CategoryView.vala:932
 msgid "Keyboard settings, such as layout or shortcuts"
@@ -803,7 +803,7 @@ msgstr ""
 
 #: src/CategoryView.vala:987
 msgid "Power management or energy usage settings, such as battery"
-msgstr ""
+msgstr "電源管理或能源使用設定，像是電池"
 
 #: src/CategoryView.vala:992
 msgid "Privacy and security settings"
@@ -848,7 +848,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1042
 msgid "Battery"
-msgstr ""
+msgstr "電池"
 
 #: src/CategoryView.vala:1047
 msgid "Bluetooth"
@@ -978,75 +978,75 @@ msgstr ""
 
 #: src/CategoryView.vala:1197
 msgid "Default selection emblem, such as for a printer or other device"
-msgstr ""
+msgstr "代表預設選擇項目的徽章，例如預設印表機或其他裝置"
 
 #: src/CategoryView.vala:1202
 msgid "Disabled feature or service emblem"
-msgstr ""
+msgstr "代表功能或服務已停用的徽章"
 
 #: src/CategoryView.vala:1207
 msgid "Documents emblem"
-msgstr ""
+msgstr "代表文件的徽章"
 
 #: src/CategoryView.vala:1212
 msgid "Downloads emblem"
-msgstr ""
+msgstr "代表下載的徽章"
 
 #: src/CategoryView.vala:1217
 msgid "Enabled feature or service emblem"
-msgstr ""
+msgstr "代表功能或服務已啟用的徽章"
 
 #: src/CategoryView.vala:1222
 msgid "Emblem for the error status of a feature or service"
-msgstr ""
+msgstr "代表功能或服務的錯誤狀態的徽章"
 
 #: src/CategoryView.vala:1227
 msgid "Item the user has marked as a favorite"
-msgstr ""
+msgstr "使用者已標記為最愛的項目"
 
 #: src/CategoryView.vala:1232
 msgid "Item marked as important"
-msgstr ""
+msgstr "標記為重要的項目"
 
 #: src/CategoryView.vala:1237
 msgid "Item related to email"
-msgstr ""
+msgstr "與郵件有關的項目"
 
 #: src/CategoryView.vala:1242
 msgid "Emblem for the partially enabled status of a feature or service"
-msgstr ""
+msgstr "代表功能或服務已部分啟用的徽章"
 
 #: src/CategoryView.vala:1247
 msgid "Photos emblem"
-msgstr ""
+msgstr "代表相片的徽章"
 
 #: src/CategoryView.vala:1252
 msgid "Item is read-only, or the user cannot write to or make changes to it"
-msgstr ""
+msgstr "項目唯讀，或是使用者無法寫入或變更它"
 
 #: src/CategoryView.vala:1257
 msgid "Item shared with other people or users"
-msgstr ""
+msgstr "與其他人或使用者分享的項目"
 
 #: src/CategoryView.vala:1262
 msgid "Item is a symbolic link to a file somewhere else"
-msgstr ""
+msgstr "項目是符號連結，目標是別的地方的檔案"
 
 #: src/CategoryView.vala:1267
 msgid "Item is configured to be synchronized to another device or location"
-msgstr ""
+msgstr "項目已設定為與另一台裝置或另一個位置同步"
 
 #: src/CategoryView.vala:1272
 msgid "Item is a system file, library, setting, or data"
-msgstr ""
+msgstr "項目是系統檔案、函式庫、設定或資料"
 
 #: src/CategoryView.vala:1277
 msgid "Item is unreadable or inaccessible"
-msgstr ""
+msgstr "項目無法讀取或無法存取"
 
 #: src/CategoryView.vala:1282
 msgid "Emblem for the warning status of a feature or service"
-msgstr ""
+msgstr "代表功能或服務有出現警告的徽章"
 
 #: src/CategoryView.vala:1287
 msgid "0:-) emoticon"
@@ -1234,47 +1234,47 @@ msgstr "一般音效檔案類型"
 
 #: src/CategoryView.vala:1517
 msgid "Audio playlist file types"
-msgstr ""
+msgstr "音訊播放清單檔案類型"
 
 #: src/CategoryView.vala:1522
 msgid "Extension"
-msgstr ""
+msgstr "擴張功能"
 
 #: src/CategoryView.vala:1527
 msgid "Generic font file types"
-msgstr ""
+msgstr "一般字型檔案類型"
 
 #: src/CategoryView.vala:1532
 msgid "Adobe Photoshop image file types"
-msgstr ""
+msgstr "Adobe Photoshop 影像檔案類型"
 
 #: src/CategoryView.vala:1537
 msgid "Generic image file types"
-msgstr ""
+msgstr "一般影像檔案類型"
 
 #: src/CategoryView.vala:1542
 msgid "XCF image file types"
-msgstr ""
+msgstr "XCF 影像檔案類型"
 
 #: src/CategoryView.vala:1547
 msgid "Internet Feed"
-msgstr ""
+msgstr "網際網路訂閱來源"
 
 #: src/CategoryView.vala:1552
 msgid "Model"
-msgstr ""
+msgstr "模型"
 
 #: src/CategoryView.vala:1557
 msgid "Contact file types"
-msgstr ""
+msgstr "聯絡人檔案類型"
 
 #: src/CategoryView.vala:1562
 msgid "Database file types"
-msgstr ""
+msgstr "資料庫檔案類型"
 
 #: src/CategoryView.vala:1567
 msgid "Generic package file types"
-msgstr ""
+msgstr "一般套件檔案類型"
 
 #: src/CategoryView.vala:1572
 msgid "Credit or debit card payments"
@@ -1326,15 +1326,15 @@ msgstr "Bibtext 檔案類型"
 
 #: src/CategoryView.vala:1632
 msgid "Changelog file types"
-msgstr ""
+msgstr "Changelog 檔案類型"
 
 #: src/CategoryView.vala:1637
 msgid "C programming language header file types"
-msgstr ""
+msgstr "C 程式語言標頭檔案類型"
 
 #: src/CategoryView.vala:1642
 msgid "License file types"
-msgstr ""
+msgstr "授權條款檔案類型"
 
 #: src/CategoryView.vala:1647
 msgid "C programming language file types"
@@ -1350,11 +1350,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1662
 msgid "Gettext translation file types"
-msgstr ""
+msgstr "Gettext 翻譯檔案類型"
 
 #: src/CategoryView.vala:1667
 msgid "Gettext translation model file types"
-msgstr ""
+msgstr "Gettext 翻譯模型檔案類型"
 
 #: src/CategoryView.vala:1672
 msgid "Go programming language file types"
@@ -1362,15 +1362,15 @@ msgstr "Go 程式語言檔案類型"
 
 #: src/CategoryView.vala:1677
 msgid "Install file types"
-msgstr ""
+msgstr "安裝檔案類型"
 
 #: src/CategoryView.vala:1682
 msgid "Makefile file types"
-msgstr ""
+msgstr "Makefile 檔案類型"
 
 #: src/CategoryView.vala:1687
 msgid "Preview file types"
-msgstr ""
+msgstr "預覽檔案類型"
 
 #: src/CategoryView.vala:1692
 msgid "Python programming language file types"
@@ -1378,7 +1378,7 @@ msgstr "Python 程式語言檔案類型"
 
 #: src/CategoryView.vala:1697
 msgid "Readme file types"
-msgstr ""
+msgstr "Readme 檔案類型"
 
 #: src/CategoryView.vala:1702
 msgid "Sass programming language file types"
@@ -1386,15 +1386,15 @@ msgstr "Sass 程式語言檔案類型"
 
 #: src/CategoryView.vala:1707
 msgid "Script file types, such as shell scripts"
-msgstr ""
+msgstr "指令稿檔案類型，例如 shell 指令稿"
 
 #: src/CategoryView.vala:1712
 msgid "SSA file types"
-msgstr ""
+msgstr "SSA 檔案類型"
 
 #: src/CategoryView.vala:1717
 msgid "TEX file types"
-msgstr ""
+msgstr "TEX 檔案類型"
 
 #: src/CategoryView.vala:1722
 msgid "Vala programming language file types"
@@ -1406,71 +1406,71 @@ msgstr "未知檔案類型"
 
 #: src/CategoryView.vala:1732
 msgid "Generic video file types"
-msgstr ""
+msgstr "一般影片檔案類型"
 
 #: src/CategoryView.vala:1737
 msgid "Generic address book file types"
-msgstr ""
+msgstr "一般通訊錄檔案類型"
 
 #: src/CategoryView.vala:1742
 msgid "Generic calendar file types"
-msgstr ""
+msgstr "一般行事曆檔案類型"
 
 #: src/CategoryView.vala:1747
 msgid "Generic document and letter file types"
-msgstr ""
+msgstr "一般文件與信件檔案類型"
 
 #: src/CategoryView.vala:1752
 msgid "Generic document and letter template file types"
-msgstr ""
+msgstr "一般文件與信件模板檔案類型"
 
 #: src/CategoryView.vala:1757
 msgid "Generic drawing file types"
-msgstr ""
+msgstr "一般繪圖檔案類型"
 
 #: src/CategoryView.vala:1762
 msgid "Generic drawing template file types"
-msgstr ""
+msgstr "一般繪圖模板檔案類型"
 
 #: src/CategoryView.vala:1767
 msgid "Generic presentation file types"
-msgstr ""
+msgstr "一般簡報檔案類型"
 
 #: src/CategoryView.vala:1772
 msgid "Generic presentation template file types"
-msgstr ""
+msgstr "一般簡報模板檔案類型"
 
 #: src/CategoryView.vala:1777
 msgid "Generic spreadsheet file types"
-msgstr ""
+msgstr "一般試算表檔案類型"
 
 #: src/CategoryView.vala:1782
 msgid "Generic spreadsheet template file types"
-msgstr ""
+msgstr "一般試算表模板檔案類型"
 
 #: src/CategoryView.vala:1787
 msgid "Bookmark missing"
-msgstr ""
+msgstr "缺乏書籤"
 
 #: src/CategoryView.vala:1792
 msgid "Distributor logo"
-msgstr ""
+msgstr "發行者 logo"
 
 #: src/CategoryView.vala:1797
 msgid "Folder"
-msgstr ""
+msgstr "資料夾"
 
 #: src/CategoryView.vala:1802
 msgid "Documents folder"
-msgstr ""
+msgstr "文件資料夾"
 
 #: src/CategoryView.vala:1807
 msgid "Downloads folder"
-msgstr ""
+msgstr "下載資料夾"
 
 #: src/CategoryView.vala:1812
 msgid "Folder drag accept"
-msgstr ""
+msgstr "接受資料夾拖曳"
 
 #: src/CategoryView.vala:1817
 msgid "Music folder"
@@ -1518,7 +1518,7 @@ msgstr "有聲書收藏"
 
 #: src/CategoryView.vala:1872
 msgid "Library places"
-msgstr ""
+msgstr "珍藏館位置"
 
 #: src/CategoryView.vala:1877
 msgid "Podcast library"
@@ -1625,59 +1625,59 @@ msgstr ""
 
 #: src/CategoryView.vala:2002
 msgid "A charger or AC adapter for a battery-powered device"
-msgstr ""
+msgstr "電池驅動的裝置用的充電器或市電轉接器"
 
 #: src/CategoryView.vala:2007
 msgid "Low battery level"
-msgstr ""
+msgstr "電池低電量"
 
 #: src/CategoryView.vala:2012
 msgid "Low battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "電池低電量（已插入充電器或市電轉接器）"
 
 #: src/CategoryView.vala:2017
 msgid "Critically low battery level"
-msgstr ""
+msgstr "電池電量嚴重不足"
 
 #: src/CategoryView.vala:2022
 msgid "Critically low battery, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "電池電量嚴重不足（已插入充電器或市電轉接器）"
 
 #: src/CategoryView.vala:2027
 msgid "Mostly charged battery level"
-msgstr ""
+msgstr "大致上充飽的電池電量"
 
 #: src/CategoryView.vala:2032
 msgid "Completely charged battery level"
-msgstr ""
+msgstr "完全充飽的電池電量"
 
 #: src/CategoryView.vala:2037
 msgid "Mostly charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "大致上充飽的電池電量（已插入充電器或市電轉接器）"
 
 #: src/CategoryView.vala:2042
 msgid "Medium-high charged battery level"
-msgstr ""
+msgstr "中高電池電量"
 
 #: src/CategoryView.vala:2047
 msgid "Medium-high charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "中高電池電量（已插入充電器或市電轉接器）"
 
 #: src/CategoryView.vala:2052
 msgid "Medium-low charged battery level"
-msgstr ""
+msgstr "中低電池電量"
 
 #: src/CategoryView.vala:2057
 msgid "Medium-low charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "中低電池電量（已插入充電器或市電轉接器）"
 
 #: src/CategoryView.vala:2062
 msgid "Missing or malfunctioning battery"
-msgstr ""
+msgstr "缺乏電池或是電池故障"
 
 #: src/CategoryView.vala:2067
 msgid "Allow changes by unlocking such as with a password"
-msgstr ""
+msgstr "允許在使用密碼等方式解鎖之後進行變更"
 
 #: src/CategoryView.vala:2072
 msgid "Prevent changes by locking such as with a password"
@@ -1904,11 +1904,11 @@ msgstr ""
 
 #: src/CategoryView.vala:2337
 msgid "Foggy weather"
-msgstr ""
+msgstr "起霧"
 
 #: src/CategoryView.vala:2342
 msgid "Overcast or cloudy weather"
-msgstr ""
+msgstr "陰天"
 
 #: src/CategoryView.vala:2347
 msgid "Severe or critical weather warning or alert"
