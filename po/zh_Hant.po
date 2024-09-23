@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-01 10:33+0000\n"
-"PO-Revision-Date: 2024-09-20 09:43+0000\n"
+"PO-Revision-Date: 2024-09-23 11:35+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
 "icon-browser/icon-browser/zh_Hant/>\n"
@@ -153,11 +153,11 @@ msgstr ""
 
 #: src/CategoryView.vala:177
 msgid "Export a document"
-msgstr ""
+msgstr "匯出文件"
 
 #: src/CategoryView.vala:182
 msgid "Import a document"
-msgstr ""
+msgstr "匯入文件"
 
 #: src/CategoryView.vala:187
 msgid "Create a new document"
@@ -165,11 +165,11 @@ msgstr "建立新的文件"
 
 #: src/CategoryView.vala:192
 msgid "Open a document"
-msgstr ""
+msgstr "開啟文件"
 
 #: src/CategoryView.vala:197
 msgid "Open a document that was recently opened"
-msgstr ""
+msgstr "開啟一個最近開啟過的文件"
 
 #: src/CategoryView.vala:202
 msgid "The page setup action of a document editor"
@@ -177,7 +177,7 @@ msgstr ""
 
 #: src/CategoryView.vala:207
 msgid "Print"
-msgstr ""
+msgstr "列印"
 
 #: src/CategoryView.vala:212
 msgid "The print preview action of an application"
@@ -185,27 +185,27 @@ msgstr ""
 
 #: src/CategoryView.vala:217
 msgid "View the properties of a document"
-msgstr ""
+msgstr "檢視文件的屬性"
 
 #: src/CategoryView.vala:222
 msgid "Revert to a previous version of a document"
-msgstr ""
+msgstr "回復到文件先前的版本"
 
 #: src/CategoryView.vala:227
 msgid "Save"
-msgstr ""
+msgstr "儲存"
 
 #: src/CategoryView.vala:232
 msgid "Save as"
-msgstr ""
+msgstr "儲存為"
 
 #: src/CategoryView.vala:237
 msgid "Send"
-msgstr ""
+msgstr "傳送"
 
 #: src/CategoryView.vala:242
 msgid "Edit"
-msgstr ""
+msgstr "編輯"
 
 #: src/CategoryView.vala:247
 msgid "Clear"
@@ -213,43 +213,43 @@ msgstr ""
 
 #: src/CategoryView.vala:252 src/IconView.vala:107 src/IconView.vala:225
 msgid "Copy"
-msgstr ""
+msgstr "複製"
 
 #: src/CategoryView.vala:257
 msgid "Cut"
-msgstr ""
+msgstr "剪下"
 
 #: src/CategoryView.vala:262
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: src/CategoryView.vala:267
 msgid "Find"
-msgstr ""
+msgstr "尋找"
 
 #: src/CategoryView.vala:272
 msgid "Find & Replace"
-msgstr ""
+msgstr "尋找與取代"
 
 #: src/CategoryView.vala:277
 msgid "Flag an item, such as a spam email"
-msgstr ""
+msgstr "標記項目，像是垃圾信"
 
 #: src/CategoryView.vala:282
 msgid "Paste"
-msgstr ""
+msgstr "貼上"
 
 #: src/CategoryView.vala:287
 msgid "Redo"
-msgstr ""
+msgstr "重做"
 
 #: src/CategoryView.vala:292
 msgid "Select all"
-msgstr ""
+msgstr "全部選取"
 
 #: src/CategoryView.vala:297
 msgid "Undo"
-msgstr ""
+msgstr "復原"
 
 #: src/CategoryView.vala:302
 msgid "Create a new calendar event"
@@ -257,11 +257,11 @@ msgstr "建立新的行事曆活動"
 
 #: src/CategoryView.vala:307
 msgid "Copy a folder"
-msgstr ""
+msgstr "複製一個資料夾"
 
 #: src/CategoryView.vala:312
 msgid "Move a folder"
-msgstr ""
+msgstr "移動一個資料夾"
 
 #: src/CategoryView.vala:317
 msgid "Create a new folder"
@@ -293,75 +293,75 @@ msgstr ""
 
 #: src/CategoryView.vala:352
 msgid "Format text as left-to-right"
-msgstr ""
+msgstr "將文字格式改為左到右"
 
 #: src/CategoryView.vala:357
 msgid "Format text as right-to-left"
-msgstr ""
+msgstr "將文字格式改為右到左"
 
 #: src/CategoryView.vala:362
 msgid "Format text as bold"
-msgstr ""
+msgstr "加上粗體格式"
 
 #: src/CategoryView.vala:367
 msgid "Format text as highlighted"
-msgstr ""
+msgstr "加上突顯格式"
 
 #: src/CategoryView.vala:372
 msgid "Format text as italic"
-msgstr ""
+msgstr "加上斜體格式"
 
 #: src/CategoryView.vala:377
 msgid "Format text as underlined"
-msgstr ""
+msgstr "加上底線格式"
 
 #: src/CategoryView.vala:382
 msgid "Format text as being struck through"
-msgstr ""
+msgstr "加上刪除線格式"
 
 #: src/CategoryView.vala:387
 msgid "Go to the bottom, such as in a list"
-msgstr ""
+msgstr "在列表等處前往底部"
 
 #: src/CategoryView.vala:392
 msgid "Go down, such as in a list"
-msgstr ""
+msgstr "在列表等處往下移動"
 
 #: src/CategoryView.vala:397
 msgid "Go to the first item, such as in a list"
-msgstr ""
+msgstr "在列表等處前往第一個項目"
 
 #: src/CategoryView.vala:402
 msgid "Go to the home location"
-msgstr ""
+msgstr "前往主頁或家屋"
 
 #: src/CategoryView.vala:407
 msgid "Jump to a location"
-msgstr ""
+msgstr "跳到位置"
 
 #: src/CategoryView.vala:412
 msgid "Go to the last item, such as in a list"
-msgstr ""
+msgstr "在列表等處前往最後一個項目"
 
 #: src/CategoryView.vala:417
 msgid "Go forward to the next item, such as in a list or navigation"
-msgstr ""
+msgstr "在列表或瀏覽等處前往下一個項目"
 
 #: src/CategoryView.vala:422
 msgid "Go back to the previous item, such as in a list or navigation"
-msgstr ""
+msgstr "在列表或瀏覽等處返回到上一個項目"
 
 #: src/CategoryView.vala:427
 msgid "Go to the top, such as in a list"
-msgstr ""
+msgstr "在列表等處前往頂部"
 
 #: src/CategoryView.vala:432
 msgid "Go up, such as in a list"
-msgstr ""
+msgstr "在列表等處往上移動"
 
 #: src/CategoryView.vala:437
 msgid "Information about an app"
-msgstr ""
+msgstr "關於應用程式的資訊"
 
 #: src/CategoryView.vala:442
 msgid "Get help"
@@ -373,11 +373,11 @@ msgstr "常見問題"
 
 #: src/CategoryView.vala:452
 msgid "Make adjustments to an image"
-msgstr ""
+msgstr "對圖片進行調整"
 
 #: src/CategoryView.vala:457
 msgid "Automatically adjust an image"
-msgstr ""
+msgstr "自動調整圖片"
 
 #: src/CategoryView.vala:462
 msgid "Crop an image"
@@ -441,11 +441,11 @@ msgstr "撰寫新郵件"
 
 #: src/CategoryView.vala:537
 msgid "Reply to all participants of an email"
-msgstr ""
+msgstr "回覆給郵件的所有參與者"
 
 #: src/CategoryView.vala:542
 msgid "Reply to the sender of an email"
-msgstr ""
+msgstr "回覆給郵件的寄件人"
 
 #: src/CategoryView.vala:547
 msgid "Send an email"
@@ -567,15 +567,15 @@ msgstr "全螢幕顯示"
 
 #: src/CategoryView.vala:692
 msgid "Display the current view as a grid of images or icons"
-msgstr ""
+msgstr "以圖片或圖示格狀模式顯示目前檢視"
 
 #: src/CategoryView.vala:697
 msgid "Refresh or reload the current view"
-msgstr ""
+msgstr "重新整理或重新載入目前檢視"
 
 #: src/CategoryView.vala:702
 msgid "Leave fullscreen and return to a normal window"
-msgstr ""
+msgstr "離開全螢幕回到正常視窗"
 
 #: src/CategoryView.vala:707
 msgid "View more information about the given context in a popover or menu"
@@ -587,7 +587,7 @@ msgstr ""
 
 #: src/CategoryView.vala:717
 msgid "Display the current view as a collection of pages"
-msgstr ""
+msgstr "以多頁模式顯示目前檢視"
 
 #: src/CategoryView.vala:722
 msgid "Pin the current view so that it does not automatically hide"
@@ -595,15 +595,15 @@ msgstr ""
 
 #: src/CategoryView.vala:727
 msgid "Sort items in an ascending order, such as in a list"
-msgstr ""
+msgstr "在列表等處將項目以升冪方式排序"
 
 #: src/CategoryView.vala:732
 msgid "Sort items in a descending order, such as in a list"
-msgstr ""
+msgstr "在列表等處將項目以降冪方式排序"
 
 #: src/CategoryView.vala:737
 msgid "Close the window"
-msgstr ""
+msgstr "關閉視窗"
 
 #: src/CategoryView.vala:742
 msgid "Create a new window"
@@ -611,35 +611,35 @@ msgstr "建立新的視窗"
 
 #: src/CategoryView.vala:747
 msgid "Zoom to the best fit"
-msgstr ""
+msgstr "縮放至符合頁面"
 
 #: src/CategoryView.vala:752
 msgid "Zoom in"
-msgstr ""
+msgstr "放大"
 
 #: src/CategoryView.vala:757
 msgid "Zoom to the original size"
-msgstr ""
+msgstr "縮放至原始大小"
 
 #: src/CategoryView.vala:762
 msgid "Zoom out"
-msgstr ""
+msgstr "縮小"
 
 #: src/CategoryView.vala:767
 msgid "Calculator"
-msgstr ""
+msgstr "計算機"
 
 #: src/CategoryView.vala:772
 msgid "International and extended text character map"
-msgstr ""
+msgstr "國際性的擴張文字字元對應"
 
 #: src/CategoryView.vala:777
 msgid "Dictionary"
-msgstr ""
+msgstr "字典"
 
 #: src/CategoryView.vala:782
 msgid "Screenshot application"
-msgstr ""
+msgstr "畫面快照應用程式"
 
 #: src/CategoryView.vala:787
 msgid "Text editor"
@@ -671,55 +671,55 @@ msgstr "終端機"
 
 #: src/CategoryView.vala:822
 msgid "Accessory or utility app category"
-msgstr ""
+msgstr "附屬應用程式或工具應用程式分類"
 
 #: src/CategoryView.vala:827
 msgid "Programming, software development, code, or IDE app category"
-msgstr ""
+msgstr "程式開發、軟體開發、程式碼或 IDE 應用程式分類"
 
 #: src/CategoryView.vala:832
 msgid "Education, learning, or school app category"
-msgstr ""
+msgstr "教育、學習或學校應用程式分類"
 
 #: src/CategoryView.vala:837
 msgid "Engineering app category"
-msgstr ""
+msgstr "工程應用程式分類"
 
 #: src/CategoryView.vala:842
 msgid "Games app category"
-msgstr ""
+msgstr "遊戲應用程式分類"
 
 #: src/CategoryView.vala:847
 msgid "Graphics, drawing, art, or photo manipulation app category"
-msgstr ""
+msgstr "圖形、繪圖、藝術或修圖應用程式分類"
 
 #: src/CategoryView.vala:852
 msgid "Internet or web related app category"
-msgstr ""
+msgstr "網際網路相關應用程式分類"
 
 #: src/CategoryView.vala:857
 msgid "Multimedia, audio, or video app category"
-msgstr ""
+msgstr "多媒體、音效或影片應用程式分類"
 
 #: src/CategoryView.vala:862
 msgid "Office app category"
-msgstr ""
+msgstr "辦公室應用程式分類"
 
 #: src/CategoryView.vala:867
 msgid "Other or uncategorized app category"
-msgstr ""
+msgstr "其他或未分類應用程式用的應用程式分類"
 
 #: src/CategoryView.vala:872
 msgid "Science app category"
-msgstr ""
+msgstr "科學應用程式分類"
 
 #: src/CategoryView.vala:877
 msgid "System tools or OS app category"
-msgstr ""
+msgstr "系統工具或作業系統應用程式分類"
 
 #: src/CategoryView.vala:882
 msgid "Utility app category"
-msgstr ""
+msgstr "工具應用程式分類"
 
 #: src/CategoryView.vala:887
 msgid "Bluetooth settings"
@@ -727,7 +727,7 @@ msgstr "藍牙設定值"
 
 #: src/CategoryView.vala:892
 msgid "Color settings such as printer, display, or camera calibration"
-msgstr ""
+msgstr "印表機、顯示器、或相機的校正等等色彩設定值"
 
 #: src/CategoryView.vala:897
 msgid "Desktop interface settings"
@@ -739,19 +739,19 @@ msgstr "無障礙功能設定值"
 
 #: src/CategoryView.vala:907
 msgid "Universal access settings for pointing, such as controlling the cursor"
-msgstr ""
+msgstr "指標相關的無障礙功能設定值，像是游標的控制"
 
 #: src/CategoryView.vala:912
 msgid "Universal access settings for zooming or magnifying"
-msgstr ""
+msgstr "縮放或放大鏡的無障礙功能設定值"
 
 #: src/CategoryView.vala:917
 msgid "App-related settings, such as default or startup apps"
-msgstr ""
+msgstr "與應用程式有關的設定值，像是預設應用程式或初始啟動的應用程式"
 
 #: src/CategoryView.vala:922
 msgid "Display settings, such as resolution or scaling"
-msgstr ""
+msgstr "顯示器設定，像是解析度或縮放"
 
 #: src/CategoryView.vala:927
 msgid "Font settings"
@@ -759,11 +759,11 @@ msgstr "字型設定值"
 
 #: src/CategoryView.vala:932
 msgid "Keyboard settings, such as layout or shortcuts"
-msgstr ""
+msgstr "鍵盤設定值，像是鍵盤配置或快捷鍵"
 
 #: src/CategoryView.vala:937
 msgid "International localization, language, or region settings"
-msgstr ""
+msgstr "國際化、本地化、語言或地區設定值"
 
 #: src/CategoryView.vala:942
 msgid "Online account and cloud sync or sign in settings"
@@ -771,19 +771,19 @@ msgstr ""
 
 #: src/CategoryView.vala:947
 msgid "Settings for peripherals, such as a mouse or keyboard"
-msgstr ""
+msgstr "滑鼠或鍵盤等週邊裝置的設定值"
 
 #: src/CategoryView.vala:952
 msgid "Sound or audio input and output settings"
-msgstr ""
+msgstr "音效或音訊輸入及輸出設定"
 
 #: src/CategoryView.vala:957
 msgid "Look and feel, appearance, style, or theme settings"
-msgstr ""
+msgstr "外觀與感覺、風格或主題設定"
 
 #: src/CategoryView.vala:962
 msgid "Desktop wallpaper or background settings"
-msgstr ""
+msgstr "桌面的桌布或背景設定值"
 
 #: src/CategoryView.vala:967
 msgid "Other, miscellaneous, or uncategorized settings"
@@ -807,7 +807,7 @@ msgstr "電源管理或能源使用設定，像是電池"
 
 #: src/CategoryView.vala:992
 msgid "Privacy and security settings"
-msgstr ""
+msgstr "隱私與安全設定值"
 
 #: src/CategoryView.vala:997
 msgid ""
@@ -816,15 +816,15 @@ msgstr ""
 
 #: src/CategoryView.vala:1002
 msgid "Time and date settings"
-msgstr ""
+msgstr "日期與時間設定值"
 
 #: src/CategoryView.vala:1007
 msgid "Window management settings"
-msgstr ""
+msgstr "視窗管理設定值"
 
 #: src/CategoryView.vala:1012
 msgid "Help"
-msgstr ""
+msgstr "幫助"
 
 #: src/CategoryView.vala:1017
 msgid "Audio output device, such as a sound card or speaker"
@@ -840,7 +840,7 @@ msgstr "音效輸出裝置（耳麥）"
 
 #: src/CategoryView.vala:1032
 msgid "Microphone"
-msgstr ""
+msgstr "麥克風"
 
 #: src/CategoryView.vala:1037
 msgid "Subwoofer or bass speaker"
@@ -852,11 +852,11 @@ msgstr "電池"
 
 #: src/CategoryView.vala:1047
 msgid "Bluetooth"
-msgstr ""
+msgstr "藍牙"
 
 #: src/CategoryView.vala:1052
 msgid "Digital photo or still camera"
-msgstr ""
+msgstr "數位相片或靜態影像的相機"
 
 #: src/CategoryView.vala:1057
 msgid "Video or movie camera"
@@ -864,7 +864,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1062
 msgid "Webcam or built-in camera"
-msgstr ""
+msgstr "網路攝影機或內建相機"
 
 #: src/CategoryView.vala:1067
 msgid "Generic or desktop computer"
@@ -872,7 +872,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1072
 msgid "Laptop or notebook computer"
-msgstr ""
+msgstr "筆記型電腦"
 
 #: src/CategoryView.vala:1077
 msgid "Hard disk or storage drive"
@@ -884,11 +884,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1087
 msgid "Removable storage device, such as a portable hard drive"
-msgstr ""
+msgstr "可移除的儲存裝置，像是行動硬碟"
 
 #: src/CategoryView.vala:1092
 msgid "USB drive or stick, such as a flash, jump, or thumb drive"
-msgstr ""
+msgstr "USB 硬碟或隨身碟"
 
 #: src/CategoryView.vala:1097
 msgid "Video game controller, such as a paddle, remote, or joystick"
@@ -896,21 +896,21 @@ msgstr ""
 
 #: src/CategoryView.vala:1102
 msgid "Keyboard"
-msgstr ""
+msgstr "鍵盤"
 
 #: src/CategoryView.vala:1107
 msgid "Mouse"
-msgstr ""
+msgstr "滑鼠"
 
 #: src/CategoryView.vala:1112
 msgid ""
 "Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
 "Bamboo"
-msgstr ""
+msgstr "繪圖板或畫筆輸入，像是 Wacom digitizer、Intuos、Cintiq 或 Banboo 等等"
 
 #: src/CategoryView.vala:1117
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
-msgstr ""
+msgstr "觸控板輸入，像是多點觸控版或是點擊版 (clickpad)"
 
 #: src/CategoryView.vala:1122
 msgid "Flash media such as a memory stick or SD card"
@@ -936,25 +936,25 @@ msgstr ""
 
 #: src/CategoryView.vala:1147
 msgid "Networking firewall"
-msgstr ""
+msgstr "網路防火牆"
 
 #: src/CategoryView.vala:1152
 msgid "Virtual private network or VPN connection"
-msgstr ""
+msgstr "虛擬私人網路 (VPN) 連線"
 
 #: src/CategoryView.vala:1157
 msgid "Wired network connection, such as Ethernet"
-msgstr ""
+msgstr "有線網路連線，像是乙太網路"
 
 #: src/CategoryView.vala:1162
 msgid "Wireless network connection, such as Wi-Fi"
-msgstr ""
+msgstr "無線網路連線，像是 Wi-Fi"
 
 #: src/CategoryView.vala:1167
 msgid ""
 "Wireless hotspot connection, such as through a mobile cellular phone or "
 "smartphone"
-msgstr ""
+msgstr "透過行動裝置或智慧型手機等進行的無線熱點連線"
 
 #: src/CategoryView.vala:1172
 msgid "Generic phone, such as a mobile Android smartphone or iPhone"
@@ -962,7 +962,7 @@ msgstr ""
 
 #: src/CategoryView.vala:1177
 msgid "Printer"
-msgstr ""
+msgstr "印表機"
 
 #: src/CategoryView.vala:1182
 msgid "Network-connected or shared printer"
@@ -970,11 +970,11 @@ msgstr ""
 
 #: src/CategoryView.vala:1187
 msgid "Scanner"
-msgstr ""
+msgstr "掃描器"
 
 #: src/CategoryView.vala:1192
 msgid "Display, screen, or monitor"
-msgstr ""
+msgstr "顯示器或螢幕"
 
 #: src/CategoryView.vala:1197
 msgid "Default selection emblem, such as for a printer or other device"
@@ -1346,7 +1346,7 @@ msgstr "一般文字檔案類型"
 
 #: src/CategoryView.vala:1657
 msgid "Generic text templates"
-msgstr ""
+msgstr "一般文字模板"
 
 #: src/CategoryView.vala:1662
 msgid "Gettext translation file types"
@@ -1590,11 +1590,11 @@ msgstr "飛航模式（其中無線通信皆為停用或關閉）"
 
 #: src/CategoryView.vala:1962
 msgid "An appointment or calendar event was missed"
-msgstr ""
+msgstr "錯過了約定或行事曆活動"
 
 #: src/CategoryView.vala:1967
 msgid "An appointment or calendar event will be happening soon"
-msgstr ""
+msgstr "約定或行事曆活動即將發生"
 
 #: src/CategoryView.vala:1972
 msgid "High or loud audio volume"
@@ -1686,7 +1686,7 @@ msgstr ""
 #: src/CategoryView.vala:2077
 msgid ""
 "Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
-msgstr ""
+msgstr "不完全，未受保護，或未加密的通訊或連線，像是 HTTP"
 
 #: src/CategoryView.vala:2082
 msgid ""
@@ -1700,11 +1700,11 @@ msgstr ""
 
 #: src/CategoryView.vala:2092
 msgid "Contextual information or explanation"
-msgstr ""
+msgstr "與內文有關的資訊或說明"
 
 #: src/CategoryView.vala:2097
 msgid "Requesting authentication details, such as a password or encryption key"
-msgstr ""
+msgstr "正在要求認證資訊，像是密碼或加密金鑰"
 
 #: src/CategoryView.vala:2102
 msgid "Question, decision, or choice for the user"
@@ -1712,7 +1712,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2107
 msgid "Warning of potentially dangerous actions or consequences"
-msgstr ""
+msgstr "對於可能有風險的動作或後果的警告"
 
 #: src/CategoryView.vala:2112
 msgid "Placeholder used when an image or thumbnail is loading"
@@ -1725,24 +1725,24 @@ msgstr ""
 
 #: src/CategoryView.vala:2122
 msgid "Location services are in use"
-msgstr ""
+msgstr "位置服務使用中"
 
 #: src/CategoryView.vala:2127
 msgid "Location services are disabled and unavailable"
-msgstr ""
+msgstr "位置服務已停用因此不可供使用"
 
 #: src/CategoryView.vala:2132
 msgid "Location services are available, but not in use"
-msgstr ""
+msgstr "位置服務可供使用但並非使用中"
 
 #: src/CategoryView.vala:2137
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
-msgstr ""
+msgstr "已鎖定或已保護，通常代表需要核對身份或利用密碼才能解鎖"
 
 #: src/CategoryView.vala:2142
 msgid "Mail attachment or file in an email"
-msgstr ""
+msgstr "電子郵件內的附件或檔案"
 
 #: src/CategoryView.vala:2147
 msgid "New, unread, or unviewed email"
@@ -1750,7 +1750,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2152
 msgid "Read or already-viewed email"
-msgstr ""
+msgstr "已讀或已顯示過的郵件"
 
 #: src/CategoryView.vala:2157
 msgid "Email that has been replied or responded to"
@@ -1766,11 +1766,11 @@ msgstr ""
 
 #: src/CategoryView.vala:2172
 msgid "Repeat a song, video, track, album, playlist, or other media"
-msgstr ""
+msgstr "重複播放歌曲、影片、音軌、專輯、播放清單或其他媒體"
 
 #: src/CategoryView.vala:2177
 msgid "Shuffle or randomize an album, playlist, or other media"
-msgstr ""
+msgstr "隨機化專輯、播放清單或其他媒體的播放順序"
 
 #: src/CategoryView.vala:2182
 msgid "Error or problem initializing or creating a network connection"
@@ -1782,7 +1782,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2192
 msgid "Disconnected or offline from a network"
-msgstr ""
+msgstr "已從網路斷線或離線"
 
 #: src/CategoryView.vala:2197
 msgid "Data is being received over a network"
@@ -1799,7 +1799,7 @@ msgstr ""
 
 #: src/CategoryView.vala:2212
 msgid "Wired network, such as Ethernet, is disconnected"
-msgstr ""
+msgstr "有線網路（乙太網路等）已斷線"
 
 #: src/CategoryView.vala:2217
 msgid "Item is not starred, favorited, or pinned by the user"
@@ -1833,7 +1833,7 @@ msgstr ""
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
-msgstr ""
+msgstr "已知安全，像是已使用強力加密與有效、已驗證或已信任的憑證"
 
 #: src/CategoryView.vala:2257
 msgid "Presumed to be secure, such as using encryption"
