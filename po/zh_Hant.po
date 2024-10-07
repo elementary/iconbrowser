@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-01 10:33+0000\n"
-"PO-Revision-Date: 2024-09-24 13:14+0000\n"
+"PO-Revision-Date: 2024-10-07 08:07+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
 "icon-browser/icon-browser/zh_Hant/>\n"
@@ -1819,15 +1819,15 @@ msgstr ""
 
 #: src/CategoryView.vala:2237
 msgid "Process, job, or task has successfully completed or finished"
-msgstr ""
+msgstr "程序、工作或作業已成功完成或結束"
 
 #: src/CategoryView.vala:2242
 msgid "Process, job, or task has failed or been unsuccessful"
-msgstr ""
+msgstr "程序、工作或作業已失敗"
 
 #: src/CategoryView.vala:2247
 msgid "Process, job, or task is currently paused or on hold"
-msgstr ""
+msgstr "程序、工作或作業目前已暫停或待命中"
 
 #: src/CategoryView.vala:2252
 msgid ""
@@ -1868,31 +1868,31 @@ msgstr "待辦事項已過期但尚未完成"
 
 #: src/CategoryView.vala:2292
 msgid "User, person, or contact is available or online"
-msgstr ""
+msgstr "使用者、人物或聯絡人可聯絡或在線上"
 
 #: src/CategoryView.vala:2297
 msgid "User, person, or contact is away or unavailable"
-msgstr ""
+msgstr "使用者、人物或聯絡人已離席或無法聯絡"
 
 #: src/CategoryView.vala:2302
 msgid "User, person, or contact is idle or unresponsive"
-msgstr ""
+msgstr "使用者、人物或聯絡人閒置中或沒有回應"
 
 #: src/CategoryView.vala:2307
 msgid "User, person, or contact is offline or unreachable"
-msgstr ""
+msgstr "使用者、人物或聯絡人已離線或無法聯絡"
 
 #: src/CategoryView.vala:2312
 msgid "Private, anonymous, untracked, or incognito"
-msgstr ""
+msgstr "私密、匿名、不被追蹤或隱私模式"
 
 #: src/CategoryView.vala:2317
 msgid "Clear skies or sunny weather"
-msgstr ""
+msgstr "晴天或無雲"
 
 #: src/CategoryView.vala:2322
 msgid "Clear skies weather during the night"
-msgstr ""
+msgstr "無雲（夜間）"
 
 #: src/CategoryView.vala:2327
 msgid "Partly cloudy, partly clear, or partly sunny weather"
@@ -1924,11 +1924,11 @@ msgstr ""
 
 #: src/CategoryView.vala:2362
 msgid "Snow showers or snowy weather"
-msgstr ""
+msgstr "小雪或雪天"
 
 #: src/CategoryView.vala:2367
 msgid "Thunderstorms or stormy weather"
-msgstr ""
+msgstr "雷雨或暴風雨"
 
 #: src/CategoryView.vala:2377
 msgid "Search Names or Descriptions"
