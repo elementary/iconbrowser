@@ -3,10 +3,10 @@
  * SPDX-FileCopyrightText: 2017-2022 elementary, Inc. (https://elementary.io)
  */
 
-public class SidebarRow : Gtk.ListBoxRow {
-    public CategoryView.Category category { get; construct; }
+public class Widgets.SidebarRow : Gtk.ListBoxRow {
+    public Services.Collection.Category category { get; construct; }
 
-    public SidebarRow (CategoryView.Category category) {
+    public SidebarRow (Services.Collection.Category category) {
         Object (category: category);
     }
 
