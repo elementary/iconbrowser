@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-01 10:33+0000\n"
+"POT-Creation-Date: 2024-10-11 19:59+0000\n"
 "PO-Revision-Date: 2024-09-02 01:02+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
@@ -48,61 +48,62 @@ msgstr "システムアイコンを確認できます"
 msgid "Search by description"
 msgstr "アイコンの説明文での検索が可能です"
 
+#: data/iconbrowser.appdata.xml.in:40
+msgid "elementary, Inc."
+msgstr "elementary, Inc."
+
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Update icon list to match Platform 8"
 msgstr "プラットフォームバージョン 8 に合わせてアイコンリストを更新"
 
-#: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:55
-#: data/iconbrowser.appdata.xml.in:65
+#: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:58
+#: data/iconbrowser.appdata.xml.in:68
 msgid "Update translations"
 msgstr "翻訳を更新"
 
-#: data/iconbrowser.appdata.xml.in:64
+#: data/iconbrowser.appdata.xml.in:67
 msgid "Fixed an error that prevented app startup"
 msgstr "アプリが起動できないエラーを修正"
 
-#: data/iconbrowser.appdata.xml.in:71
+#: data/iconbrowser.appdata.xml.in:74
 msgid "Updated with the latest icons:"
 msgstr "最新のアイコンに更新:"
 
-#: data/iconbrowser.appdata.xml.in:73
+#: data/iconbrowser.appdata.xml.in:76
 msgid "\"preferences-desktop-theme\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:74
+#: data/iconbrowser.appdata.xml.in:77
 msgid "\"application-x-sharedlib\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:75
+#: data/iconbrowser.appdata.xml.in:78
 msgid "\"process-paused\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:76
+#: data/iconbrowser.appdata.xml.in:79
 msgid "\"process-error\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:83
+#: data/iconbrowser.appdata.xml.in:86
 msgid "A modern redesign!"
 msgstr "よりモダンなデザインに変更しました!"
 
-#: data/iconbrowser.appdata.xml.in:85
+#: data/iconbrowser.appdata.xml.in:88
 msgid "Fancy new icon"
 msgstr "おしゃれな新しいアイコン"
 
-#: data/iconbrowser.appdata.xml.in:86
+#: data/iconbrowser.appdata.xml.in:89
 msgid "Drag the window from anywhere"
 msgstr "ウィンドウのどこをドラッグしても、ウィンドウを移動できるように修正"
 
-#: data/iconbrowser.appdata.xml.in:87
+#: data/iconbrowser.appdata.xml.in:90
 msgid "Follow the system dark style preference"
 msgstr "システムのダークモード設定に従うように修正"
 
-#: data/iconbrowser.appdata.xml.in:88
+#: data/iconbrowser.appdata.xml.in:91
 msgid "Updated for Gtk 4"
 msgstr "GTK 4 にアップデート"
-
-#~ msgid "elementary, Inc."
-#~ msgstr "elementary, Inc."
 
 #~ msgid "Add \"audio-headphones\" and \"audio-headset\""
 #~ msgstr "\"audio-headphones\" と \"audio-headset\" を追加"

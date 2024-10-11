@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-01 10:33+0000\n"
+"POT-Creation-Date: 2024-10-11 19:59+0000\n"
 "PO-Revision-Date: 2024-09-20 09:43+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
@@ -35,7 +35,8 @@ msgstr "icons;iconography;圖示;"
 msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
-msgstr "依分類瀏覽系統圖示，或是搜尋圖示名稱。檢視圖示不同尺寸或取得原始碼中能夠使用"
+msgstr ""
+"依分類瀏覽系統圖示，或是搜尋圖示名稱。檢視圖示不同尺寸或取得原始碼中能夠使用"
 "的程式碼片段。"
 
 #: data/iconbrowser.appdata.xml.in:18
@@ -46,55 +47,59 @@ msgstr "瀏覽系統圖示"
 msgid "Search by description"
 msgstr "搜尋描述文字"
 
+#: data/iconbrowser.appdata.xml.in:40
+msgid "elementary, Inc."
+msgstr ""
+
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Update icon list to match Platform 8"
 msgstr "更新圖示列表來符合平台版本 8"
 
-#: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:55
-#: data/iconbrowser.appdata.xml.in:65
+#: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:58
+#: data/iconbrowser.appdata.xml.in:68
 msgid "Update translations"
 msgstr "翻譯更新"
 
-#: data/iconbrowser.appdata.xml.in:64
+#: data/iconbrowser.appdata.xml.in:67
 msgid "Fixed an error that prevented app startup"
 msgstr "修正讓應用程式無法啟動的錯誤"
 
-#: data/iconbrowser.appdata.xml.in:71
+#: data/iconbrowser.appdata.xml.in:74
 msgid "Updated with the latest icons:"
 msgstr "更新來包含最新圖示："
 
-#: data/iconbrowser.appdata.xml.in:73
+#: data/iconbrowser.appdata.xml.in:76
 msgid "\"preferences-desktop-theme\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:74
+#: data/iconbrowser.appdata.xml.in:77
 msgid "\"application-x-sharedlib\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:75
+#: data/iconbrowser.appdata.xml.in:78
 msgid "\"process-paused\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:76
+#: data/iconbrowser.appdata.xml.in:79
 msgid "\"process-error\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:83
+#: data/iconbrowser.appdata.xml.in:86
 msgid "A modern redesign!"
 msgstr "更新成更現代化的設計！"
 
-#: data/iconbrowser.appdata.xml.in:85
+#: data/iconbrowser.appdata.xml.in:88
 msgid "Fancy new icon"
 msgstr "豪華的新圖示"
 
-#: data/iconbrowser.appdata.xml.in:86
+#: data/iconbrowser.appdata.xml.in:89
 msgid "Drag the window from anywhere"
 msgstr "讓視窗任何地方拖曳都能移動視窗"
 
-#: data/iconbrowser.appdata.xml.in:87
+#: data/iconbrowser.appdata.xml.in:90
 msgid "Follow the system dark style preference"
 msgstr "跟隨系統深色風格設定"
 
-#: data/iconbrowser.appdata.xml.in:88
+#: data/iconbrowser.appdata.xml.in:91
 msgid "Updated for Gtk 4"
 msgstr "更新至 Gtk 4"

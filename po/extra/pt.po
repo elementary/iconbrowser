@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-01 10:33+0000\n"
+"POT-Creation-Date: 2024-10-11 19:59+0000\n"
 "PO-Revision-Date: 2022-11-06 22:57+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
@@ -48,61 +48,62 @@ msgstr "Explore ícones do sistema"
 msgid "Search by description"
 msgstr "Procurar por descrição"
 
+#: data/iconbrowser.appdata.xml.in:40
+msgid "elementary, Inc."
+msgstr "elementary, Inc."
+
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Update icon list to match Platform 8"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:55
-#: data/iconbrowser.appdata.xml.in:65
+#: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:58
+#: data/iconbrowser.appdata.xml.in:68
 msgid "Update translations"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:64
+#: data/iconbrowser.appdata.xml.in:67
 msgid "Fixed an error that prevented app startup"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:71
+#: data/iconbrowser.appdata.xml.in:74
 msgid "Updated with the latest icons:"
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:73
+#: data/iconbrowser.appdata.xml.in:76
 msgid "\"preferences-desktop-theme\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:74
+#: data/iconbrowser.appdata.xml.in:77
 msgid "\"application-x-sharedlib\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:75
+#: data/iconbrowser.appdata.xml.in:78
 msgid "\"process-paused\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:76
+#: data/iconbrowser.appdata.xml.in:79
 msgid "\"process-error\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:83
+#: data/iconbrowser.appdata.xml.in:86
 msgid "A modern redesign!"
 msgstr "Um redesenho moderno!"
 
-#: data/iconbrowser.appdata.xml.in:85
+#: data/iconbrowser.appdata.xml.in:88
 msgid "Fancy new icon"
 msgstr "Ícone novo e elegante"
 
-#: data/iconbrowser.appdata.xml.in:86
+#: data/iconbrowser.appdata.xml.in:89
 msgid "Drag the window from anywhere"
 msgstr "Arraste a janela a partir de qualquer lugar"
 
-#: data/iconbrowser.appdata.xml.in:87
+#: data/iconbrowser.appdata.xml.in:90
 msgid "Follow the system dark style preference"
 msgstr "Segue a preferência de estilo escuro do sistema"
 
-#: data/iconbrowser.appdata.xml.in:88
+#: data/iconbrowser.appdata.xml.in:91
 msgid "Updated for Gtk 4"
 msgstr "Atualizado para Gtk4"
-
-#~ msgid "elementary, Inc."
-#~ msgstr "elementary, Inc."
 
 #~ msgid "LookBook"
 #~ msgstr "LookBook"
