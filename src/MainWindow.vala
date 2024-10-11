@@ -3,24 +3,25 @@
  * SPDX-FileCopyrightText: 2017-2022 elementary, Inc. (https://elementary.io)
  */
 
-public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
+public class MainWindow : Gtk.ApplicationWindow {
     private CategoryView category_view;
     private Gtk.ListBox categories_sidebar;
 
     public MainWindow (Gtk.Application application) {
-        Object (application: application);
+        Object (
+            application: application,
+            icon_name: "io.elementary.iconbrowser",
+            title: _("Icon Browser")
+        );
     }
 
     construct {
-        icon_name = "io.elementary.iconbrowser";
-        title = _("Icon Browser");
-
         var mode_switch = new Granite.ModeSwitch.from_icon_name ("display-brightness-symbolic", "weather-clear-night-symbolic") {
             primary_icon_tooltip_text = _("Light background"),
             secondary_icon_tooltip_text = _("Dark background"),
-            margin_end = 12,
-            margin_bottom = 12,
-            margin_start = 12
+            hexpand = true,
+            halign = CENTER,
+            margin_bottom = 12
         };
 
         category_view = new CategoryView ();
@@ -29,9 +30,8 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
             vexpand = true
         };
 
-        foreach (var category in CategoryView.Category.all ()) {
-            var sidebar_row = new SidebarRow (category);
-            categories_sidebar.append (sidebar_row);
+        foreach (var category in Services.Collection.Category.all ()) {
+            categories_sidebar.append (new Widgets.SidebarRow (category));
         }
 
         var scrolled_category = new Gtk.ScrolledWindow () {
@@ -39,13 +39,11 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
             hscrollbar_policy = Gtk.PolicyType.NEVER
         };
 
-        var start_window_controls = new Gtk.WindowControls (Gtk.PackType.START) {
-            hexpand = true
+        var sidebar_header = new Adw.HeaderBar () {
+            title_widget = new Gtk.Label (null),
+            hexpand = true,
+            css_classes = { "flat" }
         };
-
-        var sidebar_header = new Gtk.Box (Gtk.Orientation.HORIZONTAL, 0);
-        sidebar_header.add_css_class ("titlebar");
-        sidebar_header.append (start_window_controls);
 
         var sidebar_box = new Gtk.Box (Gtk.Orientation.VERTICAL, 0);
         sidebar_box.append (sidebar_header);
@@ -53,18 +51,11 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         sidebar_box.append (mode_switch);
         sidebar_box.add_css_class ("sidebar");
 
-        var sidebar_handle = new Gtk.WindowHandle () {
-            child = sidebar_box
+        var overlay_split_view = new Adw.OverlaySplitView () {
+            min_sidebar_width = 250
         };
-
-        var paned = new Gtk.Paned (Gtk.Orientation.HORIZONTAL) {
-            position = 128,
-            start_child = sidebar_handle,
-            end_child = category_view,
-            resize_start_child = false,
-            shrink_end_child = false,
-            shrink_start_child = false
-        };
+        overlay_split_view.content = category_view;
+        overlay_split_view.sidebar = sidebar_box;
 
         // We need to hide the title area for the split headerbar
         var null_title = new Gtk.Grid () {
@@ -72,7 +63,7 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         };
         set_titlebar (null_title);
 
-        child = paned;
+        child = overlay_split_view;
         category_view.search_entry.set_key_capture_widget (this);
 
         var gtk_settings = Gtk.Settings.get_default ();
@@ -86,18 +77,18 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         var granite_settings = Granite.Settings.get_default ();
         gtk_settings.gtk_application_prefer_dark_theme = (
             granite_settings.prefers_color_scheme == Granite.Settings.ColorScheme.DARK
-        );
+            );
 
         granite_settings.notify["prefers-color-scheme"].connect (() => {
             gtk_settings.gtk_application_prefer_dark_theme = (
                 granite_settings.prefers_color_scheme == Granite.Settings.ColorScheme.DARK
-            );
+                );
         });
 
-        category_view.listbox.set_filter_func (filter_function);
+        category_view.flowbox.set_filter_func (filter_function);
 
         category_view.search_entry.search_changed.connect (() => {
-            category_view.listbox.invalidate_filter ();
+            category_view.flowbox.invalidate_filter ();
 
             bool searching = (category_view.search_entry.text != "");
             categories_sidebar.sensitive = !searching;
@@ -110,16 +101,16 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         });
 
         categories_sidebar.row_selected.connect (() => {
-            category_view.listbox.invalidate_filter ();
+            category_view.flowbox.invalidate_filter ();
         });
     }
 
     [CCode (instance_pos = -1)]
-    private bool filter_function (Gtk.ListBoxRow row) {
+    private bool filter_function (Gtk.FlowBoxChild row) {
         if (category_view.search_entry.text == "") {
             var sidebar_row = categories_sidebar.get_selected_row ();
             if (sidebar_row != null) {
-                return ((IconListRow) row).category == ((SidebarRow) sidebar_row).category;
+                return ((Widgets.IconListChild) row).category == ((Widgets.SidebarRow) sidebar_row).category;
             } else {
                 return true;
             }
@@ -127,7 +118,7 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
 
         var search_term = category_view.search_entry.text.down ();
 
-        if (search_term in ((IconListRow) row).icon_name || search_term in ((IconListRow) row).description.down ()) {
+        if (search_term in ((Widgets.IconListChild) row).icon_name || search_term in ((Widgets.IconListChild) row).description.down ()) {
             return true;
         }
         return false;
