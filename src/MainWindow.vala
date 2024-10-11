@@ -29,7 +29,7 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
             vexpand = true
         };
 
-        foreach (var category in CategoryView.Category.all ()) {
+        foreach (var category in IconCollection.Category.all ()) {
             var sidebar_row = new SidebarRow (category);
             categories_sidebar.append (sidebar_row);
         }

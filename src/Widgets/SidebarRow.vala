@@ -4,9 +4,9 @@
  */
 
 public class SidebarRow : Gtk.ListBoxRow {
-    public CategoryView.Category category { get; construct; }
+    public IconCollection.Category category { get; construct; }
 
-    public SidebarRow (CategoryView.Category category) {
+    public SidebarRow (IconCollection.Category category) {
         Object (category: category);
     }
 
