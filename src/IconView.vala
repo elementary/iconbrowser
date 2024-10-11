@@ -5,7 +5,7 @@
 public class IconView : Gtk.Box {
     public string icon_name { get; construct set; }
     public string description { get; construct set; }
-    public CategoryView.Category category { get; construct set; }
+    public IconCollection.Category category { get; construct set; }
 
     private GtkSource.Buffer source_buffer;
     private Gtk.Button copy_button;
@@ -14,7 +14,7 @@ public class IconView : Gtk.Box {
         Object (
             icon_name: "address-book-new",
             description: _("Create a new address book"),
-            category: CategoryView.Category.ACTIONS
+            category: IconCollection.Category.ACTIONS
         );
     }
 
@@ -251,11 +251,11 @@ public class IconView : Gtk.Box {
 
         int[] sizes;
         switch (category) {
-            case CategoryView.Category.ACTIONS:
-            case CategoryView.Category.EMBLEMS:
+            case IconCollection.Category.ACTIONS:
+            case IconCollection.Category.EMBLEMS:
                 sizes = {16, 24, 32, 48};
                 break;
-            case CategoryView.Category.EMOTES:
+            case IconCollection.Category.EMOTES:
                 sizes = {16};
                 break;
             default:

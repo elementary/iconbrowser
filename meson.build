@@ -31,6 +31,7 @@ executable(
     gresource,
     'src/Application.vala',
     'src/CategoryView.vala',
+    'src/IconCollection.vala',
     'src/IconView.vala',
     'src/MainWindow.vala',
     'src/Widgets/IconListRow.vala',
