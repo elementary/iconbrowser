@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-11 19:59+0000\n"
-"PO-Revision-Date: 2024-10-07 08:07+0000\n"
+"PO-Revision-Date: 2024-10-14 07:53+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
 "icon-browser/icon-browser/zh_Hant/>\n"
@@ -125,35 +125,35 @@ msgstr "在通訊錄應用程式中建立新的聯絡人"
 
 #: src/IconCollection.vala:133
 msgid "Distribute the center lines of objects horizontally"
-msgstr ""
+msgstr "水平分配物件中線"
 
 #: src/IconCollection.vala:138
 msgid "Make horizontal gaps between objects equal"
-msgstr ""
+msgstr "讓物件之間的水平間距相同"
 
 #: src/IconCollection.vala:143
 msgid "Distribute left edges of objects horizontally"
-msgstr ""
+msgstr "水平分配物件左側邊緣"
 
 #: src/IconCollection.vala:148
 msgid "Distribute right edges of objects horizontally"
-msgstr ""
+msgstr "水平分配物件右側邊緣"
 
 #: src/IconCollection.vala:153
 msgid "Distribute bottom edges of objects vertically"
-msgstr ""
+msgstr "垂直分配物件底部邊緣"
 
 #: src/IconCollection.vala:158
 msgid "Distribute center lines of objects vertically"
-msgstr ""
+msgstr "垂直分配物件中線"
 
 #: src/IconCollection.vala:163
 msgid "Make vertical gaps between objects equal"
-msgstr ""
+msgstr "讓物件之間的垂直間距相同"
 
 #: src/IconCollection.vala:168
 msgid "Distribute top edges of objects vertically"
-msgstr ""
+msgstr "垂直分配物件頂部邊緣"
 
 #: src/IconCollection.vala:173
 msgid "Export a document"
@@ -177,7 +177,7 @@ msgstr "開啟一個最近開啟過的文件"
 
 #: src/IconCollection.vala:198
 msgid "The page setup action of a document editor"
-msgstr ""
+msgstr "文件編輯器當中的頁面設定動作"
 
 #: src/IconCollection.vala:203
 msgid "Print"
@@ -213,7 +213,7 @@ msgstr "編輯"
 
 #: src/IconCollection.vala:243
 msgid "Clear"
-msgstr ""
+msgstr "清除"
 
 #: src/IconCollection.vala:248 src/IconView.vala:107 src/IconView.vala:225
 msgid "Copy"
@@ -281,19 +281,19 @@ msgstr "提高縮排"
 
 #: src/IconCollection.vala:328
 msgid "Center justify text"
-msgstr ""
+msgstr "置中對齊文字"
 
 #: src/IconCollection.vala:333
 msgid "Fill justify text"
-msgstr ""
+msgstr "分散對齊文字"
 
 #: src/IconCollection.vala:338
 msgid "Left justify text"
-msgstr ""
+msgstr "靠左對齊文字"
 
 #: src/IconCollection.vala:343
 msgid "Right justify text"
-msgstr ""
+msgstr "靠右對齊文字"
 
 #: src/IconCollection.vala:348
 msgid "Format text as left-to-right"
@@ -848,7 +848,7 @@ msgstr "麥克風"
 
 #: src/IconCollection.vala:1033
 msgid "Subwoofer or bass speaker"
-msgstr ""
+msgstr "重低音 subwoofer 或低音喇叭"
 
 #: src/IconCollection.vala:1038
 msgid "Battery"
@@ -1286,31 +1286,31 @@ msgstr "信用卡或簽帳卡付款"
 
 #: src/IconCollection.vala:1573
 msgid "American Express branded credit or debit card payments"
-msgstr ""
+msgstr "美國運通信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1578
 msgid "Diner's Club branded credit or debit card payments"
-msgstr ""
+msgstr "Diner's Club 信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1583
 msgid "Discover branded credit or debit card payments"
-msgstr ""
+msgstr "Discover 信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1588
 msgid "Japan Credit Bureau branded credit or debit card payments"
-msgstr ""
+msgstr "JCB 信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1593
 msgid "Mastercard branded credit or debit card payments"
-msgstr ""
+msgstr "Mastercard 信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1598
 msgid "China UnionPay branded credit or debit card payments"
-msgstr ""
+msgstr "中國銀聯信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1603
 msgid "Visa branded credit or debit card payments"
-msgstr ""
+msgstr "Visa 信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1608
 msgid "CSS text file types"
@@ -1625,7 +1625,7 @@ msgstr "音量靜音或關閉，因此有應用程式被阻止發出聲音"
 msgid ""
 "The default avatar to represent a user, such as someone who has not set a "
 "profile picture"
-msgstr ""
+msgstr "代表使用者用的預設頭像，用於使用者尚未設定自己的頭像等等時機"
 
 #: src/IconCollection.vala:1998
 msgid "A charger or AC adapter for a battery-powered device"
@@ -1685,7 +1685,7 @@ msgstr "允許在使用密碼等方式解鎖之後進行變更"
 
 #: src/IconCollection.vala:2068
 msgid "Prevent changes by locking such as with a password"
-msgstr ""
+msgstr "利用密碼等鎖定來防止變更"
 
 #: src/IconCollection.vala:2073
 msgid ""
@@ -1696,11 +1696,11 @@ msgstr "不完全，未受保護，或未加密的通訊或連線，像是 HTTP"
 msgid ""
 "Secure or encrypted communication or connection, such as HTTPS or encrypted "
 "Wi-Fi"
-msgstr ""
+msgstr "安全、受保護，或已加密的通訊或連線，像是 HTTPS 或加密 Wi-Fi"
 
 #: src/IconCollection.vala:2083
 msgid "Critical, unrecoverable, or other serious error"
-msgstr ""
+msgstr "嚴重、無法復原等等的重大錯誤"
 
 #: src/IconCollection.vala:2088
 msgid "Contextual information or explanation"
@@ -1712,7 +1712,7 @@ msgstr "正在要求認證資訊，像是密碼或加密金鑰"
 
 #: src/IconCollection.vala:2098
 msgid "Question, decision, or choice for the user"
-msgstr ""
+msgstr "對於使用者的問題、決定或選擇"
 
 #: src/IconCollection.vala:2103
 msgid "Warning of potentially dangerous actions or consequences"
@@ -1720,12 +1720,12 @@ msgstr "對於可能有風險的動作或後果的警告"
 
 #: src/IconCollection.vala:2108
 msgid "Placeholder used when an image or thumbnail is loading"
-msgstr ""
+msgstr "影像、圖片或縮圖載入中時使用的佔位圖"
 
 #: src/IconCollection.vala:2113
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
-msgstr ""
+msgstr "影像、圖片或縮圖缺乏或無法載入時使用的佔位圖"
 
 #: src/IconCollection.vala:2118
 msgid "Location services are in use"
@@ -1819,7 +1819,7 @@ msgstr "嘗試列印時發生錯誤或問題"
 
 #: src/IconCollection.vala:2228
 msgid "Job has been successfully spooled or sent to a printer"
-msgstr ""
+msgstr "工作已成功佇列或傳送給印表機"
 
 #: src/IconCollection.vala:2233
 msgid "Process, job, or task has successfully completed or finished"
@@ -1901,11 +1901,11 @@ msgstr "無雲（夜間）"
 
 #: src/IconCollection.vala:2323
 msgid "Partly cloudy, partly clear, or partly sunny weather"
-msgstr ""
+msgstr "部分多雲、部分無雲，或部分晴朗的天氣"
 
 #: src/IconCollection.vala:2328
 msgid "Partly cloudy or partly clear weather during the night"
-msgstr ""
+msgstr "部分多雲、部分無雲（夜間）"
 
 #: src/IconCollection.vala:2333
 msgid "Foggy weather"
@@ -1917,15 +1917,15 @@ msgstr "陰天"
 
 #: src/IconCollection.vala:2343
 msgid "Severe or critical weather warning or alert"
-msgstr ""
+msgstr "危險或重大天氣警告或警報"
 
 #: src/IconCollection.vala:2348
 msgid "Showers or rainy weather"
-msgstr ""
+msgstr "小雨或雨天"
 
 #: src/IconCollection.vala:2353
 msgid "Scattered showers or partly rainy weather"
-msgstr ""
+msgstr "毛毛雨或部分下雨的天氣"
 
 #: src/IconCollection.vala:2358
 msgid "Snow showers or snowy weather"
