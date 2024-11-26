@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-21 16:33+0000\n"
-"PO-Revision-Date: 2023-05-04 08:06+0000\n"
-"Last-Translator: lenemter <lenemter@gmail.com>\n"
+"POT-Creation-Date: 2024-10-11 19:59+0000\n"
+"PO-Revision-Date: 2024-08-30 22:16+0000\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ru/>\n"
 "Language: ru\n"
@@ -18,499 +18,503 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 5.6.2\n"
 
-#: src/CategoryView.vala:26
+#: src/CategoryView.vala:17
+msgid "Search Names or Descriptions"
+msgstr "Поиск по названию или описанию"
+
+#: src/IconCollection.vala:21
 msgid "Actions"
 msgstr "Действия"
 
-#: src/CategoryView.vala:28
+#: src/IconCollection.vala:23
 msgid "Applications"
 msgstr "Приложения"
 
-#: src/CategoryView.vala:30
+#: src/IconCollection.vala:25
 msgid "Categories"
 msgstr "Категории"
 
-#: src/CategoryView.vala:32
+#: src/IconCollection.vala:27
 msgid "Devices"
 msgstr "Устройства"
 
-#: src/CategoryView.vala:34
+#: src/IconCollection.vala:29
 msgid "Emblems"
 msgstr "Эмблемы"
 
-#: src/CategoryView.vala:36
+#: src/IconCollection.vala:31
 msgid "Emotes"
 msgstr "Эмодзи"
 
-#: src/CategoryView.vala:38
+#: src/IconCollection.vala:33
 msgid "Media Types"
 msgstr "Типы медиафайлов"
 
-#: src/CategoryView.vala:40
+#: src/IconCollection.vala:35
 msgid "Places"
 msgstr "Места"
 
-#: src/CategoryView.vala:42
+#: src/IconCollection.vala:37
 msgid "Status"
 msgstr "Состояние"
 
-#: src/CategoryView.vala:44
+#: src/IconCollection.vala:39
 msgid "OTHER"
 msgstr "ДРУГОЕ"
 
-#: src/CategoryView.vala:62 src/IconView.vala:15
+#: src/IconCollection.vala:58 src/IconView.vala:16
 msgid "Create a new address book"
 msgstr "Создать новую адресную книгу"
 
-#: src/CategoryView.vala:67
+#: src/IconCollection.vala:63
 msgid "Align objects to center along the X axis"
 msgstr "Выровнять объекты по центру вдоль оси X"
 
-#: src/CategoryView.vala:72
+#: src/IconCollection.vala:68
 msgid "Align objects left along the X axis"
 msgstr "Выровнять объекты по левому краю вдоль оси X"
 
-#: src/CategoryView.vala:77
+#: src/IconCollection.vala:73
 msgid "Align objects right along the X axis"
 msgstr "Выровнять объекты по правому краю вдоль оси X"
 
-#: src/CategoryView.vala:82
+#: src/IconCollection.vala:78
 msgid "Align objects to bottom along the Y axis"
 msgstr "Выровнять объекты по нижнему краю вдоль оси Y"
 
-#: src/CategoryView.vala:87
+#: src/IconCollection.vala:83
 msgid "Align objects to center along the Y axis"
 msgstr "Выровнять объекты по центру вдоль оси Y"
 
-#: src/CategoryView.vala:92
+#: src/IconCollection.vala:88
 msgid "Align objects to top along the Y axis"
 msgstr "Выровнять объекты по верхнему краю вдоль оси Y"
 
-#: src/CategoryView.vala:97
+#: src/IconCollection.vala:93
 msgid "Used for exiting an application"
 msgstr "Используется для выхода из приложения"
 
-#: src/CategoryView.vala:102
+#: src/IconCollection.vala:98
 msgid "Create a new appointment in a calendaring application"
 msgstr "Создать новое событие в приложении календаря"
 
-#: src/CategoryView.vala:107
+#: src/IconCollection.vala:103
 msgid "Create a new bookmark"
 msgstr "Создать новую закладку"
 
-#: src/CategoryView.vala:112
+#: src/IconCollection.vala:108
 msgid "Download a file from the Internet"
 msgstr "Загрузить файл из Интернета"
 
-#: src/CategoryView.vala:117
+#: src/IconCollection.vala:113
 msgid "Initiate or accept a call"
 msgstr "Совершить или принять звонок"
 
-#: src/CategoryView.vala:122
+#: src/IconCollection.vala:118
 msgid "Stop the current call"
 msgstr "Завершить текущий звонок"
 
-#: src/CategoryView.vala:127
+#: src/IconCollection.vala:123
 msgid "Pick a color from elsewhere on screen"
 msgstr "Выбрать цвет из любой точки на экране"
 
-#: src/CategoryView.vala:132
+#: src/IconCollection.vala:128
 msgid "Create a new contact in an address book application"
 msgstr "Создать новый контакт в приложении адресной книги"
 
-#: src/CategoryView.vala:137
+#: src/IconCollection.vala:133
 msgid "Distribute the center lines of objects horizontally"
 msgstr "Горизонтально распределить объекты по центрам"
 
-#: src/CategoryView.vala:142
+#: src/IconCollection.vala:138
 msgid "Make horizontal gaps between objects equal"
 msgstr "Уравнять горизонтальные промежутки между объектами"
 
-#: src/CategoryView.vala:147
+#: src/IconCollection.vala:143
 msgid "Distribute left edges of objects horizontally"
 msgstr "Горизонтально распределить объекты по левым краям"
 
-#: src/CategoryView.vala:152
+#: src/IconCollection.vala:148
 msgid "Distribute right edges of objects horizontally"
 msgstr "Горизонтально распределить объекты по правым краям"
 
-#: src/CategoryView.vala:157
+#: src/IconCollection.vala:153
 msgid "Distribute bottom edges of objects vertically"
 msgstr "Вертикально распределить объекты по нижним краям"
 
-#: src/CategoryView.vala:162
+#: src/IconCollection.vala:158
 msgid "Distribute center lines of objects vertically"
 msgstr "Вертикально распределить объекты по центрам"
 
-#: src/CategoryView.vala:167
+#: src/IconCollection.vala:163
 msgid "Make vertical gaps between objects equal"
 msgstr "Уравнять вертикальные промежутки между объектами"
 
-#: src/CategoryView.vala:172
+#: src/IconCollection.vala:168
 msgid "Distribute top edges of objects vertically"
 msgstr "Вертикально распределить объекты по верхним краям"
 
-#: src/CategoryView.vala:177
+#: src/IconCollection.vala:173
 msgid "Export a document"
 msgstr "Экспортировать документ"
 
-#: src/CategoryView.vala:182
+#: src/IconCollection.vala:178
 msgid "Import a document"
 msgstr "Импортировать документ"
 
-#: src/CategoryView.vala:187
+#: src/IconCollection.vala:183
 msgid "Create a new document"
 msgstr "Создать новый документ"
 
-#: src/CategoryView.vala:192
+#: src/IconCollection.vala:188
 msgid "Open a document"
 msgstr "Открыть документ"
 
-#: src/CategoryView.vala:197
+#: src/IconCollection.vala:193
 msgid "Open a document that was recently opened"
 msgstr "Открыть недавно открытый документ"
 
-#: src/CategoryView.vala:202
+#: src/IconCollection.vala:198
 msgid "The page setup action of a document editor"
 msgstr "Действие настройки страницы в редакторе документов"
 
-#: src/CategoryView.vala:207
+#: src/IconCollection.vala:203
 msgid "Print"
 msgstr "Печать"
 
-#: src/CategoryView.vala:212
+#: src/IconCollection.vala:208
 msgid "The print preview action of an application"
 msgstr "Действие предварительного просмотра печати в приложении"
 
-#: src/CategoryView.vala:217
+#: src/IconCollection.vala:213
 msgid "View the properties of a document"
 msgstr "Просмотр свойств документа"
 
-#: src/CategoryView.vala:222
+#: src/IconCollection.vala:218
 msgid "Revert to a previous version of a document"
 msgstr "Вернуться к предыдущей версии документа"
 
-#: src/CategoryView.vala:227
+#: src/IconCollection.vala:223
 msgid "Save"
 msgstr "Сохранить"
 
-#: src/CategoryView.vala:232
+#: src/IconCollection.vala:228
 msgid "Save as"
 msgstr "Сохранить как"
 
-#: src/CategoryView.vala:237
+#: src/IconCollection.vala:233
 msgid "Send"
 msgstr "Отправить"
 
-#: src/CategoryView.vala:242
+#: src/IconCollection.vala:238
 msgid "Edit"
 msgstr "Изменить"
 
-#: src/CategoryView.vala:247
+#: src/IconCollection.vala:243
 msgid "Clear"
 msgstr "Очистить"
 
-#: src/CategoryView.vala:252
+#: src/IconCollection.vala:248 src/IconView.vala:107 src/IconView.vala:225
 msgid "Copy"
 msgstr "Копировать"
 
-#: src/CategoryView.vala:257
+#: src/IconCollection.vala:253
 msgid "Cut"
 msgstr "Вырезать"
 
-#: src/CategoryView.vala:262
+#: src/IconCollection.vala:258
 msgid "Delete"
 msgstr "Удалить"
 
-#: src/CategoryView.vala:267
+#: src/IconCollection.vala:263
 msgid "Find"
 msgstr "Найти"
 
-#: src/CategoryView.vala:272
+#: src/IconCollection.vala:268
 msgid "Find & Replace"
 msgstr "Найти и заменить"
 
-#: src/CategoryView.vala:277
+#: src/IconCollection.vala:273
 msgid "Flag an item, such as a spam email"
 msgstr "Пометить элемент, например, спам-письмо"
 
-#: src/CategoryView.vala:282
+#: src/IconCollection.vala:278
 msgid "Paste"
 msgstr "Вставить"
 
-#: src/CategoryView.vala:287
+#: src/IconCollection.vala:283
 msgid "Redo"
 msgstr "Повторить"
 
-#: src/CategoryView.vala:292
+#: src/IconCollection.vala:288
 msgid "Select all"
 msgstr "Выделить всё"
 
-#: src/CategoryView.vala:297
+#: src/IconCollection.vala:293
 msgid "Undo"
 msgstr "Отменить"
 
-#: src/CategoryView.vala:302
+#: src/IconCollection.vala:298
 msgid "Create a new calendar event"
 msgstr "Создать новое событие в календаре"
 
-#: src/CategoryView.vala:307
+#: src/IconCollection.vala:303
 msgid "Copy a folder"
 msgstr "Копировать папку"
 
-#: src/CategoryView.vala:312
+#: src/IconCollection.vala:308
 msgid "Move a folder"
 msgstr "Переместить папку"
 
-#: src/CategoryView.vala:317
+#: src/IconCollection.vala:313
 msgid "Create a new folder"
 msgstr "Создать новую папку"
 
-#: src/CategoryView.vala:322
+#: src/IconCollection.vala:318
 msgid "Decrease indent"
 msgstr "Уменьшить отступ"
 
-#: src/CategoryView.vala:327
+#: src/IconCollection.vala:323
 msgid "Increase indent"
 msgstr "Увеличить отступ"
 
-#: src/CategoryView.vala:332
+#: src/IconCollection.vala:328
 msgid "Center justify text"
 msgstr "Выровнять текст по центру"
 
-#: src/CategoryView.vala:337
+#: src/IconCollection.vala:333
 msgid "Fill justify text"
 msgstr "Заполнить текстом по всей ширине"
 
-#: src/CategoryView.vala:342
+#: src/IconCollection.vala:338
 msgid "Left justify text"
 msgstr "Выровнять текст по левому краю"
 
-#: src/CategoryView.vala:347
+#: src/IconCollection.vala:343
 msgid "Right justify text"
 msgstr "Выровнять текст по правому краю"
 
-#: src/CategoryView.vala:352
+#: src/IconCollection.vala:348
 msgid "Format text as left-to-right"
 msgstr "Форматировать текст слева направо"
 
-#: src/CategoryView.vala:357
+#: src/IconCollection.vala:353
 msgid "Format text as right-to-left"
 msgstr "Форматировать текст справа налево"
 
-#: src/CategoryView.vala:362
+#: src/IconCollection.vala:358
 msgid "Format text as bold"
 msgstr "Форматировать текст жирным шрифтом"
 
-#: src/CategoryView.vala:367
+#: src/IconCollection.vala:363
 msgid "Format text as highlighted"
 msgstr "Форматировать текст как выделенный"
 
-#: src/CategoryView.vala:372
+#: src/IconCollection.vala:368
 msgid "Format text as italic"
 msgstr "Форматировать текст курсивом"
 
-#: src/CategoryView.vala:377
+#: src/IconCollection.vala:373
 msgid "Format text as underlined"
 msgstr "Форматировать текст как подчёркнутый"
 
-#: src/CategoryView.vala:382
+#: src/IconCollection.vala:378
 msgid "Format text as being struck through"
 msgstr "Форматировать текст как зачёркнутый"
 
-#: src/CategoryView.vala:387
+#: src/IconCollection.vala:383
 msgid "Go to the bottom, such as in a list"
 msgstr "Перейти в конец, например, некоторого списка"
 
-#: src/CategoryView.vala:392
+#: src/IconCollection.vala:388
 msgid "Go down, such as in a list"
 msgstr "Перейти ниже, например, в некотором списке"
 
-#: src/CategoryView.vala:397
+#: src/IconCollection.vala:393
 msgid "Go to the first item, such as in a list"
 msgstr "Перейти к первому элементу, например, некоторого списка"
 
-#: src/CategoryView.vala:402
+#: src/IconCollection.vala:398
 msgid "Go to the home location"
 msgstr "Перейти к расположению домашней папки"
 
-#: src/CategoryView.vala:407
+#: src/IconCollection.vala:403
 msgid "Jump to a location"
 msgstr "Перейти к расположению"
 
-#: src/CategoryView.vala:412
+#: src/IconCollection.vala:408
 msgid "Go to the last item, such as in a list"
 msgstr "Перейти к последнему элементу, например, некоторого списка"
 
-#: src/CategoryView.vala:417
+#: src/IconCollection.vala:413
 msgid "Go forward to the next item, such as in a list or navigation"
 msgstr ""
 "Перейти к следующему элементу, например, в некотором списке или навигации"
 
-#: src/CategoryView.vala:422
+#: src/IconCollection.vala:418
 msgid "Go back to the previous item, such as in a list or navigation"
 msgstr ""
 "Перейти к предыдущему элементу, например, в некотором списке или навигации"
 
-#: src/CategoryView.vala:427
+#: src/IconCollection.vala:423
 msgid "Go to the top, such as in a list"
 msgstr "Перейти в начало, например, некоторого списка"
 
-#: src/CategoryView.vala:432
+#: src/IconCollection.vala:428
 msgid "Go up, such as in a list"
 msgstr "Перейти выше, например, в некотором списке"
 
-#: src/CategoryView.vala:437
+#: src/IconCollection.vala:433
 msgid "Information about an app"
 msgstr "Информация о приложении"
 
-#: src/CategoryView.vala:442
+#: src/IconCollection.vala:438
 msgid "Get help"
-msgstr "Помощь"
+msgstr "Получить помощь"
 
-#: src/CategoryView.vala:447
+#: src/IconCollection.vala:443
 msgid "Frequently asked questions"
 msgstr "Часто задаваемые вопросы"
 
-#: src/CategoryView.vala:452
+#: src/IconCollection.vala:448
 msgid "Make adjustments to an image"
 msgstr "Коррекция изображения"
 
-#: src/CategoryView.vala:457
+#: src/IconCollection.vala:453
 msgid "Automatically adjust an image"
 msgstr "Автокоррекция изображения"
 
-#: src/CategoryView.vala:462
+#: src/IconCollection.vala:458
 msgid "Crop an image"
 msgstr "Обрезать изображение"
 
-#: src/CategoryView.vala:467
+#: src/IconCollection.vala:463
 msgid "Remove red eye from an image"
 msgstr "Убрать эффект красных глаз с изображения"
 
-#: src/CategoryView.vala:472
+#: src/IconCollection.vala:468
 msgid "Insert an image"
 msgstr "Вставить изображение"
 
-#: src/CategoryView.vala:477
+#: src/IconCollection.vala:473
 msgid "Insert a link"
 msgstr "Вставить ссылку"
 
-#: src/CategoryView.vala:482
+#: src/IconCollection.vala:478
 msgid "Insert an object"
 msgstr "Вставить объект"
 
-#: src/CategoryView.vala:487
+#: src/IconCollection.vala:483
 msgid "Insert text"
 msgstr "Вставить текст"
 
-#: src/CategoryView.vala:492
+#: src/IconCollection.vala:488
 msgid "Add to a list"
 msgstr "Добавить в список"
 
-#: src/CategoryView.vala:497
+#: src/IconCollection.vala:493
 msgid "Remove from a list"
 msgstr "Удалить из списка"
 
-#: src/CategoryView.vala:502
+#: src/IconCollection.vala:498
 msgid "Forward an email"
 msgstr "Переслать письмо"
 
-#: src/CategoryView.vala:507
+#: src/IconCollection.vala:503
 msgid "Mark an email as important"
 msgstr "Пометить письмо как важное"
 
-#: src/CategoryView.vala:512
+#: src/IconCollection.vala:508
 msgid "Mark an email as junk or spam"
 msgstr "Пометить письмо как спам"
 
-#: src/CategoryView.vala:517
+#: src/IconCollection.vala:513
 msgid "Mark an email as not junk or spam"
 msgstr "Пометить письмо как не спам"
 
-#: src/CategoryView.vala:522
+#: src/IconCollection.vala:518
 msgid "Mark an email as read"
 msgstr "Отметить письмо как прочитанное"
 
-#: src/CategoryView.vala:527
+#: src/IconCollection.vala:523
 msgid "Mark an email as unread"
 msgstr "Отметить письмо как непрочитанное"
 
-#: src/CategoryView.vala:532
+#: src/IconCollection.vala:528
 msgid "Compose a new email"
 msgstr "Написать новое письмо"
 
-#: src/CategoryView.vala:537
+#: src/IconCollection.vala:533
 msgid "Reply to all participants of an email"
 msgstr "Ответить всем участникам переписки"
 
-#: src/CategoryView.vala:542
+#: src/IconCollection.vala:538
 msgid "Reply to the sender of an email"
 msgstr "Ответить отправителю письма"
 
-#: src/CategoryView.vala:547
+#: src/IconCollection.vala:543
 msgid "Send an email"
 msgstr "Отправить письмо"
 
-#: src/CategoryView.vala:552
+#: src/IconCollection.vala:548
 msgid "Eject removable media"
 msgstr "Извлечь съёмный носитель"
 
-#: src/CategoryView.vala:557
+#: src/IconCollection.vala:553
 msgid "Pause media playback"
 msgstr "Приостановить воспроизведение"
 
-#: src/CategoryView.vala:562
+#: src/IconCollection.vala:558
 msgid "Start playing media"
 msgstr "Запустить воспроизведение"
 
-#: src/CategoryView.vala:567
+#: src/IconCollection.vala:563
 msgid "Stop playing media"
 msgstr "Остановить воспроизведение"
 
-#: src/CategoryView.vala:572
+#: src/IconCollection.vala:568
 msgid "Start recording"
 msgstr "Начать запись"
 
-#: src/CategoryView.vala:577
+#: src/IconCollection.vala:573
 msgid "Seek backwards or rewind"
 msgstr "Перейти или перемотать назад"
 
-#: src/CategoryView.vala:582
+#: src/IconCollection.vala:578
 msgid "Seek forwards, or fastforward"
 msgstr "Перейти или перемотать вперёд"
 
-#: src/CategoryView.vala:587
+#: src/IconCollection.vala:583
 msgid "Skip backwards, such as to the previous track"
 msgstr "Перейти к предыдущему, например, треку"
 
-#: src/CategoryView.vala:592
+#: src/IconCollection.vala:588
 msgid "Skip forwards, such as to the next track"
 msgstr "Перейти к следующему, например, треку"
 
-#: src/CategoryView.vala:597
+#: src/IconCollection.vala:593
 msgid "Flip an object horizontally"
 msgstr "Отразить объект по горизонтали"
 
-#: src/CategoryView.vala:602
+#: src/IconCollection.vala:598
 msgid "Flip an object vertically"
 msgstr "Отразить объект по вертикали"
 
-#: src/CategoryView.vala:607
+#: src/IconCollection.vala:603
 msgid "Rotate an object to the left or counter-clockwise"
 msgstr "Повернуть объект влево или против часовой стрелки"
 
-#: src/CategoryView.vala:612
+#: src/IconCollection.vala:608
 msgid "Rotate an object to the right or clockwise"
 msgstr "Повернуть объект вправо или по часовой стрелке"
 
-#: src/CategoryView.vala:617
+#: src/IconCollection.vala:613
 msgid "Create a new database"
 msgstr "Создать новую базу данных"
 
-#: src/CategoryView.vala:622
+#: src/IconCollection.vala:618
 msgid ""
 "Stop an action that may take a while to process, such as web page loading in "
 "a browser"
@@ -518,406 +522,406 @@ msgstr ""
 "Остановить действие, которое может занять некоторое время, например загрузка "
 "веб-страницы"
 
-#: src/CategoryView.vala:627
+#: src/IconCollection.vala:623
 msgid "Lock the screen or the user's session"
 msgstr "Заблокировать экран или сеанс пользователя"
 
-#: src/CategoryView.vala:632
+#: src/IconCollection.vala:628
 msgid "Log out of the user's session"
 msgstr "Выход из сеанса пользователя"
 
-#: src/CategoryView.vala:637
+#: src/IconCollection.vala:633
 msgid "Run a system app or command"
 msgstr "Запуск системного приложения или команды"
 
-#: src/CategoryView.vala:642
+#: src/IconCollection.vala:638
 msgid "Search the system"
 msgstr "Поиск по системе"
 
-#: src/CategoryView.vala:647
+#: src/IconCollection.vala:643
 msgid "Restart the device"
 msgstr "Перезапустить (перезагрузить) устройство"
 
-#: src/CategoryView.vala:652
+#: src/IconCollection.vala:648
 msgid "Shut the device down"
 msgstr "Выключить устройство"
 
-#: src/CategoryView.vala:657
+#: src/IconCollection.vala:653
 msgid "Create a new tag"
 msgstr "Создать новый тег"
 
-#: src/CategoryView.vala:662
+#: src/IconCollection.vala:658
 msgid "Check spelling"
 msgstr "Проверка правописания"
 
-#: src/CategoryView.vala:667
+#: src/IconCollection.vala:663
 msgid "Set or adjust a timer"
 msgstr "Установка или настройка таймера"
 
-#: src/CategoryView.vala:672
+#: src/IconCollection.vala:668
 msgid "Display the current view as columns"
 msgstr "Отобразить в виде столбцов"
 
-#: src/CategoryView.vala:677
+#: src/IconCollection.vala:673
 msgid "display the current view in a continously scrolling list"
 msgstr "Отобразить в виде непрерывно прокручивающегося списка"
 
-#: src/CategoryView.vala:682
+#: src/IconCollection.vala:678
 msgid "display the current view as a split, dual view"
 msgstr "Отобразить в виде разделённого, двойного представления"
 
-#: src/CategoryView.vala:687
+#: src/IconCollection.vala:683
 msgid "View fullscreen"
 msgstr "Полноэкранный вид"
 
-#: src/CategoryView.vala:692
+#: src/IconCollection.vala:688
 msgid "Display the current view as a grid of images or icons"
 msgstr "Отобразить в виде сетки изображений или значков"
 
-#: src/CategoryView.vala:697
+#: src/IconCollection.vala:693
 msgid "Refresh or reload the current view"
 msgstr "Обновить или перезагрузить текущее представление"
 
-#: src/CategoryView.vala:702
+#: src/IconCollection.vala:698
 msgid "Leave fullscreen and return to a normal window"
 msgstr "Выход из полноэкранного режима и возврат к обычному окну"
 
-#: src/CategoryView.vala:707
+#: src/IconCollection.vala:703
 msgid "View more information about the given context in a popover or menu"
 msgstr "Просмотр дополнительной информации во всплывающем окне или меню"
 
-#: src/CategoryView.vala:712
+#: src/IconCollection.vala:708
 msgid "View more information about the given context in a new view or window"
 msgstr "Просмотр дополнительной информации в новом представлении или окне"
 
-#: src/CategoryView.vala:717
+#: src/IconCollection.vala:713
 msgid "Display the current view as a collection of pages"
 msgstr "Отобразить в виде набора страниц"
 
-#: src/CategoryView.vala:722
+#: src/IconCollection.vala:718
 msgid "Pin the current view so that it does not automatically hide"
 msgstr "Закрепить текущее представление, чтобы оно не скрывалось автоматически"
 
-#: src/CategoryView.vala:727
+#: src/IconCollection.vala:723
 msgid "Sort items in an ascending order, such as in a list"
 msgstr "Сортировка элементов в порядке возрастания, например, в списке"
 
-#: src/CategoryView.vala:732
+#: src/IconCollection.vala:728
 msgid "Sort items in a descending order, such as in a list"
 msgstr "Сортировка элементов в порядке убывания, например, в списке"
 
-#: src/CategoryView.vala:737
+#: src/IconCollection.vala:733
 msgid "Close the window"
 msgstr "Закрыть окно"
 
-#: src/CategoryView.vala:742
+#: src/IconCollection.vala:738
 msgid "Create a new window"
 msgstr "Создать новое окно"
 
-#: src/CategoryView.vala:747
+#: src/IconCollection.vala:743
 msgid "Zoom to the best fit"
 msgstr "Масштабировать до оптимального размера"
 
-#: src/CategoryView.vala:752
+#: src/IconCollection.vala:748
 msgid "Zoom in"
 msgstr "Увеличить, приблизить"
 
-#: src/CategoryView.vala:757
+#: src/IconCollection.vala:753
 msgid "Zoom to the original size"
 msgstr "Масштабировать до исходного размера"
 
-#: src/CategoryView.vala:762
+#: src/IconCollection.vala:758
 msgid "Zoom out"
 msgstr "Уменьшить, отдалить"
 
-#: src/CategoryView.vala:767
+#: src/IconCollection.vala:763
 msgid "Calculator"
 msgstr "Калькулятор"
 
-#: src/CategoryView.vala:772
+#: src/IconCollection.vala:768
 msgid "International and extended text character map"
 msgstr "Таблица международных и дополнительных символов"
 
-#: src/CategoryView.vala:777
+#: src/IconCollection.vala:773
 msgid "Dictionary"
 msgstr "Словарь"
 
-#: src/CategoryView.vala:782
+#: src/IconCollection.vala:778
 msgid "Screenshot application"
-msgstr ""
+msgstr "Приложение для снимков экрана"
 
-#: src/CategoryView.vala:787
+#: src/IconCollection.vala:783
 msgid "Text editor"
 msgstr "Редактор текста"
 
-#: src/CategoryView.vala:792
+#: src/IconCollection.vala:788
 msgid "Default or unprovided app icon"
 msgstr "Значок по умолчанию, или программа не предоставила значок"
 
-#: src/CategoryView.vala:797
+#: src/IconCollection.vala:793
 msgid "Files"
 msgstr "Файлы"
 
-#: src/CategoryView.vala:802
+#: src/IconCollection.vala:798
 msgid "AppCenter or software installer"
 msgstr "AppCenter или установщик приложений"
 
-#: src/CategoryView.vala:807
+#: src/IconCollection.vala:803
 msgid "Software updater"
 msgstr "Средство обновлений программного обеспечения"
 
-#: src/CategoryView.vala:812
+#: src/IconCollection.vala:808
 msgid "System resource monitor"
 msgstr "Системный монитор ресурсов"
 
-#: src/CategoryView.vala:817
+#: src/IconCollection.vala:813
 msgid "Terminal"
 msgstr "Терминал"
 
-#: src/CategoryView.vala:822
+#: src/IconCollection.vala:818
 msgid "Accessory or utility app category"
 msgstr "Категория прикладных приложений и утилит"
 
-#: src/CategoryView.vala:827
+#: src/IconCollection.vala:823
 msgid "Programming, software development, code, or IDE app category"
 msgstr ""
 "Категория приложений для программирования, разработки программного "
 "обеспечения, IDE или работы с кодом"
 
-#: src/CategoryView.vala:832
+#: src/IconCollection.vala:828
 msgid "Education, learning, or school app category"
 msgstr "Категория приложения для образования, обучения или школы"
 
-#: src/CategoryView.vala:837
+#: src/IconCollection.vala:833
 msgid "Engineering app category"
 msgstr "Категория инженерных приложений"
 
-#: src/CategoryView.vala:842
+#: src/IconCollection.vala:838
 msgid "Games app category"
 msgstr "Категория игр и приложений для развлечения"
 
-#: src/CategoryView.vala:847
+#: src/IconCollection.vala:843
 msgid "Graphics, drawing, art, or photo manipulation app category"
 msgstr ""
 "Категория приложений для рисования и работы с графикой, рисунками или "
 "фотографиями"
 
-#: src/CategoryView.vala:852
+#: src/IconCollection.vala:848
 msgid "Internet or web related app category"
 msgstr "Категория веб-приложений и приложений, связанных с Интернетом"
 
-#: src/CategoryView.vala:857
+#: src/IconCollection.vala:853
 msgid "Multimedia, audio, or video app category"
 msgstr "Категория мультимедиа, аудио или видео приложений"
 
-#: src/CategoryView.vala:862
+#: src/IconCollection.vala:858
 msgid "Office app category"
 msgstr "Категория офисных приложений"
 
-#: src/CategoryView.vala:867
+#: src/IconCollection.vala:863
 msgid "Other or uncategorized app category"
 msgstr "Категория других, некатегоризированных приложений"
 
-#: src/CategoryView.vala:872
+#: src/IconCollection.vala:868
 msgid "Science app category"
 msgstr "Категория научных приложений"
 
-#: src/CategoryView.vala:877
+#: src/IconCollection.vala:873
 msgid "System tools or OS app category"
 msgstr "Категория системных инструментов или приложений операционной системы"
 
-#: src/CategoryView.vala:882
+#: src/IconCollection.vala:878
 msgid "Utility app category"
 msgstr "Категория приложений-утилит"
 
-#: src/CategoryView.vala:887
+#: src/IconCollection.vala:883
 msgid "Bluetooth settings"
 msgstr "Параметры Bluetooth"
 
-#: src/CategoryView.vala:892
+#: src/IconCollection.vala:888
 msgid "Color settings such as printer, display, or camera calibration"
 msgstr "Параметры цвета, например калибровка принтера, дисплея или камеры"
 
-#: src/CategoryView.vala:897
+#: src/IconCollection.vala:893
 msgid "Desktop interface settings"
 msgstr "Параметры интерфейса рабочего стола"
 
-#: src/CategoryView.vala:902
+#: src/IconCollection.vala:898
 msgid "Universal access settings"
 msgstr "Параметры универсального доступа"
 
-#: src/CategoryView.vala:907
+#: src/IconCollection.vala:903
 msgid "Universal access settings for pointing, such as controlling the cursor"
 msgstr ""
 "Параметры универсального доступа для наведения на объекты, например "
 "управление курсором"
 
-#: src/CategoryView.vala:912
+#: src/IconCollection.vala:908
 msgid "Universal access settings for zooming or magnifying"
 msgstr "Параметры универсального доступа для увеличения или приближения"
 
-#: src/CategoryView.vala:917
+#: src/IconCollection.vala:913
 msgid "App-related settings, such as default or startup apps"
 msgstr "Настройки приложений, например приложения по умолчанию или автозапуск"
 
-#: src/CategoryView.vala:922
+#: src/IconCollection.vala:918
 msgid "Display settings, such as resolution or scaling"
 msgstr "Параметры экрана, например, настройка разрешения или масштабирования"
 
-#: src/CategoryView.vala:927
+#: src/IconCollection.vala:923
 msgid "Font settings"
 msgstr "Параметры шрифта"
 
-#: src/CategoryView.vala:932
+#: src/IconCollection.vala:928
 msgid "Keyboard settings, such as layout or shortcuts"
 msgstr "Параметры клавиатуры, например, раскладка или сочетания клавиш"
 
-#: src/CategoryView.vala:937
+#: src/IconCollection.vala:933
 msgid "International localization, language, or region settings"
 msgstr "Параметры международной локализации, языка или региона"
 
-#: src/CategoryView.vala:942
+#: src/IconCollection.vala:938
 msgid "Online account and cloud sync or sign in settings"
 msgstr ""
 "Параметры онлайн-аккаунтов и облачной синхронизации, или параметры входа"
 
-#: src/CategoryView.vala:947
+#: src/IconCollection.vala:943
 msgid "Settings for peripherals, such as a mouse or keyboard"
 msgstr "Параметры периферийных устройств, таких как мышь или клавиатура"
 
-#: src/CategoryView.vala:952
+#: src/IconCollection.vala:948
 msgid "Sound or audio input and output settings"
 msgstr "Параметры звука, аудиовходов и аудиовыходов"
 
-#: src/CategoryView.vala:957
+#: src/IconCollection.vala:953
 msgid "Look and feel, appearance, style, or theme settings"
 msgstr "Внешний вид, стиль или настройки темы"
 
-#: src/CategoryView.vala:962
+#: src/IconCollection.vala:958
 msgid "Desktop wallpaper or background settings"
 msgstr "Параметры фона или обоев рабочего стола"
 
-#: src/CategoryView.vala:967
+#: src/IconCollection.vala:963
 msgid "Other, miscellaneous, or uncategorized settings"
 msgstr "Другие, прочие или некатегоризированные параметры и настройки"
 
-#: src/CategoryView.vala:972
+#: src/IconCollection.vala:968
 msgid "System settings or preferences"
 msgstr "Параметры системы"
 
-#: src/CategoryView.vala:977
+#: src/IconCollection.vala:973
 msgid "Network settings, such as wireless, Ethernet, or VPN"
 msgstr "Параметры сети, беспроводных подключений, Ethernet или VPN"
 
-#: src/CategoryView.vala:982
+#: src/IconCollection.vala:978
 msgid "Notification alert settings"
 msgstr "Параметры уведомлений"
 
-#: src/CategoryView.vala:987
+#: src/IconCollection.vala:983
 msgid "Power management or energy usage settings, such as battery"
 msgstr ""
 "Параметры питания или настройка энергопотребления, например, аккумулятора"
 
-#: src/CategoryView.vala:992
+#: src/IconCollection.vala:988
 msgid "Privacy and security settings"
 msgstr "Параметры конфиденциальности и безопасности"
 
-#: src/CategoryView.vala:997
+#: src/IconCollection.vala:993
 msgid ""
 "Sharing settings, such as library sharing or media streaming over a network"
 msgstr ""
 "Параметры общего доступа, такие как общий доступ к библиотеке или потоковая "
 "передача мультимедиа по сети"
 
-#: src/CategoryView.vala:1002
+#: src/IconCollection.vala:998
 msgid "Time and date settings"
 msgstr "Параметры даты и времени"
 
-#: src/CategoryView.vala:1007
+#: src/IconCollection.vala:1003
 msgid "Window management settings"
 msgstr "Параметры управления окнами"
 
-#: src/CategoryView.vala:1012
+#: src/IconCollection.vala:1008
 msgid "Help"
 msgstr "Помощь"
 
-#: src/CategoryView.vala:1017
+#: src/IconCollection.vala:1013
 msgid "Audio output device, such as a sound card or speaker"
 msgstr "Устройство вывода звука, например звуковая карта или динамик"
 
-#: src/CategoryView.vala:1022
+#: src/IconCollection.vala:1018
 msgid "Audio output device representing headphones"
 msgstr "Устройство вывода звука типа наушников"
 
-#: src/CategoryView.vala:1027
+#: src/IconCollection.vala:1023
 msgid "Audio output device representing a headset"
 msgstr "Устройство вывода звука типа гарнитуры"
 
-#: src/CategoryView.vala:1032
+#: src/IconCollection.vala:1028
 msgid "Microphone"
 msgstr "Микрофон"
 
-#: src/CategoryView.vala:1037
+#: src/IconCollection.vala:1033
 msgid "Subwoofer or bass speaker"
 msgstr "Сабвуфер или басовый динамик"
 
-#: src/CategoryView.vala:1042
+#: src/IconCollection.vala:1038
 msgid "Battery"
 msgstr "Батарея, аккумулятор"
 
-#: src/CategoryView.vala:1047
+#: src/IconCollection.vala:1043
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: src/CategoryView.vala:1052
+#: src/IconCollection.vala:1048
 msgid "Digital photo or still camera"
 msgstr "Цифровая камера или фотоаппарат"
 
-#: src/CategoryView.vala:1057
+#: src/IconCollection.vala:1053
 msgid "Video or movie camera"
 msgstr "Видео- или кинокамера"
 
-#: src/CategoryView.vala:1062
+#: src/IconCollection.vala:1058
 msgid "Webcam or built-in camera"
 msgstr "Веб-камера или встроенная камера"
 
-#: src/CategoryView.vala:1067
+#: src/IconCollection.vala:1063
 msgid "Generic or desktop computer"
 msgstr "Обычный или настольный компьютер"
 
-#: src/CategoryView.vala:1072
+#: src/IconCollection.vala:1068
 msgid "Laptop or notebook computer"
 msgstr "Ноутбук"
 
-#: src/CategoryView.vala:1077
+#: src/IconCollection.vala:1073
 msgid "Hard disk or storage drive"
 msgstr "Жёсткий диск или накопитель"
 
-#: src/CategoryView.vala:1082
+#: src/IconCollection.vala:1078
 msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
 msgstr "Оптический привод, например для дисков CD, DVD или Blu-ray"
 
-#: src/CategoryView.vala:1087
+#: src/IconCollection.vala:1083
 msgid "Removable storage device, such as a portable hard drive"
 msgstr "Съёмное запоминающее устройство, например портативный жесткий диск"
 
-#: src/CategoryView.vala:1092
+#: src/IconCollection.vala:1088
 msgid "USB drive or stick, such as a flash, jump, or thumb drive"
 msgstr "USB-накопитель или флешка, флеш-накопитель"
 
-#: src/CategoryView.vala:1097
+#: src/IconCollection.vala:1093
 msgid "Video game controller, such as a paddle, remote, or joystick"
 msgstr "Контроллер для видеоигр, например, геймпад, джойстик или пульт ДУ"
 
-#: src/CategoryView.vala:1102
+#: src/IconCollection.vala:1098
 msgid "Keyboard"
 msgstr "Клавиатура"
 
-#: src/CategoryView.vala:1107
+#: src/IconCollection.vala:1103
 msgid "Mouse"
 msgstr "Мышь"
 
-#: src/CategoryView.vala:1112
+#: src/IconCollection.vala:1108
 msgid ""
 "Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
 "Bamboo"
@@ -925,28 +929,28 @@ msgstr ""
 "Графический планшет или средство рукописного ввода, например, дигитайзер "
 "Wacom, Intuos, Cintiq или Bamboo"
 
-#: src/CategoryView.vala:1117
+#: src/IconCollection.vala:1113
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
 msgstr ""
 "Сенсорная панель ввода, например, мультитач-трекпад или сенсорная панель"
 
-#: src/CategoryView.vala:1122
+#: src/IconCollection.vala:1118
 msgid "Flash media such as a memory stick or SD card"
 msgstr "Флэш-носитель, например карта памяти или SD-карта"
 
-#: src/CategoryView.vala:1127
+#: src/IconCollection.vala:1123
 msgid "Optical media, such as a CD, DVD, or Blu-ray disc"
 msgstr "Оптический носитель, например компакт-диск (CD), DVD или диск Blu-ray"
 
-#: src/CategoryView.vala:1132
+#: src/IconCollection.vala:1128
 msgid "Network modem or router"
 msgstr "Сетевой модем или маршрутизатор (роутер)"
 
-#: src/CategoryView.vala:1137
+#: src/IconCollection.vala:1133
 msgid "Media player device, such as a portable mp3 music player or iPod"
 msgstr "Медиаплеер, например портативный mp3-плеер или iPod"
 
-#: src/CategoryView.vala:1142
+#: src/IconCollection.vala:1138
 msgid ""
 "Cellular type wireless network or device, such as a 2G, 3G, or 4G LTE "
 "connection, modem, or SIM card"
@@ -954,23 +958,23 @@ msgstr ""
 "Беспроводная сеть или устройство сотового типа, например соединение 2G, 3G "
 "или 4G LTE, модем или SIM-карта"
 
-#: src/CategoryView.vala:1147
+#: src/IconCollection.vala:1143
 msgid "Networking firewall"
 msgstr "Сетевой брандмауэр"
 
-#: src/CategoryView.vala:1152
+#: src/IconCollection.vala:1148
 msgid "Virtual private network or VPN connection"
 msgstr "Виртуальная частная сеть или VPN-соединение"
 
-#: src/CategoryView.vala:1157
+#: src/IconCollection.vala:1153
 msgid "Wired network connection, such as Ethernet"
 msgstr "Проводное сетевое подключение, например Ethernet"
 
-#: src/CategoryView.vala:1162
+#: src/IconCollection.vala:1158
 msgid "Wireless network connection, such as Wi-Fi"
 msgstr "Беспроводное сетевое подключение, например Wi-Fi"
 
-#: src/CategoryView.vala:1167
+#: src/IconCollection.vala:1163
 msgid ""
 "Wireless hotspot connection, such as through a mobile cellular phone or "
 "smartphone"
@@ -978,673 +982,673 @@ msgstr ""
 "Беспроводное подключение к точке доступа, например, через мобильный сотовый "
 "телефон или смартфон"
 
-#: src/CategoryView.vala:1172
+#: src/IconCollection.vala:1168
 msgid "Generic phone, such as a mobile Android smartphone or iPhone"
 msgstr "Стандартный телефон, например Android-смартфон или iPhone"
 
-#: src/CategoryView.vala:1177
+#: src/IconCollection.vala:1173
 msgid "Printer"
 msgstr "Принтер"
 
-#: src/CategoryView.vala:1182
+#: src/IconCollection.vala:1178
 msgid "Network-connected or shared printer"
 msgstr "Сетевой или общий принтер"
 
-#: src/CategoryView.vala:1187
+#: src/IconCollection.vala:1183
 msgid "Scanner"
 msgstr "Сканер"
 
-#: src/CategoryView.vala:1192
+#: src/IconCollection.vala:1188
 msgid "Display, screen, or monitor"
 msgstr "Дисплей, экран или монитор"
 
-#: src/CategoryView.vala:1197
+#: src/IconCollection.vala:1193
 msgid "Default selection emblem, such as for a printer or other device"
 msgstr "Стандартная эмблема выбора, например, принтера или другого устройства"
 
-#: src/CategoryView.vala:1202
+#: src/IconCollection.vala:1198
 msgid "Disabled feature or service emblem"
 msgstr "Эмблема отключённой функции или службы"
 
-#: src/CategoryView.vala:1207
+#: src/IconCollection.vala:1203
 msgid "Documents emblem"
 msgstr "Эмблема документов"
 
-#: src/CategoryView.vala:1212
+#: src/IconCollection.vala:1208
 msgid "Downloads emblem"
 msgstr "Эмблема загрузок"
 
-#: src/CategoryView.vala:1217
+#: src/IconCollection.vala:1213
 msgid "Enabled feature or service emblem"
 msgstr "Эмблема включённой функции или службы"
 
-#: src/CategoryView.vala:1222
+#: src/IconCollection.vala:1218
 msgid "Emblem for the error status of a feature or service"
 msgstr "Эмблема статуса ошибки функции или службы"
 
-#: src/CategoryView.vala:1227
+#: src/IconCollection.vala:1223
 msgid "Item the user has marked as a favorite"
 msgstr "Элемент, помеченный пользователем как избранный"
 
-#: src/CategoryView.vala:1232
+#: src/IconCollection.vala:1228
 msgid "Item marked as important"
 msgstr "Элемент, отмеченный как важный"
 
-#: src/CategoryView.vala:1237
+#: src/IconCollection.vala:1233
 msgid "Item related to email"
 msgstr "Элемент, связанный с электронной почтой"
 
-#: src/CategoryView.vala:1242
+#: src/IconCollection.vala:1238
 msgid "Emblem for the partially enabled status of a feature or service"
 msgstr "Эмблема статуса частично включённой функции или службы"
 
-#: src/CategoryView.vala:1247
+#: src/IconCollection.vala:1243
 msgid "Photos emblem"
 msgstr "Эмблема фотографий"
 
-#: src/CategoryView.vala:1252
+#: src/IconCollection.vala:1248
 msgid "Item is read-only, or the user cannot write to or make changes to it"
 msgstr ""
 "Элемент доступен только для чтения, либо пользователь не может записывать в "
 "него или изменять его"
 
-#: src/CategoryView.vala:1257
+#: src/IconCollection.vala:1253
 msgid "Item shared with other people or users"
 msgstr "Элемент, которым поделились с другими людьми или пользователями"
 
-#: src/CategoryView.vala:1262
+#: src/IconCollection.vala:1258
 msgid "Item is a symbolic link to a file somewhere else"
 msgstr ""
 "Элемент является символической ссылкой на файл, находящийся в другом месте"
 
-#: src/CategoryView.vala:1267
+#: src/IconCollection.vala:1263
 msgid "Item is configured to be synchronized to another device or location"
 msgstr ""
 "Элемент настроен на синхронизацию с другим устройством или местоположением"
 
-#: src/CategoryView.vala:1272
+#: src/IconCollection.vala:1268
 msgid "Item is a system file, library, setting, or data"
 msgstr ""
 "Элемент является системным файлом, библиотекой, параметрами или данными"
 
-#: src/CategoryView.vala:1277
+#: src/IconCollection.vala:1273
 msgid "Item is unreadable or inaccessible"
 msgstr "Элемент не может быть прочитан или недоступен"
 
-#: src/CategoryView.vala:1282
+#: src/IconCollection.vala:1278
 msgid "Emblem for the warning status of a feature or service"
 msgstr "Эмблема предупреждения о статусе функции или службы"
 
-#: src/CategoryView.vala:1287
+#: src/IconCollection.vala:1283
 msgid "0:-) emoticon"
 msgstr "Смайлик « 0:-) »"
 
-#: src/CategoryView.vala:1292
+#: src/IconCollection.vala:1288
 msgid "X-( emoticon"
 msgstr "Смайлик « X-( »"
 
-#: src/CategoryView.vala:1297
+#: src/IconCollection.vala:1293
 msgid "B-) emoticon"
 msgstr "Смайлик « B-) »"
 
-#: src/CategoryView.vala:1302
+#: src/IconCollection.vala:1298
 msgid ":'( emoticon"
 msgstr "Смайлик « :'( »"
 
-#: src/CategoryView.vala:1307
+#: src/IconCollection.vala:1303
 msgid ">:-) emoticon"
 msgstr "Смайлик « >:-) »"
 
-#: src/CategoryView.vala:1312
+#: src/IconCollection.vala:1308
 msgid ":-[ emoticon"
 msgstr "Смайлик « :-[ »"
 
-#: src/CategoryView.vala:1317
+#: src/IconCollection.vala:1313
 msgid "<3 emoticon"
 msgstr "Смайлик « <3 »"
 
-#: src/CategoryView.vala:1322
+#: src/IconCollection.vala:1318
 msgid "</3 emoticon"
 msgstr "Смайлик « </3 »"
 
-#: src/CategoryView.vala:1327
+#: src/IconCollection.vala:1323
 msgid ":-* emoticon"
 msgstr "Смайлик « :-* »"
 
-#: src/CategoryView.vala:1332
+#: src/IconCollection.vala:1328
 msgid ":-)) emoticon"
 msgstr "Смайлик « :-)) »"
 
-#: src/CategoryView.vala:1337
+#: src/IconCollection.vala:1333
 msgid ":-(|) emoticon"
 msgstr "Смайлик « :-(|) »"
 
-#: src/CategoryView.vala:1342
+#: src/IconCollection.vala:1338
 msgid ":-| emoticon"
 msgstr "Смайлик « :-| »"
 
-#: src/CategoryView.vala:1347
+#: src/IconCollection.vala:1343
 msgid ":-P emoticon"
 msgstr "Смайлик « :-P »"
 
-#: src/CategoryView.vala:1352
+#: src/IconCollection.vala:1348
 msgid ":-( emoticon"
 msgstr "Смайлик « :-( »"
 
-#: src/CategoryView.vala:1357
+#: src/IconCollection.vala:1353
 msgid ":-& emoticon"
 msgstr "Смайлик « :-& »"
 
-#: src/CategoryView.vala:1362
+#: src/IconCollection.vala:1358
 msgid ":-) emoticon"
 msgstr "Смайлик « :-) »"
 
-#: src/CategoryView.vala:1367
+#: src/IconCollection.vala:1363
 msgid ":-D emoticon"
 msgstr "Смайлик « :-D »"
 
-#: src/CategoryView.vala:1372
+#: src/IconCollection.vala:1368
 msgid ":-! emoticon"
 msgstr "Смайлик « :-! »"
 
-#: src/CategoryView.vala:1377
+#: src/IconCollection.vala:1373
 msgid ":-0 emoticon"
 msgstr "Смайлик « :-0 »"
 
-#: src/CategoryView.vala:1382
+#: src/IconCollection.vala:1378
 msgid "|-) emoticon"
 msgstr "Смайлик « |-) »"
 
-#: src/CategoryView.vala:1387
+#: src/IconCollection.vala:1383
 msgid ":-/ emoticon"
 msgstr "Смайлик « :-/ »"
 
-#: src/CategoryView.vala:1392
+#: src/IconCollection.vala:1388
 msgid ";-) emoticon"
 msgstr "Смайлик « ;-) »"
 
-#: src/CategoryView.vala:1397
+#: src/IconCollection.vala:1393
 msgid ":-S emoticon"
 msgstr "Смайлик « :-S »"
 
-#: src/CategoryView.vala:1402
+#: src/IconCollection.vala:1398
 msgid "EPUB Ebook file types"
 msgstr "Типы файлов EPUB Ebook"
 
-#: src/CategoryView.vala:1407
+#: src/IconCollection.vala:1403
 msgid "Adobe Illustrator image file types"
 msgstr "Типы файлов изображений Adobe Illustrator"
 
-#: src/CategoryView.vala:1412
+#: src/IconCollection.vala:1408
 msgid "Javascript programming language file types"
 msgstr "Типы файлов языка программирования JavaScript"
 
-#: src/CategoryView.vala:1417
+#: src/IconCollection.vala:1413
 msgid "Microsoft Word file types"
 msgstr "Типы файлов Microsoft Word"
 
-#: src/CategoryView.vala:1422
+#: src/IconCollection.vala:1418
 msgid "Binary file types"
 msgstr "Бинарные типы файлов"
 
-#: src/CategoryView.vala:1427
+#: src/IconCollection.vala:1423
 msgid "PDF file types"
 msgstr "Типы PDF файлов"
 
-#: src/CategoryView.vala:1432
+#: src/IconCollection.vala:1428
 msgid "PGP file types"
 msgstr "Типы PGP файлов"
 
-#: src/CategoryView.vala:1437
+#: src/IconCollection.vala:1433
 msgid "Debian package file types"
 msgstr "Типы файлов пакетов Debian"
 
-#: src/CategoryView.vala:1442
+#: src/IconCollection.vala:1438
 msgid "Flatpak reference file types"
 msgstr "Типы файлов ссылок Flatpak"
 
-#: src/CategoryView.vala:1447
+#: src/IconCollection.vala:1443
 msgid "Microsoft Access file types"
 msgstr "Типы файлов Microsoft Access"
 
-#: src/CategoryView.vala:1452
+#: src/IconCollection.vala:1448
 msgid "Microsoft Excel file types"
 msgstr "Типы файлов Microsoft Excel"
 
-#: src/CategoryView.vala:1457
+#: src/IconCollection.vala:1453
 msgid "Microsoft PowerPoint file types"
 msgstr "Типы файлов Microsoft PowerPoint"
 
-#: src/CategoryView.vala:1462
+#: src/IconCollection.vala:1458
 msgid "Oasis OpenDocument file types"
 msgstr "Типы файлов Oasis OpenDocument"
 
-#: src/CategoryView.vala:1467
+#: src/IconCollection.vala:1463
 msgid "Torrent file types"
 msgstr "Типы файлов Torrent"
 
-#: src/CategoryView.vala:1472
+#: src/IconCollection.vala:1468
 msgid "CD Image file types"
 msgstr "Типы файлов образов CD-дисков"
 
-#: src/CategoryView.vala:1477
+#: src/IconCollection.vala:1473
 msgid "Desktop file types"
 msgstr "Типы файлов рабочего стола"
 
-#: src/CategoryView.vala:1482
+#: src/IconCollection.vala:1478
 msgid "Executable file types"
 msgstr "Типы исполняемых файлов"
 
-#: src/CategoryView.vala:1487
+#: src/IconCollection.vala:1483
 msgid "FictionBook file types"
 msgstr "Типы файлов FictionBook"
 
-#: src/CategoryView.vala:1492
+#: src/IconCollection.vala:1488
 msgid "Firmware file types"
 msgstr "Типы файлов прошивок"
 
-#: src/CategoryView.vala:1497
+#: src/IconCollection.vala:1493
 msgid "PHP programming language file types"
 msgstr "Типы файлов языка программирования PHP"
 
-#: src/CategoryView.vala:1502
+#: src/IconCollection.vala:1498
 msgid "Ruby programming language file types"
 msgstr "Типы файлов языка программирования Ruby"
 
-#: src/CategoryView.vala:1507
+#: src/IconCollection.vala:1503
 msgid "Shared library file types"
 msgstr "Типы файлов библиотек"
 
-#: src/CategoryView.vala:1512
+#: src/IconCollection.vala:1508
 msgid "Generic audio file types"
 msgstr "Типы аудиофайлов"
 
-#: src/CategoryView.vala:1517
+#: src/IconCollection.vala:1513
 msgid "Audio playlist file types"
 msgstr "Типы файлов аудио плейлистов"
 
-#: src/CategoryView.vala:1522
+#: src/IconCollection.vala:1518
 msgid "Extension"
 msgstr "Расширение"
 
-#: src/CategoryView.vala:1527
+#: src/IconCollection.vala:1523
 msgid "Generic font file types"
 msgstr "Типы файлов шрифтов"
 
-#: src/CategoryView.vala:1532
+#: src/IconCollection.vala:1528
 msgid "Adobe Photoshop image file types"
 msgstr "Типы файлов изображений Adobe Photoshop"
 
-#: src/CategoryView.vala:1537
+#: src/IconCollection.vala:1533
 msgid "Generic image file types"
 msgstr "Типы файлов изображений"
 
-#: src/CategoryView.vala:1542
+#: src/IconCollection.vala:1538
 msgid "XCF image file types"
 msgstr "Типы файлов изображений XCF"
 
-#: src/CategoryView.vala:1547
+#: src/IconCollection.vala:1543
 msgid "Internet Feed"
 msgstr "Интернет-канал"
 
-#: src/CategoryView.vala:1552
+#: src/IconCollection.vala:1548
 msgid "Model"
 msgstr "Модель"
 
-#: src/CategoryView.vala:1557
+#: src/IconCollection.vala:1553
 msgid "Contact file types"
 msgstr "Типы файлов контактов"
 
-#: src/CategoryView.vala:1562
+#: src/IconCollection.vala:1558
 msgid "Database file types"
 msgstr "Типы файлов баз данных"
 
-#: src/CategoryView.vala:1567
+#: src/IconCollection.vala:1563
 msgid "Generic package file types"
 msgstr "Типы файлов пакетов"
 
-#: src/CategoryView.vala:1572
+#: src/IconCollection.vala:1568
 msgid "Credit or debit card payments"
 msgstr "Оплата кредитной или дебетовой картой"
 
-#: src/CategoryView.vala:1577
+#: src/IconCollection.vala:1573
 msgid "American Express branded credit or debit card payments"
 msgstr "Оплата кредитной или дебетовой картой American Express"
 
-#: src/CategoryView.vala:1582
+#: src/IconCollection.vala:1578
 msgid "Diner's Club branded credit or debit card payments"
 msgstr "Оплата кредитной или дебетовой картой Diner's Club"
 
-#: src/CategoryView.vala:1587
+#: src/IconCollection.vala:1583
 msgid "Discover branded credit or debit card payments"
 msgstr "Оплата кредитной или дебетовой картой Discover"
 
-#: src/CategoryView.vala:1592
+#: src/IconCollection.vala:1588
 msgid "Japan Credit Bureau branded credit or debit card payments"
 msgstr "Оплата кредитной или дебетовой картой Japan Credit Bureau"
 
-#: src/CategoryView.vala:1597
+#: src/IconCollection.vala:1593
 msgid "Mastercard branded credit or debit card payments"
 msgstr "Оплата кредитной или дебетовой картой Mastercard"
 
-#: src/CategoryView.vala:1602
+#: src/IconCollection.vala:1598
 msgid "China UnionPay branded credit or debit card payments"
 msgstr "Оплата кредитной или дебетовой картой China UnionPay"
 
-#: src/CategoryView.vala:1607
+#: src/IconCollection.vala:1603
 msgid "Visa branded credit or debit card payments"
 msgstr "Оплата кредитной или дебетовой картой Visa"
 
-#: src/CategoryView.vala:1612
+#: src/IconCollection.vala:1608
 msgid "CSS text file types"
 msgstr "Типы файлов CSS"
 
-#: src/CategoryView.vala:1617
+#: src/IconCollection.vala:1613
 msgid "HTML text file types"
 msgstr "Типы файлов HTML"
 
-#: src/CategoryView.vala:1622
+#: src/IconCollection.vala:1618
 msgid "Markdown text file types"
 msgstr "Типы файлов Markdown"
 
-#: src/CategoryView.vala:1627
+#: src/IconCollection.vala:1623
 msgid "Bibtext file types"
 msgstr "Типы файлов Bibtext"
 
-#: src/CategoryView.vala:1632
+#: src/IconCollection.vala:1628
 msgid "Changelog file types"
 msgstr "Типы файлов Changelog"
 
-#: src/CategoryView.vala:1637
+#: src/IconCollection.vala:1633
 msgid "C programming language header file types"
 msgstr "Типы файлов заголовков языка программирования C"
 
-#: src/CategoryView.vala:1642
+#: src/IconCollection.vala:1638
 msgid "License file types"
 msgstr "Типы файлов лицензий"
 
-#: src/CategoryView.vala:1647
+#: src/IconCollection.vala:1643
 msgid "C programming language file types"
 msgstr "Типы файлов языка программирования C"
 
-#: src/CategoryView.vala:1652
+#: src/IconCollection.vala:1648
 msgid "Generic text file types"
 msgstr "Типы текстовых файлов"
 
-#: src/CategoryView.vala:1657
+#: src/IconCollection.vala:1653
 msgid "Generic text templates"
 msgstr "Общие текстовые шаблоны"
 
-#: src/CategoryView.vala:1662
+#: src/IconCollection.vala:1658
 msgid "Gettext translation file types"
 msgstr "Типы файлов перевода Gettext"
 
-#: src/CategoryView.vala:1667
+#: src/IconCollection.vala:1663
 msgid "Gettext translation model file types"
 msgstr "Типы файлов модели перевода Gettext"
 
-#: src/CategoryView.vala:1672
+#: src/IconCollection.vala:1668
 msgid "Go programming language file types"
 msgstr "Типы файлов языка программирования Go"
 
-#: src/CategoryView.vala:1677
+#: src/IconCollection.vala:1673
 msgid "Install file types"
 msgstr "Типы файлов установщиков"
 
-#: src/CategoryView.vala:1682
+#: src/IconCollection.vala:1678
 msgid "Makefile file types"
 msgstr "Файлы типа Makefile"
 
-#: src/CategoryView.vala:1687
+#: src/IconCollection.vala:1683
 msgid "Preview file types"
 msgstr "Типы файлов предварительного просмотра"
 
-#: src/CategoryView.vala:1692
+#: src/IconCollection.vala:1688
 msgid "Python programming language file types"
 msgstr "Типы файлов языка программирования Python"
 
-#: src/CategoryView.vala:1697
+#: src/IconCollection.vala:1693
 msgid "Readme file types"
 msgstr "Типы файлов Readme"
 
-#: src/CategoryView.vala:1702
+#: src/IconCollection.vala:1698
 msgid "Sass programming language file types"
 msgstr "Типы файлов языка программирования Sass"
 
-#: src/CategoryView.vala:1707
+#: src/IconCollection.vala:1703
 msgid "Script file types, such as shell scripts"
 msgstr "Типы файлов скриптов, например скрипты оболочки"
 
-#: src/CategoryView.vala:1712
+#: src/IconCollection.vala:1708
 msgid "SSA file types"
 msgstr "Типы файлов SSA"
 
-#: src/CategoryView.vala:1717
+#: src/IconCollection.vala:1713
 msgid "TEX file types"
 msgstr "Типы файлов TEX"
 
-#: src/CategoryView.vala:1722
+#: src/IconCollection.vala:1718
 msgid "Vala programming language file types"
 msgstr "Типы файлов языка программирования Vala"
 
-#: src/CategoryView.vala:1727
+#: src/IconCollection.vala:1723
 msgid "Unknown file types"
 msgstr "Неизвестный тип файла"
 
-#: src/CategoryView.vala:1732
+#: src/IconCollection.vala:1728
 msgid "Generic video file types"
 msgstr "Общий тип видеофайлов"
 
-#: src/CategoryView.vala:1737
+#: src/IconCollection.vala:1733
 msgid "Generic address book file types"
 msgstr "Типы файлов адресной книги"
 
-#: src/CategoryView.vala:1742
+#: src/IconCollection.vala:1738
 msgid "Generic calendar file types"
 msgstr "Типы файлов календаря"
 
-#: src/CategoryView.vala:1747
+#: src/IconCollection.vala:1743
 msgid "Generic document and letter file types"
 msgstr "Общие типы файлов документов и писем"
 
-#: src/CategoryView.vala:1752
+#: src/IconCollection.vala:1748
 msgid "Generic document and letter template file types"
 msgstr "Общие типы файлов шаблонов документов и писем"
 
-#: src/CategoryView.vala:1757
+#: src/IconCollection.vala:1753
 msgid "Generic drawing file types"
 msgstr "Общие типы файлов рисунков"
 
-#: src/CategoryView.vala:1762
+#: src/IconCollection.vala:1758
 msgid "Generic drawing template file types"
 msgstr "Общие типы файлов шаблонов рисунков"
 
-#: src/CategoryView.vala:1767
+#: src/IconCollection.vala:1763
 msgid "Generic presentation file types"
 msgstr "Общие типы файлов презентаций"
 
-#: src/CategoryView.vala:1772
+#: src/IconCollection.vala:1768
 msgid "Generic presentation template file types"
 msgstr "Общие типы файлов шаблонов презентаций"
 
-#: src/CategoryView.vala:1777
+#: src/IconCollection.vala:1773
 msgid "Generic spreadsheet file types"
 msgstr "Общие типы файлов электронных таблиц"
 
-#: src/CategoryView.vala:1782
+#: src/IconCollection.vala:1778
 msgid "Generic spreadsheet template file types"
 msgstr "Общие типы файлов шаблонов электронных таблиц"
 
-#: src/CategoryView.vala:1787
+#: src/IconCollection.vala:1783
 msgid "Bookmark missing"
 msgstr "Закладка отсутствует"
 
-#: src/CategoryView.vala:1792
+#: src/IconCollection.vala:1788
 msgid "Distributor logo"
 msgstr "Логотип дистрибьютора"
 
-#: src/CategoryView.vala:1797
+#: src/IconCollection.vala:1793
 msgid "Folder"
 msgstr "Папка"
 
-#: src/CategoryView.vala:1802
+#: src/IconCollection.vala:1798
 msgid "Documents folder"
 msgstr "Папка документов"
 
-#: src/CategoryView.vala:1807
+#: src/IconCollection.vala:1803
 msgid "Downloads folder"
 msgstr "Папка загрузок"
 
-#: src/CategoryView.vala:1812
+#: src/IconCollection.vala:1808
 msgid "Folder drag accept"
 msgstr "Папка, принимающая перетаскивание"
 
-#: src/CategoryView.vala:1817
+#: src/IconCollection.vala:1813
 msgid "Music folder"
 msgstr "Папка музыки"
 
-#: src/CategoryView.vala:1822
+#: src/IconCollection.vala:1818
 msgid "Open folder"
 msgstr "Открытая папка"
 
-#: src/CategoryView.vala:1827
+#: src/IconCollection.vala:1823
 msgid "Pictures folder"
 msgstr "Папка изображений"
 
-#: src/CategoryView.vala:1832
+#: src/IconCollection.vala:1828
 msgid "Publicshare folder"
 msgstr "Общедоступная папка"
 
-#: src/CategoryView.vala:1837
+#: src/IconCollection.vala:1833
 msgid "Recent folder"
 msgstr "Папка недавних документов"
 
-#: src/CategoryView.vala:1842
+#: src/IconCollection.vala:1838
 msgid "Remote folder"
 msgstr "Удалённая папка"
 
-#: src/CategoryView.vala:1847
+#: src/IconCollection.vala:1843
 msgid "Saved search folder"
 msgstr "Папка сохранённых поисков"
 
-#: src/CategoryView.vala:1852
+#: src/IconCollection.vala:1848
 msgid "Templates folder"
 msgstr "Папка шаблонов"
 
-#: src/CategoryView.vala:1857
+#: src/IconCollection.vala:1853
 msgid "Videos folder"
 msgstr "Папка видео"
 
-#: src/CategoryView.vala:1862
+#: src/IconCollection.vala:1858
 msgid "Internet radio"
 msgstr "Интернет-радио"
 
-#: src/CategoryView.vala:1867
+#: src/IconCollection.vala:1863
 msgid "Audiobook library"
 msgstr "Библиотека аудиокниг"
 
-#: src/CategoryView.vala:1872
+#: src/IconCollection.vala:1868
 msgid "Library places"
 msgstr "Места библиотек"
 
-#: src/CategoryView.vala:1877
+#: src/IconCollection.vala:1873
 msgid "Podcast library"
 msgstr "Библиотека подкастов"
 
-#: src/CategoryView.vala:1882
+#: src/IconCollection.vala:1878
 msgid "Mail inbox"
 msgstr "Входящая почта"
 
-#: src/CategoryView.vala:1887
+#: src/IconCollection.vala:1883
 msgid "Mail mailbox"
 msgstr "Почтовый ящик"
 
-#: src/CategoryView.vala:1892
+#: src/IconCollection.vala:1888
 msgid "Mail outbox"
 msgstr "Отправленная почта"
 
-#: src/CategoryView.vala:1897
+#: src/IconCollection.vala:1893
 msgid "Mail sent"
 msgstr "Почта отправлена"
 
-#: src/CategoryView.vala:1902
+#: src/IconCollection.vala:1898
 msgid "Network server"
 msgstr "Сетевой сервер"
 
-#: src/CategoryView.vala:1907
+#: src/IconCollection.vala:1903
 msgid "Network workgroup"
 msgstr "Сетевая рабочая группа"
 
-#: src/CategoryView.vala:1912
+#: src/IconCollection.vala:1908
 msgid "Playlist"
 msgstr "Плейлист"
 
-#: src/CategoryView.vala:1917
+#: src/IconCollection.vala:1913
 msgid "Automatic playlist"
 msgstr "Автоматический плейлист"
 
-#: src/CategoryView.vala:1922
+#: src/IconCollection.vala:1918
 msgid "Playlist queue"
 msgstr "Очередь плейлиста"
 
-#: src/CategoryView.vala:1927
+#: src/IconCollection.vala:1923
 msgid "Similar playlist"
 msgstr "Похожие плейлисты"
 
-#: src/CategoryView.vala:1932
+#: src/IconCollection.vala:1928
 msgid "Tag"
 msgstr "Метка"
 
-#: src/CategoryView.vala:1937
+#: src/IconCollection.vala:1933
 msgid "Bookmarks"
 msgstr "Закладки"
 
-#: src/CategoryView.vala:1942
+#: src/IconCollection.vala:1938
 msgid "Home"
 msgstr "Домашняя папка"
 
-#: src/CategoryView.vala:1947
+#: src/IconCollection.vala:1943
 msgid "Trash"
 msgstr "Корзина"
 
-#: src/CategoryView.vala:1952
+#: src/IconCollection.vala:1948
 msgid "Trash full"
 msgstr "Полная корзина"
 
-#: src/CategoryView.vala:1957
+#: src/IconCollection.vala:1953
 msgid "Airplane mode, where wireless radios are disabled or off"
 msgstr "Режим полёта, в котором беспроводные радиомодули отключены"
 
-#: src/CategoryView.vala:1962
+#: src/IconCollection.vala:1958
 msgid "An appointment or calendar event was missed"
 msgstr "Была пропущена встреча или событие календаря"
 
-#: src/CategoryView.vala:1967
+#: src/IconCollection.vala:1963
 msgid "An appointment or calendar event will be happening soon"
 msgstr "Скоро состоится встреча или событие в календаре"
 
-#: src/CategoryView.vala:1972
+#: src/IconCollection.vala:1968
 msgid "High or loud audio volume"
 msgstr "Высокая громкость аудио"
 
-#: src/CategoryView.vala:1977
+#: src/IconCollection.vala:1973
 msgid "Low or quiet audio volume"
 msgstr "Низкая громкость аудио"
 
-#: src/CategoryView.vala:1982
+#: src/IconCollection.vala:1978
 msgid "Medium or normal audio volume"
 msgstr "Средняя или нормальная громкость аудио"
 
-#: src/CategoryView.vala:1987
+#: src/IconCollection.vala:1983
 msgid "Audio volume is muted or off"
 msgstr "Звук приглушён или выключен"
 
-#: src/CategoryView.vala:1992
+#: src/IconCollection.vala:1988
 msgid ""
 "Audio volume is muted or off and something is being blocked from making noise"
 msgstr "Звук приглушён или выключен, и что-то блокируется от создания шума"
 
-#: src/CategoryView.vala:1997
+#: src/IconCollection.vala:1993
 msgid ""
 "The default avatar to represent a user, such as someone who has not set a "
 "profile picture"
@@ -1652,77 +1656,77 @@ msgstr ""
 "Стандартный аватар для обозначения пользователя, например, того, кто не "
 "установил изображение профиля"
 
-#: src/CategoryView.vala:2002
+#: src/IconCollection.vala:1998
 msgid "A charger or AC adapter for a battery-powered device"
 msgstr "Зарядное устройство для устройства, работающего от батареи"
 
-#: src/CategoryView.vala:2007
+#: src/IconCollection.vala:2003
 msgid "Low battery level"
 msgstr "Низкий уровень заряда батареи"
 
-#: src/CategoryView.vala:2012
+#: src/IconCollection.vala:2008
 msgid "Low battery level, plugged into a charger or AC adapter"
 msgstr "Низкий уровень заряда батареи, подключено к зарядному устройству"
 
-#: src/CategoryView.vala:2017
+#: src/IconCollection.vala:2013
 msgid "Critically low battery level"
 msgstr "Критически низкий уровень заряда батареи"
 
-#: src/CategoryView.vala:2022
+#: src/IconCollection.vala:2018
 msgid "Critically low battery, plugged into a charger or AC adapter"
 msgstr ""
 "Критически низкий уровень заряда батареи, подключено к зарядному устройству"
 
-#: src/CategoryView.vala:2027
+#: src/IconCollection.vala:2023
 msgid "Mostly charged battery level"
 msgstr "Почти полный уровень заряда батареи"
 
-#: src/CategoryView.vala:2032
+#: src/IconCollection.vala:2028
 msgid "Completely charged battery level"
 msgstr "Полный уровень заряда батареи"
 
-#: src/CategoryView.vala:2037
+#: src/IconCollection.vala:2033
 msgid "Mostly charged battery level, plugged into a charger or AC adapter"
 msgstr "Почти полный уровень заряда батареи, подключено к зарядному устройству"
 
-#: src/CategoryView.vala:2042
+#: src/IconCollection.vala:2038
 msgid "Medium-high charged battery level"
 msgstr "Средний-высокий уровень заряда батареи"
 
-#: src/CategoryView.vala:2047
+#: src/IconCollection.vala:2043
 msgid "Medium-high charged battery level, plugged into a charger or AC adapter"
 msgstr ""
 "Средний-высокий уровень заряда батареи, подключено к зарядному устройству"
 
-#: src/CategoryView.vala:2052
+#: src/IconCollection.vala:2048
 msgid "Medium-low charged battery level"
 msgstr "Средний-низкий уровень заряда батареи"
 
-#: src/CategoryView.vala:2057
+#: src/IconCollection.vala:2053
 msgid "Medium-low charged battery level, plugged into a charger or AC adapter"
 msgstr ""
 "Средний-низкий уровень заряда батареи, подключено к зарядному устройству"
 
-#: src/CategoryView.vala:2062
+#: src/IconCollection.vala:2058
 msgid "Missing or malfunctioning battery"
 msgstr "Батарея отсутствует или неисправна"
 
-#: src/CategoryView.vala:2067
+#: src/IconCollection.vala:2063
 msgid "Allow changes by unlocking such as with a password"
 msgstr "Разрешить изменения, разблокировав, например, с помощью пароля"
 
-#: src/CategoryView.vala:2072
+#: src/IconCollection.vala:2068
 msgid "Prevent changes by locking such as with a password"
 msgstr "Предотвратить изменения, заблокировав, например, с помощью пароля"
 
-#: src/CategoryView.vala:2077
+#: src/IconCollection.vala:2073
 msgid ""
 "Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
 msgstr ""
 "Небезопасная, незащищённая или незашифрованная связь или соединение, "
 "например HTTP"
 
-#: src/CategoryView.vala:2082
+#: src/IconCollection.vala:2078
 msgid ""
 "Secure or encrypted communication or connection, such as HTTPS or encrypted "
 "Wi-Fi"
@@ -1730,149 +1734,149 @@ msgstr ""
 "Безопасная или зашифрованная связь или соединение, например HTTPS или "
 "зашифрованный Wi-Fi"
 
-#: src/CategoryView.vala:2087
+#: src/IconCollection.vala:2083
 msgid "Critical, unrecoverable, or other serious error"
 msgstr "Критическая, неисправимая или другая серьёзная ошибка"
 
-#: src/CategoryView.vala:2092
+#: src/IconCollection.vala:2088
 msgid "Contextual information or explanation"
 msgstr "Контекстная информация или объяснение"
 
-#: src/CategoryView.vala:2097
+#: src/IconCollection.vala:2093
 msgid "Requesting authentication details, such as a password or encryption key"
 msgstr "Запрос данных аутентификации, таких как пароль или ключ шифрования"
 
-#: src/CategoryView.vala:2102
+#: src/IconCollection.vala:2098
 msgid "Question, decision, or choice for the user"
 msgstr "Вопрос, решение или выбор для пользователя"
 
-#: src/CategoryView.vala:2107
+#: src/IconCollection.vala:2103
 msgid "Warning of potentially dangerous actions or consequences"
 msgstr "Предупреждение о потенциально опасных действиях или последствиях"
 
-#: src/CategoryView.vala:2112
+#: src/IconCollection.vala:2108
 msgid "Placeholder used when an image or thumbnail is loading"
 msgstr "Заглушка, используемая при загрузке изображения или миниатюры"
 
-#: src/CategoryView.vala:2117
+#: src/IconCollection.vala:2113
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
 msgstr ""
 "Заглушка, используемая, когда изображение или миниатюра отсутствует или не "
 "может быть загружена"
 
-#: src/CategoryView.vala:2122
+#: src/IconCollection.vala:2118
 msgid "Location services are in use"
 msgstr "Используются службы определения местоположения"
 
-#: src/CategoryView.vala:2127
+#: src/IconCollection.vala:2123
 msgid "Location services are disabled and unavailable"
 msgstr "Службы определения местоположения отключены и недоступны"
 
-#: src/CategoryView.vala:2132
+#: src/IconCollection.vala:2128
 msgid "Location services are available, but not in use"
 msgstr "Службы определения местоположения доступны, но не используются"
 
-#: src/CategoryView.vala:2137
+#: src/IconCollection.vala:2133
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
 msgstr ""
 "Защищено или заблокировано; как правило, требуется аутентификация или пароль "
 "для разблокировки"
 
-#: src/CategoryView.vala:2142
+#: src/IconCollection.vala:2138
 msgid "Mail attachment or file in an email"
 msgstr "Вложение или файл в электронном письме"
 
-#: src/CategoryView.vala:2147
+#: src/IconCollection.vala:2143
 msgid "New, unread, or unviewed email"
 msgstr "Новое, непрочитанное или непросмотренное письмо"
 
-#: src/CategoryView.vala:2152
+#: src/IconCollection.vala:2148
 msgid "Read or already-viewed email"
 msgstr "Прочитанное или просмотренное письмо"
 
-#: src/CategoryView.vala:2157
+#: src/IconCollection.vala:2153
 msgid "Email that has been replied or responded to"
 msgstr "Письмо, на которое был дан ответ"
 
-#: src/CategoryView.vala:2162
+#: src/IconCollection.vala:2158
 msgid "Email that contains a signature"
 msgstr "Письмо, содержащее подпись"
 
-#: src/CategoryView.vala:2167
+#: src/IconCollection.vala:2163
 msgid "Email that contains a signature that is verified by the security system"
 msgstr "Письмо, содержащее подпись, подтверждённую системой безопасности"
 
-#: src/CategoryView.vala:2172
+#: src/IconCollection.vala:2168
 msgid "Repeat a song, video, track, album, playlist, or other media"
 msgstr "Повтор песни, видео, трека, альбома, плейлиста или другого типа медиа"
 
-#: src/CategoryView.vala:2177
+#: src/IconCollection.vala:2173
 msgid "Shuffle or randomize an album, playlist, or other media"
 msgstr ""
 "Перемешать, проигрывать в случайном порядке альбом, плейлист или другой тип "
 "медиа"
 
-#: src/CategoryView.vala:2182
+#: src/IconCollection.vala:2178
 msgid "Error or problem initializing or creating a network connection"
 msgstr "Ошибка или проблема с установкой или созданием сетевого подключения"
 
-#: src/CategoryView.vala:2187
+#: src/IconCollection.vala:2183
 msgid "No data being transmitted or received while connected to a network"
 msgstr "Отсутствует передача данных по сети"
 
-#: src/CategoryView.vala:2192
+#: src/IconCollection.vala:2188
 msgid "Disconnected or offline from a network"
 msgstr "Отключено или не подключено к сети"
 
-#: src/CategoryView.vala:2197
+#: src/IconCollection.vala:2193
 msgid "Data is being received over a network"
 msgstr "Получение данных по сети"
 
-#: src/CategoryView.vala:2202
+#: src/IconCollection.vala:2198
 msgid "Data is being transmitted over a network"
 msgstr "Отправка данных по сети"
 
-#: src/CategoryView.vala:2207
+#: src/IconCollection.vala:2203
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
 msgstr "Отправка и получение данных по сети"
 
-#: src/CategoryView.vala:2212
+#: src/IconCollection.vala:2208
 msgid "Wired network, such as Ethernet, is disconnected"
 msgstr "Проводная сеть, например Ethernet, не подключена"
 
-#: src/CategoryView.vala:2217
+#: src/IconCollection.vala:2213
 msgid "Item is not starred, favorited, or pinned by the user"
 msgstr ""
 "Элемент не помечен, не добавлен в избранное и не закреплён пользователем"
 
-#: src/CategoryView.vala:2222
+#: src/IconCollection.vala:2218
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
 msgstr "Уведомления отключены или включён режим «Не беспокоить»"
 
-#: src/CategoryView.vala:2227
+#: src/IconCollection.vala:2223
 msgid "Error or problem occurred when attempting to print"
 msgstr "Произошла ошибка или проблема при попытке печати"
 
-#: src/CategoryView.vala:2232
+#: src/IconCollection.vala:2228
 msgid "Job has been successfully spooled or sent to a printer"
 msgstr "Задача успешно добавлена в очередь или отправлена на принтер"
 
-#: src/CategoryView.vala:2237
+#: src/IconCollection.vala:2233
 msgid "Process, job, or task has successfully completed or finished"
 msgstr "Процесс, задание или задача успешно завершены или выполнены"
 
-#: src/CategoryView.vala:2242
+#: src/IconCollection.vala:2238
 msgid "Process, job, or task has failed or been unsuccessful"
 msgstr "Процесс, задание или задача не удалась или бвлп неудачной"
 
-#: src/CategoryView.vala:2247
+#: src/IconCollection.vala:2243
 msgid "Process, job, or task is currently paused or on hold"
 msgstr "Процесс, задание или задача в настоящее время приостановлена"
 
-#: src/CategoryView.vala:2252
+#: src/IconCollection.vala:2248
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
@@ -1880,11 +1884,11 @@ msgstr ""
 "Заведомо безопасно, например, надёжное шифрование или действительный, "
 "подтверждённый или доверенный сертификат"
 
-#: src/CategoryView.vala:2257
+#: src/IconCollection.vala:2253
 msgid "Presumed to be secure, such as using encryption"
 msgstr "Считается безопасным, например использование шифрования"
 
-#: src/CategoryView.vala:2262
+#: src/IconCollection.vala:2258
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
@@ -1893,107 +1897,107 @@ msgstr ""
 "зашифрованный, или недействительный, неподтверждённый или ненадежный "
 "сертификат"
 
-#: src/CategoryView.vala:2267
+#: src/IconCollection.vala:2263
 msgid "Updated apps, software, or drivers are available"
 msgstr "Доступны обновлённые приложения, программное обеспечение или драйверы"
 
-#: src/CategoryView.vala:2272
+#: src/IconCollection.vala:2268
 msgid "Urgent or critical updates are available"
 msgstr "Доступны срочные или критические обновления"
 
-#: src/CategoryView.vala:2277
+#: src/IconCollection.vala:2273
 msgid "Item is starred, favorited, or pinned by the user"
 msgstr "Элемент помечен, добавлен в избранное или закреплён пользователем"
 
-#: src/CategoryView.vala:2282
+#: src/IconCollection.vala:2278
 msgid "Task is due soon"
 msgstr "Приближается срок сдачи задания"
 
-#: src/CategoryView.vala:2287
+#: src/IconCollection.vala:2283
 msgid "Task is incomplete past the due date"
 msgstr "Задание выполнено не полностью или сдано после срока выполнения"
 
-#: src/CategoryView.vala:2292
+#: src/IconCollection.vala:2288
 msgid "User, person, or contact is available or online"
 msgstr "Пользователь, человек или контакт доступен или в сети"
 
-#: src/CategoryView.vala:2297
+#: src/IconCollection.vala:2293
 msgid "User, person, or contact is away or unavailable"
 msgstr "Пользователь, человек или контакт отсутствует или недоступен"
 
-#: src/CategoryView.vala:2302
+#: src/IconCollection.vala:2298
 msgid "User, person, or contact is idle or unresponsive"
 msgstr "Пользователь, человек или контакт отошёл или не отвечает"
 
-#: src/CategoryView.vala:2307
+#: src/IconCollection.vala:2303
 msgid "User, person, or contact is offline or unreachable"
 msgstr "Пользователь, человек или контакт не в сети или недоступен"
 
-#: src/CategoryView.vala:2312
+#: src/IconCollection.vala:2308
 msgid "Private, anonymous, untracked, or incognito"
 msgstr "Приватный, анонимный, неотслеживаемый или инкогнито"
 
-#: src/CategoryView.vala:2317
+#: src/IconCollection.vala:2313
 msgid "Clear skies or sunny weather"
 msgstr "Ясная или солнечная погода"
 
-#: src/CategoryView.vala:2322
+#: src/IconCollection.vala:2318
 msgid "Clear skies weather during the night"
 msgstr "Ясная погода ночью"
 
-#: src/CategoryView.vala:2327
+#: src/IconCollection.vala:2323
 msgid "Partly cloudy, partly clear, or partly sunny weather"
 msgstr "Переменная облачность, частично ясная или частично солнечная погода"
 
-#: src/CategoryView.vala:2332
+#: src/IconCollection.vala:2328
 msgid "Partly cloudy or partly clear weather during the night"
 msgstr "Переменная облачность или частично ясная погода ночью"
 
-#: src/CategoryView.vala:2337
+#: src/IconCollection.vala:2333
 msgid "Foggy weather"
 msgstr "Туманная погода"
 
-#: src/CategoryView.vala:2342
+#: src/IconCollection.vala:2338
 msgid "Overcast or cloudy weather"
 msgstr "Пасмурная или облачная погода"
 
-#: src/CategoryView.vala:2347
+#: src/IconCollection.vala:2343
 msgid "Severe or critical weather warning or alert"
 msgstr "Предупреждение или оповещение о суровых или опасных погодных условиях"
 
-#: src/CategoryView.vala:2352
+#: src/IconCollection.vala:2348
 msgid "Showers or rainy weather"
 msgstr "Ливни или дождливая погода"
 
-#: src/CategoryView.vala:2357
+#: src/IconCollection.vala:2353
 msgid "Scattered showers or partly rainy weather"
 msgstr "Рассеянные ливни или частично дождливая погода"
 
-#: src/CategoryView.vala:2362
+#: src/IconCollection.vala:2358
 msgid "Snow showers or snowy weather"
 msgstr "Снегопады или снежная погода"
 
-#: src/CategoryView.vala:2367
+#: src/IconCollection.vala:2363
 msgid "Thunderstorms or stormy weather"
 msgstr "Грозы или штормовая погода"
 
-#: src/CategoryView.vala:2377
-msgid "Search Names or Descriptions"
-msgstr "Поиск по названию или описанию"
-
-#: src/IconView.vala:60
+#: src/IconView.vala:61
 msgid "Color Icons"
 msgstr "Цветные значки"
 
-#: src/IconView.vala:67
+#: src/IconView.vala:68
 msgid "Symbolic Icons"
 msgstr "Символьные значки"
 
-#: src/IconView.vala:80
+#: src/IconView.vala:81
 msgid "Code Sample"
 msgstr "Образец кода"
 
-#: src/IconView.vala:192
+#: src/IconView.vala:223
+msgid "Copied!"
+msgstr "Скопировано!"
+
+#: src/IconView.vala:239
 msgid "Unavailable"
 msgstr "Недоступно"
 

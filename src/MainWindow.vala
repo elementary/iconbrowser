@@ -29,7 +29,7 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
             vexpand = true
         };
 
-        foreach (var category in CategoryView.Category.all ()) {
+        foreach (var category in IconCollection.Category.all ()) {
             var sidebar_row = new SidebarRow (category);
             categories_sidebar.append (sidebar_row);
         }
@@ -73,6 +73,7 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         set_titlebar (null_title);
 
         child = paned;
+        category_view.search_entry.set_key_capture_widget (this);
 
         var gtk_settings = Gtk.Settings.get_default ();
         gtk_settings.bind_property ("gtk-application-prefer-dark-theme", mode_switch, "active", BindingFlags.BIDIRECTIONAL);

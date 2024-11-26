@@ -48,6 +48,9 @@
         <p>Update icon list to match Platform 8</p>
         <p>Update translations</p>
       </description>
+      <issues>
+        <issue url="https://github.com/elementary/iconbrowser/issues/15">Focus search when typing</issue>
+      </issues>
     </release>
 
     <release version="2.2.0" date="2023-08-28">

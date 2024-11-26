@@ -5,15 +5,16 @@
 public class IconView : Gtk.Box {
     public string icon_name { get; construct set; }
     public string description { get; construct set; }
-    public CategoryView.Category category { get; construct set; }
+    public IconCollection.Category category { get; construct set; }
 
     private GtkSource.Buffer source_buffer;
+    private Gtk.Button copy_button;
 
     public IconView () {
         Object (
             icon_name: "address-book-new",
             description: _("Create a new address book"),
-            category: CategoryView.Category.ACTIONS
+            category: IconCollection.Category.ACTIONS
         );
     }
 
@@ -103,6 +104,40 @@ public class IconView : Gtk.Box {
         source_view.add_css_class (Granite.STYLE_CLASS_CARD);
         source_view.add_css_class (Granite.STYLE_CLASS_ROUNDED);
 
+        copy_button = new Gtk.Button.with_label (_("Copy")) {
+            valign = START,
+            halign = END,
+            margin_top = 6,
+            margin_end = 6
+        };
+        copy_button.add_css_class (Granite.STYLE_CLASS_SMALL_LABEL);
+
+        // Make copy button visible with fade animation when source view contains pointer or focus
+        var copy_button_revealer = new Gtk.Revealer () {
+            child = copy_button,
+            valign = START,
+            halign = END,
+            transition_type = CROSSFADE,
+            overflow = VISIBLE
+        };
+
+        var copy_controller_motion = new Gtk.EventControllerMotion ();
+        copy_controller_motion.bind_property (
+            "contains-pointer", copy_button_revealer, "reveal-child", DEFAULT | SYNC_CREATE
+        );
+
+        var copy_controller_focus = new Gtk.EventControllerFocus ();
+        copy_controller_focus.bind_property (
+            "contains-focus", copy_button_revealer, "reveal-child", DEFAULT | SYNC_CREATE
+        );
+
+        var source_overlay = new Gtk.Overlay () {
+            child = source_view
+        };
+        source_overlay.add_overlay (copy_button_revealer);
+        source_overlay.add_controller (copy_controller_motion);
+        source_overlay.add_controller (copy_controller_focus);
+
         var content_area = new Gtk.Box (Gtk.Orientation.VERTICAL, 12) {
             vexpand = true
         };
@@ -112,7 +147,7 @@ public class IconView : Gtk.Box {
         content_area.append (symbolic_title);
         content_area.append (symbolic_row);
         content_area.append (snippet_title);
-        content_area.append (source_view);
+        content_area.append (source_overlay);
 
         var scrolled = new Gtk.ScrolledWindow () {
             child = content_area,
@@ -163,6 +198,8 @@ public class IconView : Gtk.Box {
             color_row.unselect_all ();
             child_activated (child);
         });
+
+        copy_button.clicked.connect (copy_button_clicked);
     }
 
     private void child_activated (Gtk.FlowBoxChild child) {
@@ -177,6 +214,16 @@ public class IconView : Gtk.Box {
                 source_buffer.text = "var icon = new Gtk.Image.from_icon_name (\"%s\");".printf (icon.icon_name);
             }
         }
+    }
+
+    private void copy_button_clicked () {
+        unowned var clipboard = get_clipboard ();
+        clipboard.set_text (source_buffer.text);
+
+        copy_button.label = _("Copied!");
+        Timeout.add_once (1000, () => {
+            copy_button.label = _("Copy");
+        });
     }
 
     private void fill_icon_row (string _icon_name, Gtk.FlowBox row) {
@@ -204,11 +251,11 @@ public class IconView : Gtk.Box {
 
         int[] sizes;
         switch (category) {
-            case CategoryView.Category.ACTIONS:
-            case CategoryView.Category.EMBLEMS:
+            case IconCollection.Category.ACTIONS:
+            case IconCollection.Category.EMBLEMS:
                 sizes = {16, 24, 32, 48};
                 break;
-            case CategoryView.Category.EMOTES:
+            case IconCollection.Category.EMOTES:
                 sizes = {16};
                 break;
             default:

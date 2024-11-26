@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-28 11:33-0700\n"
-"PO-Revision-Date: 2024-02-12 08:11+0000\n"
+"POT-Creation-Date: 2024-10-11 19:59+0000\n"
+"PO-Revision-Date: 2024-09-02 01:02+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "extra/ja/>\n"
@@ -17,13 +17,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.0.2\n"
+"X-Generator: Weblate 5.6.2\n"
 
-#: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:9
+#: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:10
 msgid "Icon Browser"
 msgstr "アイコンビューアー"
 
-#: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:10
+#: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:11
 msgid "Browse and find system icons"
 msgstr "システムアイコンを検索したり確認したりします"
 
@@ -31,7 +31,7 @@ msgstr "システムアイコンを検索したり確認したりします"
 msgid "icons;iconography;"
 msgstr "icons;iconography;アイコン;"
 
-#: data/iconbrowser.appdata.xml.in:12
+#: data/iconbrowser.appdata.xml.in:13
 msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
@@ -40,73 +40,99 @@ msgstr ""
 "また、アイコンを様々な大きさで確認したり、コードスニペットをご自身が開発する"
 "アプリに挿入したりできます。"
 
-#: data/iconbrowser.appdata.xml.in:17
+#: data/iconbrowser.appdata.xml.in:18
 msgid "Browse system icons"
 msgstr "システムアイコンを確認できます"
 
-#: data/iconbrowser.appdata.xml.in:21
+#: data/iconbrowser.appdata.xml.in:22
 msgid "Search by description"
 msgstr "アイコンの説明文での検索が可能です"
 
-#: data/iconbrowser.appdata.xml.in:38
+#: data/iconbrowser.appdata.xml.in:40
 msgid "elementary, Inc."
 msgstr "elementary, Inc."
 
-#: data/iconbrowser.appdata.xml.in:45
+#: data/iconbrowser.appdata.xml.in:48
+msgid "Update icon list to match Platform 8"
+msgstr "プラットフォームバージョン 8 に合わせてアイコンリストを更新"
+
+#: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:58
+#: data/iconbrowser.appdata.xml.in:68
+msgid "Update translations"
+msgstr "翻訳を更新"
+
+#: data/iconbrowser.appdata.xml.in:67
+msgid "Fixed an error that prevented app startup"
+msgstr "アプリが起動できないエラーを修正"
+
+#: data/iconbrowser.appdata.xml.in:74
+msgid "Updated with the latest icons:"
+msgstr "最新のアイコンに更新:"
+
+#: data/iconbrowser.appdata.xml.in:76
+msgid "\"preferences-desktop-theme\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:77
+msgid "\"application-x-sharedlib\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:78
+msgid "\"process-paused\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:79
+msgid "\"process-error\""
+msgstr ""
+
+#: data/iconbrowser.appdata.xml.in:86
 msgid "A modern redesign!"
 msgstr "よりモダンなデザインに変更しました!"
 
-#: data/iconbrowser.appdata.xml.in:47
+#: data/iconbrowser.appdata.xml.in:88
 msgid "Fancy new icon"
-msgstr "繊細された新しいアイコン"
+msgstr "おしゃれな新しいアイコン"
 
-#: data/iconbrowser.appdata.xml.in:48
+#: data/iconbrowser.appdata.xml.in:89
 msgid "Drag the window from anywhere"
 msgstr "ウィンドウのどこをドラッグしても、ウィンドウを移動できるように修正"
 
-#: data/iconbrowser.appdata.xml.in:49
+#: data/iconbrowser.appdata.xml.in:90
 msgid "Follow the system dark style preference"
-msgstr "システムのダークスタイル設定に従うように修正"
+msgstr "システムのダークモード設定に従うように修正"
 
-#: data/iconbrowser.appdata.xml.in:50
+#: data/iconbrowser.appdata.xml.in:91
 msgid "Updated for Gtk 4"
 msgstr "GTK 4 にアップデート"
 
-#: data/iconbrowser.appdata.xml.in:62
-msgid "Add \"audio-headphones\" and \"audio-headset\""
-msgstr "\"audio-headphones\" と \"audio-headset\" を追加"
+#~ msgid "Add \"audio-headphones\" and \"audio-headset\""
+#~ msgstr "\"audio-headphones\" と \"audio-headset\" を追加"
 
-#: data/iconbrowser.appdata.xml.in:63
-msgid "Add \"distribute-*\" action icons"
-msgstr "\"distribute-*\" アクションアイコンを追加"
+#~ msgid "Add \"distribute-*\" action icons"
+#~ msgstr "\"distribute-*\" アクションアイコンを追加"
 
-#: data/iconbrowser.appdata.xml.in:64
-msgid "Disable sidebar when searching"
-msgstr "検索中はサイドバーを無効化するように修正"
+#~ msgid "Disable sidebar when searching"
+#~ msgstr "検索中はサイドバーを無効化するように修正"
 
-#: data/iconbrowser.appdata.xml.in:65
-msgid "Remove app icons that aren't in the freedesktop.org specification"
-msgstr "freedesktop.org の仕様に存在しないアプリアイコンを削除"
+#~ msgid "Remove app icons that aren't in the freedesktop.org specification"
+#~ msgstr "freedesktop.org の仕様に存在しないアプリアイコンを削除"
 
-#: data/iconbrowser.appdata.xml.in:66
-msgid "Add status emblems"
-msgstr "ステータスエンブレムを追加"
+#~ msgid "Add status emblems"
+#~ msgstr "ステータスエンブレムを追加"
 
-#: data/iconbrowser.appdata.xml.in:67
-msgid "Mimetypes → Media Types"
-msgstr "MIME タイプ → メディアタイプに表現を変更"
+#~ msgid "Mimetypes → Media Types"
+#~ msgstr "MIME タイプ → メディアタイプに表現を変更"
 
-#: data/iconbrowser.appdata.xml.in:68
-msgid "Added French and Portuguese translations"
-msgstr "フランス語翻訳とポルトガル語翻訳を追加"
+#~ msgid "Added French and Portuguese translations"
+#~ msgstr "フランス語翻訳とポルトガル語翻訳を追加"
 
-#: data/iconbrowser.appdata.xml.in:74
-msgid "Better support for symbolic-only icons and under the hood improvements!"
-msgstr "シンボリック版のみ存在するアイコンへの対応、および内部処理を改善しました!"
+#~ msgid ""
+#~ "Better support for symbolic-only icons and under the hood improvements!"
+#~ msgstr ""
+#~ "シンボリック版のみ存在するアイコンへの対応、および内部処理を改善しました!"
 
-#: data/iconbrowser.appdata.xml.in:79
-msgid "Initial release! 🎉️"
-msgstr "初リリース! 🎉️"
+#~ msgid "Initial release! 🎉️"
+#~ msgstr "初リリース! 🎉️"
 
 #~ msgid "Remove non-fdo app names"
 #~ msgstr "freedesktop.org 非準拠のアプリアイコンを削除"

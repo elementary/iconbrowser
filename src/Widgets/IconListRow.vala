@@ -4,13 +4,13 @@
  */
 
 public class IconListRow : Gtk.ListBoxRow {
-    public CategoryView.Category category { get; construct; }
+    public IconCollection.Category category { get; construct; }
     public string description { get; construct; }
     public string icon_name { get; construct; }
 
     private static Gtk.IconTheme icon_theme;
 
-    public IconListRow (string icon_name, string description, CategoryView.Category category) {
+    public IconListRow (string icon_name, string description, IconCollection.Category category) {
         Object (
             category: category,
             description: description,

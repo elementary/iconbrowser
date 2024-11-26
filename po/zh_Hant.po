@@ -3,1962 +3,1966 @@
 # This file is distributed under the same license as the io.elementary.iconbrowser package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-11 19:59+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2024-10-14 07:53+0000\n"
+"Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
+"Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
+"icon-browser/icon-browser/zh_Hant/>\n"
+"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #: src/CategoryView.vala:17
 msgid "Search Names or Descriptions"
-msgstr ""
+msgstr "搜尋名稱或描述"
 
 #: src/IconCollection.vala:21
 msgid "Actions"
-msgstr ""
+msgstr "動作"
 
 #: src/IconCollection.vala:23
 msgid "Applications"
-msgstr ""
+msgstr "應用程式"
 
 #: src/IconCollection.vala:25
 msgid "Categories"
-msgstr ""
+msgstr "分類"
 
 #: src/IconCollection.vala:27
 msgid "Devices"
-msgstr ""
+msgstr "裝置"
 
 #: src/IconCollection.vala:29
 msgid "Emblems"
-msgstr ""
+msgstr "徽章"
 
 #: src/IconCollection.vala:31
 msgid "Emotes"
-msgstr ""
+msgstr "表情"
 
 #: src/IconCollection.vala:33
 msgid "Media Types"
-msgstr ""
+msgstr "媒體類型"
 
 #: src/IconCollection.vala:35
 msgid "Places"
-msgstr ""
+msgstr "位置"
 
 #: src/IconCollection.vala:37
 msgid "Status"
-msgstr ""
+msgstr "狀態"
 
 #: src/IconCollection.vala:39
 msgid "OTHER"
-msgstr ""
+msgstr "其他"
 
 #: src/IconCollection.vala:58 src/IconView.vala:16
 msgid "Create a new address book"
-msgstr ""
+msgstr "建立新的通訊錄"
 
 #: src/IconCollection.vala:63
 msgid "Align objects to center along the X axis"
-msgstr ""
+msgstr "讓物件在 X 軸上置中對齊"
 
 #: src/IconCollection.vala:68
 msgid "Align objects left along the X axis"
-msgstr ""
+msgstr "讓物件在 X 軸上靠左對齊"
 
 #: src/IconCollection.vala:73
 msgid "Align objects right along the X axis"
-msgstr ""
+msgstr "讓物件在 X 軸上靠右對齊"
 
 #: src/IconCollection.vala:78
 msgid "Align objects to bottom along the Y axis"
-msgstr ""
+msgstr "讓物件在 Y 軸上向下對齊"
 
 #: src/IconCollection.vala:83
 msgid "Align objects to center along the Y axis"
-msgstr ""
+msgstr "讓物件在 Y 軸上置中對齊"
 
 #: src/IconCollection.vala:88
 msgid "Align objects to top along the Y axis"
-msgstr ""
+msgstr "讓物件在 Y 軸上向上對齊"
 
 #: src/IconCollection.vala:93
 msgid "Used for exiting an application"
-msgstr ""
+msgstr "用來退出應用程式"
 
 #: src/IconCollection.vala:98
 msgid "Create a new appointment in a calendaring application"
-msgstr ""
+msgstr "在行事曆應用程式中建立新的預定"
 
 #: src/IconCollection.vala:103
 msgid "Create a new bookmark"
-msgstr ""
+msgstr "建立新的書籤"
 
 #: src/IconCollection.vala:108
 msgid "Download a file from the Internet"
-msgstr ""
+msgstr "從網際網路下載一個檔案"
 
 #: src/IconCollection.vala:113
 msgid "Initiate or accept a call"
-msgstr ""
+msgstr "發送或接起通話"
 
 #: src/IconCollection.vala:118
 msgid "Stop the current call"
-msgstr ""
+msgstr "停止目前通話"
 
 #: src/IconCollection.vala:123
 msgid "Pick a color from elsewhere on screen"
-msgstr ""
+msgstr "從螢幕上挑選顏色"
 
 #: src/IconCollection.vala:128
 msgid "Create a new contact in an address book application"
-msgstr ""
+msgstr "在通訊錄應用程式中建立新的聯絡人"
 
 #: src/IconCollection.vala:133
 msgid "Distribute the center lines of objects horizontally"
-msgstr ""
+msgstr "水平分配物件中線"
 
 #: src/IconCollection.vala:138
 msgid "Make horizontal gaps between objects equal"
-msgstr ""
+msgstr "讓物件之間的水平間距相同"
 
 #: src/IconCollection.vala:143
 msgid "Distribute left edges of objects horizontally"
-msgstr ""
+msgstr "水平分配物件左側邊緣"
 
 #: src/IconCollection.vala:148
 msgid "Distribute right edges of objects horizontally"
-msgstr ""
+msgstr "水平分配物件右側邊緣"
 
 #: src/IconCollection.vala:153
 msgid "Distribute bottom edges of objects vertically"
-msgstr ""
+msgstr "垂直分配物件底部邊緣"
 
 #: src/IconCollection.vala:158
 msgid "Distribute center lines of objects vertically"
-msgstr ""
+msgstr "垂直分配物件中線"
 
 #: src/IconCollection.vala:163
 msgid "Make vertical gaps between objects equal"
-msgstr ""
+msgstr "讓物件之間的垂直間距相同"
 
 #: src/IconCollection.vala:168
 msgid "Distribute top edges of objects vertically"
-msgstr ""
+msgstr "垂直分配物件頂部邊緣"
 
 #: src/IconCollection.vala:173
 msgid "Export a document"
-msgstr ""
+msgstr "匯出文件"
 
 #: src/IconCollection.vala:178
 msgid "Import a document"
-msgstr ""
+msgstr "匯入文件"
 
 #: src/IconCollection.vala:183
 msgid "Create a new document"
-msgstr ""
+msgstr "建立新的文件"
 
 #: src/IconCollection.vala:188
 msgid "Open a document"
-msgstr ""
+msgstr "開啟文件"
 
 #: src/IconCollection.vala:193
 msgid "Open a document that was recently opened"
-msgstr ""
+msgstr "開啟一個最近開啟過的文件"
 
 #: src/IconCollection.vala:198
 msgid "The page setup action of a document editor"
-msgstr ""
+msgstr "文件編輯器當中的頁面設定動作"
 
 #: src/IconCollection.vala:203
 msgid "Print"
-msgstr ""
+msgstr "列印"
 
 #: src/IconCollection.vala:208
 msgid "The print preview action of an application"
-msgstr ""
+msgstr "應用程式的列印預覽動作"
 
 #: src/IconCollection.vala:213
 msgid "View the properties of a document"
-msgstr ""
+msgstr "檢視文件的屬性"
 
 #: src/IconCollection.vala:218
 msgid "Revert to a previous version of a document"
-msgstr ""
+msgstr "回復到文件先前的版本"
 
 #: src/IconCollection.vala:223
 msgid "Save"
-msgstr ""
+msgstr "儲存"
 
 #: src/IconCollection.vala:228
 msgid "Save as"
-msgstr ""
+msgstr "儲存為"
 
 #: src/IconCollection.vala:233
 msgid "Send"
-msgstr ""
+msgstr "傳送"
 
 #: src/IconCollection.vala:238
 msgid "Edit"
-msgstr ""
+msgstr "編輯"
 
 #: src/IconCollection.vala:243
 msgid "Clear"
-msgstr ""
+msgstr "清除"
 
 #: src/IconCollection.vala:248 src/IconView.vala:107 src/IconView.vala:225
 msgid "Copy"
-msgstr ""
+msgstr "複製"
 
 #: src/IconCollection.vala:253
 msgid "Cut"
-msgstr ""
+msgstr "剪下"
 
 #: src/IconCollection.vala:258
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: src/IconCollection.vala:263
 msgid "Find"
-msgstr ""
+msgstr "尋找"
 
 #: src/IconCollection.vala:268
 msgid "Find & Replace"
-msgstr ""
+msgstr "尋找與取代"
 
 #: src/IconCollection.vala:273
 msgid "Flag an item, such as a spam email"
-msgstr ""
+msgstr "標記項目，像是垃圾信"
 
 #: src/IconCollection.vala:278
 msgid "Paste"
-msgstr ""
+msgstr "貼上"
 
 #: src/IconCollection.vala:283
 msgid "Redo"
-msgstr ""
+msgstr "重做"
 
 #: src/IconCollection.vala:288
 msgid "Select all"
-msgstr ""
+msgstr "全部選取"
 
 #: src/IconCollection.vala:293
 msgid "Undo"
-msgstr ""
+msgstr "復原"
 
 #: src/IconCollection.vala:298
 msgid "Create a new calendar event"
-msgstr ""
+msgstr "建立新的行事曆活動"
 
 #: src/IconCollection.vala:303
 msgid "Copy a folder"
-msgstr ""
+msgstr "複製一個資料夾"
 
 #: src/IconCollection.vala:308
 msgid "Move a folder"
-msgstr ""
+msgstr "移動一個資料夾"
 
 #: src/IconCollection.vala:313
 msgid "Create a new folder"
-msgstr ""
+msgstr "建立新的資料夾"
 
 #: src/IconCollection.vala:318
 msgid "Decrease indent"
-msgstr ""
+msgstr "降低縮排"
 
 #: src/IconCollection.vala:323
 msgid "Increase indent"
-msgstr ""
+msgstr "提高縮排"
 
 #: src/IconCollection.vala:328
 msgid "Center justify text"
-msgstr ""
+msgstr "置中對齊文字"
 
 #: src/IconCollection.vala:333
 msgid "Fill justify text"
-msgstr ""
+msgstr "分散對齊文字"
 
 #: src/IconCollection.vala:338
 msgid "Left justify text"
-msgstr ""
+msgstr "靠左對齊文字"
 
 #: src/IconCollection.vala:343
 msgid "Right justify text"
-msgstr ""
+msgstr "靠右對齊文字"
 
 #: src/IconCollection.vala:348
 msgid "Format text as left-to-right"
-msgstr ""
+msgstr "將文字格式改為左到右"
 
 #: src/IconCollection.vala:353
 msgid "Format text as right-to-left"
-msgstr ""
+msgstr "將文字格式改為右到左"
 
 #: src/IconCollection.vala:358
 msgid "Format text as bold"
-msgstr ""
+msgstr "加上粗體格式"
 
 #: src/IconCollection.vala:363
 msgid "Format text as highlighted"
-msgstr ""
+msgstr "加上突顯格式"
 
 #: src/IconCollection.vala:368
 msgid "Format text as italic"
-msgstr ""
+msgstr "加上斜體格式"
 
 #: src/IconCollection.vala:373
 msgid "Format text as underlined"
-msgstr ""
+msgstr "加上底線格式"
 
 #: src/IconCollection.vala:378
 msgid "Format text as being struck through"
-msgstr ""
+msgstr "加上刪除線格式"
 
 #: src/IconCollection.vala:383
 msgid "Go to the bottom, such as in a list"
-msgstr ""
+msgstr "在列表等處前往底部"
 
 #: src/IconCollection.vala:388
 msgid "Go down, such as in a list"
-msgstr ""
+msgstr "在列表等處往下移動"
 
 #: src/IconCollection.vala:393
 msgid "Go to the first item, such as in a list"
-msgstr ""
+msgstr "在列表等處前往第一個項目"
 
 #: src/IconCollection.vala:398
 msgid "Go to the home location"
-msgstr ""
+msgstr "前往主頁或家屋"
 
 #: src/IconCollection.vala:403
 msgid "Jump to a location"
-msgstr ""
+msgstr "跳到位置"
 
 #: src/IconCollection.vala:408
 msgid "Go to the last item, such as in a list"
-msgstr ""
+msgstr "在列表等處前往最後一個項目"
 
 #: src/IconCollection.vala:413
 msgid "Go forward to the next item, such as in a list or navigation"
-msgstr ""
+msgstr "在列表或瀏覽等處前往下一個項目"
 
 #: src/IconCollection.vala:418
 msgid "Go back to the previous item, such as in a list or navigation"
-msgstr ""
+msgstr "在列表或瀏覽等處返回到上一個項目"
 
 #: src/IconCollection.vala:423
 msgid "Go to the top, such as in a list"
-msgstr ""
+msgstr "在列表等處前往頂部"
 
 #: src/IconCollection.vala:428
 msgid "Go up, such as in a list"
-msgstr ""
+msgstr "在列表等處往上移動"
 
 #: src/IconCollection.vala:433
 msgid "Information about an app"
-msgstr ""
+msgstr "關於應用程式的資訊"
 
 #: src/IconCollection.vala:438
 msgid "Get help"
-msgstr ""
+msgstr "取得幫助"
 
 #: src/IconCollection.vala:443
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "常見問題"
 
 #: src/IconCollection.vala:448
 msgid "Make adjustments to an image"
-msgstr ""
+msgstr "對圖片進行調整"
 
 #: src/IconCollection.vala:453
 msgid "Automatically adjust an image"
-msgstr ""
+msgstr "自動調整圖片"
 
 #: src/IconCollection.vala:458
 msgid "Crop an image"
-msgstr ""
+msgstr "裁剪圖片"
 
 #: src/IconCollection.vala:463
 msgid "Remove red eye from an image"
-msgstr ""
+msgstr "從影像移除紅眼"
 
 #: src/IconCollection.vala:468
 msgid "Insert an image"
-msgstr ""
+msgstr "插入影像"
 
 #: src/IconCollection.vala:473
 msgid "Insert a link"
-msgstr ""
+msgstr "插入連結"
 
 #: src/IconCollection.vala:478
 msgid "Insert an object"
-msgstr ""
+msgstr "插入物件"
 
 #: src/IconCollection.vala:483
 msgid "Insert text"
-msgstr ""
+msgstr "插入文字"
 
 #: src/IconCollection.vala:488
 msgid "Add to a list"
-msgstr ""
+msgstr "加入清單"
 
 #: src/IconCollection.vala:493
 msgid "Remove from a list"
-msgstr ""
+msgstr "從清單移除"
 
 #: src/IconCollection.vala:498
 msgid "Forward an email"
-msgstr ""
+msgstr "轉寄郵件"
 
 #: src/IconCollection.vala:503
 msgid "Mark an email as important"
-msgstr ""
+msgstr "將郵件標記為重要"
 
 #: src/IconCollection.vala:508
 msgid "Mark an email as junk or spam"
-msgstr ""
+msgstr "將郵件標記為垃圾信"
 
 #: src/IconCollection.vala:513
 msgid "Mark an email as not junk or spam"
-msgstr ""
+msgstr "將郵件標記為不是垃圾信"
 
 #: src/IconCollection.vala:518
 msgid "Mark an email as read"
-msgstr ""
+msgstr "將郵件標記為已讀"
 
 #: src/IconCollection.vala:523
 msgid "Mark an email as unread"
-msgstr ""
+msgstr "將郵件標記為未讀"
 
 #: src/IconCollection.vala:528
 msgid "Compose a new email"
-msgstr ""
+msgstr "撰寫新郵件"
 
 #: src/IconCollection.vala:533
 msgid "Reply to all participants of an email"
-msgstr ""
+msgstr "回覆給郵件的所有參與者"
 
 #: src/IconCollection.vala:538
 msgid "Reply to the sender of an email"
-msgstr ""
+msgstr "回覆給郵件的寄件人"
 
 #: src/IconCollection.vala:543
 msgid "Send an email"
-msgstr ""
+msgstr "傳送郵件"
 
 #: src/IconCollection.vala:548
 msgid "Eject removable media"
-msgstr ""
+msgstr "退出可移除媒體"
 
 #: src/IconCollection.vala:553
 msgid "Pause media playback"
-msgstr ""
+msgstr "暫停媒體播放"
 
 #: src/IconCollection.vala:558
 msgid "Start playing media"
-msgstr ""
+msgstr "開始播放媒體"
 
 #: src/IconCollection.vala:563
 msgid "Stop playing media"
-msgstr ""
+msgstr "停止播放媒體"
 
 #: src/IconCollection.vala:568
 msgid "Start recording"
-msgstr ""
+msgstr "開始錄製"
 
 #: src/IconCollection.vala:573
 msgid "Seek backwards or rewind"
-msgstr ""
+msgstr "往回跳轉或倒轉"
 
 #: src/IconCollection.vala:578
 msgid "Seek forwards, or fastforward"
-msgstr ""
+msgstr "往前跳轉或快轉"
 
 #: src/IconCollection.vala:583
 msgid "Skip backwards, such as to the previous track"
-msgstr ""
+msgstr "往後跳轉，像是到上一首樂曲"
 
 #: src/IconCollection.vala:588
 msgid "Skip forwards, such as to the next track"
-msgstr ""
+msgstr "往前跳轉，像是到下一首樂曲"
 
 #: src/IconCollection.vala:593
 msgid "Flip an object horizontally"
-msgstr ""
+msgstr "水平翻轉物件"
 
 #: src/IconCollection.vala:598
 msgid "Flip an object vertically"
-msgstr ""
+msgstr "垂直翻轉物件"
 
 #: src/IconCollection.vala:603
 msgid "Rotate an object to the left or counter-clockwise"
-msgstr ""
+msgstr "將物件向左或逆時針旋轉"
 
 #: src/IconCollection.vala:608
 msgid "Rotate an object to the right or clockwise"
-msgstr ""
+msgstr "將物件向右或順時針旋轉"
 
 #: src/IconCollection.vala:613
 msgid "Create a new database"
-msgstr ""
+msgstr "建立新的資料庫"
 
 #: src/IconCollection.vala:618
 msgid ""
 "Stop an action that may take a while to process, such as web page loading in "
 "a browser"
-msgstr ""
+msgstr "停止可能需要一段時間處理的動作，像是瀏覽器中網頁的載入"
 
 #: src/IconCollection.vala:623
 msgid "Lock the screen or the user's session"
-msgstr ""
+msgstr "將螢幕或是使用者的作業階段鎖定"
 
 #: src/IconCollection.vala:628
 msgid "Log out of the user's session"
-msgstr ""
+msgstr "從使用者的作業階段登出"
 
 #: src/IconCollection.vala:633
 msgid "Run a system app or command"
-msgstr ""
+msgstr "執行系統應用程式或指令"
 
 #: src/IconCollection.vala:638
 msgid "Search the system"
-msgstr ""
+msgstr "在系統上搜尋"
 
 #: src/IconCollection.vala:643
 msgid "Restart the device"
-msgstr ""
+msgstr "重新啟動裝置"
 
 #: src/IconCollection.vala:648
 msgid "Shut the device down"
-msgstr ""
+msgstr "將裝置關機"
 
 #: src/IconCollection.vala:653
 msgid "Create a new tag"
-msgstr ""
+msgstr "建立新的標籤"
 
 #: src/IconCollection.vala:658
 msgid "Check spelling"
-msgstr ""
+msgstr "檢查拼字"
 
 #: src/IconCollection.vala:663
 msgid "Set or adjust a timer"
-msgstr ""
+msgstr "設定或調整計時器"
 
 #: src/IconCollection.vala:668
 msgid "Display the current view as columns"
-msgstr ""
+msgstr "以分欄模式顯示目前檢視"
 
 #: src/IconCollection.vala:673
 msgid "display the current view in a continously scrolling list"
-msgstr ""
+msgstr "以連續清單模式顯示目前檢視"
 
 #: src/IconCollection.vala:678
 msgid "display the current view as a split, dual view"
-msgstr ""
+msgstr "以分割雙畫面顯示目前檢視"
 
 #: src/IconCollection.vala:683
 msgid "View fullscreen"
-msgstr ""
+msgstr "全螢幕顯示"
 
 #: src/IconCollection.vala:688
 msgid "Display the current view as a grid of images or icons"
-msgstr ""
+msgstr "以圖片或圖示格狀模式顯示目前檢視"
 
 #: src/IconCollection.vala:693
 msgid "Refresh or reload the current view"
-msgstr ""
+msgstr "重新整理或重新載入目前檢視"
 
 #: src/IconCollection.vala:698
 msgid "Leave fullscreen and return to a normal window"
-msgstr ""
+msgstr "離開全螢幕回到正常視窗"
 
 #: src/IconCollection.vala:703
 msgid "View more information about the given context in a popover or menu"
-msgstr ""
+msgstr "在 popover 或選單中檢視關於指定內文的更多資訊"
 
 #: src/IconCollection.vala:708
 msgid "View more information about the given context in a new view or window"
-msgstr ""
+msgstr "在新畫面或視窗中檢視關於指定內文的更多資訊"
 
 #: src/IconCollection.vala:713
 msgid "Display the current view as a collection of pages"
-msgstr ""
+msgstr "以多頁模式顯示目前檢視"
 
 #: src/IconCollection.vala:718
 msgid "Pin the current view so that it does not automatically hide"
-msgstr ""
+msgstr "釘選目前檢視讓它不要自動隱藏"
 
 #: src/IconCollection.vala:723
 msgid "Sort items in an ascending order, such as in a list"
-msgstr ""
+msgstr "在列表等處將項目以升冪方式排序"
 
 #: src/IconCollection.vala:728
 msgid "Sort items in a descending order, such as in a list"
-msgstr ""
+msgstr "在列表等處將項目以降冪方式排序"
 
 #: src/IconCollection.vala:733
 msgid "Close the window"
-msgstr ""
+msgstr "關閉視窗"
 
 #: src/IconCollection.vala:738
 msgid "Create a new window"
-msgstr ""
+msgstr "建立新的視窗"
 
 #: src/IconCollection.vala:743
 msgid "Zoom to the best fit"
-msgstr ""
+msgstr "縮放至符合頁面"
 
 #: src/IconCollection.vala:748
 msgid "Zoom in"
-msgstr ""
+msgstr "放大"
 
 #: src/IconCollection.vala:753
 msgid "Zoom to the original size"
-msgstr ""
+msgstr "縮放至原始大小"
 
 #: src/IconCollection.vala:758
 msgid "Zoom out"
-msgstr ""
+msgstr "縮小"
 
 #: src/IconCollection.vala:763
 msgid "Calculator"
-msgstr ""
+msgstr "計算機"
 
 #: src/IconCollection.vala:768
 msgid "International and extended text character map"
-msgstr ""
+msgstr "國際性的擴張文字字元對應"
 
 #: src/IconCollection.vala:773
 msgid "Dictionary"
-msgstr ""
+msgstr "字典"
 
 #: src/IconCollection.vala:778
 msgid "Screenshot application"
-msgstr ""
+msgstr "畫面快照應用程式"
 
 #: src/IconCollection.vala:783
 msgid "Text editor"
-msgstr ""
+msgstr "文字編輯器"
 
 #: src/IconCollection.vala:788
 msgid "Default or unprovided app icon"
-msgstr ""
+msgstr "預設或未提供應用程式圖示"
 
 #: src/IconCollection.vala:793
 msgid "Files"
-msgstr ""
+msgstr "檔案"
 
 #: src/IconCollection.vala:798
 msgid "AppCenter or software installer"
-msgstr ""
+msgstr "《應用程式中心》或軟體安裝器"
 
 #: src/IconCollection.vala:803
 msgid "Software updater"
-msgstr ""
+msgstr "軟體更新工具"
 
 #: src/IconCollection.vala:808
 msgid "System resource monitor"
-msgstr ""
+msgstr "系統資源監控"
 
 #: src/IconCollection.vala:813
 msgid "Terminal"
-msgstr ""
+msgstr "終端機"
 
 #: src/IconCollection.vala:818
 msgid "Accessory or utility app category"
-msgstr ""
+msgstr "附屬應用程式或工具應用程式分類"
 
 #: src/IconCollection.vala:823
 msgid "Programming, software development, code, or IDE app category"
-msgstr ""
+msgstr "程式開發、軟體開發、程式碼或 IDE 應用程式分類"
 
 #: src/IconCollection.vala:828
 msgid "Education, learning, or school app category"
-msgstr ""
+msgstr "教育、學習或學校應用程式分類"
 
 #: src/IconCollection.vala:833
 msgid "Engineering app category"
-msgstr ""
+msgstr "工程應用程式分類"
 
 #: src/IconCollection.vala:838
 msgid "Games app category"
-msgstr ""
+msgstr "遊戲應用程式分類"
 
 #: src/IconCollection.vala:843
 msgid "Graphics, drawing, art, or photo manipulation app category"
-msgstr ""
+msgstr "圖形、繪圖、藝術或修圖應用程式分類"
 
 #: src/IconCollection.vala:848
 msgid "Internet or web related app category"
-msgstr ""
+msgstr "網際網路相關應用程式分類"
 
 #: src/IconCollection.vala:853
 msgid "Multimedia, audio, or video app category"
-msgstr ""
+msgstr "多媒體、音效或影片應用程式分類"
 
 #: src/IconCollection.vala:858
 msgid "Office app category"
-msgstr ""
+msgstr "辦公室應用程式分類"
 
 #: src/IconCollection.vala:863
 msgid "Other or uncategorized app category"
-msgstr ""
+msgstr "其他或未分類應用程式用的應用程式分類"
 
 #: src/IconCollection.vala:868
 msgid "Science app category"
-msgstr ""
+msgstr "科學應用程式分類"
 
 #: src/IconCollection.vala:873
 msgid "System tools or OS app category"
-msgstr ""
+msgstr "系統工具或作業系統應用程式分類"
 
 #: src/IconCollection.vala:878
 msgid "Utility app category"
-msgstr ""
+msgstr "工具應用程式分類"
 
 #: src/IconCollection.vala:883
 msgid "Bluetooth settings"
-msgstr ""
+msgstr "藍牙設定值"
 
 #: src/IconCollection.vala:888
 msgid "Color settings such as printer, display, or camera calibration"
-msgstr ""
+msgstr "印表機、顯示器、或相機的校正等等色彩設定值"
 
 #: src/IconCollection.vala:893
 msgid "Desktop interface settings"
-msgstr ""
+msgstr "桌面介面設定值"
 
 #: src/IconCollection.vala:898
 msgid "Universal access settings"
-msgstr ""
+msgstr "無障礙功能設定值"
 
 #: src/IconCollection.vala:903
 msgid "Universal access settings for pointing, such as controlling the cursor"
-msgstr ""
+msgstr "指標相關的無障礙功能設定值，像是游標的控制"
 
 #: src/IconCollection.vala:908
 msgid "Universal access settings for zooming or magnifying"
-msgstr ""
+msgstr "縮放或放大鏡的無障礙功能設定值"
 
 #: src/IconCollection.vala:913
 msgid "App-related settings, such as default or startup apps"
-msgstr ""
+msgstr "與應用程式有關的設定值，像是預設應用程式或初始啟動的應用程式"
 
 #: src/IconCollection.vala:918
 msgid "Display settings, such as resolution or scaling"
-msgstr ""
+msgstr "顯示器設定，像是解析度或縮放"
 
 #: src/IconCollection.vala:923
 msgid "Font settings"
-msgstr ""
+msgstr "字型設定值"
 
 #: src/IconCollection.vala:928
 msgid "Keyboard settings, such as layout or shortcuts"
-msgstr ""
+msgstr "鍵盤設定值，像是鍵盤配置或快捷鍵"
 
 #: src/IconCollection.vala:933
 msgid "International localization, language, or region settings"
-msgstr ""
+msgstr "國際化、本地化、語言或地區設定值"
 
 #: src/IconCollection.vala:938
 msgid "Online account and cloud sync or sign in settings"
-msgstr ""
+msgstr "線上帳號與雲端同步或登入的設定值"
 
 #: src/IconCollection.vala:943
 msgid "Settings for peripherals, such as a mouse or keyboard"
-msgstr ""
+msgstr "滑鼠或鍵盤等週邊裝置的設定值"
 
 #: src/IconCollection.vala:948
 msgid "Sound or audio input and output settings"
-msgstr ""
+msgstr "音效或音訊輸入及輸出設定"
 
 #: src/IconCollection.vala:953
 msgid "Look and feel, appearance, style, or theme settings"
-msgstr ""
+msgstr "外觀與感覺、風格或主題設定"
 
 #: src/IconCollection.vala:958
 msgid "Desktop wallpaper or background settings"
-msgstr ""
+msgstr "桌面的桌布或背景設定值"
 
 #: src/IconCollection.vala:963
 msgid "Other, miscellaneous, or uncategorized settings"
-msgstr ""
+msgstr "其他、雜項或未分類的設定值"
 
 #: src/IconCollection.vala:968
 msgid "System settings or preferences"
-msgstr ""
+msgstr "系統設定值或偏好設定"
 
 #: src/IconCollection.vala:973
 msgid "Network settings, such as wireless, Ethernet, or VPN"
-msgstr ""
+msgstr "網路設定，像是無線網路、乙太網路或是 VPN"
 
 #: src/IconCollection.vala:978
 msgid "Notification alert settings"
-msgstr ""
+msgstr "通知警告設定值"
 
 #: src/IconCollection.vala:983
 msgid "Power management or energy usage settings, such as battery"
-msgstr ""
+msgstr "電源管理或能源使用設定，像是電池"
 
 #: src/IconCollection.vala:988
 msgid "Privacy and security settings"
-msgstr ""
+msgstr "隱私與安全設定值"
 
 #: src/IconCollection.vala:993
 msgid ""
 "Sharing settings, such as library sharing or media streaming over a network"
-msgstr ""
+msgstr "分享設定值，像是珍藏庫分享或透過網路進行的媒體串流"
 
 #: src/IconCollection.vala:998
 msgid "Time and date settings"
-msgstr ""
+msgstr "日期與時間設定值"
 
 #: src/IconCollection.vala:1003
 msgid "Window management settings"
-msgstr ""
+msgstr "視窗管理設定值"
 
 #: src/IconCollection.vala:1008
 msgid "Help"
-msgstr ""
+msgstr "幫助"
 
 #: src/IconCollection.vala:1013
 msgid "Audio output device, such as a sound card or speaker"
-msgstr ""
+msgstr "音效輸出裝置，像是音效卡或喇叭"
 
 #: src/IconCollection.vala:1018
 msgid "Audio output device representing headphones"
-msgstr ""
+msgstr "音效輸出裝置（耳機）"
 
 #: src/IconCollection.vala:1023
 msgid "Audio output device representing a headset"
-msgstr ""
+msgstr "音效輸出裝置（耳麥）"
 
 #: src/IconCollection.vala:1028
 msgid "Microphone"
-msgstr ""
+msgstr "麥克風"
 
 #: src/IconCollection.vala:1033
 msgid "Subwoofer or bass speaker"
-msgstr ""
+msgstr "重低音 subwoofer 或低音喇叭"
 
 #: src/IconCollection.vala:1038
 msgid "Battery"
-msgstr ""
+msgstr "電池"
 
 #: src/IconCollection.vala:1043
 msgid "Bluetooth"
-msgstr ""
+msgstr "藍牙"
 
 #: src/IconCollection.vala:1048
 msgid "Digital photo or still camera"
-msgstr ""
+msgstr "數位相片或靜態影像的相機"
 
 #: src/IconCollection.vala:1053
 msgid "Video or movie camera"
-msgstr ""
+msgstr "攝影機"
 
 #: src/IconCollection.vala:1058
 msgid "Webcam or built-in camera"
-msgstr ""
+msgstr "網路攝影機或內建相機"
 
 #: src/IconCollection.vala:1063
 msgid "Generic or desktop computer"
-msgstr ""
+msgstr "一般或桌上型電腦"
 
 #: src/IconCollection.vala:1068
 msgid "Laptop or notebook computer"
-msgstr ""
+msgstr "筆記型電腦"
 
 #: src/IconCollection.vala:1073
 msgid "Hard disk or storage drive"
-msgstr ""
+msgstr "硬碟或儲存裝置"
 
 #: src/IconCollection.vala:1078
 msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
-msgstr ""
+msgstr "CD、DVD 或藍光等等用的光碟機"
 
 #: src/IconCollection.vala:1083
 msgid "Removable storage device, such as a portable hard drive"
-msgstr ""
+msgstr "可移除的儲存裝置，像是行動硬碟"
 
 #: src/IconCollection.vala:1088
 msgid "USB drive or stick, such as a flash, jump, or thumb drive"
-msgstr ""
+msgstr "USB 硬碟或隨身碟"
 
 #: src/IconCollection.vala:1093
 msgid "Video game controller, such as a paddle, remote, or joystick"
-msgstr ""
+msgstr "電玩手把、遙控器、搖桿"
 
 #: src/IconCollection.vala:1098
 msgid "Keyboard"
-msgstr ""
+msgstr "鍵盤"
 
 #: src/IconCollection.vala:1103
 msgid "Mouse"
-msgstr ""
+msgstr "滑鼠"
 
 #: src/IconCollection.vala:1108
 msgid ""
 "Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
 "Bamboo"
-msgstr ""
+msgstr "繪圖板或畫筆輸入，像是 Wacom digitizer、Intuos、Cintiq 或 Banboo 等等"
 
 #: src/IconCollection.vala:1113
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
-msgstr ""
+msgstr "觸控板輸入，像是多點觸控版或是點擊版 (clickpad)"
 
 #: src/IconCollection.vala:1118
 msgid "Flash media such as a memory stick or SD card"
-msgstr ""
+msgstr "閃存媒體，像是隨身碟或 SD 卡"
 
 #: src/IconCollection.vala:1123
 msgid "Optical media, such as a CD, DVD, or Blu-ray disc"
-msgstr ""
+msgstr "CD、DVD 或藍光等等光碟媒體"
 
 #: src/IconCollection.vala:1128
 msgid "Network modem or router"
-msgstr ""
+msgstr "網路數據機或路由器"
 
 #: src/IconCollection.vala:1133
 msgid "Media player device, such as a portable mp3 music player or iPod"
-msgstr ""
+msgstr "媒體播放器裝置，像是可攜式 MP3 播放裝置或是 iPod"
 
 #: src/IconCollection.vala:1138
 msgid ""
 "Cellular type wireless network or device, such as a 2G, 3G, or 4G LTE "
 "connection, modem, or SIM card"
-msgstr ""
+msgstr "行動網路或行動數據裝置，像是 2G、3G 或 4G LTE 連線、數據機或 SIM 卡"
 
 #: src/IconCollection.vala:1143
 msgid "Networking firewall"
-msgstr ""
+msgstr "網路防火牆"
 
 #: src/IconCollection.vala:1148
 msgid "Virtual private network or VPN connection"
-msgstr ""
+msgstr "虛擬私人網路 (VPN) 連線"
 
 #: src/IconCollection.vala:1153
 msgid "Wired network connection, such as Ethernet"
-msgstr ""
+msgstr "有線網路連線，像是乙太網路"
 
 #: src/IconCollection.vala:1158
 msgid "Wireless network connection, such as Wi-Fi"
-msgstr ""
+msgstr "無線網路連線，像是 Wi-Fi"
 
 #: src/IconCollection.vala:1163
 msgid ""
 "Wireless hotspot connection, such as through a mobile cellular phone or "
 "smartphone"
-msgstr ""
+msgstr "透過行動裝置或智慧型手機等進行的無線熱點連線"
 
 #: src/IconCollection.vala:1168
 msgid "Generic phone, such as a mobile Android smartphone or iPhone"
-msgstr ""
+msgstr "一般手機，像是 Android 智慧型手機或 iPhone"
 
 #: src/IconCollection.vala:1173
 msgid "Printer"
-msgstr ""
+msgstr "印表機"
 
 #: src/IconCollection.vala:1178
 msgid "Network-connected or shared printer"
-msgstr ""
+msgstr "網路連線印表機或共享印表機"
 
 #: src/IconCollection.vala:1183
 msgid "Scanner"
-msgstr ""
+msgstr "掃描器"
 
 #: src/IconCollection.vala:1188
 msgid "Display, screen, or monitor"
-msgstr ""
+msgstr "顯示器或螢幕"
 
 #: src/IconCollection.vala:1193
 msgid "Default selection emblem, such as for a printer or other device"
-msgstr ""
+msgstr "代表預設選擇項目的徽章，例如預設印表機或其他裝置"
 
 #: src/IconCollection.vala:1198
 msgid "Disabled feature or service emblem"
-msgstr ""
+msgstr "代表功能或服務已停用的徽章"
 
 #: src/IconCollection.vala:1203
 msgid "Documents emblem"
-msgstr ""
+msgstr "代表文件的徽章"
 
 #: src/IconCollection.vala:1208
 msgid "Downloads emblem"
-msgstr ""
+msgstr "代表下載的徽章"
 
 #: src/IconCollection.vala:1213
 msgid "Enabled feature or service emblem"
-msgstr ""
+msgstr "代表功能或服務已啟用的徽章"
 
 #: src/IconCollection.vala:1218
 msgid "Emblem for the error status of a feature or service"
-msgstr ""
+msgstr "代表功能或服務的錯誤狀態的徽章"
 
 #: src/IconCollection.vala:1223
 msgid "Item the user has marked as a favorite"
-msgstr ""
+msgstr "使用者已標記為最愛的項目"
 
 #: src/IconCollection.vala:1228
 msgid "Item marked as important"
-msgstr ""
+msgstr "標記為重要的項目"
 
 #: src/IconCollection.vala:1233
 msgid "Item related to email"
-msgstr ""
+msgstr "與郵件有關的項目"
 
 #: src/IconCollection.vala:1238
 msgid "Emblem for the partially enabled status of a feature or service"
-msgstr ""
+msgstr "代表功能或服務已部分啟用的徽章"
 
 #: src/IconCollection.vala:1243
 msgid "Photos emblem"
-msgstr ""
+msgstr "代表相片的徽章"
 
 #: src/IconCollection.vala:1248
 msgid "Item is read-only, or the user cannot write to or make changes to it"
-msgstr ""
+msgstr "項目唯讀，或是使用者無法寫入或變更它"
 
 #: src/IconCollection.vala:1253
 msgid "Item shared with other people or users"
-msgstr ""
+msgstr "與其他人或使用者分享的項目"
 
 #: src/IconCollection.vala:1258
 msgid "Item is a symbolic link to a file somewhere else"
-msgstr ""
+msgstr "項目是符號連結，目標是別的地方的檔案"
 
 #: src/IconCollection.vala:1263
 msgid "Item is configured to be synchronized to another device or location"
-msgstr ""
+msgstr "項目已設定為與另一台裝置或另一個位置同步"
 
 #: src/IconCollection.vala:1268
 msgid "Item is a system file, library, setting, or data"
-msgstr ""
+msgstr "項目是系統檔案、函式庫、設定或資料"
 
 #: src/IconCollection.vala:1273
 msgid "Item is unreadable or inaccessible"
-msgstr ""
+msgstr "項目無法讀取或無法存取"
 
 #: src/IconCollection.vala:1278
 msgid "Emblem for the warning status of a feature or service"
-msgstr ""
+msgstr "代表功能或服務有出現警告的徽章"
 
 #: src/IconCollection.vala:1283
 msgid "0:-) emoticon"
-msgstr ""
+msgstr "0:-) 表情符號"
 
 #: src/IconCollection.vala:1288
 msgid "X-( emoticon"
-msgstr ""
+msgstr "X-( 表情符號"
 
 #: src/IconCollection.vala:1293
 msgid "B-) emoticon"
-msgstr ""
+msgstr "B-) 表情符號"
 
 #: src/IconCollection.vala:1298
 msgid ":'( emoticon"
-msgstr ""
+msgstr ":'( 表情符號"
 
 #: src/IconCollection.vala:1303
 msgid ">:-) emoticon"
-msgstr ""
+msgstr ">:-) 表情符號"
 
 #: src/IconCollection.vala:1308
 msgid ":-[ emoticon"
-msgstr ""
+msgstr ":-[ 表情符號"
 
 #: src/IconCollection.vala:1313
 msgid "<3 emoticon"
-msgstr ""
+msgstr "<3 表情符號"
 
 #: src/IconCollection.vala:1318
 msgid "</3 emoticon"
-msgstr ""
+msgstr "</3 表情符號"
 
 #: src/IconCollection.vala:1323
 msgid ":-* emoticon"
-msgstr ""
+msgstr ":-* 表情符號"
 
 #: src/IconCollection.vala:1328
 msgid ":-)) emoticon"
-msgstr ""
+msgstr ":-)) 表情符號"
 
 #: src/IconCollection.vala:1333
 msgid ":-(|) emoticon"
-msgstr ""
+msgstr ":-(|) 表情符號"
 
 #: src/IconCollection.vala:1338
 msgid ":-| emoticon"
-msgstr ""
+msgstr ":-| 表情符號"
 
 #: src/IconCollection.vala:1343
 msgid ":-P emoticon"
-msgstr ""
+msgstr ":-P 表情符號"
 
 #: src/IconCollection.vala:1348
 msgid ":-( emoticon"
-msgstr ""
+msgstr ":-( 表情符號"
 
 #: src/IconCollection.vala:1353
 msgid ":-& emoticon"
-msgstr ""
+msgstr ":-& 表情符號"
 
 #: src/IconCollection.vala:1358
 msgid ":-) emoticon"
-msgstr ""
+msgstr ":-) 表情符號"
 
 #: src/IconCollection.vala:1363
 msgid ":-D emoticon"
-msgstr ""
+msgstr ":-D 表情符號"
 
 #: src/IconCollection.vala:1368
 msgid ":-! emoticon"
-msgstr ""
+msgstr ":-! 表情符號"
 
 #: src/IconCollection.vala:1373
 msgid ":-0 emoticon"
-msgstr ""
+msgstr ":-0 表情符號"
 
 #: src/IconCollection.vala:1378
 msgid "|-) emoticon"
-msgstr ""
+msgstr "|-) 表情符號"
 
 #: src/IconCollection.vala:1383
 msgid ":-/ emoticon"
-msgstr ""
+msgstr ":-/ 表情符號"
 
 #: src/IconCollection.vala:1388
 msgid ";-) emoticon"
-msgstr ""
+msgstr ";-) 表情符號"
 
 #: src/IconCollection.vala:1393
 msgid ":-S emoticon"
-msgstr ""
+msgstr ":-S 表情符號"
 
 #: src/IconCollection.vala:1398
 msgid "EPUB Ebook file types"
-msgstr ""
+msgstr "EPUB 電子書檔案類型"
 
 #: src/IconCollection.vala:1403
 msgid "Adobe Illustrator image file types"
-msgstr ""
+msgstr "Adobe Illustrator 影像檔案類型"
 
 #: src/IconCollection.vala:1408
 msgid "Javascript programming language file types"
-msgstr ""
+msgstr "Javascript 程式語言檔案類型"
 
 #: src/IconCollection.vala:1413
 msgid "Microsoft Word file types"
-msgstr ""
+msgstr "Microsoft Word 檔案類型"
 
 #: src/IconCollection.vala:1418
 msgid "Binary file types"
-msgstr ""
+msgstr "二進制檔案類型"
 
 #: src/IconCollection.vala:1423
 msgid "PDF file types"
-msgstr ""
+msgstr "PDF 檔案類型"
 
 #: src/IconCollection.vala:1428
 msgid "PGP file types"
-msgstr ""
+msgstr "PGP 檔案類型"
 
 #: src/IconCollection.vala:1433
 msgid "Debian package file types"
-msgstr ""
+msgstr "Debian 套件檔案類型"
 
 #: src/IconCollection.vala:1438
 msgid "Flatpak reference file types"
-msgstr ""
+msgstr "Flatpak 參照檔案類型"
 
 #: src/IconCollection.vala:1443
 msgid "Microsoft Access file types"
-msgstr ""
+msgstr "Microsoft Access 檔案類型"
 
 #: src/IconCollection.vala:1448
 msgid "Microsoft Excel file types"
-msgstr ""
+msgstr "Microsoft Excel 檔案類型"
 
 #: src/IconCollection.vala:1453
 msgid "Microsoft PowerPoint file types"
-msgstr ""
+msgstr "Microsoft PowerPoint 檔案類型"
 
 #: src/IconCollection.vala:1458
 msgid "Oasis OpenDocument file types"
-msgstr ""
+msgstr "Oasis OpenDocument 檔案類型"
 
 #: src/IconCollection.vala:1463
 msgid "Torrent file types"
-msgstr ""
+msgstr "Torrent 檔案類型"
 
 #: src/IconCollection.vala:1468
 msgid "CD Image file types"
-msgstr ""
+msgstr "CD 映像檔檔案類型"
 
 #: src/IconCollection.vala:1473
 msgid "Desktop file types"
-msgstr ""
+msgstr "桌面檔案類型"
 
 #: src/IconCollection.vala:1478
 msgid "Executable file types"
-msgstr ""
+msgstr "執行檔檔案類型"
 
 #: src/IconCollection.vala:1483
 msgid "FictionBook file types"
-msgstr ""
+msgstr "FictionBook 檔案類型"
 
 #: src/IconCollection.vala:1488
 msgid "Firmware file types"
-msgstr ""
+msgstr "韌體檔案類型"
 
 #: src/IconCollection.vala:1493
 msgid "PHP programming language file types"
-msgstr ""
+msgstr "PHP 程式語言檔案類型"
 
 #: src/IconCollection.vala:1498
 msgid "Ruby programming language file types"
-msgstr ""
+msgstr "Ruby 程式語言檔案類型"
 
 #: src/IconCollection.vala:1503
 msgid "Shared library file types"
-msgstr ""
+msgstr "共用函式庫檔案類型"
 
 #: src/IconCollection.vala:1508
 msgid "Generic audio file types"
-msgstr ""
+msgstr "一般音效檔案類型"
 
 #: src/IconCollection.vala:1513
 msgid "Audio playlist file types"
-msgstr ""
+msgstr "音訊播放清單檔案類型"
 
 #: src/IconCollection.vala:1518
 msgid "Extension"
-msgstr ""
+msgstr "擴張功能"
 
 #: src/IconCollection.vala:1523
 msgid "Generic font file types"
-msgstr ""
+msgstr "一般字型檔案類型"
 
 #: src/IconCollection.vala:1528
 msgid "Adobe Photoshop image file types"
-msgstr ""
+msgstr "Adobe Photoshop 影像檔案類型"
 
 #: src/IconCollection.vala:1533
 msgid "Generic image file types"
-msgstr ""
+msgstr "一般影像檔案類型"
 
 #: src/IconCollection.vala:1538
 msgid "XCF image file types"
-msgstr ""
+msgstr "XCF 影像檔案類型"
 
 #: src/IconCollection.vala:1543
 msgid "Internet Feed"
-msgstr ""
+msgstr "網際網路訂閱來源"
 
 #: src/IconCollection.vala:1548
 msgid "Model"
-msgstr ""
+msgstr "模型"
 
 #: src/IconCollection.vala:1553
 msgid "Contact file types"
-msgstr ""
+msgstr "聯絡人檔案類型"
 
 #: src/IconCollection.vala:1558
 msgid "Database file types"
-msgstr ""
+msgstr "資料庫檔案類型"
 
 #: src/IconCollection.vala:1563
 msgid "Generic package file types"
-msgstr ""
+msgstr "一般套件檔案類型"
 
 #: src/IconCollection.vala:1568
 msgid "Credit or debit card payments"
-msgstr ""
+msgstr "信用卡或簽帳卡付款"
 
 #: src/IconCollection.vala:1573
 msgid "American Express branded credit or debit card payments"
-msgstr ""
+msgstr "美國運通信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1578
 msgid "Diner's Club branded credit or debit card payments"
-msgstr ""
+msgstr "Diner's Club 信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1583
 msgid "Discover branded credit or debit card payments"
-msgstr ""
+msgstr "Discover 信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1588
 msgid "Japan Credit Bureau branded credit or debit card payments"
-msgstr ""
+msgstr "JCB 信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1593
 msgid "Mastercard branded credit or debit card payments"
-msgstr ""
+msgstr "Mastercard 信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1598
 msgid "China UnionPay branded credit or debit card payments"
-msgstr ""
+msgstr "中國銀聯信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1603
 msgid "Visa branded credit or debit card payments"
-msgstr ""
+msgstr "Visa 信用卡或簽帳卡的付款"
 
 #: src/IconCollection.vala:1608
 msgid "CSS text file types"
-msgstr ""
+msgstr "CSS 文字檔案類型"
 
 #: src/IconCollection.vala:1613
 msgid "HTML text file types"
-msgstr ""
+msgstr "HTML 文字檔案類型"
 
 #: src/IconCollection.vala:1618
 msgid "Markdown text file types"
-msgstr ""
+msgstr "Markdown 文字檔案類型"
 
 #: src/IconCollection.vala:1623
 msgid "Bibtext file types"
-msgstr ""
+msgstr "Bibtext 檔案類型"
 
 #: src/IconCollection.vala:1628
 msgid "Changelog file types"
-msgstr ""
+msgstr "Changelog 檔案類型"
 
 #: src/IconCollection.vala:1633
 msgid "C programming language header file types"
-msgstr ""
+msgstr "C 程式語言標頭檔案類型"
 
 #: src/IconCollection.vala:1638
 msgid "License file types"
-msgstr ""
+msgstr "授權條款檔案類型"
 
 #: src/IconCollection.vala:1643
 msgid "C programming language file types"
-msgstr ""
+msgstr "C 程式語言檔案類型"
 
 #: src/IconCollection.vala:1648
 msgid "Generic text file types"
-msgstr ""
+msgstr "一般文字檔案類型"
 
 #: src/IconCollection.vala:1653
 msgid "Generic text templates"
-msgstr ""
+msgstr "一般文字模板"
 
 #: src/IconCollection.vala:1658
 msgid "Gettext translation file types"
-msgstr ""
+msgstr "Gettext 翻譯檔案類型"
 
 #: src/IconCollection.vala:1663
 msgid "Gettext translation model file types"
-msgstr ""
+msgstr "Gettext 翻譯模型檔案類型"
 
 #: src/IconCollection.vala:1668
 msgid "Go programming language file types"
-msgstr ""
+msgstr "Go 程式語言檔案類型"
 
 #: src/IconCollection.vala:1673
 msgid "Install file types"
-msgstr ""
+msgstr "安裝檔案類型"
 
 #: src/IconCollection.vala:1678
 msgid "Makefile file types"
-msgstr ""
+msgstr "Makefile 檔案類型"
 
 #: src/IconCollection.vala:1683
 msgid "Preview file types"
-msgstr ""
+msgstr "預覽檔案類型"
 
 #: src/IconCollection.vala:1688
 msgid "Python programming language file types"
-msgstr ""
+msgstr "Python 程式語言檔案類型"
 
 #: src/IconCollection.vala:1693
 msgid "Readme file types"
-msgstr ""
+msgstr "Readme 檔案類型"
 
 #: src/IconCollection.vala:1698
 msgid "Sass programming language file types"
-msgstr ""
+msgstr "Sass 程式語言檔案類型"
 
 #: src/IconCollection.vala:1703
 msgid "Script file types, such as shell scripts"
-msgstr ""
+msgstr "指令稿檔案類型，例如 shell 指令稿"
 
 #: src/IconCollection.vala:1708
 msgid "SSA file types"
-msgstr ""
+msgstr "SSA 檔案類型"
 
 #: src/IconCollection.vala:1713
 msgid "TEX file types"
-msgstr ""
+msgstr "TEX 檔案類型"
 
 #: src/IconCollection.vala:1718
 msgid "Vala programming language file types"
-msgstr ""
+msgstr "Vala 程式語言檔案類型"
 
 #: src/IconCollection.vala:1723
 msgid "Unknown file types"
-msgstr ""
+msgstr "未知檔案類型"
 
 #: src/IconCollection.vala:1728
 msgid "Generic video file types"
-msgstr ""
+msgstr "一般影片檔案類型"
 
 #: src/IconCollection.vala:1733
 msgid "Generic address book file types"
-msgstr ""
+msgstr "一般通訊錄檔案類型"
 
 #: src/IconCollection.vala:1738
 msgid "Generic calendar file types"
-msgstr ""
+msgstr "一般行事曆檔案類型"
 
 #: src/IconCollection.vala:1743
 msgid "Generic document and letter file types"
-msgstr ""
+msgstr "一般文件與信件檔案類型"
 
 #: src/IconCollection.vala:1748
 msgid "Generic document and letter template file types"
-msgstr ""
+msgstr "一般文件與信件模板檔案類型"
 
 #: src/IconCollection.vala:1753
 msgid "Generic drawing file types"
-msgstr ""
+msgstr "一般繪圖檔案類型"
 
 #: src/IconCollection.vala:1758
 msgid "Generic drawing template file types"
-msgstr ""
+msgstr "一般繪圖模板檔案類型"
 
 #: src/IconCollection.vala:1763
 msgid "Generic presentation file types"
-msgstr ""
+msgstr "一般簡報檔案類型"
 
 #: src/IconCollection.vala:1768
 msgid "Generic presentation template file types"
-msgstr ""
+msgstr "一般簡報模板檔案類型"
 
 #: src/IconCollection.vala:1773
 msgid "Generic spreadsheet file types"
-msgstr ""
+msgstr "一般試算表檔案類型"
 
 #: src/IconCollection.vala:1778
 msgid "Generic spreadsheet template file types"
-msgstr ""
+msgstr "一般試算表模板檔案類型"
 
 #: src/IconCollection.vala:1783
 msgid "Bookmark missing"
-msgstr ""
+msgstr "缺乏書籤"
 
 #: src/IconCollection.vala:1788
 msgid "Distributor logo"
-msgstr ""
+msgstr "發行者 logo"
 
 #: src/IconCollection.vala:1793
 msgid "Folder"
-msgstr ""
+msgstr "資料夾"
 
 #: src/IconCollection.vala:1798
 msgid "Documents folder"
-msgstr ""
+msgstr "文件資料夾"
 
 #: src/IconCollection.vala:1803
 msgid "Downloads folder"
-msgstr ""
+msgstr "下載資料夾"
 
 #: src/IconCollection.vala:1808
 msgid "Folder drag accept"
-msgstr ""
+msgstr "接受資料夾拖曳"
 
 #: src/IconCollection.vala:1813
 msgid "Music folder"
-msgstr ""
+msgstr "音樂資料夾"
 
 #: src/IconCollection.vala:1818
 msgid "Open folder"
-msgstr ""
+msgstr "開啟資料夾"
 
 #: src/IconCollection.vala:1823
 msgid "Pictures folder"
-msgstr ""
+msgstr "圖片資料夾"
 
 #: src/IconCollection.vala:1828
 msgid "Publicshare folder"
-msgstr ""
+msgstr "公開分享資料夾"
 
 #: src/IconCollection.vala:1833
 msgid "Recent folder"
-msgstr ""
+msgstr "最近使用資料夾"
 
 #: src/IconCollection.vala:1838
 msgid "Remote folder"
-msgstr ""
+msgstr "遠端資料夾"
 
 #: src/IconCollection.vala:1843
 msgid "Saved search folder"
-msgstr ""
+msgstr "已儲存的搜尋資料夾"
 
 #: src/IconCollection.vala:1848
 msgid "Templates folder"
-msgstr ""
+msgstr "模板資料夾"
 
 #: src/IconCollection.vala:1853
 msgid "Videos folder"
-msgstr ""
+msgstr "影片資料夾"
 
 #: src/IconCollection.vala:1858
 msgid "Internet radio"
-msgstr ""
+msgstr "網路廣播"
 
 #: src/IconCollection.vala:1863
 msgid "Audiobook library"
-msgstr ""
+msgstr "有聲書收藏"
 
 #: src/IconCollection.vala:1868
 msgid "Library places"
-msgstr ""
+msgstr "珍藏館位置"
 
 #: src/IconCollection.vala:1873
 msgid "Podcast library"
-msgstr ""
+msgstr "Podcast 收藏"
 
 #: src/IconCollection.vala:1878
 msgid "Mail inbox"
-msgstr ""
+msgstr "收件匣"
 
 #: src/IconCollection.vala:1883
 msgid "Mail mailbox"
-msgstr ""
+msgstr "郵箱"
 
 #: src/IconCollection.vala:1888
 msgid "Mail outbox"
-msgstr ""
+msgstr "寄件匣"
 
 #: src/IconCollection.vala:1893
 msgid "Mail sent"
-msgstr ""
+msgstr "郵件已傳送"
 
 #: src/IconCollection.vala:1898
 msgid "Network server"
-msgstr ""
+msgstr "網路伺服器"
 
 #: src/IconCollection.vala:1903
 msgid "Network workgroup"
-msgstr ""
+msgstr "網路工作組"
 
 #: src/IconCollection.vala:1908
 msgid "Playlist"
-msgstr ""
+msgstr "播放清單"
 
 #: src/IconCollection.vala:1913
 msgid "Automatic playlist"
-msgstr ""
+msgstr "自動播放清單"
 
 #: src/IconCollection.vala:1918
 msgid "Playlist queue"
-msgstr ""
+msgstr "播放清單佇列"
 
 #: src/IconCollection.vala:1923
 msgid "Similar playlist"
-msgstr ""
+msgstr "相似的播放清單"
 
 #: src/IconCollection.vala:1928
 msgid "Tag"
-msgstr ""
+msgstr "標籤"
 
 #: src/IconCollection.vala:1933
 msgid "Bookmarks"
-msgstr ""
+msgstr "書籤"
 
 #: src/IconCollection.vala:1938
 msgid "Home"
-msgstr ""
+msgstr "家目錄"
 
 #: src/IconCollection.vala:1943
 msgid "Trash"
-msgstr ""
+msgstr "垃圾桶"
 
 #: src/IconCollection.vala:1948
 msgid "Trash full"
-msgstr ""
+msgstr "垃圾桶已滿"
 
 #: src/IconCollection.vala:1953
 msgid "Airplane mode, where wireless radios are disabled or off"
-msgstr ""
+msgstr "飛航模式（其中無線通信皆為停用或關閉）"
 
 #: src/IconCollection.vala:1958
 msgid "An appointment or calendar event was missed"
-msgstr ""
+msgstr "錯過了約定或行事曆活動"
 
 #: src/IconCollection.vala:1963
 msgid "An appointment or calendar event will be happening soon"
-msgstr ""
+msgstr "約定或行事曆活動即將發生"
 
 #: src/IconCollection.vala:1968
 msgid "High or loud audio volume"
-msgstr ""
+msgstr "音量較高或吵雜"
 
 #: src/IconCollection.vala:1973
 msgid "Low or quiet audio volume"
-msgstr ""
+msgstr "音量較低或安靜"
 
 #: src/IconCollection.vala:1978
 msgid "Medium or normal audio volume"
-msgstr ""
+msgstr "音量中等"
 
 #: src/IconCollection.vala:1983
 msgid "Audio volume is muted or off"
-msgstr ""
+msgstr "音量靜音或關閉"
 
 #: src/IconCollection.vala:1988
 msgid ""
 "Audio volume is muted or off and something is being blocked from making noise"
-msgstr ""
+msgstr "音量靜音或關閉，因此有應用程式被阻止發出聲音"
 
 #: src/IconCollection.vala:1993
 msgid ""
 "The default avatar to represent a user, such as someone who has not set a "
 "profile picture"
-msgstr ""
+msgstr "代表使用者用的預設頭像，用於使用者尚未設定自己的頭像等等時機"
 
 #: src/IconCollection.vala:1998
 msgid "A charger or AC adapter for a battery-powered device"
-msgstr ""
+msgstr "電池驅動的裝置用的充電器或市電轉接器"
 
 #: src/IconCollection.vala:2003
 msgid "Low battery level"
-msgstr ""
+msgstr "電池低電量"
 
 #: src/IconCollection.vala:2008
 msgid "Low battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "電池低電量（已插入充電器或市電轉接器）"
 
 #: src/IconCollection.vala:2013
 msgid "Critically low battery level"
-msgstr ""
+msgstr "電池電量嚴重不足"
 
 #: src/IconCollection.vala:2018
 msgid "Critically low battery, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "電池電量嚴重不足（已插入充電器或市電轉接器）"
 
 #: src/IconCollection.vala:2023
 msgid "Mostly charged battery level"
-msgstr ""
+msgstr "大致上充飽的電池電量"
 
 #: src/IconCollection.vala:2028
 msgid "Completely charged battery level"
-msgstr ""
+msgstr "完全充飽的電池電量"
 
 #: src/IconCollection.vala:2033
 msgid "Mostly charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "大致上充飽的電池電量（已插入充電器或市電轉接器）"
 
 #: src/IconCollection.vala:2038
 msgid "Medium-high charged battery level"
-msgstr ""
+msgstr "中高電池電量"
 
 #: src/IconCollection.vala:2043
 msgid "Medium-high charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "中高電池電量（已插入充電器或市電轉接器）"
 
 #: src/IconCollection.vala:2048
 msgid "Medium-low charged battery level"
-msgstr ""
+msgstr "中低電池電量"
 
 #: src/IconCollection.vala:2053
 msgid "Medium-low charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "中低電池電量（已插入充電器或市電轉接器）"
 
 #: src/IconCollection.vala:2058
 msgid "Missing or malfunctioning battery"
-msgstr ""
+msgstr "缺乏電池或是電池故障"
 
 #: src/IconCollection.vala:2063
 msgid "Allow changes by unlocking such as with a password"
-msgstr ""
+msgstr "允許在使用密碼等方式解鎖之後進行變更"
 
 #: src/IconCollection.vala:2068
 msgid "Prevent changes by locking such as with a password"
-msgstr ""
+msgstr "利用密碼等鎖定來防止變更"
 
 #: src/IconCollection.vala:2073
 msgid ""
 "Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
-msgstr ""
+msgstr "不完全，未受保護，或未加密的通訊或連線，像是 HTTP"
 
 #: src/IconCollection.vala:2078
 msgid ""
 "Secure or encrypted communication or connection, such as HTTPS or encrypted "
 "Wi-Fi"
-msgstr ""
+msgstr "安全、受保護，或已加密的通訊或連線，像是 HTTPS 或加密 Wi-Fi"
 
 #: src/IconCollection.vala:2083
 msgid "Critical, unrecoverable, or other serious error"
-msgstr ""
+msgstr "嚴重、無法復原等等的重大錯誤"
 
 #: src/IconCollection.vala:2088
 msgid "Contextual information or explanation"
-msgstr ""
+msgstr "與內文有關的資訊或說明"
 
 #: src/IconCollection.vala:2093
 msgid "Requesting authentication details, such as a password or encryption key"
-msgstr ""
+msgstr "正在要求認證資訊，像是密碼或加密金鑰"
 
 #: src/IconCollection.vala:2098
 msgid "Question, decision, or choice for the user"
-msgstr ""
+msgstr "對於使用者的問題、決定或選擇"
 
 #: src/IconCollection.vala:2103
 msgid "Warning of potentially dangerous actions or consequences"
-msgstr ""
+msgstr "對於可能有風險的動作或後果的警告"
 
 #: src/IconCollection.vala:2108
 msgid "Placeholder used when an image or thumbnail is loading"
-msgstr ""
+msgstr "影像、圖片或縮圖載入中時使用的佔位圖"
 
 #: src/IconCollection.vala:2113
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
-msgstr ""
+msgstr "影像、圖片或縮圖缺乏或無法載入時使用的佔位圖"
 
 #: src/IconCollection.vala:2118
 msgid "Location services are in use"
-msgstr ""
+msgstr "位置服務使用中"
 
 #: src/IconCollection.vala:2123
 msgid "Location services are disabled and unavailable"
-msgstr ""
+msgstr "位置服務已停用因此不可供使用"
 
 #: src/IconCollection.vala:2128
 msgid "Location services are available, but not in use"
-msgstr ""
+msgstr "位置服務可供使用但並非使用中"
 
 #: src/IconCollection.vala:2133
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
-msgstr ""
+msgstr "已鎖定或已保護，通常代表需要核對身份或利用密碼才能解鎖"
 
 #: src/IconCollection.vala:2138
 msgid "Mail attachment or file in an email"
-msgstr ""
+msgstr "電子郵件內的附件或檔案"
 
 #: src/IconCollection.vala:2143
 msgid "New, unread, or unviewed email"
-msgstr ""
+msgstr "新郵件、未讀郵件或未檢視的郵件"
 
 #: src/IconCollection.vala:2148
 msgid "Read or already-viewed email"
-msgstr ""
+msgstr "已讀或已顯示過的郵件"
 
 #: src/IconCollection.vala:2153
 msgid "Email that has been replied or responded to"
-msgstr ""
+msgstr "已回覆或回應的郵件"
 
 #: src/IconCollection.vala:2158
 msgid "Email that contains a signature"
-msgstr ""
+msgstr "包含簽章的郵件"
 
 #: src/IconCollection.vala:2163
 msgid "Email that contains a signature that is verified by the security system"
-msgstr ""
+msgstr "包含已由安全性系統驗證的簽章的郵件"
 
 #: src/IconCollection.vala:2168
 msgid "Repeat a song, video, track, album, playlist, or other media"
-msgstr ""
+msgstr "重複播放歌曲、影片、音軌、專輯、播放清單或其他媒體"
 
 #: src/IconCollection.vala:2173
 msgid "Shuffle or randomize an album, playlist, or other media"
-msgstr ""
+msgstr "隨機化專輯、播放清單或其他媒體的播放順序"
 
 #: src/IconCollection.vala:2178
 msgid "Error or problem initializing or creating a network connection"
-msgstr ""
+msgstr "建立或初始化網路連線時發生錯誤或問題"
 
 #: src/IconCollection.vala:2183
 msgid "No data being transmitted or received while connected to a network"
-msgstr ""
+msgstr "已連接到網路但沒有傳送或接收任何資料"
 
 #: src/IconCollection.vala:2188
 msgid "Disconnected or offline from a network"
-msgstr ""
+msgstr "已從網路斷線或離線"
 
 #: src/IconCollection.vala:2193
 msgid "Data is being received over a network"
-msgstr ""
+msgstr "正在經由網路接收資料"
 
 #: src/IconCollection.vala:2198
 msgid "Data is being transmitted over a network"
-msgstr ""
+msgstr "正在透過網路傳送資料"
 
 #: src/IconCollection.vala:2203
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
-msgstr ""
+msgstr "正在同時透過網路接收和傳送資料"
 
 #: src/IconCollection.vala:2208
 msgid "Wired network, such as Ethernet, is disconnected"
-msgstr ""
+msgstr "有線網路（乙太網路等）已斷線"
 
 #: src/IconCollection.vala:2213
 msgid "Item is not starred, favorited, or pinned by the user"
-msgstr ""
+msgstr "項目沒有加星號、未加入最愛，或是沒有被使用者釘選"
 
 #: src/IconCollection.vala:2218
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
-msgstr ""
+msgstr "通知已停用或是處於勿擾模式"
 
 #: src/IconCollection.vala:2223
 msgid "Error or problem occurred when attempting to print"
-msgstr ""
+msgstr "嘗試列印時發生錯誤或問題"
 
 #: src/IconCollection.vala:2228
 msgid "Job has been successfully spooled or sent to a printer"
-msgstr ""
+msgstr "工作已成功佇列或傳送給印表機"
 
 #: src/IconCollection.vala:2233
 msgid "Process, job, or task has successfully completed or finished"
-msgstr ""
+msgstr "程序、工作或作業已成功完成或結束"
 
 #: src/IconCollection.vala:2238
 msgid "Process, job, or task has failed or been unsuccessful"
-msgstr ""
+msgstr "程序、工作或作業已失敗"
 
 #: src/IconCollection.vala:2243
 msgid "Process, job, or task is currently paused or on hold"
-msgstr ""
+msgstr "程序、工作或作業目前已暫停或待命中"
 
 #: src/IconCollection.vala:2248
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
-msgstr ""
+msgstr "已知安全，像是已使用強力加密與有效、已驗證或已信任的憑證"
 
 #: src/IconCollection.vala:2253
 msgid "Presumed to be secure, such as using encryption"
-msgstr ""
+msgstr "應是安全的狀態，例如已使用加密"
 
 #: src/IconCollection.vala:2258
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
 msgstr ""
+"應是不安全的狀態，例如未受保護、未加密或強度不足的加密，或是無效、未驗證或不"
+"信任的憑證"
 
 #: src/IconCollection.vala:2263
 msgid "Updated apps, software, or drivers are available"
-msgstr ""
+msgstr "有應用程式、軟體或驅動程式的更新可用"
 
 #: src/IconCollection.vala:2268
 msgid "Urgent or critical updates are available"
-msgstr ""
+msgstr "有可用的緊急或重要更新"
 
 #: src/IconCollection.vala:2273
 msgid "Item is starred, favorited, or pinned by the user"
-msgstr ""
+msgstr "項目已加星號、加入最愛，或是由使用者釘選"
 
 #: src/IconCollection.vala:2278
 msgid "Task is due soon"
-msgstr ""
+msgstr "待辦事項即將到期"
 
 #: src/IconCollection.vala:2283
 msgid "Task is incomplete past the due date"
-msgstr ""
+msgstr "待辦事項已過期但尚未完成"
 
 #: src/IconCollection.vala:2288
 msgid "User, person, or contact is available or online"
-msgstr ""
+msgstr "使用者、人物或聯絡人可聯絡或在線上"
 
 #: src/IconCollection.vala:2293
 msgid "User, person, or contact is away or unavailable"
-msgstr ""
+msgstr "使用者、人物或聯絡人已離席或無法聯絡"
 
 #: src/IconCollection.vala:2298
 msgid "User, person, or contact is idle or unresponsive"
-msgstr ""
+msgstr "使用者、人物或聯絡人閒置中或沒有回應"
 
 #: src/IconCollection.vala:2303
 msgid "User, person, or contact is offline or unreachable"
-msgstr ""
+msgstr "使用者、人物或聯絡人已離線或無法聯絡"
 
 #: src/IconCollection.vala:2308
 msgid "Private, anonymous, untracked, or incognito"
-msgstr ""
+msgstr "私密、匿名、不被追蹤或隱私模式"
 
 #: src/IconCollection.vala:2313
 msgid "Clear skies or sunny weather"
-msgstr ""
+msgstr "晴天或無雲"
 
 #: src/IconCollection.vala:2318
 msgid "Clear skies weather during the night"
-msgstr ""
+msgstr "無雲（夜間）"
 
 #: src/IconCollection.vala:2323
 msgid "Partly cloudy, partly clear, or partly sunny weather"
-msgstr ""
+msgstr "部分多雲、部分無雲，或部分晴朗的天氣"
 
 #: src/IconCollection.vala:2328
 msgid "Partly cloudy or partly clear weather during the night"
-msgstr ""
+msgstr "部分多雲、部分無雲（夜間）"
 
 #: src/IconCollection.vala:2333
 msgid "Foggy weather"
-msgstr ""
+msgstr "起霧"
 
 #: src/IconCollection.vala:2338
 msgid "Overcast or cloudy weather"
-msgstr ""
+msgstr "陰天"
 
 #: src/IconCollection.vala:2343
 msgid "Severe or critical weather warning or alert"
-msgstr ""
+msgstr "危險或重大天氣警告或警報"
 
 #: src/IconCollection.vala:2348
 msgid "Showers or rainy weather"
-msgstr ""
+msgstr "小雨或雨天"
 
 #: src/IconCollection.vala:2353
 msgid "Scattered showers or partly rainy weather"
-msgstr ""
+msgstr "毛毛雨或部分下雨的天氣"
 
 #: src/IconCollection.vala:2358
 msgid "Snow showers or snowy weather"
-msgstr ""
+msgstr "小雪或雪天"
 
 #: src/IconCollection.vala:2363
 msgid "Thunderstorms or stormy weather"
-msgstr ""
+msgstr "雷雨或暴風雨"
 
 #: src/IconView.vala:61
 msgid "Color Icons"
-msgstr ""
+msgstr "色彩圖示"
 
 #: src/IconView.vala:68
 msgid "Symbolic Icons"
-msgstr ""
+msgstr "符號圖示"
 
 #: src/IconView.vala:81
 msgid "Code Sample"
-msgstr ""
+msgstr "程式碼範例"
 
 #: src/IconView.vala:223
 msgid "Copied!"
-msgstr ""
+msgstr "已複製！"
 
 #: src/IconView.vala:239
 msgid "Unavailable"
-msgstr ""
+msgstr "不可用"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr ""
+msgstr "圖示瀏覽器"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr ""
+msgstr "亮色背景"
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr ""
+msgstr "深色背景"

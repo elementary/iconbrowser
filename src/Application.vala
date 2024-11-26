@@ -49,7 +49,7 @@ public class IconBrowser.App : Gtk.Application {
             settings.bind ("window-maximized", main_window, "maximized", SettingsBindFlags.SET);
         }
 
-        active_window.present_with_time (Gdk.CURRENT_TIME);
+        active_window.present ();
     }
 
     public static int main (string[] args) {
