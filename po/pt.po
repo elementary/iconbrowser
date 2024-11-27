@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-11 19:59+0000\n"
 "PO-Revision-Date: 2024-11-27 12:50+0000\n"
-"Last-Translator: Veras-D <dveras2310@gmail.com>\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/pt/>\n"
 "Language: pt\n"
@@ -133,7 +133,7 @@ msgstr "Faça espaços horizontais entre objetos iguais"
 
 #: src/IconCollection.vala:143
 msgid "Distribute left edges of objects horizontally"
-msgstr "Distribuir as bordas esquerdas dos objetos de forma horizontal"
+msgstr "Distribuir as margens esquerdas dos objetos de forma horizontal"
 
 #: src/IconCollection.vala:148
 #, fuzzy
