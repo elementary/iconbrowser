@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-11 19:59+0000\n"
 "PO-Revision-Date: 2024-11-27 12:52+0000\n"
-"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Last-Translator: Veras-D <dveras2310@gmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/pt/>\n"
 "Language: pt\n"
@@ -545,10 +545,8 @@ msgid "Shut the device down"
 msgstr "Desligar o dispositivo"
 
 #: src/IconCollection.vala:653
-#, fuzzy
-#| msgid "Create a new folder"
 msgid "Create a new tag"
-msgstr "Criar uma nova pasta"
+msgstr "Criar uma nova tag"
 
 #: src/IconCollection.vala:658
 msgid "Check spelling"
