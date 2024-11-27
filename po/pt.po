@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.github.danrabbit.lookbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-11 19:59+0000\n"
-"PO-Revision-Date: 2024-11-27 12:51+0000\n"
+"PO-Revision-Date: 2024-11-27 12:52+0000\n"
 "Last-Translator: Veras-D <dveras2310@gmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/pt/>\n"
@@ -152,10 +152,8 @@ msgid "Make vertical gaps between objects equal"
 msgstr "Crie espaçamentos verticais entre objetos iguais"
 
 #: src/IconCollection.vala:168
-#, fuzzy
-#| msgid "Flip an object vertically"
 msgid "Distribute top edges of objects vertically"
-msgstr "Virar um objeto verticalmente"
+msgstr "Distribuir as bordas superiores dos objetos de forma vertical"
 
 #: src/IconCollection.vala:173
 msgid "Export a document"
