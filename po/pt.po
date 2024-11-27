@@ -141,7 +141,7 @@ msgstr "Distribuir as bordas direitas dos objetos de forma horizontal"
 
 #: src/IconCollection.vala:153
 msgid "Distribute bottom edges of objects vertically"
-msgstr ""
+msgstr "Distribuir as bordas inferiores dos objetos de forma vertical"
 
 #: src/IconCollection.vala:158
 #, fuzzy
