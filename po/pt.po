@@ -153,7 +153,7 @@ msgstr "Crie espaços verticais entre objetos iguais"
 
 #: src/IconCollection.vala:168
 msgid "Distribute top edges of objects vertically"
-msgstr "Distribuir as bordas superiores dos objetos de forma vertical"
+msgstr "Distribuir as margens superiores dos objetos de forma vertical"
 
 #: src/IconCollection.vala:173
 msgid "Export a document"
