@@ -149,7 +149,7 @@ msgstr "Distribuir linhas centrais de objetos de maneira vertical"
 
 #: src/IconCollection.vala:163
 msgid "Make vertical gaps between objects equal"
-msgstr ""
+msgstr "Crie espaçamentos verticais entre objetos iguais"
 
 #: src/IconCollection.vala:168
 #, fuzzy
