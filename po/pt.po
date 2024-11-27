@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: com.github.danrabbit.lookbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-11 19:59+0000\n"
-"PO-Revision-Date: 2024-11-27 12:52+0000\n"
-"Last-Translator: Veras-D <dveras2310@gmail.com>\n"
+"PO-Revision-Date: 2024-11-27 12:53+0000\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/pt/>\n"
 "Language: pt\n"
@@ -546,7 +546,7 @@ msgstr "Desligar o dispositivo"
 
 #: src/IconCollection.vala:653
 msgid "Create a new tag"
-msgstr "Criar uma nova tag"
+msgstr "Criar uma nova etiqueta"
 
 #: src/IconCollection.vala:658
 msgid "Check spelling"
@@ -645,10 +645,8 @@ msgid "Dictionary"
 msgstr "Dicionário"
 
 #: src/IconCollection.vala:778
-#, fuzzy
-#| msgid "Screenshot tool"
 msgid "Screenshot application"
-msgstr "Ferramenta de captura de ecrã"
+msgstr "Aplicação de captura de ecrã"
 
 #: src/IconCollection.vala:783
 msgid "Text editor"
@@ -774,10 +772,8 @@ msgid "Display settings, such as resolution or scaling"
 msgstr "Definições de monitor, como por exemplo resolução ou escala"
 
 #: src/IconCollection.vala:923
-#, fuzzy
-#| msgid "Bluetooth settings"
 msgid "Font settings"
-msgstr "Definições Bluetooth"
+msgstr "Definições de Fontes"
 
 #: src/IconCollection.vala:928
 msgid "Keyboard settings, such as layout or shortcuts"
