@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-11 19:59+0000\n"
+"POT-Creation-Date: 2024-12-03 22:28+0000\n"
 "PO-Revision-Date: 2024-09-02 20:05+0000\n"
 "Last-Translator: David M <rbndavid@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
@@ -456,65 +456,71 @@ msgid "Send an email"
 msgstr "Envia un correu electrònic"
 
 #: src/IconCollection.vala:548
+#, fuzzy
+#| msgid "Send an email"
+msgid "Send and receive all email"
+msgstr "Envia un correu electrònic"
+
+#: src/IconCollection.vala:553
 msgid "Eject removable media"
 msgstr "Expulsa el suport extraïble"
 
-#: src/IconCollection.vala:553
+#: src/IconCollection.vala:558
 msgid "Pause media playback"
 msgstr "Interromp la reproducció multimèdia"
 
-#: src/IconCollection.vala:558
+#: src/IconCollection.vala:563
 msgid "Start playing media"
 msgstr "Comença a reproduir contingut multimèdia"
 
-#: src/IconCollection.vala:563
+#: src/IconCollection.vala:568
 msgid "Stop playing media"
 msgstr "Atura la reproducció de contingut multimèdia"
 
-#: src/IconCollection.vala:568
+#: src/IconCollection.vala:573
 msgid "Start recording"
 msgstr "Comença a gravar"
 
-#: src/IconCollection.vala:573
+#: src/IconCollection.vala:578
 msgid "Seek backwards or rewind"
 msgstr "Busca cap enrere o rebobina"
 
-#: src/IconCollection.vala:578
+#: src/IconCollection.vala:583
 msgid "Seek forwards, or fastforward"
 msgstr "Busca endavant o avança ràpidament"
 
-#: src/IconCollection.vala:583
+#: src/IconCollection.vala:588
 msgid "Skip backwards, such as to the previous track"
 msgstr "Salta enrere, com ara a la pista anterior"
 
-#: src/IconCollection.vala:588
+#: src/IconCollection.vala:593
 msgid "Skip forwards, such as to the next track"
 msgstr "Salta endavant, com ara a la pista següent"
 
-#: src/IconCollection.vala:593
+#: src/IconCollection.vala:598
 msgid "Flip an object horizontally"
 msgstr "Gira un objecte horitzontalment"
 
-#: src/IconCollection.vala:598
+#: src/IconCollection.vala:603
 msgid "Flip an object vertically"
 msgstr "Gira un objecte verticalment"
 
-#: src/IconCollection.vala:603
+#: src/IconCollection.vala:608
 msgid "Rotate an object to the left or counter-clockwise"
 msgstr ""
 "Gira un objecte cap a l'esquerra o en sentit contrari a les agulles del "
 "rellotge"
 
-#: src/IconCollection.vala:608
+#: src/IconCollection.vala:613
 msgid "Rotate an object to the right or clockwise"
 msgstr ""
 "Gira un objecte cap a la dreta o en el sentit de les agulles del rellotge"
 
-#: src/IconCollection.vala:613
+#: src/IconCollection.vala:618
 msgid "Create a new database"
 msgstr "Crea una base de dades nova"
 
-#: src/IconCollection.vala:618
+#: src/IconCollection.vala:623
 msgid ""
 "Stop an action that may take a while to process, such as web page loading in "
 "a browser"
@@ -522,411 +528,411 @@ msgstr ""
 "Atura una acció que pot trigar una estona a processar-se, com ara la càrrega "
 "de la pàgina web en un navegador"
 
-#: src/IconCollection.vala:623
+#: src/IconCollection.vala:628
 msgid "Lock the screen or the user's session"
 msgstr "Bloca la pantalla o la sessió de l'usuari"
 
-#: src/IconCollection.vala:628
+#: src/IconCollection.vala:633
 msgid "Log out of the user's session"
 msgstr "Tanca la sessió de l'usuari"
 
-#: src/IconCollection.vala:633
+#: src/IconCollection.vala:638
 msgid "Run a system app or command"
 msgstr "Executa una aplicació o una ordre del sistema"
 
-#: src/IconCollection.vala:638
+#: src/IconCollection.vala:643
 msgid "Search the system"
 msgstr "Cerca al sistema"
 
-#: src/IconCollection.vala:643
+#: src/IconCollection.vala:648
 msgid "Restart the device"
 msgstr "Reinicia el dispositiu"
 
-#: src/IconCollection.vala:648
+#: src/IconCollection.vala:653
 msgid "Shut the device down"
 msgstr "Apaga el dispositiu"
 
-#: src/IconCollection.vala:653
+#: src/IconCollection.vala:658
 msgid "Create a new tag"
 msgstr "Crea una etiqueta nova"
 
-#: src/IconCollection.vala:658
+#: src/IconCollection.vala:663
 msgid "Check spelling"
 msgstr "Revisa l'ortografia"
 
-#: src/IconCollection.vala:663
+#: src/IconCollection.vala:668
 msgid "Set or adjust a timer"
 msgstr "Estableix o ajusta un temporitzador"
 
-#: src/IconCollection.vala:668
+#: src/IconCollection.vala:673
 msgid "Display the current view as columns"
 msgstr "Mostra la vista actual com a columnes"
 
-#: src/IconCollection.vala:673
+#: src/IconCollection.vala:678
 msgid "display the current view in a continously scrolling list"
 msgstr "mostra la vista actual en una llista de desplaçament continu"
 
-#: src/IconCollection.vala:678
+#: src/IconCollection.vala:683
 msgid "display the current view as a split, dual view"
 msgstr "mostra la vista actual com una vista dividida i doble"
 
-#: src/IconCollection.vala:683
+#: src/IconCollection.vala:688
 msgid "View fullscreen"
 msgstr "Mostra la pantalla completa"
 
-#: src/IconCollection.vala:688
+#: src/IconCollection.vala:693
 msgid "Display the current view as a grid of images or icons"
 msgstr "Mostra la vista actual com una graella d'imatges o icones"
 
-#: src/IconCollection.vala:693
+#: src/IconCollection.vala:698
 msgid "Refresh or reload the current view"
 msgstr "Actualitza o torna a carregar la vista actual"
 
-#: src/IconCollection.vala:698
+#: src/IconCollection.vala:703
 msgid "Leave fullscreen and return to a normal window"
 msgstr "Surt de la pantalla completa i torna a una finestra normal"
 
-#: src/IconCollection.vala:703
+#: src/IconCollection.vala:708
 msgid "View more information about the given context in a popover or menu"
 msgstr ""
 "Mostra més informació sobre el context donat en una finestra emergent o menú"
 
-#: src/IconCollection.vala:708
+#: src/IconCollection.vala:713
 msgid "View more information about the given context in a new view or window"
 msgstr ""
 "Mostra més informació sobre el context donat en una vista o finestra nova"
 
-#: src/IconCollection.vala:713
+#: src/IconCollection.vala:718
 msgid "Display the current view as a collection of pages"
 msgstr "Mostra la vista actual com una col·lecció de pàgines"
 
-#: src/IconCollection.vala:718
+#: src/IconCollection.vala:723
 msgid "Pin the current view so that it does not automatically hide"
 msgstr "Fixa la vista actual perquè no s'oculti automàticament"
 
-#: src/IconCollection.vala:723
+#: src/IconCollection.vala:728
 msgid "Sort items in an ascending order, such as in a list"
 msgstr "Ordena els elements en ordre ascendent, com ara en una llista"
 
-#: src/IconCollection.vala:728
+#: src/IconCollection.vala:733
 msgid "Sort items in a descending order, such as in a list"
 msgstr "Ordena els elements en ordre descendent, com ara en una llista"
 
-#: src/IconCollection.vala:733
+#: src/IconCollection.vala:738
 msgid "Close the window"
 msgstr "Tanca la finestra"
 
-#: src/IconCollection.vala:738
+#: src/IconCollection.vala:743
 msgid "Create a new window"
 msgstr "Crea una finestra nova"
 
-#: src/IconCollection.vala:743
+#: src/IconCollection.vala:748
 msgid "Zoom to the best fit"
 msgstr "Amplia la millor opció"
 
-#: src/IconCollection.vala:748
+#: src/IconCollection.vala:753
 msgid "Zoom in"
 msgstr "Amplia"
 
-#: src/IconCollection.vala:753
+#: src/IconCollection.vala:758
 msgid "Zoom to the original size"
 msgstr "Torna a la mida original"
 
-#: src/IconCollection.vala:758
+#: src/IconCollection.vala:763
 msgid "Zoom out"
 msgstr "Redueix"
 
-#: src/IconCollection.vala:763
+#: src/IconCollection.vala:768
 msgid "Calculator"
 msgstr "Calculadora"
 
-#: src/IconCollection.vala:768
+#: src/IconCollection.vala:773
 msgid "International and extended text character map"
 msgstr "Mapa de caràcters de text internacional i ampliat"
 
-#: src/IconCollection.vala:773
+#: src/IconCollection.vala:778
 msgid "Dictionary"
 msgstr "Diccionari"
 
-#: src/IconCollection.vala:778
+#: src/IconCollection.vala:783
 msgid "Screenshot application"
 msgstr "Aplicació de captura de pantalla"
 
-#: src/IconCollection.vala:783
+#: src/IconCollection.vala:788
 msgid "Text editor"
 msgstr "Editor de textos"
 
-#: src/IconCollection.vala:788
+#: src/IconCollection.vala:793
 msgid "Default or unprovided app icon"
 msgstr "Icona d'aplicació predeterminada o no proporcionada"
 
-#: src/IconCollection.vala:793
+#: src/IconCollection.vala:798
 msgid "Files"
 msgstr "Fitxers"
 
-#: src/IconCollection.vala:798
+#: src/IconCollection.vala:803
 msgid "AppCenter or software installer"
 msgstr "AppCenter o instal·lador de programari"
 
-#: src/IconCollection.vala:803
+#: src/IconCollection.vala:808
 msgid "Software updater"
 msgstr "Actualitzador de programari"
 
-#: src/IconCollection.vala:808
+#: src/IconCollection.vala:813
 msgid "System resource monitor"
 msgstr "Monitor de recursos del sistema"
 
-#: src/IconCollection.vala:813
+#: src/IconCollection.vala:818
 msgid "Terminal"
 msgstr "Terminal"
 
-#: src/IconCollection.vala:818
+#: src/IconCollection.vala:823
 msgid "Accessory or utility app category"
 msgstr "Categoria d'accessoris o aplicacions d'utilitat"
 
-#: src/IconCollection.vala:823
+#: src/IconCollection.vala:828
 msgid "Programming, software development, code, or IDE app category"
 msgstr "Categoria de programació, desenvolupament de programari, codi o IDE"
 
-#: src/IconCollection.vala:828
+#: src/IconCollection.vala:833
 msgid "Education, learning, or school app category"
 msgstr "Categoria d'aplicació d'educació, aprenentatge o d'escola"
 
-#: src/IconCollection.vala:833
+#: src/IconCollection.vala:838
 msgid "Engineering app category"
 msgstr "Categoria d'aplicacions d'enginyeria"
 
-#: src/IconCollection.vala:838
+#: src/IconCollection.vala:843
 msgid "Games app category"
 msgstr "Categoria d'aplicacions de jocs"
 
-#: src/IconCollection.vala:843
+#: src/IconCollection.vala:848
 msgid "Graphics, drawing, art, or photo manipulation app category"
 msgstr ""
 "Categoria d'aplicacions de gràfics, dibuix, art o manipulació de fotografies"
 
-#: src/IconCollection.vala:848
+#: src/IconCollection.vala:853
 msgid "Internet or web related app category"
 msgstr "Categoria d'aplicacions relacionades amb Internet o xarxa"
 
-#: src/IconCollection.vala:853
+#: src/IconCollection.vala:858
 msgid "Multimedia, audio, or video app category"
 msgstr "Categoria d'aplicacions multimèdia, d'àudio o vídeo"
 
-#: src/IconCollection.vala:858
+#: src/IconCollection.vala:863
 msgid "Office app category"
 msgstr "Categoria d'aplicacions d'oficina"
 
-#: src/IconCollection.vala:863
+#: src/IconCollection.vala:868
 msgid "Other or uncategorized app category"
 msgstr "Una altra categoria d'aplicacions o sense categoria"
 
-#: src/IconCollection.vala:868
+#: src/IconCollection.vala:873
 msgid "Science app category"
 msgstr "Categoria d'aplicacions científiques"
 
-#: src/IconCollection.vala:873
+#: src/IconCollection.vala:878
 msgid "System tools or OS app category"
 msgstr "Eines del sistema o categoria d'aplicacions del sistema operatiu"
 
-#: src/IconCollection.vala:878
+#: src/IconCollection.vala:883
 msgid "Utility app category"
 msgstr "Categoria d'aplicacions d'utilitat"
 
-#: src/IconCollection.vala:883
+#: src/IconCollection.vala:888
 msgid "Bluetooth settings"
 msgstr "Configuració de Bluetooth"
 
-#: src/IconCollection.vala:888
+#: src/IconCollection.vala:893
 msgid "Color settings such as printer, display, or camera calibration"
 msgstr ""
 "Paràmetres del color com ara el calibratge de la impressora, la pantalla o "
 "la càmera"
 
-#: src/IconCollection.vala:893
+#: src/IconCollection.vala:898
 msgid "Desktop interface settings"
 msgstr "Configuració de la interfície de l'escriptori"
 
-#: src/IconCollection.vala:898
+#: src/IconCollection.vala:903
 msgid "Universal access settings"
 msgstr "Configuració de l'accés universal"
 
-#: src/IconCollection.vala:903
+#: src/IconCollection.vala:908
 msgid "Universal access settings for pointing, such as controlling the cursor"
 msgstr ""
 "Configuració de l'accés universal per indicar, com ara controlar el cursor"
 
-#: src/IconCollection.vala:908
+#: src/IconCollection.vala:913
 msgid "Universal access settings for zooming or magnifying"
 msgstr "Configuració de l'accés universal per ampliar o usar la lupa"
 
-#: src/IconCollection.vala:913
+#: src/IconCollection.vala:918
 msgid "App-related settings, such as default or startup apps"
 msgstr ""
 "Configuració relacionada amb les aplicacions, com ara les aplicacions "
 "predeterminades o d'inici"
 
-#: src/IconCollection.vala:918
+#: src/IconCollection.vala:923
 msgid "Display settings, such as resolution or scaling"
 msgstr "Configuració de la pantalla, com ara la resolució o l'escala"
 
-#: src/IconCollection.vala:923
+#: src/IconCollection.vala:928
 msgid "Font settings"
 msgstr "Configuració del tipus de lletra"
 
-#: src/IconCollection.vala:928
+#: src/IconCollection.vala:933
 msgid "Keyboard settings, such as layout or shortcuts"
 msgstr "Configuració del teclat, com ara la disposició o les dreceres"
 
-#: src/IconCollection.vala:933
+#: src/IconCollection.vala:938
 msgid "International localization, language, or region settings"
 msgstr "Configuració de localització internacional, llengua o regió"
 
-#: src/IconCollection.vala:938
+#: src/IconCollection.vala:943
 msgid "Online account and cloud sync or sign in settings"
 msgstr ""
 "Configuració de l'inici de sessió o sincronització del compte en línia i al "
 "núvol"
 
-#: src/IconCollection.vala:943
+#: src/IconCollection.vala:948
 msgid "Settings for peripherals, such as a mouse or keyboard"
 msgstr "Configuració per a perifèrics, com ara un ratolí o un teclat"
 
-#: src/IconCollection.vala:948
+#: src/IconCollection.vala:953
 msgid "Sound or audio input and output settings"
 msgstr "Configuració d'entrada i sortida de so o àudio"
 
-#: src/IconCollection.vala:953
+#: src/IconCollection.vala:958
 msgid "Look and feel, appearance, style, or theme settings"
 msgstr "Configuració d'aparença, estil o tema"
 
-#: src/IconCollection.vala:958
+#: src/IconCollection.vala:963
 msgid "Desktop wallpaper or background settings"
 msgstr "Configuració de fons de pantalla o fons d'escriptori"
 
-#: src/IconCollection.vala:963
+#: src/IconCollection.vala:968
 msgid "Other, miscellaneous, or uncategorized settings"
 msgstr "Altres configuracions, diverses o no categoritzades"
 
-#: src/IconCollection.vala:968
+#: src/IconCollection.vala:973
 msgid "System settings or preferences"
 msgstr "Configuració o preferències del sistema"
 
-#: src/IconCollection.vala:973
+#: src/IconCollection.vala:978
 msgid "Network settings, such as wireless, Ethernet, or VPN"
 msgstr "Configuració de xarxa, com ara sense fil, Ethernet o VPN"
 
-#: src/IconCollection.vala:978
+#: src/IconCollection.vala:983
 msgid "Notification alert settings"
 msgstr "Configuració d'alerta de notificació"
 
-#: src/IconCollection.vala:983
+#: src/IconCollection.vala:988
 msgid "Power management or energy usage settings, such as battery"
 msgstr "Configuració de gestió o consum d'energia, com ara la bateria"
 
-#: src/IconCollection.vala:988
+#: src/IconCollection.vala:993
 msgid "Privacy and security settings"
 msgstr "Configuració de privadesa i seguretat"
 
-#: src/IconCollection.vala:993
+#: src/IconCollection.vala:998
 msgid ""
 "Sharing settings, such as library sharing or media streaming over a network"
 msgstr ""
 "Configuració de compartició, com ara compartir una biblioteca o transmissió "
 "de contingut multimèdia a través d'una xarxa"
 
-#: src/IconCollection.vala:998
+#: src/IconCollection.vala:1003
 msgid "Time and date settings"
 msgstr "Configuració de data i hora"
 
-#: src/IconCollection.vala:1003
+#: src/IconCollection.vala:1008
 msgid "Window management settings"
 msgstr "Configuració de la gestió de finestres"
 
-#: src/IconCollection.vala:1008
+#: src/IconCollection.vala:1013
 msgid "Help"
 msgstr "Ajuda"
 
-#: src/IconCollection.vala:1013
+#: src/IconCollection.vala:1018
 msgid "Audio output device, such as a sound card or speaker"
 msgstr "Dispositiu de sortida d'àudio, com ara una targeta de so o un altaveu"
 
-#: src/IconCollection.vala:1018
+#: src/IconCollection.vala:1023
 msgid "Audio output device representing headphones"
 msgstr "Dispositiu de sortida d'àudio que representa els auriculars"
 
-#: src/IconCollection.vala:1023
+#: src/IconCollection.vala:1028
 msgid "Audio output device representing a headset"
 msgstr "Dispositiu de sortida d'àudio que representa un auricular"
 
-#: src/IconCollection.vala:1028
+#: src/IconCollection.vala:1033
 msgid "Microphone"
 msgstr "Micròfon"
 
-#: src/IconCollection.vala:1033
+#: src/IconCollection.vala:1038
 msgid "Subwoofer or bass speaker"
 msgstr "Altaveu de subgreus"
 
-#: src/IconCollection.vala:1038
+#: src/IconCollection.vala:1043
 msgid "Battery"
 msgstr "Bateria"
 
-#: src/IconCollection.vala:1043
+#: src/IconCollection.vala:1048
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: src/IconCollection.vala:1048
+#: src/IconCollection.vala:1053
 msgid "Digital photo or still camera"
 msgstr "Càmera fixa o fotografia digital"
 
-#: src/IconCollection.vala:1053
+#: src/IconCollection.vala:1058
 msgid "Video or movie camera"
 msgstr "Càmera de vídeo o pel·lícula"
 
-#: src/IconCollection.vala:1058
+#: src/IconCollection.vala:1063
 msgid "Webcam or built-in camera"
 msgstr "Càmera web o càmera integrada"
 
-#: src/IconCollection.vala:1063
+#: src/IconCollection.vala:1068
 msgid "Generic or desktop computer"
 msgstr "Ordinador genèric o d'escriptori"
 
-#: src/IconCollection.vala:1068
+#: src/IconCollection.vala:1073
 msgid "Laptop or notebook computer"
 msgstr "Ordinador portàtil o portàtil petit"
 
-#: src/IconCollection.vala:1073
+#: src/IconCollection.vala:1078
 msgid "Hard disk or storage drive"
 msgstr "Disc dur o unitat d'emmagatzematge"
 
-#: src/IconCollection.vala:1078
+#: src/IconCollection.vala:1083
 msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
 msgstr "Unitat òptica, com ara lectors de CD, DVD o Blu-ray"
 
-#: src/IconCollection.vala:1083
+#: src/IconCollection.vala:1088
 msgid "Removable storage device, such as a portable hard drive"
 msgstr "Dispositiu d'emmagatzematge extraïble, com ara un disc dur portàtil"
 
-#: src/IconCollection.vala:1088
+#: src/IconCollection.vala:1093
 msgid "USB drive or stick, such as a flash, jump, or thumb drive"
 msgstr ""
 "Unitat o llapis USB, com ara una unitat extraïble o una unitat de memòria"
 
-#: src/IconCollection.vala:1093
+#: src/IconCollection.vala:1098
 msgid "Video game controller, such as a paddle, remote, or joystick"
 msgstr ""
 "Controlador de videojocs, com ara una paleta, un comandament a distància o "
 "una palanca de control"
 
-#: src/IconCollection.vala:1098
+#: src/IconCollection.vala:1103
 msgid "Keyboard"
 msgstr "Teclat"
 
-#: src/IconCollection.vala:1103
+#: src/IconCollection.vala:1108
 msgid "Mouse"
 msgstr "Ratolí"
 
-#: src/IconCollection.vala:1108
+#: src/IconCollection.vala:1113
 msgid ""
 "Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
 "Bamboo"
@@ -934,31 +940,31 @@ msgstr ""
 "Entrada de tauleta gràfica o llapis, com ara un digitalitzador Wacom, "
 "Intuos, Cintiq o Bamboo"
 
-#: src/IconCollection.vala:1113
+#: src/IconCollection.vala:1118
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
 msgstr ""
 "Entrada de ratolí tàctil, com ara un plafó tàctil multitàctil o un plafó de "
 "clics"
 
-#: src/IconCollection.vala:1118
+#: src/IconCollection.vala:1123
 msgid "Flash media such as a memory stick or SD card"
 msgstr "Mitjans extraïbles com ara un llapis de memòria o una targeta SD"
 
-#: src/IconCollection.vala:1123
+#: src/IconCollection.vala:1128
 msgid "Optical media, such as a CD, DVD, or Blu-ray disc"
 msgstr "Mitjans òptics, com ara un CD, DVD o disc Blu-ray"
 
-#: src/IconCollection.vala:1128
+#: src/IconCollection.vala:1133
 msgid "Network modem or router"
 msgstr "Mòdem o encaminador de xarxa"
 
-#: src/IconCollection.vala:1133
+#: src/IconCollection.vala:1138
 msgid "Media player device, such as a portable mp3 music player or iPod"
 msgstr ""
 "Dispositiu reproductor multimèdia, com ara un reproductor de música mp3 "
 "portàtil o un iPod"
 
-#: src/IconCollection.vala:1138
+#: src/IconCollection.vala:1143
 msgid ""
 "Cellular type wireless network or device, such as a 2G, 3G, or 4G LTE "
 "connection, modem, or SIM card"
@@ -966,23 +972,23 @@ msgstr ""
 "Dispositiu o xarxa sense fil de tipus cel·lular, com ara una connexió, mòdem "
 "o targeta SIM 2G, 3G o 4G LTE"
 
-#: src/IconCollection.vala:1143
+#: src/IconCollection.vala:1148
 msgid "Networking firewall"
 msgstr "Tallafoc de xarxa"
 
-#: src/IconCollection.vala:1148
+#: src/IconCollection.vala:1153
 msgid "Virtual private network or VPN connection"
 msgstr "Xarxa privada virtual o connexió VPN"
 
-#: src/IconCollection.vala:1153
+#: src/IconCollection.vala:1158
 msgid "Wired network connection, such as Ethernet"
 msgstr "Connexió de xarxa amb fil, com ara Ethernet"
 
-#: src/IconCollection.vala:1158
+#: src/IconCollection.vala:1163
 msgid "Wireless network connection, such as Wi-Fi"
 msgstr "Connexió de xarxa sense fil, com ara Wi-Fi"
 
-#: src/IconCollection.vala:1163
+#: src/IconCollection.vala:1168
 msgid ""
 "Wireless hotspot connection, such as through a mobile cellular phone or "
 "smartphone"
@@ -990,678 +996,678 @@ msgstr ""
 "Connexió de punt d'accés sense fil, com ara mitjançant un telèfon mòbil o un "
 "telèfon intel·ligent"
 
-#: src/IconCollection.vala:1168
+#: src/IconCollection.vala:1173
 msgid "Generic phone, such as a mobile Android smartphone or iPhone"
 msgstr ""
 "Telèfon genèric, com ara un telèfon mòbil intel·ligent Android o un iPhone"
 
-#: src/IconCollection.vala:1173
+#: src/IconCollection.vala:1178
 msgid "Printer"
 msgstr "Impressora"
 
-#: src/IconCollection.vala:1178
+#: src/IconCollection.vala:1183
 msgid "Network-connected or shared printer"
 msgstr "Impressora connectada a la xarxa o compartida"
 
-#: src/IconCollection.vala:1183
+#: src/IconCollection.vala:1188
 msgid "Scanner"
 msgstr "Escàner"
 
-#: src/IconCollection.vala:1188
+#: src/IconCollection.vala:1193
 msgid "Display, screen, or monitor"
 msgstr "Pantalla o monitor"
 
-#: src/IconCollection.vala:1193
+#: src/IconCollection.vala:1198
 msgid "Default selection emblem, such as for a printer or other device"
 msgstr ""
 "Emblema de selecció predeterminat, com ara una impressora o un altre "
 "dispositiu"
 
-#: src/IconCollection.vala:1198
+#: src/IconCollection.vala:1203
 msgid "Disabled feature or service emblem"
 msgstr "Emblema de funció o servei desactivats"
 
-#: src/IconCollection.vala:1203
+#: src/IconCollection.vala:1208
 msgid "Documents emblem"
 msgstr "Emblema de documents"
 
-#: src/IconCollection.vala:1208
+#: src/IconCollection.vala:1213
 msgid "Downloads emblem"
 msgstr "Emblema de baixades"
 
-#: src/IconCollection.vala:1213
+#: src/IconCollection.vala:1218
 msgid "Enabled feature or service emblem"
 msgstr "Emblema de funció o servei activats"
 
-#: src/IconCollection.vala:1218
+#: src/IconCollection.vala:1223
 msgid "Emblem for the error status of a feature or service"
 msgstr "Emblema per a l'estat d'error d'una funció o servei"
 
-#: src/IconCollection.vala:1223
+#: src/IconCollection.vala:1228
 msgid "Item the user has marked as a favorite"
 msgstr "Element que l'usuari ha marcat com a favorit"
 
-#: src/IconCollection.vala:1228
+#: src/IconCollection.vala:1233
 msgid "Item marked as important"
 msgstr "Element marcat com a important"
 
-#: src/IconCollection.vala:1233
+#: src/IconCollection.vala:1238
 msgid "Item related to email"
 msgstr "Element relacionat amb el correu electrònic"
 
-#: src/IconCollection.vala:1238
+#: src/IconCollection.vala:1243
 msgid "Emblem for the partially enabled status of a feature or service"
 msgstr "Emblema per a l'estat parcialment activat d'una funció o servei"
 
-#: src/IconCollection.vala:1243
+#: src/IconCollection.vala:1248
 msgid "Photos emblem"
 msgstr "Emblema de fotografies"
 
-#: src/IconCollection.vala:1248
+#: src/IconCollection.vala:1253
 msgid "Item is read-only, or the user cannot write to or make changes to it"
 msgstr ""
 "L'element és només de lectura o l'usuari no pot escriure-hi ni fer-hi canvis"
 
-#: src/IconCollection.vala:1253
+#: src/IconCollection.vala:1258
 msgid "Item shared with other people or users"
 msgstr "Element compartit amb altres persones o usuaris"
 
-#: src/IconCollection.vala:1258
+#: src/IconCollection.vala:1263
 msgid "Item is a symbolic link to a file somewhere else"
 msgstr "L'element és un enllaç simbòlic a un fitxer en un altre lloc"
 
-#: src/IconCollection.vala:1263
+#: src/IconCollection.vala:1268
 msgid "Item is configured to be synchronized to another device or location"
 msgstr ""
 "L'element està configurat per sincronitzar-se amb un altre dispositiu o "
 "ubicació"
 
-#: src/IconCollection.vala:1268
+#: src/IconCollection.vala:1273
 msgid "Item is a system file, library, setting, or data"
 msgstr ""
 "L'element és un fitxer del sistema, una biblioteca, una configuració o dades"
 
-#: src/IconCollection.vala:1273
+#: src/IconCollection.vala:1278
 msgid "Item is unreadable or inaccessible"
 msgstr "L'element és il·legible o inaccessible"
 
-#: src/IconCollection.vala:1278
+#: src/IconCollection.vala:1283
 msgid "Emblem for the warning status of a feature or service"
 msgstr "Emblema per a l'estat d'avís d'una funció o servei"
 
-#: src/IconCollection.vala:1283
+#: src/IconCollection.vala:1288
 msgid "0:-) emoticon"
 msgstr "emoticona 0:-)"
 
-#: src/IconCollection.vala:1288
+#: src/IconCollection.vala:1293
 msgid "X-( emoticon"
 msgstr "emoticona X-("
 
-#: src/IconCollection.vala:1293
+#: src/IconCollection.vala:1298
 msgid "B-) emoticon"
 msgstr "emoticona B-)"
 
-#: src/IconCollection.vala:1298
+#: src/IconCollection.vala:1303
 msgid ":'( emoticon"
 msgstr "emoticona :'("
 
-#: src/IconCollection.vala:1303
+#: src/IconCollection.vala:1308
 msgid ">:-) emoticon"
 msgstr "emoticona >:-)"
 
-#: src/IconCollection.vala:1308
+#: src/IconCollection.vala:1313
 msgid ":-[ emoticon"
 msgstr "emoticona :-["
 
-#: src/IconCollection.vala:1313
+#: src/IconCollection.vala:1318
 msgid "<3 emoticon"
 msgstr "emoticona <3"
 
-#: src/IconCollection.vala:1318
+#: src/IconCollection.vala:1323
 msgid "</3 emoticon"
 msgstr "emoticona </3"
 
-#: src/IconCollection.vala:1323
+#: src/IconCollection.vala:1328
 msgid ":-* emoticon"
 msgstr "emoticona :-*"
 
-#: src/IconCollection.vala:1328
+#: src/IconCollection.vala:1333
 msgid ":-)) emoticon"
 msgstr "emoticona :-))"
 
-#: src/IconCollection.vala:1333
+#: src/IconCollection.vala:1338
 msgid ":-(|) emoticon"
 msgstr "emoticona :-(|)"
 
-#: src/IconCollection.vala:1338
+#: src/IconCollection.vala:1343
 msgid ":-| emoticon"
 msgstr "emoticona :-|"
 
-#: src/IconCollection.vala:1343
+#: src/IconCollection.vala:1348
 msgid ":-P emoticon"
 msgstr "emoticona :-P"
 
-#: src/IconCollection.vala:1348
+#: src/IconCollection.vala:1353
 msgid ":-( emoticon"
 msgstr "emoticona :-("
 
-#: src/IconCollection.vala:1353
+#: src/IconCollection.vala:1358
 msgid ":-& emoticon"
 msgstr "emoticona :-&"
 
-#: src/IconCollection.vala:1358
+#: src/IconCollection.vala:1363
 msgid ":-) emoticon"
 msgstr "emoticona :-)"
 
-#: src/IconCollection.vala:1363
+#: src/IconCollection.vala:1368
 msgid ":-D emoticon"
 msgstr "emoticona :-D"
 
-#: src/IconCollection.vala:1368
+#: src/IconCollection.vala:1373
 msgid ":-! emoticon"
 msgstr "emoticona :-!"
 
-#: src/IconCollection.vala:1373
+#: src/IconCollection.vala:1378
 msgid ":-0 emoticon"
 msgstr "emoticona :-0"
 
-#: src/IconCollection.vala:1378
+#: src/IconCollection.vala:1383
 msgid "|-) emoticon"
 msgstr "emoticona |-)"
 
-#: src/IconCollection.vala:1383
+#: src/IconCollection.vala:1388
 msgid ":-/ emoticon"
 msgstr "emoticona :-/"
 
-#: src/IconCollection.vala:1388
+#: src/IconCollection.vala:1393
 msgid ";-) emoticon"
 msgstr "emoticona ;-)"
 
-#: src/IconCollection.vala:1393
+#: src/IconCollection.vala:1398
 msgid ":-S emoticon"
 msgstr "emoticona :-S"
 
-#: src/IconCollection.vala:1398
+#: src/IconCollection.vala:1403
 msgid "EPUB Ebook file types"
 msgstr "Tipus de fitxers de llibres electrònics EPUB"
 
-#: src/IconCollection.vala:1403
+#: src/IconCollection.vala:1408
 msgid "Adobe Illustrator image file types"
 msgstr "Tipus de fitxers d'imatge d'Adobe Illustrator"
 
-#: src/IconCollection.vala:1408
+#: src/IconCollection.vala:1413
 msgid "Javascript programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació Javascript"
 
-#: src/IconCollection.vala:1413
+#: src/IconCollection.vala:1418
 msgid "Microsoft Word file types"
 msgstr "Tipus de fitxers de Microsoft Word"
 
-#: src/IconCollection.vala:1418
+#: src/IconCollection.vala:1423
 msgid "Binary file types"
 msgstr "Tipus de fitxers binaris"
 
-#: src/IconCollection.vala:1423
+#: src/IconCollection.vala:1428
 msgid "PDF file types"
 msgstr "Tipus de fitxer PDF"
 
-#: src/IconCollection.vala:1428
+#: src/IconCollection.vala:1433
 msgid "PGP file types"
 msgstr "Tipus de fitxer PGP"
 
-#: src/IconCollection.vala:1433
+#: src/IconCollection.vala:1438
 msgid "Debian package file types"
 msgstr "Tipus de fitxers de paquets Debian"
 
-#: src/IconCollection.vala:1438
+#: src/IconCollection.vala:1443
 msgid "Flatpak reference file types"
 msgstr "Tipus de fitxers de referència de Flatpak"
 
-#: src/IconCollection.vala:1443
+#: src/IconCollection.vala:1448
 msgid "Microsoft Access file types"
 msgstr "Tipus de fitxers de Microsoft Access"
 
-#: src/IconCollection.vala:1448
+#: src/IconCollection.vala:1453
 msgid "Microsoft Excel file types"
 msgstr "Tipus de fitxers de Microsoft Excel"
 
-#: src/IconCollection.vala:1453
+#: src/IconCollection.vala:1458
 msgid "Microsoft PowerPoint file types"
 msgstr "Tipus de fitxers de Microsoft PowerPoint"
 
-#: src/IconCollection.vala:1458
+#: src/IconCollection.vala:1463
 msgid "Oasis OpenDocument file types"
 msgstr "Tipus de fitxers Oasis OpenDocument"
 
-#: src/IconCollection.vala:1463
+#: src/IconCollection.vala:1468
 msgid "Torrent file types"
 msgstr "Tipus de fitxers torrent"
 
-#: src/IconCollection.vala:1468
+#: src/IconCollection.vala:1473
 msgid "CD Image file types"
 msgstr "Tipus de fitxers d'imatge de CD"
 
-#: src/IconCollection.vala:1473
+#: src/IconCollection.vala:1478
 msgid "Desktop file types"
 msgstr "Tipus de fitxers d'escriptori"
 
-#: src/IconCollection.vala:1478
+#: src/IconCollection.vala:1483
 msgid "Executable file types"
 msgstr "Tipus de fitxers executables"
 
-#: src/IconCollection.vala:1483
+#: src/IconCollection.vala:1488
 msgid "FictionBook file types"
 msgstr "Tipus de fitxers FictionBook"
 
-#: src/IconCollection.vala:1488
+#: src/IconCollection.vala:1493
 msgid "Firmware file types"
 msgstr "Tipus de fitxers de microprogramari"
 
-#: src/IconCollection.vala:1493
+#: src/IconCollection.vala:1498
 msgid "PHP programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació PHP"
 
-#: src/IconCollection.vala:1498
+#: src/IconCollection.vala:1503
 msgid "Ruby programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació Ruby"
 
-#: src/IconCollection.vala:1503
+#: src/IconCollection.vala:1508
 msgid "Shared library file types"
 msgstr "Tipus de fitxers de la biblioteca compartida"
 
-#: src/IconCollection.vala:1508
+#: src/IconCollection.vala:1513
 msgid "Generic audio file types"
 msgstr "Tipus de fitxers d'àudio genèrics"
 
-#: src/IconCollection.vala:1513
+#: src/IconCollection.vala:1518
 msgid "Audio playlist file types"
 msgstr "Tipus de fitxers de llistes de reproducció d'àudio"
 
-#: src/IconCollection.vala:1518
+#: src/IconCollection.vala:1523
 msgid "Extension"
 msgstr "Extensió"
 
-#: src/IconCollection.vala:1523
+#: src/IconCollection.vala:1528
 msgid "Generic font file types"
 msgstr "Tipus de fitxers de tipus de lletra genèrics"
 
-#: src/IconCollection.vala:1528
+#: src/IconCollection.vala:1533
 msgid "Adobe Photoshop image file types"
 msgstr "Tipus de fitxers d'imatge d'Adobe Photoshop"
 
-#: src/IconCollection.vala:1533
+#: src/IconCollection.vala:1538
 msgid "Generic image file types"
 msgstr "Tipus genèrics de fitxers d'imatge"
 
-#: src/IconCollection.vala:1538
+#: src/IconCollection.vala:1543
 msgid "XCF image file types"
 msgstr "Tipus de fitxers d'imatge XCF"
 
-#: src/IconCollection.vala:1543
+#: src/IconCollection.vala:1548
 msgid "Internet Feed"
 msgstr "Canal d'Internet"
 
-#: src/IconCollection.vala:1548
+#: src/IconCollection.vala:1553
 msgid "Model"
 msgstr "Model"
 
-#: src/IconCollection.vala:1553
+#: src/IconCollection.vala:1558
 msgid "Contact file types"
 msgstr "Tipus de fitxers de contactes"
 
-#: src/IconCollection.vala:1558
+#: src/IconCollection.vala:1563
 msgid "Database file types"
 msgstr "Tipus de fitxers de bases de dades"
 
-#: src/IconCollection.vala:1563
+#: src/IconCollection.vala:1568
 msgid "Generic package file types"
 msgstr "Tipus de fitxers de paquets genèrics"
 
-#: src/IconCollection.vala:1568
+#: src/IconCollection.vala:1573
 msgid "Credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit"
 
-#: src/IconCollection.vala:1573
+#: src/IconCollection.vala:1578
 msgid "American Express branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de la marca American Express"
 
-#: src/IconCollection.vala:1578
+#: src/IconCollection.vala:1583
 msgid "Diner's Club branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de la marca Diner's Club"
 
-#: src/IconCollection.vala:1583
+#: src/IconCollection.vala:1588
 msgid "Discover branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de Discover"
 
-#: src/IconCollection.vala:1588
+#: src/IconCollection.vala:1593
 msgid "Japan Credit Bureau branded credit or debit card payments"
 msgstr ""
 "Pagaments amb targeta de crèdit o dèbit de la marca Japan Credit Bureau"
 
-#: src/IconCollection.vala:1593
+#: src/IconCollection.vala:1598
 msgid "Mastercard branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de la marca Mastercard"
 
-#: src/IconCollection.vala:1598
+#: src/IconCollection.vala:1603
 msgid "China UnionPay branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de la marca China UnionPay"
 
-#: src/IconCollection.vala:1603
+#: src/IconCollection.vala:1608
 msgid "Visa branded credit or debit card payments"
 msgstr "Pagaments amb targeta de crèdit o dèbit de la marca Visa"
 
-#: src/IconCollection.vala:1608
+#: src/IconCollection.vala:1613
 msgid "CSS text file types"
 msgstr "Tipus de fitxers de text CSS"
 
-#: src/IconCollection.vala:1613
+#: src/IconCollection.vala:1618
 msgid "HTML text file types"
 msgstr "Tipus de fitxers de text HTML"
 
-#: src/IconCollection.vala:1618
+#: src/IconCollection.vala:1623
 msgid "Markdown text file types"
 msgstr "Tipus de fitxer de text Markdown"
 
-#: src/IconCollection.vala:1623
+#: src/IconCollection.vala:1628
 msgid "Bibtext file types"
 msgstr "Tipus de fitxers Bibtext"
 
-#: src/IconCollection.vala:1628
+#: src/IconCollection.vala:1633
 msgid "Changelog file types"
 msgstr "Tipus de fitxer de registre de canvis"
 
-#: src/IconCollection.vala:1633
+#: src/IconCollection.vala:1638
 msgid "C programming language header file types"
 msgstr "Tipus de fitxers de capçalera del llenguatge de programació C"
 
-#: src/IconCollection.vala:1638
+#: src/IconCollection.vala:1643
 msgid "License file types"
 msgstr "Tipus de fitxers de llicència"
 
-#: src/IconCollection.vala:1643
+#: src/IconCollection.vala:1648
 msgid "C programming language file types"
 msgstr "Tipus de fitxers de llenguatge de programació C"
 
-#: src/IconCollection.vala:1648
+#: src/IconCollection.vala:1653
 msgid "Generic text file types"
 msgstr "Tipus de fitxers de text genèrics"
 
-#: src/IconCollection.vala:1653
+#: src/IconCollection.vala:1658
 msgid "Generic text templates"
 msgstr "Plantilles de text genèrics"
 
-#: src/IconCollection.vala:1658
+#: src/IconCollection.vala:1663
 msgid "Gettext translation file types"
 msgstr "Tipus de fitxers de traducció de Gettext"
 
-#: src/IconCollection.vala:1663
+#: src/IconCollection.vala:1668
 msgid "Gettext translation model file types"
 msgstr "Tipus de fitxer de model de traducció de Gettext"
 
-#: src/IconCollection.vala:1668
+#: src/IconCollection.vala:1673
 msgid "Go programming language file types"
 msgstr "Tipus de fitxer de llenguatge de programació de Go"
 
-#: src/IconCollection.vala:1673
+#: src/IconCollection.vala:1678
 msgid "Install file types"
 msgstr "Instal·lació de tipus de fitxers"
 
-#: src/IconCollection.vala:1678
+#: src/IconCollection.vala:1683
 msgid "Makefile file types"
 msgstr "Tipus de fitxer Makefile"
 
-#: src/IconCollection.vala:1683
+#: src/IconCollection.vala:1688
 msgid "Preview file types"
 msgstr "Previsualitza els tipus de fitxers"
 
-#: src/IconCollection.vala:1688
+#: src/IconCollection.vala:1693
 msgid "Python programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació Python"
 
-#: src/IconCollection.vala:1693
+#: src/IconCollection.vala:1698
 msgid "Readme file types"
 msgstr "Tipus de fitxer Llegiu-me"
 
-#: src/IconCollection.vala:1698
+#: src/IconCollection.vala:1703
 msgid "Sass programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació Sass"
 
-#: src/IconCollection.vala:1703
+#: src/IconCollection.vala:1708
 msgid "Script file types, such as shell scripts"
 msgstr "Tipus de fitxers d'script, com ara scripts d'intèrpret d'ordres"
 
-#: src/IconCollection.vala:1708
+#: src/IconCollection.vala:1713
 msgid "SSA file types"
 msgstr "Tipus de fitxer SSA"
 
-#: src/IconCollection.vala:1713
+#: src/IconCollection.vala:1718
 msgid "TEX file types"
 msgstr "Tipus de fitxers TEX"
 
-#: src/IconCollection.vala:1718
+#: src/IconCollection.vala:1723
 msgid "Vala programming language file types"
 msgstr "Tipus de fitxers del llenguatge de programació Vala"
 
-#: src/IconCollection.vala:1723
+#: src/IconCollection.vala:1728
 msgid "Unknown file types"
 msgstr "Tipus de fitxer desconegut"
 
-#: src/IconCollection.vala:1728
+#: src/IconCollection.vala:1733
 msgid "Generic video file types"
 msgstr "Tipus genèrics de fitxers de vídeo"
 
-#: src/IconCollection.vala:1733
+#: src/IconCollection.vala:1738
 msgid "Generic address book file types"
 msgstr "Tipus genèrics de fitxers de llibretes d'adreces"
 
-#: src/IconCollection.vala:1738
+#: src/IconCollection.vala:1743
 msgid "Generic calendar file types"
 msgstr "Tipus de fitxers de calendari genèrics"
 
-#: src/IconCollection.vala:1743
+#: src/IconCollection.vala:1748
 msgid "Generic document and letter file types"
 msgstr "Tipus genèrics de document i fitxer de carta"
 
-#: src/IconCollection.vala:1748
+#: src/IconCollection.vala:1753
 msgid "Generic document and letter template file types"
 msgstr "Tipus de fitxer de plantilla de document i carta genèrics"
 
-#: src/IconCollection.vala:1753
+#: src/IconCollection.vala:1758
 msgid "Generic drawing file types"
 msgstr "Tipus genèrics de fitxers de dibuix"
 
-#: src/IconCollection.vala:1758
+#: src/IconCollection.vala:1763
 msgid "Generic drawing template file types"
 msgstr "Tipus de fitxers de plantilla de dibuix genèrics"
 
-#: src/IconCollection.vala:1763
+#: src/IconCollection.vala:1768
 msgid "Generic presentation file types"
 msgstr "Tipus de fitxers de presentació genèrics"
 
-#: src/IconCollection.vala:1768
+#: src/IconCollection.vala:1773
 msgid "Generic presentation template file types"
 msgstr "Tipus de fitxers de plantilla de presentació genèrics"
 
-#: src/IconCollection.vala:1773
+#: src/IconCollection.vala:1778
 msgid "Generic spreadsheet file types"
 msgstr "Tipus de fitxers de full de càlcul genèrics"
 
-#: src/IconCollection.vala:1778
+#: src/IconCollection.vala:1783
 msgid "Generic spreadsheet template file types"
 msgstr "Tipus de fitxer de plantilla de full de càlcul genèric"
 
-#: src/IconCollection.vala:1783
+#: src/IconCollection.vala:1788
 msgid "Bookmark missing"
 msgstr "Falta el marcador"
 
-#: src/IconCollection.vala:1788
+#: src/IconCollection.vala:1793
 msgid "Distributor logo"
 msgstr "Logotip del distribuïdor"
 
-#: src/IconCollection.vala:1793
+#: src/IconCollection.vala:1798
 msgid "Folder"
 msgstr "Carpeta"
 
-#: src/IconCollection.vala:1798
+#: src/IconCollection.vala:1803
 msgid "Documents folder"
 msgstr "Carpeta de documents"
 
-#: src/IconCollection.vala:1803
+#: src/IconCollection.vala:1808
 msgid "Downloads folder"
 msgstr "Carpeta de baixades"
 
-#: src/IconCollection.vala:1808
+#: src/IconCollection.vala:1813
 msgid "Folder drag accept"
 msgstr "Acceptació d'arrossegament de la carpeta"
 
-#: src/IconCollection.vala:1813
+#: src/IconCollection.vala:1818
 msgid "Music folder"
 msgstr "Carpeta de música"
 
-#: src/IconCollection.vala:1818
+#: src/IconCollection.vala:1823
 msgid "Open folder"
 msgstr "Obre la carpeta"
 
-#: src/IconCollection.vala:1823
+#: src/IconCollection.vala:1828
 msgid "Pictures folder"
 msgstr "Carpeta d'imatges"
 
-#: src/IconCollection.vala:1828
+#: src/IconCollection.vala:1833
 msgid "Publicshare folder"
 msgstr "Carpeta pública compartida"
 
-#: src/IconCollection.vala:1833
+#: src/IconCollection.vala:1838
 msgid "Recent folder"
 msgstr "Carpeta de recents"
 
-#: src/IconCollection.vala:1838
+#: src/IconCollection.vala:1843
 msgid "Remote folder"
 msgstr "Carpeta remota"
 
-#: src/IconCollection.vala:1843
+#: src/IconCollection.vala:1848
 msgid "Saved search folder"
 msgstr "Carpeta de cerca desada"
 
-#: src/IconCollection.vala:1848
+#: src/IconCollection.vala:1853
 msgid "Templates folder"
 msgstr "Carpeta de plantilles"
 
-#: src/IconCollection.vala:1853
+#: src/IconCollection.vala:1858
 msgid "Videos folder"
 msgstr "Carpeta de vídeos"
 
-#: src/IconCollection.vala:1858
+#: src/IconCollection.vala:1863
 msgid "Internet radio"
 msgstr "Ràdio per Internet"
 
-#: src/IconCollection.vala:1863
+#: src/IconCollection.vala:1868
 msgid "Audiobook library"
 msgstr "Biblioteca d'audiollibres"
 
-#: src/IconCollection.vala:1868
+#: src/IconCollection.vala:1873
 msgid "Library places"
 msgstr "Llocs de la biblioteca"
 
-#: src/IconCollection.vala:1873
+#: src/IconCollection.vala:1878
 msgid "Podcast library"
 msgstr "Biblioteca de pòdcasts"
 
-#: src/IconCollection.vala:1878
+#: src/IconCollection.vala:1883
 msgid "Mail inbox"
 msgstr "Bústia d'entrada de correu"
 
-#: src/IconCollection.vala:1883
+#: src/IconCollection.vala:1888
 msgid "Mail mailbox"
 msgstr "Bústia de correu"
 
-#: src/IconCollection.vala:1888
+#: src/IconCollection.vala:1893
 msgid "Mail outbox"
 msgstr "Bústia de sortida de correu"
 
-#: src/IconCollection.vala:1893
+#: src/IconCollection.vala:1898
 msgid "Mail sent"
 msgstr "Correu enviat"
 
-#: src/IconCollection.vala:1898
+#: src/IconCollection.vala:1903
 msgid "Network server"
 msgstr "Servidor de xarxa"
 
-#: src/IconCollection.vala:1903
+#: src/IconCollection.vala:1908
 msgid "Network workgroup"
 msgstr "Grup de treball en xarxa"
 
-#: src/IconCollection.vala:1908
+#: src/IconCollection.vala:1913
 msgid "Playlist"
 msgstr "Llista de reproducció"
 
-#: src/IconCollection.vala:1913
+#: src/IconCollection.vala:1918
 msgid "Automatic playlist"
 msgstr "Llista de reproducció automàtica"
 
-#: src/IconCollection.vala:1918
+#: src/IconCollection.vala:1923
 msgid "Playlist queue"
 msgstr "Cua de llistes de reproducció"
 
-#: src/IconCollection.vala:1923
+#: src/IconCollection.vala:1928
 msgid "Similar playlist"
 msgstr "Llista de reproducció semblant"
 
-#: src/IconCollection.vala:1928
+#: src/IconCollection.vala:1933
 msgid "Tag"
 msgstr "Etiqueta"
 
-#: src/IconCollection.vala:1933
+#: src/IconCollection.vala:1938
 msgid "Bookmarks"
 msgstr "Adreces d'interès"
 
-#: src/IconCollection.vala:1938
+#: src/IconCollection.vala:1943
 msgid "Home"
 msgstr "Inici"
 
-#: src/IconCollection.vala:1943
+#: src/IconCollection.vala:1948
 msgid "Trash"
 msgstr "Paperera"
 
-#: src/IconCollection.vala:1948
+#: src/IconCollection.vala:1953
 msgid "Trash full"
 msgstr "Paperera plena"
 
-#: src/IconCollection.vala:1953
+#: src/IconCollection.vala:1958
 msgid "Airplane mode, where wireless radios are disabled or off"
 msgstr "Mode d'avió, on les ràdios sense fil estan desactivades o desactivades"
 
-#: src/IconCollection.vala:1958
+#: src/IconCollection.vala:1963
 msgid "An appointment or calendar event was missed"
 msgstr "S'ha perdut una cita o esdeveniment del calendari"
 
-#: src/IconCollection.vala:1963
+#: src/IconCollection.vala:1968
 msgid "An appointment or calendar event will be happening soon"
 msgstr "Aviat tindrà lloc una cita o un esdeveniment del calendari"
 
-#: src/IconCollection.vala:1968
+#: src/IconCollection.vala:1973
 msgid "High or loud audio volume"
 msgstr "Volum d'àudio alt o molt alt"
 
-#: src/IconCollection.vala:1973
+#: src/IconCollection.vala:1978
 msgid "Low or quiet audio volume"
 msgstr "Volum d'àudio baix o molt baix"
 
-#: src/IconCollection.vala:1978
+#: src/IconCollection.vala:1983
 msgid "Medium or normal audio volume"
 msgstr "Volum d'àudio mitjà o normal"
 
-#: src/IconCollection.vala:1983
+#: src/IconCollection.vala:1988
 msgid "Audio volume is muted or off"
 msgstr "El volum d'àudio està silenciat o desactivat"
 
-#: src/IconCollection.vala:1988
+#: src/IconCollection.vala:1993
 msgid ""
 "Audio volume is muted or off and something is being blocked from making noise"
 msgstr ""
 "El volum de l'àudio està silenciat o desactivat i s'està blocant alguna cosa "
 "perquè no faci soroll"
 
-#: src/IconCollection.vala:1993
+#: src/IconCollection.vala:1998
 msgid ""
 "The default avatar to represent a user, such as someone who has not set a "
 "profile picture"
@@ -1669,234 +1675,234 @@ msgstr ""
 "L'avatar predeterminat per representar un usuari, com ara algú que no hagi "
 "establert una foto de perfil"
 
-#: src/IconCollection.vala:1998
+#: src/IconCollection.vala:2003
 msgid "A charger or AC adapter for a battery-powered device"
 msgstr ""
 "Un carregador o adaptador de CA per a un dispositiu alimentat amb bateria"
 
-#: src/IconCollection.vala:2003
+#: src/IconCollection.vala:2008
 msgid "Low battery level"
 msgstr "Nivell de bateria baix"
 
-#: src/IconCollection.vala:2008
+#: src/IconCollection.vala:2013
 msgid "Low battery level, plugged into a charger or AC adapter"
 msgstr "Nivell de bateria baix, connectat a un carregador o adaptador de CA"
 
-#: src/IconCollection.vala:2013
+#: src/IconCollection.vala:2018
 msgid "Critically low battery level"
 msgstr "Nivell de bateria molt baix"
 
-#: src/IconCollection.vala:2018
+#: src/IconCollection.vala:2023
 msgid "Critically low battery, plugged into a charger or AC adapter"
 msgstr "Bateria molt baixa, connectada a un carregador o adaptador de CA"
 
-#: src/IconCollection.vala:2023
+#: src/IconCollection.vala:2028
 msgid "Mostly charged battery level"
 msgstr "Nivell de bateria majoritàriament carregada"
 
-#: src/IconCollection.vala:2028
+#: src/IconCollection.vala:2033
 msgid "Completely charged battery level"
 msgstr "Nivell de bateria completament carregada"
 
-#: src/IconCollection.vala:2033
+#: src/IconCollection.vala:2038
 msgid "Mostly charged battery level, plugged into a charger or AC adapter"
 msgstr ""
 "Nivell de bateria majoritàriament carregada, connectat a un carregador o "
 "adaptador de CA"
 
-#: src/IconCollection.vala:2038
+#: src/IconCollection.vala:2043
 msgid "Medium-high charged battery level"
 msgstr "Nivell de càrrega de bateria mitjà-alt"
 
-#: src/IconCollection.vala:2043
+#: src/IconCollection.vala:2048
 msgid "Medium-high charged battery level, plugged into a charger or AC adapter"
 msgstr ""
 "Nivell de bateria de càrrega mitjà-alt, connectat a un carregador o "
 "adaptador de CA"
 
-#: src/IconCollection.vala:2048
+#: src/IconCollection.vala:2053
 msgid "Medium-low charged battery level"
 msgstr "Nivell de càrrega de bateria mitjà-baix"
 
-#: src/IconCollection.vala:2053
+#: src/IconCollection.vala:2058
 msgid "Medium-low charged battery level, plugged into a charger or AC adapter"
 msgstr ""
 "Nivell de bateria mitjà-baix, connectat a un carregador o adaptador de CA"
 
-#: src/IconCollection.vala:2058
+#: src/IconCollection.vala:2063
 msgid "Missing or malfunctioning battery"
 msgstr "Falta la bateria o funciona malament"
 
-#: src/IconCollection.vala:2063
+#: src/IconCollection.vala:2068
 msgid "Allow changes by unlocking such as with a password"
 msgstr "Permet els canvis desblocant, com ara amb una contrasenya"
 
-#: src/IconCollection.vala:2068
+#: src/IconCollection.vala:2073
 msgid "Prevent changes by locking such as with a password"
 msgstr "Evita els canvis mitjançant el bloqueig, com ara amb una contrasenya"
 
-#: src/IconCollection.vala:2073
+#: src/IconCollection.vala:2078
 msgid ""
 "Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
 msgstr ""
 "Comunicació o connexió insegura, no segura o no encriptada, com ara HTTP"
 
-#: src/IconCollection.vala:2078
+#: src/IconCollection.vala:2083
 msgid ""
 "Secure or encrypted communication or connection, such as HTTPS or encrypted "
 "Wi-Fi"
 msgstr ""
 "Comunicació o connexió segura o encriptada, com ara HTTPS o Wi-Fi encriptada"
 
-#: src/IconCollection.vala:2083
+#: src/IconCollection.vala:2088
 msgid "Critical, unrecoverable, or other serious error"
 msgstr "Error crític, irrecuperable o un altre error greu"
 
-#: src/IconCollection.vala:2088
+#: src/IconCollection.vala:2093
 msgid "Contextual information or explanation"
 msgstr "Informació o explicació contextual"
 
-#: src/IconCollection.vala:2093
+#: src/IconCollection.vala:2098
 msgid "Requesting authentication details, such as a password or encryption key"
 msgstr ""
 "Sol·licita detalls d'autenticació, com ara una contrasenya o una clau "
 "d'encriptació"
 
-#: src/IconCollection.vala:2098
+#: src/IconCollection.vala:2103
 msgid "Question, decision, or choice for the user"
 msgstr "Pregunta, decisió o tria per a l'usuari"
 
-#: src/IconCollection.vala:2103
+#: src/IconCollection.vala:2108
 msgid "Warning of potentially dangerous actions or consequences"
 msgstr "Advertència d'accions o conseqüències potencialment perilloses"
 
-#: src/IconCollection.vala:2108
+#: src/IconCollection.vala:2113
 msgid "Placeholder used when an image or thumbnail is loading"
 msgstr ""
 "El marcador de posició s'usa quan es carrega una imatge o una miniatura"
 
-#: src/IconCollection.vala:2113
+#: src/IconCollection.vala:2118
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
 msgstr ""
 "El marcador de posició s'usa quan falta una imatge o una miniatura o no es "
 "pot carregar"
 
-#: src/IconCollection.vala:2118
+#: src/IconCollection.vala:2123
 msgid "Location services are in use"
 msgstr "Els serveis d'ubicació estan en ús"
 
-#: src/IconCollection.vala:2123
+#: src/IconCollection.vala:2128
 msgid "Location services are disabled and unavailable"
 msgstr "Els serveis d'ubicació estan desactivats i no estan disponibles"
 
-#: src/IconCollection.vala:2128
+#: src/IconCollection.vala:2133
 msgid "Location services are available, but not in use"
 msgstr "Els serveis d'ubicació estan disponibles, però no s'usen"
 
-#: src/IconCollection.vala:2133
+#: src/IconCollection.vala:2138
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
 msgstr ""
 "Blocat o segur, normalment requereix autenticació o una contrasenya per "
 "desblocar"
 
-#: src/IconCollection.vala:2138
+#: src/IconCollection.vala:2143
 msgid "Mail attachment or file in an email"
 msgstr "Fitxer adjunt o fitxer en un correu electrònic"
 
-#: src/IconCollection.vala:2143
+#: src/IconCollection.vala:2148
 msgid "New, unread, or unviewed email"
 msgstr "Correu electrònic nou, no llegit o no vist"
 
-#: src/IconCollection.vala:2148
+#: src/IconCollection.vala:2153
 msgid "Read or already-viewed email"
 msgstr "Correu electrònic llegit o ja vist"
 
-#: src/IconCollection.vala:2153
+#: src/IconCollection.vala:2158
 msgid "Email that has been replied or responded to"
 msgstr "Correu electrònic que s'ha respost"
 
-#: src/IconCollection.vala:2158
+#: src/IconCollection.vala:2163
 msgid "Email that contains a signature"
 msgstr "Correu electrònic que conté una signatura"
 
-#: src/IconCollection.vala:2163
+#: src/IconCollection.vala:2168
 msgid "Email that contains a signature that is verified by the security system"
 msgstr ""
 "Correu electrònic que conté una signatura verificada pel sistema de seguretat"
 
-#: src/IconCollection.vala:2168
+#: src/IconCollection.vala:2173
 msgid "Repeat a song, video, track, album, playlist, or other media"
 msgstr ""
 "Repeteix una cançó, un vídeo, una pista, un àlbum, una llista de reproducció "
 "o altres mitjans"
 
-#: src/IconCollection.vala:2173
+#: src/IconCollection.vala:2178
 msgid "Shuffle or randomize an album, playlist, or other media"
 msgstr ""
 "Barreja o fes aleatori un àlbum, una llista de reproducció o altres mitjans"
 
-#: src/IconCollection.vala:2178
+#: src/IconCollection.vala:2183
 msgid "Error or problem initializing or creating a network connection"
 msgstr "Error o problema en iniciar o crear una connexió de xarxa"
 
-#: src/IconCollection.vala:2183
+#: src/IconCollection.vala:2188
 msgid "No data being transmitted or received while connected to a network"
 msgstr "No es transmeten ni es reben dades mentre està connectat a una xarxa"
 
-#: src/IconCollection.vala:2188
+#: src/IconCollection.vala:2193
 msgid "Disconnected or offline from a network"
 msgstr "Desconnectat o fora de línia d'una xarxa"
 
-#: src/IconCollection.vala:2193
+#: src/IconCollection.vala:2198
 msgid "Data is being received over a network"
 msgstr "Es reben dades a través d'una xarxa"
 
-#: src/IconCollection.vala:2198
+#: src/IconCollection.vala:2203
 msgid "Data is being transmitted over a network"
 msgstr "Les dades es transmeten a través d'una xarxa"
 
-#: src/IconCollection.vala:2203
+#: src/IconCollection.vala:2208
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
 msgstr "Les dades es transmeten i es reben simultàniament a través d'una xarxa"
 
-#: src/IconCollection.vala:2208
+#: src/IconCollection.vala:2213
 msgid "Wired network, such as Ethernet, is disconnected"
 msgstr "La xarxa amb fil, com ara Ethernet, està desconnectada"
 
-#: src/IconCollection.vala:2213
+#: src/IconCollection.vala:2218
 msgid "Item is not starred, favorited, or pinned by the user"
 msgstr ""
 "L'usuari no destaca l'element, no l'ha marcat com a preferit ni l'ha fixat"
 
-#: src/IconCollection.vala:2218
+#: src/IconCollection.vala:2223
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
 msgstr "Les notificacions estan desactivades o en mode de no molestar"
 
-#: src/IconCollection.vala:2223
+#: src/IconCollection.vala:2228
 msgid "Error or problem occurred when attempting to print"
 msgstr "S'ha produït un error o un problema en intentar imprimir"
 
-#: src/IconCollection.vala:2228
+#: src/IconCollection.vala:2233
 msgid "Job has been successfully spooled or sent to a printer"
 msgstr "La tasca s'ha enviat a una impressora o a la cua correctament"
 
-#: src/IconCollection.vala:2233
+#: src/IconCollection.vala:2238
 msgid "Process, job, or task has successfully completed or finished"
 msgstr "El procés, la feina o la tasca s'ha completat o acabat correctament"
 
-#: src/IconCollection.vala:2238
+#: src/IconCollection.vala:2243
 msgid "Process, job, or task has failed or been unsuccessful"
 msgstr "El procés, la feina o la tasca ha fallat o no ha tingut èxit."
 
-#: src/IconCollection.vala:2243
+#: src/IconCollection.vala:2248
 msgid "Process, job, or task is currently paused or on hold"
 msgstr ""
 "El procés, la feina o la tasca està actualment interrompuda o s'espera."
 
-#: src/IconCollection.vala:2248
+#: src/IconCollection.vala:2253
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
@@ -1904,11 +1910,11 @@ msgstr ""
 "Se sap que és segur, com ara amb una encriptació forta i un certificat "
 "vàlid, verificat o de confiança"
 
-#: src/IconCollection.vala:2253
+#: src/IconCollection.vala:2258
 msgid "Presumed to be secure, such as using encryption"
 msgstr "Se suposa que és segur, com ara l'ús d'encriptació"
 
-#: src/IconCollection.vala:2258
+#: src/IconCollection.vala:2263
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
@@ -1916,88 +1922,88 @@ msgstr ""
 "Se suposa que no és segur, com ara una encriptació no segura, sense "
 "encriptació, dèbil o un certificat no vàlid, no verificat o de confiança"
 
-#: src/IconCollection.vala:2263
+#: src/IconCollection.vala:2268
 msgid "Updated apps, software, or drivers are available"
 msgstr "Hi ha aplicacions, programari o controladors actualitzats disponibles"
 
-#: src/IconCollection.vala:2268
+#: src/IconCollection.vala:2273
 msgid "Urgent or critical updates are available"
 msgstr "Hi ha actualitzacions urgents o crítiques disponibles"
 
-#: src/IconCollection.vala:2273
+#: src/IconCollection.vala:2278
 msgid "Item is starred, favorited, or pinned by the user"
 msgstr "L'usuari destaca, marca com a preferit o fixa l'element"
 
-#: src/IconCollection.vala:2278
+#: src/IconCollection.vala:2283
 msgid "Task is due soon"
 msgstr "La tasca s'ha de fer aviat"
 
-#: src/IconCollection.vala:2283
+#: src/IconCollection.vala:2288
 msgid "Task is incomplete past the due date"
 msgstr "La tasca està incompleta després de la data de venciment"
 
-#: src/IconCollection.vala:2288
+#: src/IconCollection.vala:2293
 msgid "User, person, or contact is available or online"
 msgstr "L'usuari, la persona o el contacte està disponible o en línia"
 
-#: src/IconCollection.vala:2293
+#: src/IconCollection.vala:2298
 msgid "User, person, or contact is away or unavailable"
 msgstr "L'usuari, la persona o el contacte és absent o no disponible"
 
-#: src/IconCollection.vala:2298
+#: src/IconCollection.vala:2303
 msgid "User, person, or contact is idle or unresponsive"
 msgstr "L'usuari, la persona o el contacte està inactiu o no respon"
 
-#: src/IconCollection.vala:2303
+#: src/IconCollection.vala:2308
 msgid "User, person, or contact is offline or unreachable"
 msgstr ""
 "L'usuari, la persona o el contacte està fora de línia o no s'hi pot accedir"
 
-#: src/IconCollection.vala:2308
+#: src/IconCollection.vala:2313
 msgid "Private, anonymous, untracked, or incognito"
 msgstr "Privat, anònim, sense seguiment o d'incògnit"
 
-#: src/IconCollection.vala:2313
+#: src/IconCollection.vala:2318
 msgid "Clear skies or sunny weather"
 msgstr "Cel clar o temps assolellat"
 
-#: src/IconCollection.vala:2318
+#: src/IconCollection.vala:2323
 msgid "Clear skies weather during the night"
 msgstr "Temps de cel clar durant la nit"
 
-#: src/IconCollection.vala:2323
+#: src/IconCollection.vala:2328
 msgid "Partly cloudy, partly clear, or partly sunny weather"
 msgstr "Temps mig ennuvolat, parcialment clar o parcialment assolellat"
 
-#: src/IconCollection.vala:2328
+#: src/IconCollection.vala:2333
 msgid "Partly cloudy or partly clear weather during the night"
 msgstr "Temps mig ennuvolat o parcialment clar durant la nit"
 
-#: src/IconCollection.vala:2333
+#: src/IconCollection.vala:2338
 msgid "Foggy weather"
 msgstr "Temps boirós"
 
-#: src/IconCollection.vala:2338
+#: src/IconCollection.vala:2343
 msgid "Overcast or cloudy weather"
 msgstr "Ennuvolat o cel tapat"
 
-#: src/IconCollection.vala:2343
+#: src/IconCollection.vala:2348
 msgid "Severe or critical weather warning or alert"
 msgstr "Avís o alerta de mal temps o crític"
 
-#: src/IconCollection.vala:2348
+#: src/IconCollection.vala:2353
 msgid "Showers or rainy weather"
 msgstr "Xàfecs o temps plujós"
 
-#: src/IconCollection.vala:2353
+#: src/IconCollection.vala:2358
 msgid "Scattered showers or partly rainy weather"
 msgstr "Ruixats dispersos o temps parcialment plujós"
 
-#: src/IconCollection.vala:2358
+#: src/IconCollection.vala:2363
 msgid "Snow showers or snowy weather"
 msgstr "Ruixats de neu o temps de neu"
 
-#: src/IconCollection.vala:2363
+#: src/IconCollection.vala:2368
 msgid "Thunderstorms or stormy weather"
 msgstr "Tempestes o temps tempestuós"
 
