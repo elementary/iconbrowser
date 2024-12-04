@@ -544,6 +544,11 @@
                 category = ACTIONS
             },
             Icon () {
+                name = "mail-send-receive",
+                description = _("Send and receive all email"),
+                category = ACTIONS
+            },
+            Icon () {
                 name = "media-eject",
                 description = _("Eject removable media"),
                 category = ACTIONS
