@@ -8,56 +8,61 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-19 21:17+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-13 14:16+0000\n"
+"Last-Translator: Prachi Joshi <josprachi@yahoo.com>\n"
+"Language-Team: Marathi <https://l10n.elementary.io/projects/icon-browser/"
+"extra/mr/>\n"
 "Language: mr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:10
 msgid "Icon Browser"
-msgstr ""
+msgstr "आयकॉन ब्राउझर"
 
 #: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:11
 msgid "Browse and find system icons"
-msgstr ""
+msgstr "ब्राउझ करा आणि सिस्टम आयकॉन शोधा"
 
 #: data/iconbrowser.desktop.in:9
 msgid "icons;iconography;"
-msgstr ""
+msgstr "चिन्हे;प्रतिमा;"
 
 #: data/iconbrowser.appdata.xml.in:13
 msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
 msgstr ""
+"श्रेणीनुसार सिस्टम चिन्ह ब्राउझ करा किंवा चिन्हाच्या नावाने शोधा. वेगवेगळ्या आकारात आयकॉन "
+"पहा आणि तुमच्या ॲप्समध्ये वापरण्यासाठी द्रुत कोड स्निपेट मिळवा."
 
 #: data/iconbrowser.appdata.xml.in:18
 msgid "Browse system icons"
-msgstr ""
+msgstr "सिस्टम चिन्ह ब्राउझ करा"
 
 #: data/iconbrowser.appdata.xml.in:22
 msgid "Search by description"
-msgstr ""
+msgstr "वर्णनानुसार शोधा"
 
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Update icon list to match Platform 8"
-msgstr ""
+msgstr "प्लॅटफॉर्म 8 शी जुळण्यासाठी आयकॉन सूची अपडेट करा"
 
 #: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:58
 #: data/iconbrowser.appdata.xml.in:68
 msgid "Update translations"
-msgstr ""
+msgstr "भाषांतरे अपडेट करा"
 
 #: data/iconbrowser.appdata.xml.in:67
 msgid "Fixed an error that prevented app startup"
-msgstr ""
+msgstr "ॲप स्टार्टअप प्रतिबंधित करणाऱ्या त्रुटीचे निराकरण केले"
 
 #: data/iconbrowser.appdata.xml.in:74
 msgid "Updated with the latest icons:"
-msgstr ""
+msgstr "नवीनतम चिन्हांसह अद्यतनित:"
 
 #: data/iconbrowser.appdata.xml.in:76
 msgid "\"preferences-desktop-theme\""
@@ -77,20 +82,20 @@ msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:86
 msgid "A modern redesign!"
-msgstr ""
+msgstr "आधुनिक रीडिझाइन!"
 
 #: data/iconbrowser.appdata.xml.in:88
 msgid "Fancy new icon"
-msgstr ""
+msgstr "फॅन्सी नवीन चिन्ह"
 
 #: data/iconbrowser.appdata.xml.in:89
 msgid "Drag the window from anywhere"
-msgstr ""
+msgstr "खिडकी कुठूनही ड्रॅग करा"
 
 #: data/iconbrowser.appdata.xml.in:90
 msgid "Follow the system dark style preference"
-msgstr ""
+msgstr "प्रणाली गडद शैली प्राधान्य अनुसरण करा"
 
 #: data/iconbrowser.appdata.xml.in:91
 msgid "Updated for Gtk 4"
-msgstr ""
+msgstr "Gtk 4 साठी अपडेट केले"
