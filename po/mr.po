@@ -1,0 +1,1967 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the io.elementary.iconbrowser package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: io.elementary.iconbrowser\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-19 21:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/CategoryView.vala:17
+msgid "Search Names or Descriptions"
+msgstr ""
+
+#: src/IconCollection.vala:21
+msgid "Actions"
+msgstr ""
+
+#: src/IconCollection.vala:23
+msgid "Applications"
+msgstr ""
+
+#: src/IconCollection.vala:25
+msgid "Categories"
+msgstr ""
+
+#: src/IconCollection.vala:27
+msgid "Devices"
+msgstr ""
+
+#: src/IconCollection.vala:29
+msgid "Emblems"
+msgstr ""
+
+#: src/IconCollection.vala:31
+msgid "Emotes"
+msgstr ""
+
+#: src/IconCollection.vala:33
+msgid "Media Types"
+msgstr ""
+
+#: src/IconCollection.vala:35
+msgid "Places"
+msgstr ""
+
+#: src/IconCollection.vala:37
+msgid "Status"
+msgstr ""
+
+#: src/IconCollection.vala:39
+msgid "OTHER"
+msgstr ""
+
+#: src/IconCollection.vala:58 src/IconView.vala:16
+msgid "Create a new address book"
+msgstr ""
+
+#: src/IconCollection.vala:63
+msgid "Align objects to center along the X axis"
+msgstr ""
+
+#: src/IconCollection.vala:68
+msgid "Align objects left along the X axis"
+msgstr ""
+
+#: src/IconCollection.vala:73
+msgid "Align objects right along the X axis"
+msgstr ""
+
+#: src/IconCollection.vala:78
+msgid "Align objects to bottom along the Y axis"
+msgstr ""
+
+#: src/IconCollection.vala:83
+msgid "Align objects to center along the Y axis"
+msgstr ""
+
+#: src/IconCollection.vala:88
+msgid "Align objects to top along the Y axis"
+msgstr ""
+
+#: src/IconCollection.vala:93
+msgid "Used for exiting an application"
+msgstr ""
+
+#: src/IconCollection.vala:98
+msgid "Create a new appointment in a calendaring application"
+msgstr ""
+
+#: src/IconCollection.vala:103
+msgid "Create a new bookmark"
+msgstr ""
+
+#: src/IconCollection.vala:108
+msgid "Download a file from the Internet"
+msgstr ""
+
+#: src/IconCollection.vala:113
+msgid "Initiate or accept a call"
+msgstr ""
+
+#: src/IconCollection.vala:118
+msgid "Stop the current call"
+msgstr ""
+
+#: src/IconCollection.vala:123
+msgid "Pick a color from elsewhere on screen"
+msgstr ""
+
+#: src/IconCollection.vala:128
+msgid "Create a new contact in an address book application"
+msgstr ""
+
+#: src/IconCollection.vala:133
+msgid "Distribute the center lines of objects horizontally"
+msgstr ""
+
+#: src/IconCollection.vala:138
+msgid "Make horizontal gaps between objects equal"
+msgstr ""
+
+#: src/IconCollection.vala:143
+msgid "Distribute left edges of objects horizontally"
+msgstr ""
+
+#: src/IconCollection.vala:148
+msgid "Distribute right edges of objects horizontally"
+msgstr ""
+
+#: src/IconCollection.vala:153
+msgid "Distribute bottom edges of objects vertically"
+msgstr ""
+
+#: src/IconCollection.vala:158
+msgid "Distribute center lines of objects vertically"
+msgstr ""
+
+#: src/IconCollection.vala:163
+msgid "Make vertical gaps between objects equal"
+msgstr ""
+
+#: src/IconCollection.vala:168
+msgid "Distribute top edges of objects vertically"
+msgstr ""
+
+#: src/IconCollection.vala:173
+msgid "Export a document"
+msgstr ""
+
+#: src/IconCollection.vala:178
+msgid "Import a document"
+msgstr ""
+
+#: src/IconCollection.vala:183
+msgid "Create a new document"
+msgstr ""
+
+#: src/IconCollection.vala:188
+msgid "Open a document"
+msgstr ""
+
+#: src/IconCollection.vala:193
+msgid "Open a document that was recently opened"
+msgstr ""
+
+#: src/IconCollection.vala:198
+msgid "The page setup action of a document editor"
+msgstr ""
+
+#: src/IconCollection.vala:203
+msgid "Print"
+msgstr ""
+
+#: src/IconCollection.vala:208
+msgid "The print preview action of an application"
+msgstr ""
+
+#: src/IconCollection.vala:213
+msgid "View the properties of a document"
+msgstr ""
+
+#: src/IconCollection.vala:218
+msgid "Revert to a previous version of a document"
+msgstr ""
+
+#: src/IconCollection.vala:223
+msgid "Save"
+msgstr ""
+
+#: src/IconCollection.vala:228
+msgid "Save as"
+msgstr ""
+
+#: src/IconCollection.vala:233
+msgid "Send"
+msgstr ""
+
+#: src/IconCollection.vala:238
+msgid "Edit"
+msgstr ""
+
+#: src/IconCollection.vala:243
+msgid "Clear"
+msgstr ""
+
+#: src/IconCollection.vala:248 src/IconView.vala:107 src/IconView.vala:225
+msgid "Copy"
+msgstr ""
+
+#: src/IconCollection.vala:253
+msgid "Cut"
+msgstr ""
+
+#: src/IconCollection.vala:258
+msgid "Delete"
+msgstr ""
+
+#: src/IconCollection.vala:263
+msgid "Find"
+msgstr ""
+
+#: src/IconCollection.vala:268
+msgid "Find & Replace"
+msgstr ""
+
+#: src/IconCollection.vala:273
+msgid "Flag an item, such as a spam email"
+msgstr ""
+
+#: src/IconCollection.vala:278
+msgid "Paste"
+msgstr ""
+
+#: src/IconCollection.vala:283
+msgid "Redo"
+msgstr ""
+
+#: src/IconCollection.vala:288
+msgid "Select all"
+msgstr ""
+
+#: src/IconCollection.vala:293
+msgid "Undo"
+msgstr ""
+
+#: src/IconCollection.vala:298
+msgid "Create a new calendar event"
+msgstr ""
+
+#: src/IconCollection.vala:303
+msgid "Copy a folder"
+msgstr ""
+
+#: src/IconCollection.vala:308
+msgid "Move a folder"
+msgstr ""
+
+#: src/IconCollection.vala:313
+msgid "Create a new folder"
+msgstr ""
+
+#: src/IconCollection.vala:318
+msgid "Decrease indent"
+msgstr ""
+
+#: src/IconCollection.vala:323
+msgid "Increase indent"
+msgstr ""
+
+#: src/IconCollection.vala:328
+msgid "Center justify text"
+msgstr ""
+
+#: src/IconCollection.vala:333
+msgid "Fill justify text"
+msgstr ""
+
+#: src/IconCollection.vala:338
+msgid "Left justify text"
+msgstr ""
+
+#: src/IconCollection.vala:343
+msgid "Right justify text"
+msgstr ""
+
+#: src/IconCollection.vala:348
+msgid "Format text as left-to-right"
+msgstr ""
+
+#: src/IconCollection.vala:353
+msgid "Format text as right-to-left"
+msgstr ""
+
+#: src/IconCollection.vala:358
+msgid "Format text as bold"
+msgstr ""
+
+#: src/IconCollection.vala:363
+msgid "Format text as highlighted"
+msgstr ""
+
+#: src/IconCollection.vala:368
+msgid "Format text as italic"
+msgstr ""
+
+#: src/IconCollection.vala:373
+msgid "Format text as underlined"
+msgstr ""
+
+#: src/IconCollection.vala:378
+msgid "Format text as being struck through"
+msgstr ""
+
+#: src/IconCollection.vala:383
+msgid "Go to the bottom, such as in a list"
+msgstr ""
+
+#: src/IconCollection.vala:388
+msgid "Go down, such as in a list"
+msgstr ""
+
+#: src/IconCollection.vala:393
+msgid "Go to the first item, such as in a list"
+msgstr ""
+
+#: src/IconCollection.vala:398
+msgid "Go to the home location"
+msgstr ""
+
+#: src/IconCollection.vala:403
+msgid "Jump to a location"
+msgstr ""
+
+#: src/IconCollection.vala:408
+msgid "Go to the last item, such as in a list"
+msgstr ""
+
+#: src/IconCollection.vala:413
+msgid "Go forward to the next item, such as in a list or navigation"
+msgstr ""
+
+#: src/IconCollection.vala:418
+msgid "Go back to the previous item, such as in a list or navigation"
+msgstr ""
+
+#: src/IconCollection.vala:423
+msgid "Go to the top, such as in a list"
+msgstr ""
+
+#: src/IconCollection.vala:428
+msgid "Go up, such as in a list"
+msgstr ""
+
+#: src/IconCollection.vala:433
+msgid "Information about an app"
+msgstr ""
+
+#: src/IconCollection.vala:438
+msgid "Get help"
+msgstr ""
+
+#: src/IconCollection.vala:443
+msgid "Frequently asked questions"
+msgstr ""
+
+#: src/IconCollection.vala:448
+msgid "Make adjustments to an image"
+msgstr ""
+
+#: src/IconCollection.vala:453
+msgid "Automatically adjust an image"
+msgstr ""
+
+#: src/IconCollection.vala:458
+msgid "Crop an image"
+msgstr ""
+
+#: src/IconCollection.vala:463
+msgid "Remove red eye from an image"
+msgstr ""
+
+#: src/IconCollection.vala:468
+msgid "Insert an image"
+msgstr ""
+
+#: src/IconCollection.vala:473
+msgid "Insert a link"
+msgstr ""
+
+#: src/IconCollection.vala:478
+msgid "Insert an object"
+msgstr ""
+
+#: src/IconCollection.vala:483
+msgid "Insert text"
+msgstr ""
+
+#: src/IconCollection.vala:488
+msgid "Add to a list"
+msgstr ""
+
+#: src/IconCollection.vala:493
+msgid "Remove from a list"
+msgstr ""
+
+#: src/IconCollection.vala:498
+msgid "Forward an email"
+msgstr ""
+
+#: src/IconCollection.vala:503
+msgid "Mark an email as important"
+msgstr ""
+
+#: src/IconCollection.vala:508
+msgid "Mark an email as junk or spam"
+msgstr ""
+
+#: src/IconCollection.vala:513
+msgid "Mark an email as not junk or spam"
+msgstr ""
+
+#: src/IconCollection.vala:518
+msgid "Mark an email as read"
+msgstr ""
+
+#: src/IconCollection.vala:523
+msgid "Mark an email as unread"
+msgstr ""
+
+#: src/IconCollection.vala:528
+msgid "Compose a new email"
+msgstr ""
+
+#: src/IconCollection.vala:533
+msgid "Reply to all participants of an email"
+msgstr ""
+
+#: src/IconCollection.vala:538
+msgid "Reply to the sender of an email"
+msgstr ""
+
+#: src/IconCollection.vala:543
+msgid "Send an email"
+msgstr ""
+
+#: src/IconCollection.vala:548
+msgid "Send and receive all email"
+msgstr ""
+
+#: src/IconCollection.vala:553
+msgid "Eject removable media"
+msgstr ""
+
+#: src/IconCollection.vala:558
+msgid "Pause media playback"
+msgstr ""
+
+#: src/IconCollection.vala:563
+msgid "Start playing media"
+msgstr ""
+
+#: src/IconCollection.vala:568
+msgid "Stop playing media"
+msgstr ""
+
+#: src/IconCollection.vala:573
+msgid "Start recording"
+msgstr ""
+
+#: src/IconCollection.vala:578
+msgid "Seek backwards or rewind"
+msgstr ""
+
+#: src/IconCollection.vala:583
+msgid "Seek forwards, or fastforward"
+msgstr ""
+
+#: src/IconCollection.vala:588
+msgid "Skip backwards, such as to the previous track"
+msgstr ""
+
+#: src/IconCollection.vala:593
+msgid "Skip forwards, such as to the next track"
+msgstr ""
+
+#: src/IconCollection.vala:598
+msgid "Flip an object horizontally"
+msgstr ""
+
+#: src/IconCollection.vala:603
+msgid "Flip an object vertically"
+msgstr ""
+
+#: src/IconCollection.vala:608
+msgid "Rotate an object to the left or counter-clockwise"
+msgstr ""
+
+#: src/IconCollection.vala:613
+msgid "Rotate an object to the right or clockwise"
+msgstr ""
+
+#: src/IconCollection.vala:618
+msgid "Create a new database"
+msgstr ""
+
+#: src/IconCollection.vala:623
+msgid ""
+"Stop an action that may take a while to process, such as web page loading in "
+"a browser"
+msgstr ""
+
+#: src/IconCollection.vala:628
+msgid "Lock the screen or the user's session"
+msgstr ""
+
+#: src/IconCollection.vala:633
+msgid "Log out of the user's session"
+msgstr ""
+
+#: src/IconCollection.vala:638
+msgid "Run a system app or command"
+msgstr ""
+
+#: src/IconCollection.vala:643
+msgid "Search the system"
+msgstr ""
+
+#: src/IconCollection.vala:648
+msgid "Restart the device"
+msgstr ""
+
+#: src/IconCollection.vala:653
+msgid "Shut the device down"
+msgstr ""
+
+#: src/IconCollection.vala:658
+msgid "Create a new tag"
+msgstr ""
+
+#: src/IconCollection.vala:663
+msgid "Check spelling"
+msgstr ""
+
+#: src/IconCollection.vala:668
+msgid "Set or adjust a timer"
+msgstr ""
+
+#: src/IconCollection.vala:673
+msgid "Display the current view as columns"
+msgstr ""
+
+#: src/IconCollection.vala:678
+msgid "display the current view in a continously scrolling list"
+msgstr ""
+
+#: src/IconCollection.vala:683
+msgid "display the current view as a split, dual view"
+msgstr ""
+
+#: src/IconCollection.vala:688
+msgid "View fullscreen"
+msgstr ""
+
+#: src/IconCollection.vala:693
+msgid "Display the current view as a grid of images or icons"
+msgstr ""
+
+#: src/IconCollection.vala:698
+msgid "Refresh or reload the current view"
+msgstr ""
+
+#: src/IconCollection.vala:703
+msgid "Leave fullscreen and return to a normal window"
+msgstr ""
+
+#: src/IconCollection.vala:708
+msgid "View more information about the given context in a popover or menu"
+msgstr ""
+
+#: src/IconCollection.vala:713
+msgid "View more information about the given context in a new view or window"
+msgstr ""
+
+#: src/IconCollection.vala:718
+msgid "Display the current view as a collection of pages"
+msgstr ""
+
+#: src/IconCollection.vala:723
+msgid "Pin the current view so that it does not automatically hide"
+msgstr ""
+
+#: src/IconCollection.vala:728
+msgid "Sort items in an ascending order, such as in a list"
+msgstr ""
+
+#: src/IconCollection.vala:733
+msgid "Sort items in a descending order, such as in a list"
+msgstr ""
+
+#: src/IconCollection.vala:738
+msgid "Close the window"
+msgstr ""
+
+#: src/IconCollection.vala:743
+msgid "Create a new window"
+msgstr ""
+
+#: src/IconCollection.vala:748
+msgid "Zoom to the best fit"
+msgstr ""
+
+#: src/IconCollection.vala:753
+msgid "Zoom in"
+msgstr ""
+
+#: src/IconCollection.vala:758
+msgid "Zoom to the original size"
+msgstr ""
+
+#: src/IconCollection.vala:763
+msgid "Zoom out"
+msgstr ""
+
+#: src/IconCollection.vala:768
+msgid "Calculator"
+msgstr ""
+
+#: src/IconCollection.vala:773
+msgid "International and extended text character map"
+msgstr ""
+
+#: src/IconCollection.vala:778
+msgid "Dictionary"
+msgstr ""
+
+#: src/IconCollection.vala:783
+msgid "Screenshot application"
+msgstr ""
+
+#: src/IconCollection.vala:788
+msgid "Text editor"
+msgstr ""
+
+#: src/IconCollection.vala:793
+msgid "Default or unprovided app icon"
+msgstr ""
+
+#: src/IconCollection.vala:798
+msgid "Files"
+msgstr ""
+
+#: src/IconCollection.vala:803
+msgid "AppCenter or software installer"
+msgstr ""
+
+#: src/IconCollection.vala:808
+msgid "Software updater"
+msgstr ""
+
+#: src/IconCollection.vala:813
+msgid "System resource monitor"
+msgstr ""
+
+#: src/IconCollection.vala:818
+msgid "Terminal"
+msgstr ""
+
+#: src/IconCollection.vala:823
+msgid "Accessory or utility app category"
+msgstr ""
+
+#: src/IconCollection.vala:828
+msgid "Programming, software development, code, or IDE app category"
+msgstr ""
+
+#: src/IconCollection.vala:833
+msgid "Education, learning, or school app category"
+msgstr ""
+
+#: src/IconCollection.vala:838
+msgid "Engineering app category"
+msgstr ""
+
+#: src/IconCollection.vala:843
+msgid "Games app category"
+msgstr ""
+
+#: src/IconCollection.vala:848
+msgid "Graphics, drawing, art, or photo manipulation app category"
+msgstr ""
+
+#: src/IconCollection.vala:853
+msgid "Internet or web related app category"
+msgstr ""
+
+#: src/IconCollection.vala:858
+msgid "Multimedia, audio, or video app category"
+msgstr ""
+
+#: src/IconCollection.vala:863
+msgid "Office app category"
+msgstr ""
+
+#: src/IconCollection.vala:868
+msgid "Other or uncategorized app category"
+msgstr ""
+
+#: src/IconCollection.vala:873
+msgid "Science app category"
+msgstr ""
+
+#: src/IconCollection.vala:878
+msgid "System tools or OS app category"
+msgstr ""
+
+#: src/IconCollection.vala:883
+msgid "Utility app category"
+msgstr ""
+
+#: src/IconCollection.vala:888
+msgid "Bluetooth settings"
+msgstr ""
+
+#: src/IconCollection.vala:893
+msgid "Color settings such as printer, display, or camera calibration"
+msgstr ""
+
+#: src/IconCollection.vala:898
+msgid "Desktop interface settings"
+msgstr ""
+
+#: src/IconCollection.vala:903
+msgid "Universal access settings"
+msgstr ""
+
+#: src/IconCollection.vala:908
+msgid "Universal access settings for pointing, such as controlling the cursor"
+msgstr ""
+
+#: src/IconCollection.vala:913
+msgid "Universal access settings for zooming or magnifying"
+msgstr ""
+
+#: src/IconCollection.vala:918
+msgid "App-related settings, such as default or startup apps"
+msgstr ""
+
+#: src/IconCollection.vala:923
+msgid "Display settings, such as resolution or scaling"
+msgstr ""
+
+#: src/IconCollection.vala:928
+msgid "Font settings"
+msgstr ""
+
+#: src/IconCollection.vala:933
+msgid "Keyboard settings, such as layout or shortcuts"
+msgstr ""
+
+#: src/IconCollection.vala:938
+msgid "International localization, language, or region settings"
+msgstr ""
+
+#: src/IconCollection.vala:943
+msgid "Online account and cloud sync or sign in settings"
+msgstr ""
+
+#: src/IconCollection.vala:948
+msgid "Settings for peripherals, such as a mouse or keyboard"
+msgstr ""
+
+#: src/IconCollection.vala:953
+msgid "Sound or audio input and output settings"
+msgstr ""
+
+#: src/IconCollection.vala:958
+msgid "Look and feel, appearance, style, or theme settings"
+msgstr ""
+
+#: src/IconCollection.vala:963
+msgid "Desktop wallpaper or background settings"
+msgstr ""
+
+#: src/IconCollection.vala:968
+msgid "Other, miscellaneous, or uncategorized settings"
+msgstr ""
+
+#: src/IconCollection.vala:973
+msgid "System settings or preferences"
+msgstr ""
+
+#: src/IconCollection.vala:978
+msgid "Network settings, such as wireless, Ethernet, or VPN"
+msgstr ""
+
+#: src/IconCollection.vala:983
+msgid "Notification alert settings"
+msgstr ""
+
+#: src/IconCollection.vala:988
+msgid "Power management or energy usage settings, such as battery"
+msgstr ""
+
+#: src/IconCollection.vala:993
+msgid "Privacy and security settings"
+msgstr ""
+
+#: src/IconCollection.vala:998
+msgid ""
+"Sharing settings, such as library sharing or media streaming over a network"
+msgstr ""
+
+#: src/IconCollection.vala:1003
+msgid "Time and date settings"
+msgstr ""
+
+#: src/IconCollection.vala:1008
+msgid "Window management settings"
+msgstr ""
+
+#: src/IconCollection.vala:1013
+msgid "Help"
+msgstr ""
+
+#: src/IconCollection.vala:1018
+msgid "Audio output device, such as a sound card or speaker"
+msgstr ""
+
+#: src/IconCollection.vala:1023
+msgid "Audio output device representing headphones"
+msgstr ""
+
+#: src/IconCollection.vala:1028
+msgid "Audio output device representing a headset"
+msgstr ""
+
+#: src/IconCollection.vala:1033
+msgid "Microphone"
+msgstr ""
+
+#: src/IconCollection.vala:1038
+msgid "Subwoofer or bass speaker"
+msgstr ""
+
+#: src/IconCollection.vala:1043
+msgid "Battery"
+msgstr ""
+
+#: src/IconCollection.vala:1048
+msgid "Bluetooth"
+msgstr ""
+
+#: src/IconCollection.vala:1053
+msgid "Digital photo or still camera"
+msgstr ""
+
+#: src/IconCollection.vala:1058
+msgid "Video or movie camera"
+msgstr ""
+
+#: src/IconCollection.vala:1063
+msgid "Webcam or built-in camera"
+msgstr ""
+
+#: src/IconCollection.vala:1068
+msgid "Generic or desktop computer"
+msgstr ""
+
+#: src/IconCollection.vala:1073
+msgid "Laptop or notebook computer"
+msgstr ""
+
+#: src/IconCollection.vala:1078
+msgid "Hard disk or storage drive"
+msgstr ""
+
+#: src/IconCollection.vala:1083
+msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
+msgstr ""
+
+#: src/IconCollection.vala:1088
+msgid "Removable storage device, such as a portable hard drive"
+msgstr ""
+
+#: src/IconCollection.vala:1093
+msgid "USB drive or stick, such as a flash, jump, or thumb drive"
+msgstr ""
+
+#: src/IconCollection.vala:1098
+msgid "Video game controller, such as a paddle, remote, or joystick"
+msgstr ""
+
+#: src/IconCollection.vala:1103
+msgid "Keyboard"
+msgstr ""
+
+#: src/IconCollection.vala:1108
+msgid "Mouse"
+msgstr ""
+
+#: src/IconCollection.vala:1113
+msgid ""
+"Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
+"Bamboo"
+msgstr ""
+
+#: src/IconCollection.vala:1118
+msgid "Touchpad input, such as a multitouch trackpad or clickpad"
+msgstr ""
+
+#: src/IconCollection.vala:1123
+msgid "Flash media such as a memory stick or SD card"
+msgstr ""
+
+#: src/IconCollection.vala:1128
+msgid "Optical media, such as a CD, DVD, or Blu-ray disc"
+msgstr ""
+
+#: src/IconCollection.vala:1133
+msgid "Network modem or router"
+msgstr ""
+
+#: src/IconCollection.vala:1138
+msgid "Media player device, such as a portable mp3 music player or iPod"
+msgstr ""
+
+#: src/IconCollection.vala:1143
+msgid ""
+"Cellular type wireless network or device, such as a 2G, 3G, or 4G LTE "
+"connection, modem, or SIM card"
+msgstr ""
+
+#: src/IconCollection.vala:1148
+msgid "Networking firewall"
+msgstr ""
+
+#: src/IconCollection.vala:1153
+msgid "Virtual private network or VPN connection"
+msgstr ""
+
+#: src/IconCollection.vala:1158
+msgid "Wired network connection, such as Ethernet"
+msgstr ""
+
+#: src/IconCollection.vala:1163
+msgid "Wireless network connection, such as Wi-Fi"
+msgstr ""
+
+#: src/IconCollection.vala:1168
+msgid ""
+"Wireless hotspot connection, such as through a mobile cellular phone or "
+"smartphone"
+msgstr ""
+
+#: src/IconCollection.vala:1173
+msgid "Generic phone, such as a mobile Android smartphone or iPhone"
+msgstr ""
+
+#: src/IconCollection.vala:1178
+msgid "Printer"
+msgstr ""
+
+#: src/IconCollection.vala:1183
+msgid "Network-connected or shared printer"
+msgstr ""
+
+#: src/IconCollection.vala:1188
+msgid "Scanner"
+msgstr ""
+
+#: src/IconCollection.vala:1193
+msgid "Display, screen, or monitor"
+msgstr ""
+
+#: src/IconCollection.vala:1198
+msgid "Default selection emblem, such as for a printer or other device"
+msgstr ""
+
+#: src/IconCollection.vala:1203
+msgid "Disabled feature or service emblem"
+msgstr ""
+
+#: src/IconCollection.vala:1208
+msgid "Documents emblem"
+msgstr ""
+
+#: src/IconCollection.vala:1213
+msgid "Downloads emblem"
+msgstr ""
+
+#: src/IconCollection.vala:1218
+msgid "Enabled feature or service emblem"
+msgstr ""
+
+#: src/IconCollection.vala:1223
+msgid "Emblem for the error status of a feature or service"
+msgstr ""
+
+#: src/IconCollection.vala:1228
+msgid "Item the user has marked as a favorite"
+msgstr ""
+
+#: src/IconCollection.vala:1233
+msgid "Item marked as important"
+msgstr ""
+
+#: src/IconCollection.vala:1238
+msgid "Item related to email"
+msgstr ""
+
+#: src/IconCollection.vala:1243
+msgid "Emblem for the partially enabled status of a feature or service"
+msgstr ""
+
+#: src/IconCollection.vala:1248
+msgid "Photos emblem"
+msgstr ""
+
+#: src/IconCollection.vala:1253
+msgid "Item is read-only, or the user cannot write to or make changes to it"
+msgstr ""
+
+#: src/IconCollection.vala:1258
+msgid "Item shared with other people or users"
+msgstr ""
+
+#: src/IconCollection.vala:1263
+msgid "Item is a symbolic link to a file somewhere else"
+msgstr ""
+
+#: src/IconCollection.vala:1268
+msgid "Item is configured to be synchronized to another device or location"
+msgstr ""
+
+#: src/IconCollection.vala:1273
+msgid "Item is a system file, library, setting, or data"
+msgstr ""
+
+#: src/IconCollection.vala:1278
+msgid "Item is unreadable or inaccessible"
+msgstr ""
+
+#: src/IconCollection.vala:1283
+msgid "Emblem for the warning status of a feature or service"
+msgstr ""
+
+#: src/IconCollection.vala:1288
+msgid "0:-) emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1293
+msgid "X-( emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1298
+msgid "B-) emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1303
+msgid ":'( emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1308
+msgid ">:-) emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1313
+msgid ":-[ emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1318
+msgid "<3 emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1323
+msgid "</3 emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1328
+msgid ":-* emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1333
+msgid ":-)) emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1338
+msgid ":-(|) emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1343
+msgid ":-| emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1348
+msgid ":-P emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1353
+msgid ":-( emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1358
+msgid ":-& emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1363
+msgid ":-) emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1368
+msgid ":-D emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1373
+msgid ":-! emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1378
+msgid ":-0 emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1383
+msgid "|-) emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1388
+msgid ":-/ emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1393
+msgid ";-) emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1398
+msgid ":-S emoticon"
+msgstr ""
+
+#: src/IconCollection.vala:1403
+msgid "EPUB Ebook file types"
+msgstr ""
+
+#: src/IconCollection.vala:1408
+msgid "Adobe Illustrator image file types"
+msgstr ""
+
+#: src/IconCollection.vala:1413
+msgid "Javascript programming language file types"
+msgstr ""
+
+#: src/IconCollection.vala:1418
+msgid "Microsoft Word file types"
+msgstr ""
+
+#: src/IconCollection.vala:1423
+msgid "Binary file types"
+msgstr ""
+
+#: src/IconCollection.vala:1428
+msgid "PDF file types"
+msgstr ""
+
+#: src/IconCollection.vala:1433
+msgid "PGP file types"
+msgstr ""
+
+#: src/IconCollection.vala:1438
+msgid "Debian package file types"
+msgstr ""
+
+#: src/IconCollection.vala:1443
+msgid "Flatpak reference file types"
+msgstr ""
+
+#: src/IconCollection.vala:1448
+msgid "Microsoft Access file types"
+msgstr ""
+
+#: src/IconCollection.vala:1453
+msgid "Microsoft Excel file types"
+msgstr ""
+
+#: src/IconCollection.vala:1458
+msgid "Microsoft PowerPoint file types"
+msgstr ""
+
+#: src/IconCollection.vala:1463
+msgid "Oasis OpenDocument file types"
+msgstr ""
+
+#: src/IconCollection.vala:1468
+msgid "Torrent file types"
+msgstr ""
+
+#: src/IconCollection.vala:1473
+msgid "CD Image file types"
+msgstr ""
+
+#: src/IconCollection.vala:1478
+msgid "Desktop file types"
+msgstr ""
+
+#: src/IconCollection.vala:1483
+msgid "Executable file types"
+msgstr ""
+
+#: src/IconCollection.vala:1488
+msgid "FictionBook file types"
+msgstr ""
+
+#: src/IconCollection.vala:1493
+msgid "Firmware file types"
+msgstr ""
+
+#: src/IconCollection.vala:1498
+msgid "PHP programming language file types"
+msgstr ""
+
+#: src/IconCollection.vala:1503
+msgid "Ruby programming language file types"
+msgstr ""
+
+#: src/IconCollection.vala:1508
+msgid "Shared library file types"
+msgstr ""
+
+#: src/IconCollection.vala:1513
+msgid "Generic audio file types"
+msgstr ""
+
+#: src/IconCollection.vala:1518
+msgid "Audio playlist file types"
+msgstr ""
+
+#: src/IconCollection.vala:1523
+msgid "Extension"
+msgstr ""
+
+#: src/IconCollection.vala:1528
+msgid "Generic font file types"
+msgstr ""
+
+#: src/IconCollection.vala:1533
+msgid "Adobe Photoshop image file types"
+msgstr ""
+
+#: src/IconCollection.vala:1538
+msgid "Generic image file types"
+msgstr ""
+
+#: src/IconCollection.vala:1543
+msgid "XCF image file types"
+msgstr ""
+
+#: src/IconCollection.vala:1548
+msgid "Internet Feed"
+msgstr ""
+
+#: src/IconCollection.vala:1553
+msgid "Model"
+msgstr ""
+
+#: src/IconCollection.vala:1558
+msgid "Contact file types"
+msgstr ""
+
+#: src/IconCollection.vala:1563
+msgid "Database file types"
+msgstr ""
+
+#: src/IconCollection.vala:1568
+msgid "Generic package file types"
+msgstr ""
+
+#: src/IconCollection.vala:1573
+msgid "Credit or debit card payments"
+msgstr ""
+
+#: src/IconCollection.vala:1578
+msgid "American Express branded credit or debit card payments"
+msgstr ""
+
+#: src/IconCollection.vala:1583
+msgid "Diner's Club branded credit or debit card payments"
+msgstr ""
+
+#: src/IconCollection.vala:1588
+msgid "Discover branded credit or debit card payments"
+msgstr ""
+
+#: src/IconCollection.vala:1593
+msgid "Japan Credit Bureau branded credit or debit card payments"
+msgstr ""
+
+#: src/IconCollection.vala:1598
+msgid "Mastercard branded credit or debit card payments"
+msgstr ""
+
+#: src/IconCollection.vala:1603
+msgid "China UnionPay branded credit or debit card payments"
+msgstr ""
+
+#: src/IconCollection.vala:1608
+msgid "Visa branded credit or debit card payments"
+msgstr ""
+
+#: src/IconCollection.vala:1613
+msgid "CSS text file types"
+msgstr ""
+
+#: src/IconCollection.vala:1618
+msgid "HTML text file types"
+msgstr ""
+
+#: src/IconCollection.vala:1623
+msgid "Markdown text file types"
+msgstr ""
+
+#: src/IconCollection.vala:1628
+msgid "Bibtext file types"
+msgstr ""
+
+#: src/IconCollection.vala:1633
+msgid "Changelog file types"
+msgstr ""
+
+#: src/IconCollection.vala:1638
+msgid "C programming language header file types"
+msgstr ""
+
+#: src/IconCollection.vala:1643
+msgid "License file types"
+msgstr ""
+
+#: src/IconCollection.vala:1648
+msgid "C programming language file types"
+msgstr ""
+
+#: src/IconCollection.vala:1653
+msgid "Generic text file types"
+msgstr ""
+
+#: src/IconCollection.vala:1658
+msgid "Generic text templates"
+msgstr ""
+
+#: src/IconCollection.vala:1663
+msgid "Gettext translation file types"
+msgstr ""
+
+#: src/IconCollection.vala:1668
+msgid "Gettext translation model file types"
+msgstr ""
+
+#: src/IconCollection.vala:1673
+msgid "Go programming language file types"
+msgstr ""
+
+#: src/IconCollection.vala:1678
+msgid "Install file types"
+msgstr ""
+
+#: src/IconCollection.vala:1683
+msgid "Makefile file types"
+msgstr ""
+
+#: src/IconCollection.vala:1688
+msgid "Preview file types"
+msgstr ""
+
+#: src/IconCollection.vala:1693
+msgid "Python programming language file types"
+msgstr ""
+
+#: src/IconCollection.vala:1698
+msgid "Readme file types"
+msgstr ""
+
+#: src/IconCollection.vala:1703
+msgid "Sass programming language file types"
+msgstr ""
+
+#: src/IconCollection.vala:1708
+msgid "Script file types, such as shell scripts"
+msgstr ""
+
+#: src/IconCollection.vala:1713
+msgid "SSA file types"
+msgstr ""
+
+#: src/IconCollection.vala:1718
+msgid "TEX file types"
+msgstr ""
+
+#: src/IconCollection.vala:1723
+msgid "Vala programming language file types"
+msgstr ""
+
+#: src/IconCollection.vala:1728
+msgid "Unknown file types"
+msgstr ""
+
+#: src/IconCollection.vala:1733
+msgid "Generic video file types"
+msgstr ""
+
+#: src/IconCollection.vala:1738
+msgid "Generic address book file types"
+msgstr ""
+
+#: src/IconCollection.vala:1743
+msgid "Generic calendar file types"
+msgstr ""
+
+#: src/IconCollection.vala:1748
+msgid "Generic document and letter file types"
+msgstr ""
+
+#: src/IconCollection.vala:1753
+msgid "Generic document and letter template file types"
+msgstr ""
+
+#: src/IconCollection.vala:1758
+msgid "Generic drawing file types"
+msgstr ""
+
+#: src/IconCollection.vala:1763
+msgid "Generic drawing template file types"
+msgstr ""
+
+#: src/IconCollection.vala:1768
+msgid "Generic presentation file types"
+msgstr ""
+
+#: src/IconCollection.vala:1773
+msgid "Generic presentation template file types"
+msgstr ""
+
+#: src/IconCollection.vala:1778
+msgid "Generic spreadsheet file types"
+msgstr ""
+
+#: src/IconCollection.vala:1783
+msgid "Generic spreadsheet template file types"
+msgstr ""
+
+#: src/IconCollection.vala:1788
+msgid "Bookmark missing"
+msgstr ""
+
+#: src/IconCollection.vala:1793
+msgid "Distributor logo"
+msgstr ""
+
+#: src/IconCollection.vala:1798
+msgid "Folder"
+msgstr ""
+
+#: src/IconCollection.vala:1803
+msgid "Documents folder"
+msgstr ""
+
+#: src/IconCollection.vala:1808
+msgid "Downloads folder"
+msgstr ""
+
+#: src/IconCollection.vala:1813
+msgid "Folder drag accept"
+msgstr ""
+
+#: src/IconCollection.vala:1818
+msgid "Music folder"
+msgstr ""
+
+#: src/IconCollection.vala:1823
+msgid "Open folder"
+msgstr ""
+
+#: src/IconCollection.vala:1828
+msgid "Pictures folder"
+msgstr ""
+
+#: src/IconCollection.vala:1833
+msgid "Publicshare folder"
+msgstr ""
+
+#: src/IconCollection.vala:1838
+msgid "Recent folder"
+msgstr ""
+
+#: src/IconCollection.vala:1843
+msgid "Remote folder"
+msgstr ""
+
+#: src/IconCollection.vala:1848
+msgid "Saved search folder"
+msgstr ""
+
+#: src/IconCollection.vala:1853
+msgid "Templates folder"
+msgstr ""
+
+#: src/IconCollection.vala:1858
+msgid "Videos folder"
+msgstr ""
+
+#: src/IconCollection.vala:1863
+msgid "Internet radio"
+msgstr ""
+
+#: src/IconCollection.vala:1868
+msgid "Audiobook library"
+msgstr ""
+
+#: src/IconCollection.vala:1873
+msgid "Library places"
+msgstr ""
+
+#: src/IconCollection.vala:1878
+msgid "Podcast library"
+msgstr ""
+
+#: src/IconCollection.vala:1883
+msgid "Mail inbox"
+msgstr ""
+
+#: src/IconCollection.vala:1888
+msgid "Mail mailbox"
+msgstr ""
+
+#: src/IconCollection.vala:1893
+msgid "Mail outbox"
+msgstr ""
+
+#: src/IconCollection.vala:1898
+msgid "Mail sent"
+msgstr ""
+
+#: src/IconCollection.vala:1903
+msgid "Network server"
+msgstr ""
+
+#: src/IconCollection.vala:1908
+msgid "Network workgroup"
+msgstr ""
+
+#: src/IconCollection.vala:1913
+msgid "Playlist"
+msgstr ""
+
+#: src/IconCollection.vala:1918
+msgid "Automatic playlist"
+msgstr ""
+
+#: src/IconCollection.vala:1923
+msgid "Playlist queue"
+msgstr ""
+
+#: src/IconCollection.vala:1928
+msgid "Similar playlist"
+msgstr ""
+
+#: src/IconCollection.vala:1933
+msgid "Tag"
+msgstr ""
+
+#: src/IconCollection.vala:1938
+msgid "Bookmarks"
+msgstr ""
+
+#: src/IconCollection.vala:1943
+msgid "Home"
+msgstr ""
+
+#: src/IconCollection.vala:1948
+msgid "Trash"
+msgstr ""
+
+#: src/IconCollection.vala:1953
+msgid "Trash full"
+msgstr ""
+
+#: src/IconCollection.vala:1958
+msgid "Airplane mode, where wireless radios are disabled or off"
+msgstr ""
+
+#: src/IconCollection.vala:1963
+msgid "An appointment or calendar event was missed"
+msgstr ""
+
+#: src/IconCollection.vala:1968
+msgid "An appointment or calendar event will be happening soon"
+msgstr ""
+
+#: src/IconCollection.vala:1973
+msgid "High or loud audio volume"
+msgstr ""
+
+#: src/IconCollection.vala:1978
+msgid "Low or quiet audio volume"
+msgstr ""
+
+#: src/IconCollection.vala:1983
+msgid "Medium or normal audio volume"
+msgstr ""
+
+#: src/IconCollection.vala:1988
+msgid "Audio volume is muted or off"
+msgstr ""
+
+#: src/IconCollection.vala:1993
+msgid ""
+"Audio volume is muted or off and something is being blocked from making noise"
+msgstr ""
+
+#: src/IconCollection.vala:1998
+msgid ""
+"The default avatar to represent a user, such as someone who has not set a "
+"profile picture"
+msgstr ""
+
+#: src/IconCollection.vala:2003
+msgid "A charger or AC adapter for a battery-powered device"
+msgstr ""
+
+#: src/IconCollection.vala:2008
+msgid "Low battery level"
+msgstr ""
+
+#: src/IconCollection.vala:2013
+msgid "Low battery level, plugged into a charger or AC adapter"
+msgstr ""
+
+#: src/IconCollection.vala:2018
+msgid "Critically low battery level"
+msgstr ""
+
+#: src/IconCollection.vala:2023
+msgid "Critically low battery, plugged into a charger or AC adapter"
+msgstr ""
+
+#: src/IconCollection.vala:2028
+msgid "Mostly charged battery level"
+msgstr ""
+
+#: src/IconCollection.vala:2033
+msgid "Completely charged battery level"
+msgstr ""
+
+#: src/IconCollection.vala:2038
+msgid "Mostly charged battery level, plugged into a charger or AC adapter"
+msgstr ""
+
+#: src/IconCollection.vala:2043
+msgid "Medium-high charged battery level"
+msgstr ""
+
+#: src/IconCollection.vala:2048
+msgid "Medium-high charged battery level, plugged into a charger or AC adapter"
+msgstr ""
+
+#: src/IconCollection.vala:2053
+msgid "Medium-low charged battery level"
+msgstr ""
+
+#: src/IconCollection.vala:2058
+msgid "Medium-low charged battery level, plugged into a charger or AC adapter"
+msgstr ""
+
+#: src/IconCollection.vala:2063
+msgid "Missing or malfunctioning battery"
+msgstr ""
+
+#: src/IconCollection.vala:2068
+msgid "Allow changes by unlocking such as with a password"
+msgstr ""
+
+#: src/IconCollection.vala:2073
+msgid "Prevent changes by locking such as with a password"
+msgstr ""
+
+#: src/IconCollection.vala:2078
+msgid ""
+"Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
+msgstr ""
+
+#: src/IconCollection.vala:2083
+msgid ""
+"Secure or encrypted communication or connection, such as HTTPS or encrypted "
+"Wi-Fi"
+msgstr ""
+
+#: src/IconCollection.vala:2088
+msgid "Critical, unrecoverable, or other serious error"
+msgstr ""
+
+#: src/IconCollection.vala:2093
+msgid "Contextual information or explanation"
+msgstr ""
+
+#: src/IconCollection.vala:2098
+msgid "Requesting authentication details, such as a password or encryption key"
+msgstr ""
+
+#: src/IconCollection.vala:2103
+msgid "Question, decision, or choice for the user"
+msgstr ""
+
+#: src/IconCollection.vala:2108
+msgid "Warning of potentially dangerous actions or consequences"
+msgstr ""
+
+#: src/IconCollection.vala:2113
+msgid "Placeholder used when an image or thumbnail is loading"
+msgstr ""
+
+#: src/IconCollection.vala:2118
+msgid ""
+"Placeholder used when an image or thumbnail is missing or cannot be loaded"
+msgstr ""
+
+#: src/IconCollection.vala:2123
+msgid "Location services are in use"
+msgstr ""
+
+#: src/IconCollection.vala:2128
+msgid "Location services are disabled and unavailable"
+msgstr ""
+
+#: src/IconCollection.vala:2133
+msgid "Location services are available, but not in use"
+msgstr ""
+
+#: src/IconCollection.vala:2138
+msgid ""
+"Locked or secured, typically requiring authentication or a password to unlock"
+msgstr ""
+
+#: src/IconCollection.vala:2143
+msgid "Mail attachment or file in an email"
+msgstr ""
+
+#: src/IconCollection.vala:2148
+msgid "New, unread, or unviewed email"
+msgstr ""
+
+#: src/IconCollection.vala:2153
+msgid "Read or already-viewed email"
+msgstr ""
+
+#: src/IconCollection.vala:2158
+msgid "Email that has been replied or responded to"
+msgstr ""
+
+#: src/IconCollection.vala:2163
+msgid "Email that contains a signature"
+msgstr ""
+
+#: src/IconCollection.vala:2168
+msgid "Email that contains a signature that is verified by the security system"
+msgstr ""
+
+#: src/IconCollection.vala:2173
+msgid "Repeat a song, video, track, album, playlist, or other media"
+msgstr ""
+
+#: src/IconCollection.vala:2178
+msgid "Shuffle or randomize an album, playlist, or other media"
+msgstr ""
+
+#: src/IconCollection.vala:2183
+msgid "Error or problem initializing or creating a network connection"
+msgstr ""
+
+#: src/IconCollection.vala:2188
+msgid "No data being transmitted or received while connected to a network"
+msgstr ""
+
+#: src/IconCollection.vala:2193
+msgid "Disconnected or offline from a network"
+msgstr ""
+
+#: src/IconCollection.vala:2198
+msgid "Data is being received over a network"
+msgstr ""
+
+#: src/IconCollection.vala:2203
+msgid "Data is being transmitted over a network"
+msgstr ""
+
+#: src/IconCollection.vala:2208
+msgid ""
+"Data is being both transmitted and received simultaneously over a network"
+msgstr ""
+
+#: src/IconCollection.vala:2213
+msgid "Wired network, such as Ethernet, is disconnected"
+msgstr ""
+
+#: src/IconCollection.vala:2218
+msgid "Item is not starred, favorited, or pinned by the user"
+msgstr ""
+
+#: src/IconCollection.vala:2223
+msgid "Notifications are disabled or in Do-Not-Disturb mode"
+msgstr ""
+
+#: src/IconCollection.vala:2228
+msgid "Error or problem occurred when attempting to print"
+msgstr ""
+
+#: src/IconCollection.vala:2233
+msgid "Job has been successfully spooled or sent to a printer"
+msgstr ""
+
+#: src/IconCollection.vala:2238
+msgid "Process, job, or task has successfully completed or finished"
+msgstr ""
+
+#: src/IconCollection.vala:2243
+msgid "Process, job, or task has failed or been unsuccessful"
+msgstr ""
+
+#: src/IconCollection.vala:2248
+msgid "Process, job, or task is currently paused or on hold"
+msgstr ""
+
+#: src/IconCollection.vala:2253
+msgid ""
+"Known to be secure, such as using strong encryption and a valid, verified, "
+"or trusted certificate"
+msgstr ""
+
+#: src/IconCollection.vala:2258
+msgid "Presumed to be secure, such as using encryption"
+msgstr ""
+
+#: src/IconCollection.vala:2263
+msgid ""
+"Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
+"an invalid, unverified, or untrusted certificate"
+msgstr ""
+
+#: src/IconCollection.vala:2268
+msgid "Updated apps, software, or drivers are available"
+msgstr ""
+
+#: src/IconCollection.vala:2273
+msgid "Urgent or critical updates are available"
+msgstr ""
+
+#: src/IconCollection.vala:2278
+msgid "Item is starred, favorited, or pinned by the user"
+msgstr ""
+
+#: src/IconCollection.vala:2283
+msgid "Task is due soon"
+msgstr ""
+
+#: src/IconCollection.vala:2288
+msgid "Task is incomplete past the due date"
+msgstr ""
+
+#: src/IconCollection.vala:2293
+msgid "User, person, or contact is available or online"
+msgstr ""
+
+#: src/IconCollection.vala:2298
+msgid "User, person, or contact is away or unavailable"
+msgstr ""
+
+#: src/IconCollection.vala:2303
+msgid "User, person, or contact is idle or unresponsive"
+msgstr ""
+
+#: src/IconCollection.vala:2308
+msgid "User, person, or contact is offline or unreachable"
+msgstr ""
+
+#: src/IconCollection.vala:2313
+msgid "Private, anonymous, untracked, or incognito"
+msgstr ""
+
+#: src/IconCollection.vala:2318
+msgid "Clear skies or sunny weather"
+msgstr ""
+
+#: src/IconCollection.vala:2323
+msgid "Clear skies weather during the night"
+msgstr ""
+
+#: src/IconCollection.vala:2328
+msgid "Partly cloudy, partly clear, or partly sunny weather"
+msgstr ""
+
+#: src/IconCollection.vala:2333
+msgid "Partly cloudy or partly clear weather during the night"
+msgstr ""
+
+#: src/IconCollection.vala:2338
+msgid "Foggy weather"
+msgstr ""
+
+#: src/IconCollection.vala:2343
+msgid "Overcast or cloudy weather"
+msgstr ""
+
+#: src/IconCollection.vala:2348
+msgid "Severe or critical weather warning or alert"
+msgstr ""
+
+#: src/IconCollection.vala:2353
+msgid "Showers or rainy weather"
+msgstr ""
+
+#: src/IconCollection.vala:2358
+msgid "Scattered showers or partly rainy weather"
+msgstr ""
+
+#: src/IconCollection.vala:2363
+msgid "Snow showers or snowy weather"
+msgstr ""
+
+#: src/IconCollection.vala:2368
+msgid "Thunderstorms or stormy weather"
+msgstr ""
+
+#: src/IconView.vala:61
+msgid "Color Icons"
+msgstr ""
+
+#: src/IconView.vala:68
+msgid "Symbolic Icons"
+msgstr ""
+
+#: src/IconView.vala:81
+msgid "Code Sample"
+msgstr ""
+
+#: src/IconView.vala:223
+msgid "Copied!"
+msgstr ""
+
+#: src/IconView.vala:239
+msgid "Unavailable"
+msgstr ""
+
+#: src/MainWindow.vala:16
+msgid "Icon Browser"
+msgstr ""
+
+#: src/MainWindow.vala:19
+msgid "Light background"
+msgstr ""
+
+#: src/MainWindow.vala:20
+msgid "Dark background"
+msgstr ""
