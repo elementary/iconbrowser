@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.github.danrabbit.lookbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-19 21:17+0000\n"
-"PO-Revision-Date: 2025-02-06 16:19+0000\n"
+"PO-Revision-Date: 2025-02-07 17:16+0000\n"
 "Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
 "Language-Team: French <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/fr/>\n"
@@ -1096,7 +1096,7 @@ msgstr "Emblème pour l'état d'avertissement d'une fonctionnalité ou service"
 
 #: src/IconCollection.vala:1288
 msgid "0:-) emoticon"
-msgstr "Émoji 0:)"
+msgstr "Émoji 0:-)"
 
 #: src/IconCollection.vala:1293
 msgid "X-( emoticon"
@@ -1112,7 +1112,7 @@ msgstr "Émoji :'("
 
 #: src/IconCollection.vala:1308
 msgid ">:-) emoticon"
-msgstr "Émoji >:("
+msgstr "Émoji >:-("
 
 #: src/IconCollection.vala:1313
 msgid ":-[ emoticon"
@@ -1228,7 +1228,7 @@ msgstr "Types de fichiers Microsoft Access"
 
 #: src/IconCollection.vala:1453
 msgid "Microsoft Excel file types"
-msgstr "Types de fichiers Microsoft Access"
+msgstr "Types de fichiers Microsoft Excel"
 
 #: src/IconCollection.vala:1458
 msgid "Microsoft PowerPoint file types"
@@ -2036,7 +2036,7 @@ msgstr "Exemple de code"
 
 #: src/IconView.vala:223
 msgid "Copied!"
-msgstr "Copié !"
+msgstr "Copié !"
 
 #: src/IconView.vala:239
 msgid "Unavailable"
