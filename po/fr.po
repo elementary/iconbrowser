@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-19 21:17+0000\n"
 "PO-Revision-Date: 2025-02-06 16:19+0000\n"
-"Last-Translator: rom <rmel@ikmail.com>\n"
+"Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
 "Language-Team: French <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/fr/>\n"
 "Language: fr\n"
@@ -458,10 +458,8 @@ msgid "Send an email"
 msgstr "Envoyer un e-mail"
 
 #: src/IconCollection.vala:548
-#, fuzzy
-#| msgid "Send an email"
 msgid "Send and receive all email"
-msgstr "Envoyer un e-mail"
+msgstr "Envoyer et recevoir tous les e-mails"
 
 #: src/IconCollection.vala:553
 msgid "Eject removable media"
