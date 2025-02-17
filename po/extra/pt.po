@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-19 21:17+0000\n"
-"PO-Revision-Date: 2022-11-06 22:57+0000\n"
+"PO-Revision-Date: 2025-02-18 01:16+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
 "extra/pt/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:10
 msgid "Icon Browser"
@@ -42,7 +42,7 @@ msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:18
 msgid "Browse system icons"
-msgstr "Explore ícones do sistema"
+msgstr "Explorar ícones do sistema"
 
 #: data/iconbrowser.appdata.xml.in:22
 msgid "Search by description"
@@ -50,20 +50,20 @@ msgstr "Procurar por descrição"
 
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Update icon list to match Platform 8"
-msgstr ""
+msgstr "Atualizar a lista de ícones para corresponder à plataforma 8"
 
 #: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:58
 #: data/iconbrowser.appdata.xml.in:68
 msgid "Update translations"
-msgstr ""
+msgstr "Atualizar traduções"
 
 #: data/iconbrowser.appdata.xml.in:67
 msgid "Fixed an error that prevented app startup"
-msgstr ""
+msgstr "Correção de um erro que impedia o arranque da aplicação"
 
 #: data/iconbrowser.appdata.xml.in:74
 msgid "Updated with the latest icons:"
-msgstr ""
+msgstr "Atualizado com os ícones mais recentes:"
 
 #: data/iconbrowser.appdata.xml.in:76
 msgid "\"preferences-desktop-theme\""
@@ -83,7 +83,7 @@ msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:86
 msgid "A modern redesign!"
-msgstr "Um redesenho moderno!"
+msgstr "Um design moderno!"
 
 #: data/iconbrowser.appdata.xml.in:88
 msgid "Fancy new icon"
