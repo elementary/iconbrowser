@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-19 21:17+0000\n"
-"PO-Revision-Date: 2024-12-05 08:16+0000\n"
+"PO-Revision-Date: 2025-03-02 04:29+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.8.4\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #: src/CategoryView.vala:17
 msgid "Search Names or Descriptions"
@@ -61,7 +61,7 @@ msgstr "ステータス"
 
 #: src/IconCollection.vala:39
 msgid "OTHER"
-msgstr "そのほか"
+msgstr "その他"
 
 #: src/IconCollection.vala:58 src/IconView.vala:16
 msgid "Create a new address book"
@@ -1045,15 +1045,15 @@ msgstr ""
 
 #: src/IconCollection.vala:1258
 msgid "Item shared with other people or users"
-msgstr "ほかの人やユーザーと共有している項目"
+msgstr "他の人やユーザーと共有している項目"
 
 #: src/IconCollection.vala:1263
 msgid "Item is a symbolic link to a file somewhere else"
-msgstr "ほかの場所にあるファイルへのシンボリックリンクとなっている項目"
+msgstr "他の場所にあるファイルへのシンボリックリンクとなっている項目"
 
 #: src/IconCollection.vala:1268
 msgid "Item is configured to be synchronized to another device or location"
-msgstr "ほかのデバイスや場所に同期する設定になっている項目"
+msgstr "他のデバイスや場所に同期する設定になっている項目"
 
 #: src/IconCollection.vala:1273
 msgid "Item is a system file, library, setting, or data"
