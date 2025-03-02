@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-19 21:17+0000\n"
+"POT-Creation-Date: 2025-03-02 04:30+0000\n"
 "PO-Revision-Date: 2024-09-02 01:02+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
@@ -47,6 +47,10 @@ msgstr "システムアイコンを確認できます"
 #: data/iconbrowser.appdata.xml.in:22
 msgid "Search by description"
 msgstr "アイコンの説明文での検索が可能です"
+
+#: data/iconbrowser.appdata.xml.in:40
+msgid "elementary, Inc."
+msgstr "elementary, Inc."
 
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Update icon list to match Platform 8"
@@ -100,9 +104,6 @@ msgstr "システムのダークモード設定に従うように修正"
 #: data/iconbrowser.appdata.xml.in:91
 msgid "Updated for Gtk 4"
 msgstr "GTK 4 にアップデート"
-
-#~ msgid "elementary, Inc."
-#~ msgstr "elementary, Inc."
 
 #~ msgid "Add \"audio-headphones\" and \"audio-headset\""
 #~ msgstr "\"audio-headphones\" と \"audio-headset\" を追加"

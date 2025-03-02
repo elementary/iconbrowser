@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-19 21:17+0000\n"
+"POT-Creation-Date: 2025-03-02 04:30+0000\n"
 "PO-Revision-Date: 2024-10-14 07:53+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
@@ -46,6 +46,10 @@ msgstr "瀏覽系統圖示"
 #: data/iconbrowser.appdata.xml.in:22
 msgid "Search by description"
 msgstr "搜尋描述文字"
+
+#: data/iconbrowser.appdata.xml.in:40
+msgid "elementary, Inc."
+msgstr "elementary, Inc."
 
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Update icon list to match Platform 8"
@@ -99,6 +103,3 @@ msgstr "跟隨系統深色風格設定"
 #: data/iconbrowser.appdata.xml.in:91
 msgid "Updated for Gtk 4"
 msgstr "更新至 Gtk 4"
-
-#~ msgid "elementary, Inc."
-#~ msgstr "elementary, Inc."

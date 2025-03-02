@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-19 21:17+0000\n"
+"POT-Creation-Date: 2025-03-02 04:30+0000\n"
 "PO-Revision-Date: 2025-01-13 14:16+0000\n"
 "Last-Translator: Prachi Joshi <josprachi@yahoo.com>\n"
 "Language-Team: Marathi <https://l10n.elementary.io/projects/icon-browser/"
@@ -46,6 +46,10 @@ msgstr "सिस्टम चिन्ह ब्राउझ करा"
 #: data/iconbrowser.appdata.xml.in:22
 msgid "Search by description"
 msgstr "वर्णनानुसार शोधा"
+
+#: data/iconbrowser.appdata.xml.in:40
+msgid "elementary, Inc."
+msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Update icon list to match Platform 8"

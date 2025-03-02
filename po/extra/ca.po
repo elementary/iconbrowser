@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-19 21:17+0000\n"
+"POT-Creation-Date: 2025-03-02 04:30+0000\n"
 "PO-Revision-Date: 2024-09-02 20:05+0000\n"
 "Last-Translator: David M <rbndavid@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
@@ -47,6 +47,10 @@ msgstr "Navegueu per les icones del sistema"
 #: data/iconbrowser.appdata.xml.in:22
 msgid "Search by description"
 msgstr "Cerca per descripció"
+
+#: data/iconbrowser.appdata.xml.in:40
+msgid "elementary, Inc."
+msgstr "elementary, Inc."
 
 #: data/iconbrowser.appdata.xml.in:48
 msgid "Update icon list to match Platform 8"
@@ -101,9 +105,6 @@ msgstr "Segueix la preferència d'estil fosc del sistema"
 #: data/iconbrowser.appdata.xml.in:91
 msgid "Updated for Gtk 4"
 msgstr "Actualitzat per a Gtk 4"
-
-#~ msgid "elementary, Inc."
-#~ msgstr "elementary, Inc."
 
 #~ msgid "Add \"audio-headphones\" and \"audio-headset\""
 #~ msgstr "Addició d'\"auriculars d'àudio\" i \"conjunt d'auriculars d'àudio\""
