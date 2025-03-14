@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-02 04:30+0000\n"
-"PO-Revision-Date: 2025-03-14 01:23+0000\n"
+"PO-Revision-Date: 2025-03-14 19:03+0000\n"
 "Last-Translator: NorwayFun <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://l10n.elementaryos.org/projects/icon-browser/"
 "icon-browser/ka/>\n"
@@ -49,7 +49,7 @@ msgstr "ემოძი"
 
 #: src/IconCollection.vala:33
 msgid "Media Types"
-msgstr ""
+msgstr "მედიის ტიპები"
 
 #: src/IconCollection.vala:35
 msgid "Places"
@@ -157,19 +157,19 @@ msgstr ""
 
 #: src/IconCollection.vala:173
 msgid "Export a document"
-msgstr ""
+msgstr "დოკუმენტის გატანა"
 
 #: src/IconCollection.vala:178
 msgid "Import a document"
-msgstr ""
+msgstr "დოკუმენტის შემოტანა"
 
 #: src/IconCollection.vala:183
 msgid "Create a new document"
-msgstr ""
+msgstr "ახალი დოკუმენტის შექმნა"
 
 #: src/IconCollection.vala:188
 msgid "Open a document"
-msgstr ""
+msgstr "დოკუმენტის გახსნა"
 
 #: src/IconCollection.vala:193
 msgid "Open a document that was recently opened"
@@ -197,43 +197,43 @@ msgstr ""
 
 #: src/IconCollection.vala:223
 msgid "Save"
-msgstr ""
+msgstr "შენახვა"
 
 #: src/IconCollection.vala:228
 msgid "Save as"
-msgstr ""
+msgstr "შენახვა, როგორც"
 
 #: src/IconCollection.vala:233
 msgid "Send"
-msgstr ""
+msgstr "გაგზავნა"
 
 #: src/IconCollection.vala:238
 msgid "Edit"
-msgstr ""
+msgstr "ჩასწორება"
 
 #: src/IconCollection.vala:243
 msgid "Clear"
-msgstr ""
+msgstr "გასუფთავება"
 
 #: src/IconCollection.vala:248 src/IconView.vala:107 src/IconView.vala:225
 msgid "Copy"
-msgstr ""
+msgstr "კოპირება"
 
 #: src/IconCollection.vala:253
 msgid "Cut"
-msgstr ""
+msgstr "ამოჭრა"
 
 #: src/IconCollection.vala:258
 msgid "Delete"
-msgstr ""
+msgstr "წაშლა"
 
 #: src/IconCollection.vala:263
 msgid "Find"
-msgstr ""
+msgstr "ძებნა"
 
 #: src/IconCollection.vala:268
 msgid "Find & Replace"
-msgstr ""
+msgstr "პოვნა და ჩანაცვლება"
 
 #: src/IconCollection.vala:273
 msgid "Flag an item, such as a spam email"
@@ -241,19 +241,19 @@ msgstr ""
 
 #: src/IconCollection.vala:278
 msgid "Paste"
-msgstr ""
+msgstr "ჩასმა"
 
 #: src/IconCollection.vala:283
 msgid "Redo"
-msgstr ""
+msgstr "გამეორება"
 
 #: src/IconCollection.vala:288
 msgid "Select all"
-msgstr ""
+msgstr "ყველას მონიშვნა"
 
 #: src/IconCollection.vala:293
 msgid "Undo"
-msgstr ""
+msgstr "დაბრუნება"
 
 #: src/IconCollection.vala:298
 msgid "Create a new calendar event"
@@ -261,23 +261,23 @@ msgstr ""
 
 #: src/IconCollection.vala:303
 msgid "Copy a folder"
-msgstr ""
+msgstr "საქაღალდის კოპირება"
 
 #: src/IconCollection.vala:308
 msgid "Move a folder"
-msgstr ""
+msgstr "საქაღალდის გადატანა"
 
 #: src/IconCollection.vala:313
 msgid "Create a new folder"
-msgstr ""
+msgstr "ახალი საქაღალდის შექმნა"
 
 #: src/IconCollection.vala:318
 msgid "Decrease indent"
-msgstr ""
+msgstr "შეწევის შემცირება"
 
 #: src/IconCollection.vala:323
 msgid "Increase indent"
-msgstr ""
+msgstr "შეწევის გაზრდა"
 
 #: src/IconCollection.vala:328
 msgid "Center justify text"
@@ -369,11 +369,11 @@ msgstr ""
 
 #: src/IconCollection.vala:438
 msgid "Get help"
-msgstr ""
+msgstr "დახმარების მიღება"
 
 #: src/IconCollection.vala:443
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "ხშირად დასმული კითხვები"
 
 #: src/IconCollection.vala:448
 msgid "Make adjustments to an image"
@@ -385,7 +385,7 @@ msgstr ""
 
 #: src/IconCollection.vala:458
 msgid "Crop an image"
-msgstr ""
+msgstr "სურათის ამოჭრა"
 
 #: src/IconCollection.vala:463
 msgid "Remove red eye from an image"
@@ -393,31 +393,31 @@ msgstr ""
 
 #: src/IconCollection.vala:468
 msgid "Insert an image"
-msgstr ""
+msgstr "სურათის ჩასმა"
 
 #: src/IconCollection.vala:473
 msgid "Insert a link"
-msgstr ""
+msgstr "ბმულის ჩასმა"
 
 #: src/IconCollection.vala:478
 msgid "Insert an object"
-msgstr ""
+msgstr "ობიექტის ჩასმა"
 
 #: src/IconCollection.vala:483
 msgid "Insert text"
-msgstr ""
+msgstr "ტექსტის ჩასმა"
 
 #: src/IconCollection.vala:488
 msgid "Add to a list"
-msgstr ""
+msgstr "სიაში ჩამატება"
 
 #: src/IconCollection.vala:493
 msgid "Remove from a list"
-msgstr ""
+msgstr "სიიდან წაშლა"
 
 #: src/IconCollection.vala:498
 msgid "Forward an email"
-msgstr ""
+msgstr "ელფოსტის გადაგზავნა"
 
 #: src/IconCollection.vala:503
 msgid "Mark an email as important"
@@ -465,7 +465,7 @@ msgstr ""
 
 #: src/IconCollection.vala:558
 msgid "Pause media playback"
-msgstr ""
+msgstr "დაკვრის შეჩერება"
 
 #: src/IconCollection.vala:563
 msgid "Start playing media"
@@ -477,7 +477,7 @@ msgstr ""
 
 #: src/IconCollection.vala:573
 msgid "Start recording"
-msgstr ""
+msgstr "ჩაწერის დაწყება"
 
 #: src/IconCollection.vala:578
 msgid "Seek backwards or rewind"
@@ -551,7 +551,7 @@ msgstr ""
 
 #: src/IconCollection.vala:663
 msgid "Check spelling"
-msgstr ""
+msgstr "მართლწერის შემოწმება"
 
 #: src/IconCollection.vala:668
 msgid "Set or adjust a timer"
@@ -611,11 +611,11 @@ msgstr ""
 
 #: src/IconCollection.vala:738
 msgid "Close the window"
-msgstr ""
+msgstr "ფანჯრის დახურვა"
 
 #: src/IconCollection.vala:743
 msgid "Create a new window"
-msgstr ""
+msgstr "ახალი ფანჯრის შექმნა"
 
 #: src/IconCollection.vala:748
 msgid "Zoom to the best fit"
@@ -623,7 +623,7 @@ msgstr ""
 
 #: src/IconCollection.vala:753
 msgid "Zoom in"
-msgstr ""
+msgstr "გადიდება"
 
 #: src/IconCollection.vala:758
 msgid "Zoom to the original size"
@@ -631,11 +631,11 @@ msgstr ""
 
 #: src/IconCollection.vala:763
 msgid "Zoom out"
-msgstr ""
+msgstr "დაპატარავება"
 
 #: src/IconCollection.vala:768
 msgid "Calculator"
-msgstr ""
+msgstr "კალკულატორი"
 
 #: src/IconCollection.vala:773
 msgid "International and extended text character map"
@@ -643,7 +643,7 @@ msgstr ""
 
 #: src/IconCollection.vala:778
 msgid "Dictionary"
-msgstr ""
+msgstr "ლექსიკონი"
 
 #: src/IconCollection.vala:783
 msgid "Screenshot application"
@@ -651,7 +651,7 @@ msgstr ""
 
 #: src/IconCollection.vala:788
 msgid "Text editor"
-msgstr ""
+msgstr "ტექსტური რედაქტორი"
 
 #: src/IconCollection.vala:793
 msgid "Default or unprovided app icon"
@@ -659,7 +659,7 @@ msgstr ""
 
 #: src/IconCollection.vala:798
 msgid "Files"
-msgstr ""
+msgstr "ფაილი"
 
 #: src/IconCollection.vala:803
 msgid "AppCenter or software installer"
@@ -675,7 +675,7 @@ msgstr ""
 
 #: src/IconCollection.vala:818
 msgid "Terminal"
-msgstr ""
+msgstr "ტერმინალი"
 
 #: src/IconCollection.vala:823
 msgid "Accessory or utility app category"
@@ -763,7 +763,7 @@ msgstr ""
 
 #: src/IconCollection.vala:928
 msgid "Font settings"
-msgstr ""
+msgstr "ფონტის პარამეტრები"
 
 #: src/IconCollection.vala:933
 msgid "Keyboard settings, such as layout or shortcuts"
@@ -832,7 +832,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1013
 msgid "Help"
-msgstr ""
+msgstr "დახმარება"
 
 #: src/IconCollection.vala:1018
 msgid "Audio output device, such as a sound card or speaker"
@@ -848,7 +848,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1033
 msgid "Microphone"
-msgstr ""
+msgstr "მიკროფონი"
 
 #: src/IconCollection.vala:1038
 msgid "Subwoofer or bass speaker"
@@ -856,11 +856,11 @@ msgstr ""
 
 #: src/IconCollection.vala:1043
 msgid "Battery"
-msgstr ""
+msgstr "ელემენტი"
 
 #: src/IconCollection.vala:1048
 msgid "Bluetooth"
-msgstr ""
+msgstr "ბლუთუზი"
 
 #: src/IconCollection.vala:1053
 msgid "Digital photo or still camera"
@@ -904,11 +904,11 @@ msgstr ""
 
 #: src/IconCollection.vala:1103
 msgid "Keyboard"
-msgstr ""
+msgstr "კლავიატურა"
 
 #: src/IconCollection.vala:1108
 msgid "Mouse"
-msgstr ""
+msgstr "თაგუნა"
 
 #: src/IconCollection.vala:1113
 msgid ""
@@ -970,7 +970,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1178
 msgid "Printer"
-msgstr ""
+msgstr "პრინტერი"
 
 #: src/IconCollection.vala:1183
 msgid "Network-connected or shared printer"
@@ -978,7 +978,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1188
 msgid "Scanner"
-msgstr ""
+msgstr "სკანერი"
 
 #: src/IconCollection.vala:1193
 msgid "Display, screen, or monitor"
@@ -1246,7 +1246,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1523
 msgid "Extension"
-msgstr ""
+msgstr "გაფართოება"
 
 #: src/IconCollection.vala:1528
 msgid "Generic font file types"
@@ -1270,7 +1270,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1553
 msgid "Model"
-msgstr ""
+msgstr "მოდელი"
 
 #: src/IconCollection.vala:1558
 msgid "Contact file types"
@@ -1466,15 +1466,15 @@ msgstr ""
 
 #: src/IconCollection.vala:1798
 msgid "Folder"
-msgstr ""
+msgstr "საქაღალდე"
 
 #: src/IconCollection.vala:1803
 msgid "Documents folder"
-msgstr ""
+msgstr "დოკუმენტების საქაღალდე"
 
 #: src/IconCollection.vala:1808
 msgid "Downloads folder"
-msgstr ""
+msgstr "საქაღალდის გადმოწერა"
 
 #: src/IconCollection.vala:1813
 msgid "Folder drag accept"
@@ -1482,15 +1482,15 @@ msgstr ""
 
 #: src/IconCollection.vala:1818
 msgid "Music folder"
-msgstr ""
+msgstr "მუსიკის საქაღალდე"
 
 #: src/IconCollection.vala:1823
 msgid "Open folder"
-msgstr ""
+msgstr "საქაღალდის გახსნა"
 
 #: src/IconCollection.vala:1828
 msgid "Pictures folder"
-msgstr ""
+msgstr "სურთების საქაღალდე"
 
 #: src/IconCollection.vala:1833
 msgid "Publicshare folder"
@@ -1510,11 +1510,11 @@ msgstr ""
 
 #: src/IconCollection.vala:1853
 msgid "Templates folder"
-msgstr ""
+msgstr "შაბლონების საქაღალდე"
 
 #: src/IconCollection.vala:1858
 msgid "Videos folder"
-msgstr ""
+msgstr "ვიდეოების საქაღალდე"
 
 #: src/IconCollection.vala:1863
 msgid "Internet radio"
@@ -1558,7 +1558,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1913
 msgid "Playlist"
-msgstr ""
+msgstr "დასაკრავი სია"
 
 #: src/IconCollection.vala:1918
 msgid "Automatic playlist"
@@ -1574,19 +1574,19 @@ msgstr ""
 
 #: src/IconCollection.vala:1933
 msgid "Tag"
-msgstr ""
+msgstr "ჭდე"
 
 #: src/IconCollection.vala:1938
 msgid "Bookmarks"
-msgstr ""
+msgstr "სანიშნეები"
 
 #: src/IconCollection.vala:1943
 msgid "Home"
-msgstr ""
+msgstr "მთავარი"
 
 #: src/IconCollection.vala:1948
 msgid "Trash"
-msgstr ""
+msgstr "ნაგვის ყუთში"
 
 #: src/IconCollection.vala:1953
 msgid "Trash full"
@@ -1637,7 +1637,7 @@ msgstr ""
 
 #: src/IconCollection.vala:2008
 msgid "Low battery level"
-msgstr ""
+msgstr "ელემენტის მუხტის დაბალი დონე"
 
 #: src/IconCollection.vala:2013
 msgid "Low battery level, plugged into a charger or AC adapter"
@@ -1951,15 +1951,15 @@ msgstr ""
 
 #: src/IconView.vala:223
 msgid "Copied!"
-msgstr ""
+msgstr "კოპირებულია!"
 
 #: src/IconView.vala:239
 msgid "Unavailable"
-msgstr ""
+msgstr "ხელმიუწვდომელია"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr ""
+msgstr "ხატულების ბრაუზერი"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
