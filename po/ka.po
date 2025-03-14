@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-02 04:30+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-03-14 01:23+0000\n"
+"Last-Translator: NorwayFun <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://l10n.elementaryos.org/projects/icon-browser/"
+"icon-browser/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 
 #: src/CategoryView.vala:17
 msgid "Search Names or Descriptions"
@@ -22,27 +25,27 @@ msgstr ""
 
 #: src/IconCollection.vala:21
 msgid "Actions"
-msgstr ""
+msgstr "ქმედებები"
 
 #: src/IconCollection.vala:23
 msgid "Applications"
-msgstr ""
+msgstr "აპლიკაციები"
 
 #: src/IconCollection.vala:25
 msgid "Categories"
-msgstr ""
+msgstr "კატეგორიები"
 
 #: src/IconCollection.vala:27
 msgid "Devices"
-msgstr ""
+msgstr "მოწყობილობები"
 
 #: src/IconCollection.vala:29
 msgid "Emblems"
-msgstr ""
+msgstr "ემბლემები"
 
 #: src/IconCollection.vala:31
 msgid "Emotes"
-msgstr ""
+msgstr "ემოძი"
 
 #: src/IconCollection.vala:33
 msgid "Media Types"
@@ -50,15 +53,15 @@ msgstr ""
 
 #: src/IconCollection.vala:35
 msgid "Places"
-msgstr ""
+msgstr "ადგილები"
 
 #: src/IconCollection.vala:37
 msgid "Status"
-msgstr ""
+msgstr "სტატუსი"
 
 #: src/IconCollection.vala:39
 msgid "OTHER"
-msgstr ""
+msgstr "სხვა"
 
 #: src/IconCollection.vala:58 src/IconView.vala:16
 msgid "Create a new address book"
@@ -178,7 +181,7 @@ msgstr ""
 
 #: src/IconCollection.vala:203
 msgid "Print"
-msgstr ""
+msgstr "დაბეჭდვა"
 
 #: src/IconCollection.vala:208
 msgid "The print preview action of an application"
