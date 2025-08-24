@@ -27,14 +27,8 @@
     margin-right: -4px;
 }
 
-.header-area label.title-2 {
-    font-weight: 600;
-    font-size: 2rem;
-}
-
-.header-area label:not(.title-2) {
-    font-size: 0.95rem;
-    opacity: 0.85;
+.header-area .title-2 {
+    margin-top: 0;
 }
 
 .content-area {
