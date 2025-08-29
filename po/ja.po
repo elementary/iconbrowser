@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-02 04:30+0000\n"
-"PO-Revision-Date: 2025-03-02 04:29+0000\n"
+"PO-Revision-Date: 2025-08-30 22:55+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
-"Language-Team: Japanese <https://l10n.elementary.io/projects/icon-browser/"
+"Language-Team: Japanese <https://l10n.elementaryos.org/projects/icon-browser/"
 "icon-browser/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src/CategoryView.vala:17
 msgid "Search Names or Descriptions"
@@ -732,7 +732,7 @@ msgstr "ユーティリティアプリのカテゴリー"
 
 #: src/IconCollection.vala:888
 msgid "Bluetooth settings"
-msgstr "Bluetooth の設定"
+msgstr "Bluetooth 設定"
 
 #: src/IconCollection.vala:893
 msgid "Color settings such as printer, display, or camera calibration"
@@ -740,20 +740,19 @@ msgstr "プリンター/ディスプレイ/カメラの補正など、色に関�
 
 #: src/IconCollection.vala:898
 msgid "Desktop interface settings"
-msgstr "デスクトップのインターフェースの設定"
+msgstr "デスクトップインターフェース設定"
 
 #: src/IconCollection.vala:903
 msgid "Universal access settings"
-msgstr "ユニバーサルアクセスの設定"
+msgstr "ユニバーサルアクセス設定"
 
 #: src/IconCollection.vala:908
 msgid "Universal access settings for pointing, such as controlling the cursor"
-msgstr ""
-"カーソルコントロールなど、ポインターに関連するユニバーサルアクセスの設定"
+msgstr "カーソルコントロールなど、ポインターに関連するユニバーサルアクセス設定"
 
 #: src/IconCollection.vala:913
 msgid "Universal access settings for zooming or magnifying"
-msgstr "拡大/縮小や拡大鏡に関連するユニバーサルアクセスの設定"
+msgstr "拡大/縮小や拡大鏡に関連するユニバーサルアクセス設定"
 
 #: src/IconCollection.vala:918
 msgid "App-related settings, such as default or startup apps"
@@ -761,15 +760,15 @@ msgstr "デフォルトアプリや自動起動するアプリなど、アプリ
 
 #: src/IconCollection.vala:923
 msgid "Display settings, such as resolution or scaling"
-msgstr "解像度やスケーリングなどのディスプレイの設定"
+msgstr "解像度やスケーリングなどのディスプレイ設定"
 
 #: src/IconCollection.vala:928
 msgid "Font settings"
-msgstr "フォントの設定"
+msgstr "フォント設定"
 
 #: src/IconCollection.vala:933
 msgid "Keyboard settings, such as layout or shortcuts"
-msgstr "レイアウトやショートカットなどのキーボードの設定"
+msgstr "レイアウトやショートカットなどのキーボード設定"
 
 #: src/IconCollection.vala:938
 msgid "International localization, language, or region settings"
@@ -805,7 +804,7 @@ msgstr "システムの設定"
 
 #: src/IconCollection.vala:978
 msgid "Network settings, such as wireless, Ethernet, or VPN"
-msgstr "無線/イーサネット/VPN などの、ネットワークの設定"
+msgstr "無線/イーサネット/VPN などの、ネットワーク設定"
 
 #: src/IconCollection.vala:983
 msgid "Notification alert settings"
@@ -817,22 +816,20 @@ msgstr "バッテリーなど、電源管理および電力使用の設定"
 
 #: src/IconCollection.vala:993
 msgid "Privacy and security settings"
-msgstr "プライバシーとセキュリティの設定"
+msgstr "プライバシーとセキュリティ設定"
 
 #: src/IconCollection.vala:998
 msgid ""
 "Sharing settings, such as library sharing or media streaming over a network"
-msgstr ""
-"ネットワークを介してのライブラリ共有やメディアストリーミングなどの、共有の設"
-"定"
+msgstr "ネットワークを介してのライブラリ共有やメディアストリーミングなどの、共有設定"
 
 #: src/IconCollection.vala:1003
 msgid "Time and date settings"
-msgstr "時刻と日付の設定"
+msgstr "時刻と日付設定"
 
 #: src/IconCollection.vala:1008
 msgid "Window management settings"
-msgstr "ウィンドウ管理の設定"
+msgstr "ウィンドウ管理設定"
 
 #: src/IconCollection.vala:1013
 msgid "Help"
