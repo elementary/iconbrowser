@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-02 04:30+0000\n"
-"PO-Revision-Date: 2025-03-14 19:03+0000\n"
+"PO-Revision-Date: 2025-09-01 05:55+0000\n"
 "Last-Translator: NorwayFun <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://l10n.elementaryos.org/projects/icon-browser/"
 "icon-browser/ka/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.2\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src/CategoryView.vala:17
 msgid "Search Names or Descriptions"
@@ -571,7 +571,7 @@ msgstr ""
 
 #: src/IconCollection.vala:688
 msgid "View fullscreen"
-msgstr ""
+msgstr "ნახვა სრულ ეკრანზე"
 
 #: src/IconCollection.vala:693
 msgid "Display the current view as a grid of images or icons"
@@ -647,7 +647,7 @@ msgstr "ლექსიკონი"
 
 #: src/IconCollection.vala:783
 msgid "Screenshot application"
-msgstr ""
+msgstr "ეკრანის ანაბეჭდის აპლიკაცია"
 
 #: src/IconCollection.vala:788
 msgid "Text editor"
@@ -667,7 +667,7 @@ msgstr ""
 
 #: src/IconCollection.vala:808
 msgid "Software updater"
-msgstr ""
+msgstr "პროგრამის განმაახლებელი"
 
 #: src/IconCollection.vala:813
 msgid "System resource monitor"
@@ -731,7 +731,7 @@ msgstr ""
 
 #: src/IconCollection.vala:888
 msgid "Bluetooth settings"
-msgstr ""
+msgstr "ბლუთუზის მორგება"
 
 #: src/IconCollection.vala:893
 msgid "Color settings such as printer, display, or camera calibration"
@@ -944,7 +944,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1148
 msgid "Networking firewall"
-msgstr ""
+msgstr "ქსელის ფარი"
 
 #: src/IconCollection.vala:1153
 msgid "Virtual private network or VPN connection"
@@ -994,11 +994,11 @@ msgstr ""
 
 #: src/IconCollection.vala:1208
 msgid "Documents emblem"
-msgstr ""
+msgstr "დოკუმენტების ემბლემა"
 
 #: src/IconCollection.vala:1213
 msgid "Downloads emblem"
-msgstr ""
+msgstr "გადმოწერების ემბლემა"
 
 #: src/IconCollection.vala:1218
 msgid "Enabled feature or service emblem"
@@ -1026,7 +1026,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1248
 msgid "Photos emblem"
-msgstr ""
+msgstr "ფოტოების ემბლემა"
 
 #: src/IconCollection.vala:1253
 msgid "Item is read-only, or the user cannot write to or make changes to it"
@@ -1058,95 +1058,95 @@ msgstr ""
 
 #: src/IconCollection.vala:1288
 msgid "0:-) emoticon"
-msgstr ""
+msgstr "0:-) ემოცია"
 
 #: src/IconCollection.vala:1293
 msgid "X-( emoticon"
-msgstr ""
+msgstr "X-( ემოცია"
 
 #: src/IconCollection.vala:1298
 msgid "B-) emoticon"
-msgstr ""
+msgstr "B-) ემოცია"
 
 #: src/IconCollection.vala:1303
 msgid ":'( emoticon"
-msgstr ""
+msgstr ":'( ემოცია"
 
 #: src/IconCollection.vala:1308
 msgid ">:-) emoticon"
-msgstr ""
+msgstr ">:-) ემოცია"
 
 #: src/IconCollection.vala:1313
 msgid ":-[ emoticon"
-msgstr ""
+msgstr ":-[ ემოცია"
 
 #: src/IconCollection.vala:1318
 msgid "<3 emoticon"
-msgstr ""
+msgstr "<3 ემოცია"
 
 #: src/IconCollection.vala:1323
 msgid "</3 emoticon"
-msgstr ""
+msgstr "</3 ემოცია"
 
 #: src/IconCollection.vala:1328
 msgid ":-* emoticon"
-msgstr ""
+msgstr ":-* ემოცია"
 
 #: src/IconCollection.vala:1333
 msgid ":-)) emoticon"
-msgstr ""
+msgstr ":-)) ემოცია"
 
 #: src/IconCollection.vala:1338
 msgid ":-(|) emoticon"
-msgstr ""
+msgstr ":-(|) ემოცია"
 
 #: src/IconCollection.vala:1343
 msgid ":-| emoticon"
-msgstr ""
+msgstr ":-| ემოცია"
 
 #: src/IconCollection.vala:1348
 msgid ":-P emoticon"
-msgstr ""
+msgstr ":-P ემოცია"
 
 #: src/IconCollection.vala:1353
 msgid ":-( emoticon"
-msgstr ""
+msgstr ":-( ემოცია"
 
 #: src/IconCollection.vala:1358
 msgid ":-& emoticon"
-msgstr ""
+msgstr ":-& ემოცია"
 
 #: src/IconCollection.vala:1363
 msgid ":-) emoticon"
-msgstr ""
+msgstr ":-) ემოცია"
 
 #: src/IconCollection.vala:1368
 msgid ":-D emoticon"
-msgstr ""
+msgstr ":-D ემოცია"
 
 #: src/IconCollection.vala:1373
 msgid ":-! emoticon"
-msgstr ""
+msgstr ":-! ემოცია"
 
 #: src/IconCollection.vala:1378
 msgid ":-0 emoticon"
-msgstr ""
+msgstr ":-0 ემოცია"
 
 #: src/IconCollection.vala:1383
 msgid "|-) emoticon"
-msgstr ""
+msgstr "|-) ემოცია"
 
 #: src/IconCollection.vala:1388
 msgid ":-/ emoticon"
-msgstr ""
+msgstr ":-/ ემოცია"
 
 #: src/IconCollection.vala:1393
 msgid ";-) emoticon"
-msgstr ""
+msgstr ";-) ემოცია"
 
 #: src/IconCollection.vala:1398
 msgid ":-S emoticon"
-msgstr ""
+msgstr ":-S ემოცია"
 
 #: src/IconCollection.vala:1403
 msgid "EPUB Ebook file types"
@@ -1266,7 +1266,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1548
 msgid "Internet Feed"
-msgstr ""
+msgstr "ინტერნეტ-ლენტა"
 
 #: src/IconCollection.vala:1553
 msgid "Model"
@@ -1458,11 +1458,11 @@ msgstr ""
 
 #: src/IconCollection.vala:1788
 msgid "Bookmark missing"
-msgstr ""
+msgstr "ნაკლილი სანიშნე"
 
 #: src/IconCollection.vala:1793
 msgid "Distributor logo"
-msgstr ""
+msgstr "დისტრიბუტორის ლოგო"
 
 #: src/IconCollection.vala:1798
 msgid "Folder"
@@ -1494,15 +1494,15 @@ msgstr "სურთების საქაღალდე"
 
 #: src/IconCollection.vala:1833
 msgid "Publicshare folder"
-msgstr ""
+msgstr "ყველასთვის ხელმისაწვდომი საქაღალდე"
 
 #: src/IconCollection.vala:1838
 msgid "Recent folder"
-msgstr ""
+msgstr "უახლესი საქაღალდე"
 
 #: src/IconCollection.vala:1843
 msgid "Remote folder"
-msgstr ""
+msgstr "დაშორებული საქაღალდე"
 
 #: src/IconCollection.vala:1848
 msgid "Saved search folder"
@@ -1518,15 +1518,15 @@ msgstr "ვიდეოების საქაღალდე"
 
 #: src/IconCollection.vala:1863
 msgid "Internet radio"
-msgstr ""
+msgstr "ინტერნეტრადიო"
 
 #: src/IconCollection.vala:1868
 msgid "Audiobook library"
-msgstr ""
+msgstr "აუდიოწიგნების ბიბლიოთეკა"
 
 #: src/IconCollection.vala:1873
 msgid "Library places"
-msgstr ""
+msgstr "ბიბლიოთეკის ადგილები"
 
 #: src/IconCollection.vala:1878
 msgid "Podcast library"
