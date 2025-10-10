@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-02 04:30+0000\n"
+"POT-Creation-Date: 2025-10-10 17:53+0000\n"
 "PO-Revision-Date: 2025-08-30 22:55+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementaryos.org/projects/icon-browser/"
@@ -821,7 +821,8 @@ msgstr "プライバシーとセキュリティ設定"
 #: src/IconCollection.vala:998
 msgid ""
 "Sharing settings, such as library sharing or media streaming over a network"
-msgstr "ネットワークを介してのライブラリ共有やメディアストリーミングなどの、共有設定"
+msgstr ""
+"ネットワークを介してのライブラリ共有やメディアストリーミングなどの、共有設定"
 
 #: src/IconCollection.vala:1003
 msgid "Time and date settings"

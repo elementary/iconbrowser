@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-02 04:30+0000\n"
+"POT-Creation-Date: 2025-10-10 17:53+0000\n"
 "PO-Revision-Date: 2025-02-18 01:16+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://l10n.elementary.io/projects/icon-browser/"
@@ -52,56 +52,56 @@ msgstr "Procurar por descrição"
 msgid "elementary, Inc."
 msgstr "elementary, Inc."
 
-#: data/iconbrowser.appdata.xml.in:48
-msgid "Update icon list to match Platform 8"
-msgstr "Atualizar a lista de ícones para corresponder à plataforma 8"
-
-#: data/iconbrowser.appdata.xml.in:49 data/iconbrowser.appdata.xml.in:58
-#: data/iconbrowser.appdata.xml.in:68
+#: data/iconbrowser.appdata.xml.in:48 data/iconbrowser.appdata.xml.in:55
+#: data/iconbrowser.appdata.xml.in:64 data/iconbrowser.appdata.xml.in:74
 msgid "Update translations"
 msgstr "Atualizar traduções"
 
-#: data/iconbrowser.appdata.xml.in:67
+#: data/iconbrowser.appdata.xml.in:54
+msgid "Update icon list to match Platform 8"
+msgstr "Atualizar a lista de ícones para corresponder à plataforma 8"
+
+#: data/iconbrowser.appdata.xml.in:73
 msgid "Fixed an error that prevented app startup"
 msgstr "Correção de um erro que impedia o arranque da aplicação"
 
-#: data/iconbrowser.appdata.xml.in:74
+#: data/iconbrowser.appdata.xml.in:80
 msgid "Updated with the latest icons:"
 msgstr "Atualizado com os ícones mais recentes:"
 
-#: data/iconbrowser.appdata.xml.in:76
+#: data/iconbrowser.appdata.xml.in:82
 msgid "\"preferences-desktop-theme\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:77
+#: data/iconbrowser.appdata.xml.in:83
 msgid "\"application-x-sharedlib\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:78
+#: data/iconbrowser.appdata.xml.in:84
 msgid "\"process-paused\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:79
+#: data/iconbrowser.appdata.xml.in:85
 msgid "\"process-error\""
 msgstr ""
 
-#: data/iconbrowser.appdata.xml.in:86
+#: data/iconbrowser.appdata.xml.in:92
 msgid "A modern redesign!"
 msgstr "Um design moderno!"
 
-#: data/iconbrowser.appdata.xml.in:88
+#: data/iconbrowser.appdata.xml.in:94
 msgid "Fancy new icon"
 msgstr "Ícone novo e elegante"
 
-#: data/iconbrowser.appdata.xml.in:89
+#: data/iconbrowser.appdata.xml.in:95
 msgid "Drag the window from anywhere"
 msgstr "Arraste a janela a partir de qualquer lugar"
 
-#: data/iconbrowser.appdata.xml.in:90
+#: data/iconbrowser.appdata.xml.in:96
 msgid "Follow the system dark style preference"
 msgstr "Segue a preferência de estilo escuro do sistema"
 
-#: data/iconbrowser.appdata.xml.in:91
+#: data/iconbrowser.appdata.xml.in:97
 msgid "Updated for Gtk 4"
 msgstr "Atualizado para Gtk4"
 
