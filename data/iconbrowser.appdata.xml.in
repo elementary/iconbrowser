@@ -43,6 +43,12 @@
   <update_contact>contact_at_elementary.io</update_contact>
 
   <releases>
+    <release version="8.1.0" date="2025-10-09">
+      <description>
+        <p>Update translations</p>
+      </description>
+    </release>
+
     <release version="8.0.0" date="2024-12-03">
       <description>
         <p>Update icon list to match Platform 8</p>
