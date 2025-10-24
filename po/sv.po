@@ -8,1960 +8,1999 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-10 17:53+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-10-25 08:48+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <https://l10n.elementaryos.org/projects/icon-browser/"
+"icon-browser/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src/CategoryView.vala:17
 msgid "Search Names or Descriptions"
-msgstr ""
+msgstr "Sök namn eller beskrivningar"
 
 #: src/IconCollection.vala:21
 msgid "Actions"
-msgstr ""
+msgstr "Åtgärder"
 
 #: src/IconCollection.vala:23
 msgid "Applications"
-msgstr ""
+msgstr "Program"
 
 #: src/IconCollection.vala:25
 msgid "Categories"
-msgstr ""
+msgstr "Kategorier"
 
 #: src/IconCollection.vala:27
 msgid "Devices"
-msgstr ""
+msgstr "Enheter"
 
 #: src/IconCollection.vala:29
 msgid "Emblems"
-msgstr ""
+msgstr "Emblem"
 
 #: src/IconCollection.vala:31
 msgid "Emotes"
-msgstr ""
+msgstr "Emotes"
 
 #: src/IconCollection.vala:33
 msgid "Media Types"
-msgstr ""
+msgstr "Medietyper"
 
 #: src/IconCollection.vala:35
 msgid "Places"
-msgstr ""
+msgstr "Platser"
 
 #: src/IconCollection.vala:37
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: src/IconCollection.vala:39
 msgid "OTHER"
-msgstr ""
+msgstr "ÖVRIGT"
 
 #: src/IconCollection.vala:58 src/IconView.vala:16
 msgid "Create a new address book"
-msgstr ""
+msgstr "Skapa en ny adressbok"
 
 #: src/IconCollection.vala:63
 msgid "Align objects to center along the X axis"
-msgstr ""
+msgstr "Rikta in objekt så att de centreras längs X-axeln"
 
 #: src/IconCollection.vala:68
 msgid "Align objects left along the X axis"
-msgstr ""
+msgstr "Rikta in objekt till vänster längs X-axeln"
 
 #: src/IconCollection.vala:73
 msgid "Align objects right along the X axis"
-msgstr ""
+msgstr "Rikta in objekt rätt längs X-axeln"
 
 #: src/IconCollection.vala:78
 msgid "Align objects to bottom along the Y axis"
-msgstr ""
+msgstr "Rikta in objekten nedåt längs Y-axeln"
 
 #: src/IconCollection.vala:83
 msgid "Align objects to center along the Y axis"
-msgstr ""
+msgstr "Rikta in objekt så att de centreras längs Y-axeln"
 
 #: src/IconCollection.vala:88
 msgid "Align objects to top along the Y axis"
-msgstr ""
+msgstr "Rikta in objekt upptill längs Y-axeln"
 
 #: src/IconCollection.vala:93
 msgid "Used for exiting an application"
-msgstr ""
+msgstr "Används för att avsluta en applikation"
 
 #: src/IconCollection.vala:98
 msgid "Create a new appointment in a calendaring application"
-msgstr ""
+msgstr "Skapa ett nytt möte i ett kalenderprogram"
 
 #: src/IconCollection.vala:103
 msgid "Create a new bookmark"
-msgstr ""
+msgstr "Skapa ett nytt bokmärke"
 
 #: src/IconCollection.vala:108
 msgid "Download a file from the Internet"
-msgstr ""
+msgstr "Hämta ner en fil från Internet"
 
 #: src/IconCollection.vala:113
 msgid "Initiate or accept a call"
-msgstr ""
+msgstr "Starta eller acceptera ett samtal"
 
 #: src/IconCollection.vala:118
 msgid "Stop the current call"
-msgstr ""
+msgstr "Stoppa det aktuella samtalet"
 
 #: src/IconCollection.vala:123
 msgid "Pick a color from elsewhere on screen"
-msgstr ""
+msgstr "Välj en färg från en annan plats på skärmen"
 
 #: src/IconCollection.vala:128
 msgid "Create a new contact in an address book application"
-msgstr ""
+msgstr "Skapa en ny kontakt i ett adressboksprogram"
 
 #: src/IconCollection.vala:133
 msgid "Distribute the center lines of objects horizontally"
-msgstr ""
+msgstr "Fördela objektens mittlinjer horisontellt"
 
 #: src/IconCollection.vala:138
 msgid "Make horizontal gaps between objects equal"
-msgstr ""
+msgstr "Gör horisontella mellanrum mellan objekt lika stora"
 
 #: src/IconCollection.vala:143
 msgid "Distribute left edges of objects horizontally"
-msgstr ""
+msgstr "Fördela vänsterkanten på objekt horisontellt"
 
 #: src/IconCollection.vala:148
 msgid "Distribute right edges of objects horizontally"
-msgstr ""
+msgstr "Fördela objektens högra kanter horisontellt"
 
 #: src/IconCollection.vala:153
 msgid "Distribute bottom edges of objects vertically"
-msgstr ""
+msgstr "Fördela objektens nedre kanter vertikalt"
 
 #: src/IconCollection.vala:158
 msgid "Distribute center lines of objects vertically"
-msgstr ""
+msgstr "Fördela objektens mittlinjer vertikalt"
 
 #: src/IconCollection.vala:163
 msgid "Make vertical gaps between objects equal"
-msgstr ""
+msgstr "Gör vertikala mellanrum mellan objekt lika stora"
 
 #: src/IconCollection.vala:168
 msgid "Distribute top edges of objects vertically"
-msgstr ""
+msgstr "Fördela objektens övre kanter vertikalt"
 
 #: src/IconCollection.vala:173
 msgid "Export a document"
-msgstr ""
+msgstr "Exportera ett dokument"
 
 #: src/IconCollection.vala:178
 msgid "Import a document"
-msgstr ""
+msgstr "Importera ett dokument"
 
 #: src/IconCollection.vala:183
 msgid "Create a new document"
-msgstr ""
+msgstr "Skapa ett nytt dokument"
 
 #: src/IconCollection.vala:188
 msgid "Open a document"
-msgstr ""
+msgstr "Öppna ett dokument"
 
 #: src/IconCollection.vala:193
 msgid "Open a document that was recently opened"
-msgstr ""
+msgstr "Öppna ett dokument som nyligen öppnats"
 
 #: src/IconCollection.vala:198
 msgid "The page setup action of a document editor"
-msgstr ""
+msgstr "En dokumentredigerares åtgärd för att ställa in sidan"
 
 #: src/IconCollection.vala:203
 msgid "Print"
-msgstr ""
+msgstr "Skriv ut"
 
 #: src/IconCollection.vala:208
 msgid "The print preview action of an application"
-msgstr ""
+msgstr "Förhandsgranskning av utskrift i en applikation"
 
 #: src/IconCollection.vala:213
 msgid "View the properties of a document"
-msgstr ""
+msgstr "Visa egenskaperna för ett dokument"
 
 #: src/IconCollection.vala:218
 msgid "Revert to a previous version of a document"
-msgstr ""
+msgstr "Återgå till en tidigare version av ett dokument"
 
 #: src/IconCollection.vala:223
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 #: src/IconCollection.vala:228
 msgid "Save as"
-msgstr ""
+msgstr "Spara som"
 
 #: src/IconCollection.vala:233
 msgid "Send"
-msgstr ""
+msgstr "Skicka"
 
 #: src/IconCollection.vala:238
 msgid "Edit"
-msgstr ""
+msgstr "Redigera"
 
 #: src/IconCollection.vala:243
 msgid "Clear"
-msgstr ""
+msgstr "Töm"
 
 #: src/IconCollection.vala:248 src/IconView.vala:107 src/IconView.vala:225
 msgid "Copy"
-msgstr ""
+msgstr "Kopiera"
 
 #: src/IconCollection.vala:253
 msgid "Cut"
-msgstr ""
+msgstr "Klipp ut"
 
 #: src/IconCollection.vala:258
 msgid "Delete"
-msgstr ""
+msgstr "Ta bort"
 
 #: src/IconCollection.vala:263
 msgid "Find"
-msgstr ""
+msgstr "Sök"
 
 #: src/IconCollection.vala:268
 msgid "Find & Replace"
-msgstr ""
+msgstr "Sök och ersätt"
 
 #: src/IconCollection.vala:273
 msgid "Flag an item, such as a spam email"
-msgstr ""
+msgstr "Flagga ett objekt, t.ex. ett skräppostmeddelande"
 
 #: src/IconCollection.vala:278
 msgid "Paste"
-msgstr ""
+msgstr "Klistra in"
 
 #: src/IconCollection.vala:283
 msgid "Redo"
-msgstr ""
+msgstr "Gör om"
 
 #: src/IconCollection.vala:288
 msgid "Select all"
-msgstr ""
+msgstr "Välj alla"
 
 #: src/IconCollection.vala:293
 msgid "Undo"
-msgstr ""
+msgstr "Ångra"
 
 #: src/IconCollection.vala:298
 msgid "Create a new calendar event"
-msgstr ""
+msgstr "Skapa en ny kalenderhändelse"
 
 #: src/IconCollection.vala:303
 msgid "Copy a folder"
-msgstr ""
+msgstr "Kopiera en mapp"
 
 #: src/IconCollection.vala:308
 msgid "Move a folder"
-msgstr ""
+msgstr "Flytta en mapp"
 
 #: src/IconCollection.vala:313
 msgid "Create a new folder"
-msgstr ""
+msgstr "Skapa en ny mapp"
 
 #: src/IconCollection.vala:318
 msgid "Decrease indent"
-msgstr ""
+msgstr "Minska strecksatsen"
 
 #: src/IconCollection.vala:323
 msgid "Increase indent"
-msgstr ""
+msgstr "Öka indraget"
 
 #: src/IconCollection.vala:328
 msgid "Center justify text"
-msgstr ""
+msgstr "Centrera och justera text"
 
 #: src/IconCollection.vala:333
 msgid "Fill justify text"
-msgstr ""
+msgstr "Fyll i rättfärdigande text"
 
 #: src/IconCollection.vala:338
 msgid "Left justify text"
-msgstr ""
+msgstr "Vänsterjustera text"
 
 #: src/IconCollection.vala:343
 msgid "Right justify text"
-msgstr ""
+msgstr "Högerjustera text"
 
 #: src/IconCollection.vala:348
 msgid "Format text as left-to-right"
-msgstr ""
+msgstr "Formatera text från vänster till höger"
 
 #: src/IconCollection.vala:353
 msgid "Format text as right-to-left"
-msgstr ""
+msgstr "Formatera text från höger till vänster"
 
 #: src/IconCollection.vala:358
 msgid "Format text as bold"
-msgstr ""
+msgstr "Formatera text som fet"
 
 #: src/IconCollection.vala:363
 msgid "Format text as highlighted"
-msgstr ""
+msgstr "Formatera text som markerad"
 
 #: src/IconCollection.vala:368
 msgid "Format text as italic"
-msgstr ""
+msgstr "Formatera text som kursiv"
 
 #: src/IconCollection.vala:373
 msgid "Format text as underlined"
-msgstr ""
+msgstr "Formatera text som understruken"
 
 #: src/IconCollection.vala:378
 msgid "Format text as being struck through"
-msgstr ""
+msgstr "Formatera texten som genomstruken"
 
 #: src/IconCollection.vala:383
 msgid "Go to the bottom, such as in a list"
-msgstr ""
+msgstr "Gå till botten, t.ex. i en lista"
 
 #: src/IconCollection.vala:388
 msgid "Go down, such as in a list"
-msgstr ""
+msgstr "Gå ner, till exempel i en lista"
 
 #: src/IconCollection.vala:393
 msgid "Go to the first item, such as in a list"
-msgstr ""
+msgstr "Gå till det första objektet, t.ex. i en lista"
 
 #: src/IconCollection.vala:398
 msgid "Go to the home location"
-msgstr ""
+msgstr "Gå till startplatsen"
 
 #: src/IconCollection.vala:403
 msgid "Jump to a location"
-msgstr ""
+msgstr "Hoppa till en plats"
 
 #: src/IconCollection.vala:408
 msgid "Go to the last item, such as in a list"
-msgstr ""
+msgstr "Gå till sista punkten, t.ex. i en lista"
 
 #: src/IconCollection.vala:413
 msgid "Go forward to the next item, such as in a list or navigation"
-msgstr ""
+msgstr "Gå vidare till nästa objekt, t.ex. i en lista eller navigering"
 
 #: src/IconCollection.vala:418
 msgid "Go back to the previous item, such as in a list or navigation"
-msgstr ""
+msgstr "Gå tillbaka till föregående objekt, t.ex. i en lista eller navigering"
 
 #: src/IconCollection.vala:423
 msgid "Go to the top, such as in a list"
-msgstr ""
+msgstr "Gå till toppen, t.ex. i en lista"
 
 #: src/IconCollection.vala:428
 msgid "Go up, such as in a list"
-msgstr ""
+msgstr "Gå upp, till exempel i en lista"
 
 #: src/IconCollection.vala:433
 msgid "Information about an app"
-msgstr ""
+msgstr "Information om en app"
 
 #: src/IconCollection.vala:438
 msgid "Get help"
-msgstr ""
+msgstr "Få hjälp"
 
 #: src/IconCollection.vala:443
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "Vanliga frågor (FAQ)"
 
 #: src/IconCollection.vala:448
 msgid "Make adjustments to an image"
-msgstr ""
+msgstr "Gör justeringar i en bild"
 
 #: src/IconCollection.vala:453
 msgid "Automatically adjust an image"
-msgstr ""
+msgstr "Automatisk justering av en bild"
 
 #: src/IconCollection.vala:458
 msgid "Crop an image"
-msgstr ""
+msgstr "Beskär en bild"
 
 #: src/IconCollection.vala:463
 msgid "Remove red eye from an image"
-msgstr ""
+msgstr "Ta bort röda ögon från en bild"
 
 #: src/IconCollection.vala:468
 msgid "Insert an image"
-msgstr ""
+msgstr "Infoga en bild"
 
 #: src/IconCollection.vala:473
 msgid "Insert a link"
-msgstr ""
+msgstr "Infoga en länk"
 
 #: src/IconCollection.vala:478
 msgid "Insert an object"
-msgstr ""
+msgstr "Infoga ett objekt"
 
 #: src/IconCollection.vala:483
 msgid "Insert text"
-msgstr ""
+msgstr "Infoga text"
 
 #: src/IconCollection.vala:488
 msgid "Add to a list"
-msgstr ""
+msgstr "Lägg till i en lista"
 
 #: src/IconCollection.vala:493
 msgid "Remove from a list"
-msgstr ""
+msgstr "Ta bort från en lista"
 
 #: src/IconCollection.vala:498
 msgid "Forward an email"
-msgstr ""
+msgstr "Vidarebefordra ett e-postmeddelande"
 
 #: src/IconCollection.vala:503
 msgid "Mark an email as important"
-msgstr ""
+msgstr "Markera ett e-postmeddelande som viktigt"
 
 #: src/IconCollection.vala:508
 msgid "Mark an email as junk or spam"
-msgstr ""
+msgstr "Markera ett e-postmeddelande som skräppost eller spam"
 
 #: src/IconCollection.vala:513
 msgid "Mark an email as not junk or spam"
-msgstr ""
+msgstr "Markera ett e-postmeddelande som inte skräppost eller skräppost"
 
 #: src/IconCollection.vala:518
 msgid "Mark an email as read"
-msgstr ""
+msgstr "Markera ett e-postmeddelande som läst"
 
 #: src/IconCollection.vala:523
 msgid "Mark an email as unread"
-msgstr ""
+msgstr "Markera ett e-postmeddelande som oläst"
 
 #: src/IconCollection.vala:528
 msgid "Compose a new email"
-msgstr ""
+msgstr "Skriva ett nytt e-postmeddelande"
 
 #: src/IconCollection.vala:533
 msgid "Reply to all participants of an email"
-msgstr ""
+msgstr "Svara till alla deltagare i ett e-postmeddelande"
 
 #: src/IconCollection.vala:538
 msgid "Reply to the sender of an email"
-msgstr ""
+msgstr "Svara avsändaren av ett e-postmeddelande"
 
 #: src/IconCollection.vala:543
 msgid "Send an email"
-msgstr ""
+msgstr "Skicka e-post"
 
 #: src/IconCollection.vala:548
 msgid "Send and receive all email"
-msgstr ""
+msgstr "Skicka och ta emot all e-post"
 
 #: src/IconCollection.vala:553
 msgid "Eject removable media"
-msgstr ""
+msgstr "Mata ut flyttbara media"
 
 #: src/IconCollection.vala:558
 msgid "Pause media playback"
-msgstr ""
+msgstr "Pausa uppspelning av media"
 
 #: src/IconCollection.vala:563
 msgid "Start playing media"
-msgstr ""
+msgstr "Starta uppspelning av media"
 
 #: src/IconCollection.vala:568
 msgid "Stop playing media"
-msgstr ""
+msgstr "Sluta spela upp media"
 
 #: src/IconCollection.vala:573
 msgid "Start recording"
-msgstr ""
+msgstr "Starta inspelningen"
 
 #: src/IconCollection.vala:578
 msgid "Seek backwards or rewind"
-msgstr ""
+msgstr "Söka bakåt eller spola tillbaka"
 
 #: src/IconCollection.vala:583
 msgid "Seek forwards, or fastforward"
-msgstr ""
+msgstr "Sök framåt, eller snabbspola framåt"
 
 #: src/IconCollection.vala:588
 msgid "Skip backwards, such as to the previous track"
-msgstr ""
+msgstr "Hoppa bakåt, t.ex. till föregående spår"
 
 #: src/IconCollection.vala:593
 msgid "Skip forwards, such as to the next track"
-msgstr ""
+msgstr "Hoppa framåt, t.ex. till nästa spår"
 
 #: src/IconCollection.vala:598
 msgid "Flip an object horizontally"
-msgstr ""
+msgstr "Vänd ett objekt horisontellt"
 
 #: src/IconCollection.vala:603
 msgid "Flip an object vertically"
-msgstr ""
+msgstr "Vänd ett objekt vertikalt"
 
 #: src/IconCollection.vala:608
 msgid "Rotate an object to the left or counter-clockwise"
-msgstr ""
+msgstr "Rotera ett objekt till vänster eller moturs"
 
 #: src/IconCollection.vala:613
 msgid "Rotate an object to the right or clockwise"
-msgstr ""
+msgstr "Rotera ett objekt åt höger eller medurs"
 
 #: src/IconCollection.vala:618
 msgid "Create a new database"
-msgstr ""
+msgstr "Skapa en ny databas"
 
 #: src/IconCollection.vala:623
 msgid ""
 "Stop an action that may take a while to process, such as web page loading in "
 "a browser"
 msgstr ""
+"Stoppa en åtgärd som kan ta en stund att bearbeta, t.ex. laddning av en "
+"webbsida i en webbläsare"
 
 #: src/IconCollection.vala:628
 msgid "Lock the screen or the user's session"
-msgstr ""
+msgstr "Lås skärmen eller användarens session"
 
 #: src/IconCollection.vala:633
 msgid "Log out of the user's session"
-msgstr ""
+msgstr "Logga ut från användarens session"
 
 #: src/IconCollection.vala:638
 msgid "Run a system app or command"
-msgstr ""
+msgstr "Kör en systemapp eller ett kommando"
 
 #: src/IconCollection.vala:643
 msgid "Search the system"
-msgstr ""
+msgstr "Sök i systemet"
 
 #: src/IconCollection.vala:648
 msgid "Restart the device"
-msgstr ""
+msgstr "Starta om enheten"
 
 #: src/IconCollection.vala:653
 msgid "Shut the device down"
-msgstr ""
+msgstr "Stäng av enheten"
 
 #: src/IconCollection.vala:658
 msgid "Create a new tag"
-msgstr ""
+msgstr "Skapa en ny tagg"
 
 #: src/IconCollection.vala:663
 msgid "Check spelling"
-msgstr ""
+msgstr "Kontrollera stavning"
 
 #: src/IconCollection.vala:668
 msgid "Set or adjust a timer"
-msgstr ""
+msgstr "Ställa in eller justera en timer"
 
 #: src/IconCollection.vala:673
 msgid "Display the current view as columns"
-msgstr ""
+msgstr "Visa den aktuella vyn som kolumner"
 
 #: src/IconCollection.vala:678
 msgid "display the current view in a continously scrolling list"
-msgstr ""
+msgstr "visa den aktuella vyn i en lista som rullar kontinuerligt"
 
 #: src/IconCollection.vala:683
 msgid "display the current view as a split, dual view"
-msgstr ""
+msgstr "visa den aktuella vyn som en delad, dubbel vy"
 
 #: src/IconCollection.vala:688
 msgid "View fullscreen"
-msgstr ""
+msgstr "Visa i helskärm"
 
 #: src/IconCollection.vala:693
 msgid "Display the current view as a grid of images or icons"
-msgstr ""
+msgstr "Visa den aktuella vyn som ett rutnät med bilder eller ikoner"
 
 #: src/IconCollection.vala:698
 msgid "Refresh or reload the current view"
-msgstr ""
+msgstr "Uppdatera eller ladda om den aktuella vyn"
 
 #: src/IconCollection.vala:703
 msgid "Leave fullscreen and return to a normal window"
-msgstr ""
+msgstr "Lämna helskärmsläget och återgå till ett normalt fönster"
 
 #: src/IconCollection.vala:708
 msgid "View more information about the given context in a popover or menu"
 msgstr ""
+"Visa mer information om det aktuella sammanhanget i en popover eller meny"
 
 #: src/IconCollection.vala:713
 msgid "View more information about the given context in a new view or window"
 msgstr ""
+"Visa mer information om det aktuella sammanhanget i en ny vy eller ett nytt "
+"fönster"
 
 #: src/IconCollection.vala:718
 msgid "Display the current view as a collection of pages"
-msgstr ""
+msgstr "Visa den aktuella vyn som en samling sidor"
 
 #: src/IconCollection.vala:723
 msgid "Pin the current view so that it does not automatically hide"
-msgstr ""
+msgstr "Fäst den aktuella vyn så att den inte automatiskt döljs"
 
 #: src/IconCollection.vala:728
 msgid "Sort items in an ascending order, such as in a list"
-msgstr ""
+msgstr "Sortera objekt i stigande ordning, t.ex. i en lista"
 
 #: src/IconCollection.vala:733
 msgid "Sort items in a descending order, such as in a list"
-msgstr ""
+msgstr "Sortera objekt i fallande ordning, t.ex. i en lista"
 
 #: src/IconCollection.vala:738
 msgid "Close the window"
-msgstr ""
+msgstr "Stäng fönstret"
 
 #: src/IconCollection.vala:743
 msgid "Create a new window"
-msgstr ""
+msgstr "Skapa ett nytt fönster"
 
 #: src/IconCollection.vala:748
 msgid "Zoom to the best fit"
-msgstr ""
+msgstr "Zooma till bästa passform"
 
 #: src/IconCollection.vala:753
 msgid "Zoom in"
-msgstr ""
+msgstr "Zooma in"
 
 #: src/IconCollection.vala:758
 msgid "Zoom to the original size"
-msgstr ""
+msgstr "Zooma till originalstorleken"
 
 #: src/IconCollection.vala:763
 msgid "Zoom out"
-msgstr ""
+msgstr "Zooma ut"
 
 #: src/IconCollection.vala:768
 msgid "Calculator"
-msgstr ""
+msgstr "Kalkylator"
 
 #: src/IconCollection.vala:773
 msgid "International and extended text character map"
-msgstr ""
+msgstr "Internationell och utökad text teckenkarta"
 
 #: src/IconCollection.vala:778
 msgid "Dictionary"
-msgstr ""
+msgstr "Ordbok"
 
 #: src/IconCollection.vala:783
 msgid "Screenshot application"
-msgstr ""
+msgstr "Applikation för skärmdump"
 
 #: src/IconCollection.vala:788
 msgid "Text editor"
-msgstr ""
+msgstr "Textredigerare"
 
 #: src/IconCollection.vala:793
 msgid "Default or unprovided app icon"
-msgstr ""
+msgstr "Standard eller ej tillhandahållen appikon"
 
 #: src/IconCollection.vala:798
 msgid "Files"
-msgstr ""
+msgstr "Filer"
 
 #: src/IconCollection.vala:803
 msgid "AppCenter or software installer"
-msgstr ""
+msgstr "AppCenter eller installationsprogram för programvara"
 
 #: src/IconCollection.vala:808
 msgid "Software updater"
-msgstr ""
+msgstr "Uppdatering av programvara"
 
 #: src/IconCollection.vala:813
 msgid "System resource monitor"
-msgstr ""
+msgstr "Övervakning av systemresurser"
 
 #: src/IconCollection.vala:818
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: src/IconCollection.vala:823
 msgid "Accessory or utility app category"
-msgstr ""
+msgstr "Kategori för tillbehörs- eller verktygsprogram"
 
 #: src/IconCollection.vala:828
 msgid "Programming, software development, code, or IDE app category"
-msgstr ""
+msgstr "Kategori för programmering, mjukvaruutveckling, kod eller IDE-app"
 
 #: src/IconCollection.vala:833
 msgid "Education, learning, or school app category"
-msgstr ""
+msgstr "Appkategori för utbildning, lärande eller skola"
 
 #: src/IconCollection.vala:838
 msgid "Engineering app category"
-msgstr ""
+msgstr "Appkategori för teknik"
 
 #: src/IconCollection.vala:843
 msgid "Games app category"
-msgstr ""
+msgstr "Kategori för spelappar"
 
 #: src/IconCollection.vala:848
 msgid "Graphics, drawing, art, or photo manipulation app category"
-msgstr ""
+msgstr "Appkategori för grafik, ritning, konst eller fotomanipulation"
 
 #: src/IconCollection.vala:853
 msgid "Internet or web related app category"
-msgstr ""
+msgstr "Internet- eller webbrelaterad appkategori"
 
 #: src/IconCollection.vala:858
 msgid "Multimedia, audio, or video app category"
-msgstr ""
+msgstr "Appkategori för multimedia, ljud eller video"
 
 #: src/IconCollection.vala:863
 msgid "Office app category"
-msgstr ""
+msgstr "Kategori för kontorsapplikationer"
 
 #: src/IconCollection.vala:868
 msgid "Other or uncategorized app category"
-msgstr ""
+msgstr "Annan eller okategoriserad appkategori"
 
 #: src/IconCollection.vala:873
 msgid "Science app category"
-msgstr ""
+msgstr "Appkategori för vetenskap"
 
 #: src/IconCollection.vala:878
 msgid "System tools or OS app category"
-msgstr ""
+msgstr "Systemverktyg eller OS-appkategori"
 
 #: src/IconCollection.vala:883
 msgid "Utility app category"
-msgstr ""
+msgstr "Verktygsapplikation kategori"
 
 #: src/IconCollection.vala:888
 msgid "Bluetooth settings"
-msgstr ""
+msgstr "Bluetooth-inställningar"
 
 #: src/IconCollection.vala:893
 msgid "Color settings such as printer, display, or camera calibration"
 msgstr ""
+"Färginställningar som t.ex. kalibrering av skrivare, display eller kamera"
 
 #: src/IconCollection.vala:898
 msgid "Desktop interface settings"
-msgstr ""
+msgstr "Inställningar för skrivbordsgränssnitt"
 
 #: src/IconCollection.vala:903
 msgid "Universal access settings"
-msgstr ""
+msgstr "Inställningar för universell åtkomst"
 
 #: src/IconCollection.vala:908
 msgid "Universal access settings for pointing, such as controlling the cursor"
-msgstr ""
+msgstr "Universella inställningar för pekning, t.ex. styrning av markören"
 
 #: src/IconCollection.vala:913
 msgid "Universal access settings for zooming or magnifying"
-msgstr ""
+msgstr "Universella inställningar för zoomning eller förstoring"
 
 #: src/IconCollection.vala:918
 msgid "App-related settings, such as default or startup apps"
-msgstr ""
+msgstr "App-relaterade inställningar, t.ex. standard- eller startappar"
 
 #: src/IconCollection.vala:923
 msgid "Display settings, such as resolution or scaling"
-msgstr ""
+msgstr "Bildskärmsinställningar, t.ex. upplösning eller skalning"
 
 #: src/IconCollection.vala:928
 msgid "Font settings"
-msgstr ""
+msgstr "Inställningar för typsnitt"
 
 #: src/IconCollection.vala:933
 msgid "Keyboard settings, such as layout or shortcuts"
-msgstr ""
+msgstr "Tangentbordsinställningar, t.ex. layout eller genvägar"
 
 #: src/IconCollection.vala:938
 msgid "International localization, language, or region settings"
-msgstr ""
+msgstr "Internationella inställningar för lokalisering, språk eller region"
 
 #: src/IconCollection.vala:943
 msgid "Online account and cloud sync or sign in settings"
-msgstr ""
+msgstr "Inställningar för onlinekonto och molnsynkronisering eller inloggning"
 
 #: src/IconCollection.vala:948
 msgid "Settings for peripherals, such as a mouse or keyboard"
-msgstr ""
+msgstr "Inställningar för kringutrustning, t.ex. mus eller tangentbord"
 
 #: src/IconCollection.vala:953
 msgid "Sound or audio input and output settings"
-msgstr ""
+msgstr "Inställningar för ljud eller ljudinmatning och -utmatning"
 
 #: src/IconCollection.vala:958
 msgid "Look and feel, appearance, style, or theme settings"
-msgstr ""
+msgstr "Inställningar för utseende och känsla, utseende, stil eller tema"
 
 #: src/IconCollection.vala:963
 msgid "Desktop wallpaper or background settings"
-msgstr ""
+msgstr "Skrivbordsbakgrund eller bakgrundsinställningar"
 
 #: src/IconCollection.vala:968
 msgid "Other, miscellaneous, or uncategorized settings"
-msgstr ""
+msgstr "Andra, diverse eller okategoriserade inställningar"
 
 #: src/IconCollection.vala:973
 msgid "System settings or preferences"
-msgstr ""
+msgstr "Systeminställningar eller preferenser"
 
 #: src/IconCollection.vala:978
 msgid "Network settings, such as wireless, Ethernet, or VPN"
-msgstr ""
+msgstr "Nätverksinställningar, t.ex. trådlöst, Ethernet eller VPN"
 
 #: src/IconCollection.vala:983
 msgid "Notification alert settings"
-msgstr ""
+msgstr "Inställningar för notifieringsvarningar"
 
 #: src/IconCollection.vala:988
 msgid "Power management or energy usage settings, such as battery"
-msgstr ""
+msgstr "Inställningar för energihantering eller energianvändning, t.ex. batteri"
 
 #: src/IconCollection.vala:993
 msgid "Privacy and security settings"
-msgstr ""
+msgstr "Sekretess- och säkerhetsinställningar"
 
 #: src/IconCollection.vala:998
 msgid ""
 "Sharing settings, such as library sharing or media streaming over a network"
 msgstr ""
+"Inställningar för delning, t.ex. biblioteksdelning eller mediastreaming över "
+"ett nätverk"
 
 #: src/IconCollection.vala:1003
 msgid "Time and date settings"
-msgstr ""
+msgstr "Inställningar för tid och datum"
 
 #: src/IconCollection.vala:1008
 msgid "Window management settings"
-msgstr ""
+msgstr "Inställningar för fönsterhantering"
 
 #: src/IconCollection.vala:1013
 msgid "Help"
-msgstr ""
+msgstr "Hjälp"
 
 #: src/IconCollection.vala:1018
 msgid "Audio output device, such as a sound card or speaker"
-msgstr ""
+msgstr "Ljudutmatningsenhet, t.ex. ett ljudkort eller en högtalare"
 
 #: src/IconCollection.vala:1023
 msgid "Audio output device representing headphones"
-msgstr ""
+msgstr "Ljudutmatningsenhet som representerar hörlurar"
 
 #: src/IconCollection.vala:1028
 msgid "Audio output device representing a headset"
-msgstr ""
+msgstr "Ljudutmatningsenhet som representerar ett headset"
 
 #: src/IconCollection.vala:1033
 msgid "Microphone"
-msgstr ""
+msgstr "Mikrofon"
 
 #: src/IconCollection.vala:1038
 msgid "Subwoofer or bass speaker"
-msgstr ""
+msgstr "Subwoofer eller bashögtalare"
 
 #: src/IconCollection.vala:1043
 msgid "Battery"
-msgstr ""
+msgstr "Batteri"
 
 #: src/IconCollection.vala:1048
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: src/IconCollection.vala:1053
 msgid "Digital photo or still camera"
-msgstr ""
+msgstr "Digital foto- eller stillbildskamera"
 
 #: src/IconCollection.vala:1058
 msgid "Video or movie camera"
-msgstr ""
+msgstr "Video- eller filmkamera"
 
 #: src/IconCollection.vala:1063
 msgid "Webcam or built-in camera"
-msgstr ""
+msgstr "Webbkamera eller inbyggd kamera"
 
 #: src/IconCollection.vala:1068
 msgid "Generic or desktop computer"
-msgstr ""
+msgstr "Generisk eller stationär dator"
 
 #: src/IconCollection.vala:1073
 msgid "Laptop or notebook computer"
-msgstr ""
+msgstr "Bärbar dator eller notebook"
 
 #: src/IconCollection.vala:1078
 msgid "Hard disk or storage drive"
-msgstr ""
+msgstr "Hårddisk eller lagringsenhet"
 
 #: src/IconCollection.vala:1083
 msgid "Optical drive, such as for CD, DVD, or Blu-ray discs"
-msgstr ""
+msgstr "Optisk enhet, t.ex. för CD-, DVD- eller Blu-ray-skivor"
 
 #: src/IconCollection.vala:1088
 msgid "Removable storage device, such as a portable hard drive"
-msgstr ""
+msgstr "Flyttbar lagringsenhet, t.ex. en bärbar hårddisk"
 
 #: src/IconCollection.vala:1093
 msgid "USB drive or stick, such as a flash, jump, or thumb drive"
-msgstr ""
+msgstr "USB-enhet eller USB-minne, t.ex. flash-enhet, jump-enhet eller tumminne"
 
 #: src/IconCollection.vala:1098
 msgid "Video game controller, such as a paddle, remote, or joystick"
-msgstr ""
+msgstr "Videospelskontroll, t.ex. en paddel, fjärrkontroll eller joystick"
 
 #: src/IconCollection.vala:1103
 msgid "Keyboard"
-msgstr ""
+msgstr "Tangentbord"
 
 #: src/IconCollection.vala:1108
 msgid "Mouse"
-msgstr ""
+msgstr "Mus"
 
 #: src/IconCollection.vala:1113
 msgid ""
 "Graphics tablet or pen input, such as a Wacom digitizer, Intuos, Cintiq, or "
 "Bamboo"
 msgstr ""
+"Grafisk surfplatta eller penninmatning, t.ex. en Wacom digitizer, Intuos, "
+"Cintiq eller Bamboo"
 
 #: src/IconCollection.vala:1118
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
-msgstr ""
+msgstr "Pekplatta, t.ex. en multitouch-pekplatta eller en klickplatta"
 
 #: src/IconCollection.vala:1123
 msgid "Flash media such as a memory stick or SD card"
-msgstr ""
+msgstr "Flashmedia, t.ex. ett minneskort eller SD-kort"
 
 #: src/IconCollection.vala:1128
 msgid "Optical media, such as a CD, DVD, or Blu-ray disc"
-msgstr ""
+msgstr "Optisk media, t.ex. CD, DVD eller Blu-ray Disc"
 
 #: src/IconCollection.vala:1133
 msgid "Network modem or router"
-msgstr ""
+msgstr "Nätverksmodem eller router"
 
 #: src/IconCollection.vala:1138
 msgid "Media player device, such as a portable mp3 music player or iPod"
-msgstr ""
+msgstr "Mediaspelare, t.ex. en bärbar mp3-musikspelare eller iPod"
 
 #: src/IconCollection.vala:1143
 msgid ""
 "Cellular type wireless network or device, such as a 2G, 3G, or 4G LTE "
 "connection, modem, or SIM card"
 msgstr ""
+"Trådlöst nätverk eller enhet av mobiltyp, t.ex. 2G-, 3G- eller 4G LTE-"
+"anslutning, modem eller SIM-kort"
 
 #: src/IconCollection.vala:1148
 msgid "Networking firewall"
-msgstr ""
+msgstr "Nätverk brandvägg"
 
 #: src/IconCollection.vala:1153
 msgid "Virtual private network or VPN connection"
-msgstr ""
+msgstr "Virtuellt privat nätverk eller VPN-anslutning"
 
 #: src/IconCollection.vala:1158
 msgid "Wired network connection, such as Ethernet"
-msgstr ""
+msgstr "Trådbunden nätverksanslutning, t.ex. Ethernet"
 
 #: src/IconCollection.vala:1163
 msgid "Wireless network connection, such as Wi-Fi"
-msgstr ""
+msgstr "Trådlös nätverksanslutning, t.ex. Wi-Fi"
 
 #: src/IconCollection.vala:1168
 msgid ""
 "Wireless hotspot connection, such as through a mobile cellular phone or "
 "smartphone"
-msgstr ""
+msgstr "Trådlös hotspot-anslutning, t.ex. via en mobiltelefon eller smartphone"
 
 #: src/IconCollection.vala:1173
 msgid "Generic phone, such as a mobile Android smartphone or iPhone"
-msgstr ""
+msgstr "Generisk telefon, t.ex. en mobil Android-smartphone eller iPhone"
 
 #: src/IconCollection.vala:1178
 msgid "Printer"
-msgstr ""
+msgstr "Skrivare"
 
 #: src/IconCollection.vala:1183
 msgid "Network-connected or shared printer"
-msgstr ""
+msgstr "Nätverksansluten eller delad skrivare"
 
 #: src/IconCollection.vala:1188
 msgid "Scanner"
-msgstr ""
+msgstr "Skanner"
 
 #: src/IconCollection.vala:1193
 msgid "Display, screen, or monitor"
-msgstr ""
+msgstr "Display, skärm eller monitor"
 
 #: src/IconCollection.vala:1198
 msgid "Default selection emblem, such as for a printer or other device"
-msgstr ""
+msgstr "Emblem för standardval, t.ex. för en skrivare eller annan enhet"
 
 #: src/IconCollection.vala:1203
 msgid "Disabled feature or service emblem"
-msgstr ""
+msgstr "Emblem för funktionshindrad funktion eller tjänst"
 
 #: src/IconCollection.vala:1208
 msgid "Documents emblem"
-msgstr ""
+msgstr "Emblem för dokument"
 
 #: src/IconCollection.vala:1213
 msgid "Downloads emblem"
-msgstr ""
+msgstr "Emblem för nedladdningar"
 
 #: src/IconCollection.vala:1218
 msgid "Enabled feature or service emblem"
-msgstr ""
+msgstr "Emblem för aktiverad funktion eller tjänst"
 
 #: src/IconCollection.vala:1223
 msgid "Emblem for the error status of a feature or service"
-msgstr ""
+msgstr "Emblem för felstatus för en funktion eller tjänst"
 
 #: src/IconCollection.vala:1228
 msgid "Item the user has marked as a favorite"
-msgstr ""
+msgstr "Objekt som användaren har markerat som favorit"
 
 #: src/IconCollection.vala:1233
 msgid "Item marked as important"
-msgstr ""
+msgstr "Objektet markerat som viktigt"
 
 #: src/IconCollection.vala:1238
 msgid "Item related to email"
-msgstr ""
+msgstr "Objekt relaterad till e-post"
 
 #: src/IconCollection.vala:1243
 msgid "Emblem for the partially enabled status of a feature or service"
-msgstr ""
+msgstr "Emblem för delvis aktiverad status för en funktion eller tjänst"
 
 #: src/IconCollection.vala:1248
 msgid "Photos emblem"
-msgstr ""
+msgstr "Emblem för foton"
 
 #: src/IconCollection.vala:1253
 msgid "Item is read-only, or the user cannot write to or make changes to it"
 msgstr ""
+"Objektet är skrivskyddat, dvs. användaren kan inte skriva till eller göra "
+"ändringar i det"
 
 #: src/IconCollection.vala:1258
 msgid "Item shared with other people or users"
-msgstr ""
+msgstr "Objekt som delas med andra personer eller användare"
 
 #: src/IconCollection.vala:1263
 msgid "Item is a symbolic link to a file somewhere else"
-msgstr ""
+msgstr "Objektet är en symbolisk länk till en fil någon annanstans"
 
 #: src/IconCollection.vala:1268
 msgid "Item is configured to be synchronized to another device or location"
 msgstr ""
+"Objektet är konfigurerat för att synkroniseras med en annan enhet eller plats"
 
 #: src/IconCollection.vala:1273
 msgid "Item is a system file, library, setting, or data"
-msgstr ""
+msgstr "Objektet är en systemfil, ett bibliotek, en inställning eller data"
 
 #: src/IconCollection.vala:1278
 msgid "Item is unreadable or inaccessible"
-msgstr ""
+msgstr "Objektet är oläsligt eller otillgängligt"
 
 #: src/IconCollection.vala:1283
 msgid "Emblem for the warning status of a feature or service"
-msgstr ""
+msgstr "Emblem för varningsstatus för en funktion eller tjänst"
 
 #: src/IconCollection.vala:1288
 msgid "0:-) emoticon"
-msgstr ""
+msgstr "0:-) uttryckssymbol"
 
 #: src/IconCollection.vala:1293
 msgid "X-( emoticon"
-msgstr ""
+msgstr "X-( uttryckssymbol"
 
 #: src/IconCollection.vala:1298
 msgid "B-) emoticon"
-msgstr ""
+msgstr "B-) uttryckssymbol"
 
 #: src/IconCollection.vala:1303
 msgid ":'( emoticon"
-msgstr ""
+msgstr ":'( uttryckssymbol"
 
 #: src/IconCollection.vala:1308
 msgid ">:-) emoticon"
-msgstr ""
+msgstr ">:-) uttryckssymbol"
 
 #: src/IconCollection.vala:1313
 msgid ":-[ emoticon"
-msgstr ""
+msgstr ":-[ uttryckssymbol"
 
 #: src/IconCollection.vala:1318
 msgid "<3 emoticon"
-msgstr ""
+msgstr "<3 uttryckssymbol"
 
 #: src/IconCollection.vala:1323
 msgid "</3 emoticon"
-msgstr ""
+msgstr "</3 uttryckssymbol"
 
 #: src/IconCollection.vala:1328
 msgid ":-* emoticon"
-msgstr ""
+msgstr ":-* uttryckssymbol"
 
 #: src/IconCollection.vala:1333
 msgid ":-)) emoticon"
-msgstr ""
+msgstr ":-)) uttryckssymbol"
 
 #: src/IconCollection.vala:1338
 msgid ":-(|) emoticon"
-msgstr ""
+msgstr ":-(|) uttryckssymbol"
 
 #: src/IconCollection.vala:1343
 msgid ":-| emoticon"
-msgstr ""
+msgstr ":-| uttryckssymbol"
 
 #: src/IconCollection.vala:1348
 msgid ":-P emoticon"
-msgstr ""
+msgstr ":-P uttryckssymbol"
 
 #: src/IconCollection.vala:1353
 msgid ":-( emoticon"
-msgstr ""
+msgstr ":-( uttryckssymbol"
 
 #: src/IconCollection.vala:1358
 msgid ":-& emoticon"
-msgstr ""
+msgstr ":-& uttryckssymbol"
 
 #: src/IconCollection.vala:1363
 msgid ":-) emoticon"
-msgstr ""
+msgstr ":-) uttryckssymbol"
 
 #: src/IconCollection.vala:1368
 msgid ":-D emoticon"
-msgstr ""
+msgstr ":-D uttryckssymbol"
 
 #: src/IconCollection.vala:1373
 msgid ":-! emoticon"
-msgstr ""
+msgstr ":-! uttryckssymbol"
 
 #: src/IconCollection.vala:1378
 msgid ":-0 emoticon"
-msgstr ""
+msgstr ":-0 uttryckssymbol"
 
 #: src/IconCollection.vala:1383
 msgid "|-) emoticon"
-msgstr ""
+msgstr "|-) uttryckssymbol"
 
 #: src/IconCollection.vala:1388
 msgid ":-/ emoticon"
-msgstr ""
+msgstr ":-/ uttryckssymbol"
 
 #: src/IconCollection.vala:1393
 msgid ";-) emoticon"
-msgstr ""
+msgstr ";-) uttryckssymbol"
 
 #: src/IconCollection.vala:1398
 msgid ":-S emoticon"
-msgstr ""
+msgstr ":-S uttryckssymbol"
 
 #: src/IconCollection.vala:1403
 msgid "EPUB Ebook file types"
-msgstr ""
+msgstr "EPUB Filtyper för e-böcker"
 
 #: src/IconCollection.vala:1408
 msgid "Adobe Illustrator image file types"
-msgstr ""
+msgstr "Bildfilstyper för Adobe Illustrator"
 
 #: src/IconCollection.vala:1413
 msgid "Javascript programming language file types"
-msgstr ""
+msgstr "Javascript programmeringsspråk filtyper"
 
 #: src/IconCollection.vala:1418
 msgid "Microsoft Word file types"
-msgstr ""
+msgstr "Microsoft Word filtyper"
 
 #: src/IconCollection.vala:1423
 msgid "Binary file types"
-msgstr ""
+msgstr "Binära filtyper"
 
 #: src/IconCollection.vala:1428
 msgid "PDF file types"
-msgstr ""
+msgstr "PDF-filtyper"
 
 #: src/IconCollection.vala:1433
 msgid "PGP file types"
-msgstr ""
+msgstr "PGP filtyper"
 
 #: src/IconCollection.vala:1438
 msgid "Debian package file types"
-msgstr ""
+msgstr "Filtyper för Debian-paket"
 
 #: src/IconCollection.vala:1443
 msgid "Flatpak reference file types"
-msgstr ""
+msgstr "Flatpak referensfilstyper"
 
 #: src/IconCollection.vala:1448
 msgid "Microsoft Access file types"
-msgstr ""
+msgstr "Microsoft Access filtyper"
 
 #: src/IconCollection.vala:1453
 msgid "Microsoft Excel file types"
-msgstr ""
+msgstr "Microsoft Excel filtyper"
 
 #: src/IconCollection.vala:1458
 msgid "Microsoft PowerPoint file types"
-msgstr ""
+msgstr "Microsoft PowerPoint filtyper"
 
 #: src/IconCollection.vala:1463
 msgid "Oasis OpenDocument file types"
-msgstr ""
+msgstr "Oasis OpenDocument filtyper"
 
 #: src/IconCollection.vala:1468
 msgid "Torrent file types"
-msgstr ""
+msgstr "Torrent-filtyper"
 
 #: src/IconCollection.vala:1473
 msgid "CD Image file types"
-msgstr ""
+msgstr "CD-avbildning filtyper"
 
 #: src/IconCollection.vala:1478
 msgid "Desktop file types"
-msgstr ""
+msgstr "Filtyper för skrivbordet"
 
 #: src/IconCollection.vala:1483
 msgid "Executable file types"
-msgstr ""
+msgstr "Körbara filtyper"
 
 #: src/IconCollection.vala:1488
 msgid "FictionBook file types"
-msgstr ""
+msgstr "FictionBook filtyper"
 
 #: src/IconCollection.vala:1493
 msgid "Firmware file types"
-msgstr ""
+msgstr "Filtyper för fast programvara"
 
 #: src/IconCollection.vala:1498
 msgid "PHP programming language file types"
-msgstr ""
+msgstr "PHP programmeringsspråk filtyper"
 
 #: src/IconCollection.vala:1503
 msgid "Ruby programming language file types"
-msgstr ""
+msgstr "Ruby programmeringsspråk filtyper"
 
 #: src/IconCollection.vala:1508
 msgid "Shared library file types"
-msgstr ""
+msgstr "Filtyper för delat bibliotek"
 
 #: src/IconCollection.vala:1513
 msgid "Generic audio file types"
-msgstr ""
+msgstr "Generiska ljudfiltyper"
 
 #: src/IconCollection.vala:1518
 msgid "Audio playlist file types"
-msgstr ""
+msgstr "Filtyper för ljudspellistor"
 
 #: src/IconCollection.vala:1523
 msgid "Extension"
-msgstr ""
+msgstr "Filändelse"
 
 #: src/IconCollection.vala:1528
 msgid "Generic font file types"
-msgstr ""
+msgstr "Generiska filtyper för teckensnitt"
 
 #: src/IconCollection.vala:1533
 msgid "Adobe Photoshop image file types"
-msgstr ""
+msgstr "Bildfilstyper i Adobe Photoshop"
 
 #: src/IconCollection.vala:1538
 msgid "Generic image file types"
-msgstr ""
+msgstr "Generiska bildfilstyper"
 
 #: src/IconCollection.vala:1543
 msgid "XCF image file types"
-msgstr ""
+msgstr "XCF-bildfilstyper"
 
 #: src/IconCollection.vala:1548
 msgid "Internet Feed"
-msgstr ""
+msgstr "Internetflöde"
 
 #: src/IconCollection.vala:1553
 msgid "Model"
-msgstr ""
+msgstr "Modell"
 
 #: src/IconCollection.vala:1558
 msgid "Contact file types"
-msgstr ""
+msgstr "Typer av kontaktfiler"
 
 #: src/IconCollection.vala:1563
 msgid "Database file types"
-msgstr ""
+msgstr "Filtyper för databaser"
 
 #: src/IconCollection.vala:1568
 msgid "Generic package file types"
-msgstr ""
+msgstr "Generiska filtyper för paket"
 
 #: src/IconCollection.vala:1573
 msgid "Credit or debit card payments"
-msgstr ""
+msgstr "Betalningar med kredit- eller betalkort"
 
 #: src/IconCollection.vala:1578
 msgid "American Express branded credit or debit card payments"
-msgstr ""
+msgstr "Betalningar med kredit- eller betalkort av märket American Express"
 
 #: src/IconCollection.vala:1583
 msgid "Diner's Club branded credit or debit card payments"
-msgstr ""
+msgstr "Betalningar med Diner's Club-märkta kredit- eller betalkort"
 
 #: src/IconCollection.vala:1588
 msgid "Discover branded credit or debit card payments"
-msgstr ""
+msgstr "Betalningar med Discover-märkta kredit- eller betalkort"
 
 #: src/IconCollection.vala:1593
 msgid "Japan Credit Bureau branded credit or debit card payments"
 msgstr ""
+"Betalningar med kredit- eller betalkort med Japan Credit Bureau-varumärke"
 
 #: src/IconCollection.vala:1598
 msgid "Mastercard branded credit or debit card payments"
-msgstr ""
+msgstr "Betalningar med kredit- eller betalkort av märket Mastercard"
 
 #: src/IconCollection.vala:1603
 msgid "China UnionPay branded credit or debit card payments"
-msgstr ""
+msgstr "Betalningar med kredit- eller betalkort av märket China UnionPay"
 
 #: src/IconCollection.vala:1608
 msgid "Visa branded credit or debit card payments"
-msgstr ""
+msgstr "Betalningar med Visa-märkta kredit- eller betalkort"
 
 #: src/IconCollection.vala:1613
 msgid "CSS text file types"
-msgstr ""
+msgstr "CSS textfilstyper"
 
 #: src/IconCollection.vala:1618
 msgid "HTML text file types"
-msgstr ""
+msgstr "HTML-textfilstyper"
 
 #: src/IconCollection.vala:1623
 msgid "Markdown text file types"
-msgstr ""
+msgstr "Markdown textfilstyper"
 
 #: src/IconCollection.vala:1628
 msgid "Bibtext file types"
-msgstr ""
+msgstr "Bibtext filtyper"
 
 #: src/IconCollection.vala:1633
 msgid "Changelog file types"
-msgstr ""
+msgstr "Ändringslogg filtyper"
 
 #: src/IconCollection.vala:1638
 msgid "C programming language header file types"
-msgstr ""
+msgstr "Huvudfilstyper för programmeringsspråket C"
 
 #: src/IconCollection.vala:1643
 msgid "License file types"
-msgstr ""
+msgstr "Typer av licensfiler"
 
 #: src/IconCollection.vala:1648
 msgid "C programming language file types"
-msgstr ""
+msgstr "Filtyper för programmeringsspråket C"
 
 #: src/IconCollection.vala:1653
 msgid "Generic text file types"
-msgstr ""
+msgstr "Generiska textfilstyper"
 
 #: src/IconCollection.vala:1658
 msgid "Generic text templates"
-msgstr ""
+msgstr "Generiska textmallar"
 
 #: src/IconCollection.vala:1663
 msgid "Gettext translation file types"
-msgstr ""
+msgstr "Gettext-översättning filtyper"
 
 #: src/IconCollection.vala:1668
 msgid "Gettext translation model file types"
-msgstr ""
+msgstr "Gettext-översättningsmodell filtyper"
 
 #: src/IconCollection.vala:1673
 msgid "Go programming language file types"
-msgstr ""
+msgstr "Go programmeringsspråk filtyper"
 
 #: src/IconCollection.vala:1678
 msgid "Install file types"
-msgstr ""
+msgstr "Installera filtyper"
 
 #: src/IconCollection.vala:1683
 msgid "Makefile file types"
-msgstr ""
+msgstr "Makefile filtyper"
 
 #: src/IconCollection.vala:1688
 msgid "Preview file types"
-msgstr ""
+msgstr "Förhandsgranska filtyper"
 
 #: src/IconCollection.vala:1693
 msgid "Python programming language file types"
-msgstr ""
+msgstr "Python programmeringsspråk filtyper"
 
 #: src/IconCollection.vala:1698
 msgid "Readme file types"
-msgstr ""
+msgstr "Typer av Readme-filer"
 
 #: src/IconCollection.vala:1703
 msgid "Sass programming language file types"
-msgstr ""
+msgstr "Sass programmeringsspråk filtyper"
 
 #: src/IconCollection.vala:1708
 msgid "Script file types, such as shell scripts"
-msgstr ""
+msgstr "Skriptfiltyper, t.ex. skalskript"
 
 #: src/IconCollection.vala:1713
 msgid "SSA file types"
-msgstr ""
+msgstr "SSA filtyper"
 
 #: src/IconCollection.vala:1718
 msgid "TEX file types"
-msgstr ""
+msgstr "TEX filtyper"
 
 #: src/IconCollection.vala:1723
 msgid "Vala programming language file types"
-msgstr ""
+msgstr "Vala programmeringsspråk filtyper"
 
 #: src/IconCollection.vala:1728
 msgid "Unknown file types"
-msgstr ""
+msgstr "Okända filtyper"
 
 #: src/IconCollection.vala:1733
 msgid "Generic video file types"
-msgstr ""
+msgstr "Generiska videofiltyper"
 
 #: src/IconCollection.vala:1738
 msgid "Generic address book file types"
-msgstr ""
+msgstr "Generiska filtyper för adressbok"
 
 #: src/IconCollection.vala:1743
 msgid "Generic calendar file types"
-msgstr ""
+msgstr "Generiska kalenderfiltyper"
 
 #: src/IconCollection.vala:1748
 msgid "Generic document and letter file types"
-msgstr ""
+msgstr "Generiska dokument- och brevfilstyper"
 
 #: src/IconCollection.vala:1753
 msgid "Generic document and letter template file types"
-msgstr ""
+msgstr "Generiska filtyper för dokument- och brevmallar"
 
 #: src/IconCollection.vala:1758
 msgid "Generic drawing file types"
-msgstr ""
+msgstr "Generiska filtyper för ritningar"
 
 #: src/IconCollection.vala:1763
 msgid "Generic drawing template file types"
-msgstr ""
+msgstr "Generisk ritningsmall filtyper"
 
 #: src/IconCollection.vala:1768
 msgid "Generic presentation file types"
-msgstr ""
+msgstr "Generiska filtyper för presentation"
 
 #: src/IconCollection.vala:1773
 msgid "Generic presentation template file types"
-msgstr ""
+msgstr "Generisk presentationsmall filtyper"
 
 #: src/IconCollection.vala:1778
 msgid "Generic spreadsheet file types"
-msgstr ""
+msgstr "Generiska filtyper för kalkylblad"
 
 #: src/IconCollection.vala:1783
 msgid "Generic spreadsheet template file types"
-msgstr ""
+msgstr "Generiska kalkylbladsmallar filtyper"
 
 #: src/IconCollection.vala:1788
 msgid "Bookmark missing"
-msgstr ""
+msgstr "Bokmärke saknas"
 
 #: src/IconCollection.vala:1793
 msgid "Distributor logo"
-msgstr ""
+msgstr "Distributörens logotyp"
 
 #: src/IconCollection.vala:1798
 msgid "Folder"
-msgstr ""
+msgstr "Mapp"
 
 #: src/IconCollection.vala:1803
 msgid "Documents folder"
-msgstr ""
+msgstr "Dokumentmapp"
 
 #: src/IconCollection.vala:1808
 msgid "Downloads folder"
-msgstr ""
+msgstr "Nedladdningsbar mapp"
 
 #: src/IconCollection.vala:1813
 msgid "Folder drag accept"
-msgstr ""
+msgstr "Acceptera dragning av mapp"
 
 #: src/IconCollection.vala:1818
 msgid "Music folder"
-msgstr ""
+msgstr "Musikmapp"
 
 #: src/IconCollection.vala:1823
 msgid "Open folder"
-msgstr ""
+msgstr "Öppna mapp"
 
 #: src/IconCollection.vala:1828
 msgid "Pictures folder"
-msgstr ""
+msgstr "Bilder-mapp"
 
 #: src/IconCollection.vala:1833
 msgid "Publicshare folder"
-msgstr ""
+msgstr "Offentlig mapp"
 
 #: src/IconCollection.vala:1838
 msgid "Recent folder"
-msgstr ""
+msgstr "Senaste mappen"
 
 #: src/IconCollection.vala:1843
 msgid "Remote folder"
-msgstr ""
+msgstr "Fjärrstyrd mapp"
 
 #: src/IconCollection.vala:1848
 msgid "Saved search folder"
-msgstr ""
+msgstr "Sparad sökmapp"
 
 #: src/IconCollection.vala:1853
 msgid "Templates folder"
-msgstr ""
+msgstr "Mapp för mallar"
 
 #: src/IconCollection.vala:1858
 msgid "Videos folder"
-msgstr ""
+msgstr "Videor-mapp"
 
 #: src/IconCollection.vala:1863
 msgid "Internet radio"
-msgstr ""
+msgstr "Internetradio"
 
 #: src/IconCollection.vala:1868
 msgid "Audiobook library"
-msgstr ""
+msgstr "Ljudboksbibliotek"
 
 #: src/IconCollection.vala:1873
 msgid "Library places"
-msgstr ""
+msgstr "Biblioteksplatser"
 
 #: src/IconCollection.vala:1878
 msgid "Podcast library"
-msgstr ""
+msgstr "Podcast-bibliotek"
 
 #: src/IconCollection.vala:1883
 msgid "Mail inbox"
-msgstr ""
+msgstr "Inkorg för e-post"
 
 #: src/IconCollection.vala:1888
 msgid "Mail mailbox"
-msgstr ""
+msgstr "Brevlåda"
 
 #: src/IconCollection.vala:1893
 msgid "Mail outbox"
-msgstr ""
+msgstr "Utkorg för e-post"
 
 #: src/IconCollection.vala:1898
 msgid "Mail sent"
-msgstr ""
+msgstr "Avsändning av post"
 
 #: src/IconCollection.vala:1903
 msgid "Network server"
-msgstr ""
+msgstr "Nätverksserver"
 
 #: src/IconCollection.vala:1908
 msgid "Network workgroup"
-msgstr ""
+msgstr "Arbetsgrupp i nätverk"
 
 #: src/IconCollection.vala:1913
 msgid "Playlist"
-msgstr ""
+msgstr "Spellista"
 
 #: src/IconCollection.vala:1918
 msgid "Automatic playlist"
-msgstr ""
+msgstr "Automatisk spellista"
 
 #: src/IconCollection.vala:1923
 msgid "Playlist queue"
-msgstr ""
+msgstr "Kö för spellista"
 
 #: src/IconCollection.vala:1928
 msgid "Similar playlist"
-msgstr ""
+msgstr "Liknande spellista"
 
 #: src/IconCollection.vala:1933
 msgid "Tag"
-msgstr ""
+msgstr "Tagg"
 
 #: src/IconCollection.vala:1938
 msgid "Bookmarks"
-msgstr ""
+msgstr "Bokmärken"
 
 #: src/IconCollection.vala:1943
 msgid "Home"
-msgstr ""
+msgstr "Hem"
 
 #: src/IconCollection.vala:1948
 msgid "Trash"
-msgstr ""
+msgstr "Papperskorg"
 
 #: src/IconCollection.vala:1953
 msgid "Trash full"
-msgstr ""
+msgstr "Papperskorg full"
 
 #: src/IconCollection.vala:1958
 msgid "Airplane mode, where wireless radios are disabled or off"
 msgstr ""
+"Flygplansläge, där trådlösa radiosändare är inaktiverade eller avstängda"
 
 #: src/IconCollection.vala:1963
 msgid "An appointment or calendar event was missed"
-msgstr ""
+msgstr "Ett möte eller en kalenderhändelse missades"
 
 #: src/IconCollection.vala:1968
 msgid "An appointment or calendar event will be happening soon"
-msgstr ""
+msgstr "Ett möte eller en kalenderhändelse kommer snart att äga rum"
 
 #: src/IconCollection.vala:1973
 msgid "High or loud audio volume"
-msgstr ""
+msgstr "Hög eller stark ljudvolym"
 
 #: src/IconCollection.vala:1978
 msgid "Low or quiet audio volume"
-msgstr ""
+msgstr "Låg eller tyst ljudvolym"
 
 #: src/IconCollection.vala:1983
 msgid "Medium or normal audio volume"
-msgstr ""
+msgstr "Medium eller normal ljudvolym"
 
 #: src/IconCollection.vala:1988
 msgid "Audio volume is muted or off"
-msgstr ""
+msgstr "Ljudvolymen är dämpad eller avstängd"
 
 #: src/IconCollection.vala:1993
 msgid ""
 "Audio volume is muted or off and something is being blocked from making noise"
 msgstr ""
+"Ljudvolymen är dämpad eller avstängd och något blockeras från att göra ljud"
 
 #: src/IconCollection.vala:1998
 msgid ""
 "The default avatar to represent a user, such as someone who has not set a "
 "profile picture"
 msgstr ""
+"Standardavataren för att representera en användare, t.ex. någon som inte har "
+"angett en profilbild"
 
 #: src/IconCollection.vala:2003
 msgid "A charger or AC adapter for a battery-powered device"
-msgstr ""
+msgstr "En laddare eller strömadapter för en batteridriven enhet"
 
 #: src/IconCollection.vala:2008
 msgid "Low battery level"
-msgstr ""
+msgstr "Låg batterinivå"
 
 #: src/IconCollection.vala:2013
 msgid "Low battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "Låg batterinivå, ansluten till en laddare eller nätadapter"
 
 #: src/IconCollection.vala:2018
 msgid "Critically low battery level"
-msgstr ""
+msgstr "Kritiskt låg batterinivå"
 
 #: src/IconCollection.vala:2023
 msgid "Critically low battery, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "Kritiskt svagt batteri, anslutet till en laddare eller nätadapter"
 
 #: src/IconCollection.vala:2028
 msgid "Mostly charged battery level"
-msgstr ""
+msgstr "Mestadels laddad batterinivå"
 
 #: src/IconCollection.vala:2033
 msgid "Completely charged battery level"
-msgstr ""
+msgstr "Fullständigt laddad batterinivå"
 
 #: src/IconCollection.vala:2038
 msgid "Mostly charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "Mestadels laddad batterinivå, ansluten till en laddare eller nätadapter"
 
 #: src/IconCollection.vala:2043
 msgid "Medium-high charged battery level"
-msgstr ""
+msgstr "Medium-hög laddningsnivå för batteriet"
 
 #: src/IconCollection.vala:2048
 msgid "Medium-high charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "Medium-hög batterinivå, ansluten till en laddare eller nätadapter"
 
 #: src/IconCollection.vala:2053
 msgid "Medium-low charged battery level"
-msgstr ""
+msgstr "Medium-låg batterinivå"
 
 #: src/IconCollection.vala:2058
 msgid "Medium-low charged battery level, plugged into a charger or AC adapter"
-msgstr ""
+msgstr "Medellåg batterinivå, ansluten till en laddare eller nätadapter"
 
 #: src/IconCollection.vala:2063
 msgid "Missing or malfunctioning battery"
-msgstr ""
+msgstr "Saknat eller felaktigt fungerande batteri"
 
 #: src/IconCollection.vala:2068
 msgid "Allow changes by unlocking such as with a password"
-msgstr ""
+msgstr "Tillåt ändringar genom upplåsning, t.ex. med ett lösenord"
 
 #: src/IconCollection.vala:2073
 msgid "Prevent changes by locking such as with a password"
-msgstr ""
+msgstr "Förhindra ändringar genom att låsa, t.ex. med ett lösenord"
 
 #: src/IconCollection.vala:2078
 msgid ""
 "Insecure, unsecure, or unencrypted communication or connection, such as HTTP"
 msgstr ""
+"Osäker, oskyddad eller okrypterad kommunikation eller anslutning, t.ex. HTTP"
 
 #: src/IconCollection.vala:2083
 msgid ""
 "Secure or encrypted communication or connection, such as HTTPS or encrypted "
 "Wi-Fi"
 msgstr ""
+"Säker eller krypterad kommunikation eller anslutning, t.ex. HTTPS eller "
+"krypterad Wi-Fi"
 
 #: src/IconCollection.vala:2088
 msgid "Critical, unrecoverable, or other serious error"
-msgstr ""
+msgstr "Kritiskt, oåterkalleligt eller annat allvarligt fel"
 
 #: src/IconCollection.vala:2093
 msgid "Contextual information or explanation"
-msgstr ""
+msgstr "Kontextuell information eller förklaring"
 
 #: src/IconCollection.vala:2098
 msgid "Requesting authentication details, such as a password or encryption key"
 msgstr ""
+"Begär autentiseringsuppgifter, t.ex. ett lösenord eller en krypteringsnyckel"
 
 #: src/IconCollection.vala:2103
 msgid "Question, decision, or choice for the user"
-msgstr ""
+msgstr "Fråga, beslut eller val för användaren"
 
 #: src/IconCollection.vala:2108
 msgid "Warning of potentially dangerous actions or consequences"
-msgstr ""
+msgstr "Varning för potentiellt farliga handlingar eller konsekvenser"
 
 #: src/IconCollection.vala:2113
 msgid "Placeholder used when an image or thumbnail is loading"
-msgstr ""
+msgstr "Platshållare som används när en bild eller miniatyrbild laddas"
 
 #: src/IconCollection.vala:2118
 msgid ""
 "Placeholder used when an image or thumbnail is missing or cannot be loaded"
 msgstr ""
+"Platshållare som används när en bild eller miniatyrbild saknas eller inte "
+"kan laddas"
 
 #: src/IconCollection.vala:2123
 msgid "Location services are in use"
-msgstr ""
+msgstr "Platstjänster används"
 
 #: src/IconCollection.vala:2128
 msgid "Location services are disabled and unavailable"
-msgstr ""
+msgstr "Platstjänsterna är inaktiverade och inte tillgängliga"
 
 #: src/IconCollection.vala:2133
 msgid "Location services are available, but not in use"
-msgstr ""
+msgstr "Lokaliseringstjänster är tillgängliga, men används inte"
 
 #: src/IconCollection.vala:2138
 msgid ""
 "Locked or secured, typically requiring authentication or a password to unlock"
 msgstr ""
+"Låst eller säkrat, kräver vanligtvis autentisering eller ett lösenord för "
+"att låsas upp"
 
 #: src/IconCollection.vala:2143
 msgid "Mail attachment or file in an email"
-msgstr ""
+msgstr "E-postbilaga eller fil i ett e-postmeddelande"
 
 #: src/IconCollection.vala:2148
 msgid "New, unread, or unviewed email"
-msgstr ""
+msgstr "Ny, oläst eller obevakad e-post"
 
 #: src/IconCollection.vala:2153
 msgid "Read or already-viewed email"
-msgstr ""
+msgstr "Läst eller redan visad e-post"
 
 #: src/IconCollection.vala:2158
 msgid "Email that has been replied or responded to"
-msgstr ""
+msgstr "E-post som har besvarats eller besvaras"
 
 #: src/IconCollection.vala:2163
 msgid "Email that contains a signature"
-msgstr ""
+msgstr "E-post som innehåller en signatur"
 
 #: src/IconCollection.vala:2168
 msgid "Email that contains a signature that is verified by the security system"
-msgstr ""
+msgstr "E-post som innehåller en signatur som verifieras av säkerhetssystemet"
 
 #: src/IconCollection.vala:2173
 msgid "Repeat a song, video, track, album, playlist, or other media"
-msgstr ""
+msgstr "Upprepa en låt, video, spår, album, spellista eller annan media"
 
 #: src/IconCollection.vala:2178
 msgid "Shuffle or randomize an album, playlist, or other media"
-msgstr ""
+msgstr "Blanda eller slumpa fram ett album, en spellista eller annan media"
 
 #: src/IconCollection.vala:2183
 msgid "Error or problem initializing or creating a network connection"
-msgstr ""
+msgstr "Fel eller problem med att initiera eller skapa en nätverksanslutning"
 
 #: src/IconCollection.vala:2188
 msgid "No data being transmitted or received while connected to a network"
-msgstr ""
+msgstr "Inga data sänds eller tas emot när du är ansluten till ett nätverk"
 
 #: src/IconCollection.vala:2193
 msgid "Disconnected or offline from a network"
-msgstr ""
+msgstr "Bortkopplad eller offline från ett nätverk"
 
 #: src/IconCollection.vala:2198
 msgid "Data is being received over a network"
-msgstr ""
+msgstr "Data tas emot via ett nätverk"
 
 #: src/IconCollection.vala:2203
 msgid "Data is being transmitted over a network"
-msgstr ""
+msgstr "Data överförs via ett nätverk"
 
 #: src/IconCollection.vala:2208
 msgid ""
 "Data is being both transmitted and received simultaneously over a network"
-msgstr ""
+msgstr "Data både sänds och tas emot samtidigt över ett nätverk"
 
 #: src/IconCollection.vala:2213
 msgid "Wired network, such as Ethernet, is disconnected"
-msgstr ""
+msgstr "Det trådbundna nätverket, t.ex. Ethernet, är frånkopplat"
 
 #: src/IconCollection.vala:2218
 msgid "Item is not starred, favorited, or pinned by the user"
 msgstr ""
+"Objektet har inte stjärnmärkts, favoritmarkerats eller fästs av användaren"
 
 #: src/IconCollection.vala:2223
 msgid "Notifications are disabled or in Do-Not-Disturb mode"
-msgstr ""
+msgstr "Notifieringar är inaktiverade eller i stör ej-läge"
 
 #: src/IconCollection.vala:2228
 msgid "Error or problem occurred when attempting to print"
-msgstr ""
+msgstr "Fel eller problem uppstod när du försökte skriva ut"
 
 #: src/IconCollection.vala:2233
 msgid "Job has been successfully spooled or sent to a printer"
-msgstr ""
+msgstr "Jobbet har spoolats eller skickats till en skrivare"
 
 #: src/IconCollection.vala:2238
 msgid "Process, job, or task has successfully completed or finished"
 msgstr ""
+"Processen, jobbet eller uppgiften har framgångsrikt slutförts eller avslutats"
 
 #: src/IconCollection.vala:2243
 msgid "Process, job, or task has failed or been unsuccessful"
 msgstr ""
+"Processen, jobbet eller uppgiften har misslyckats eller varit misslyckad"
 
 #: src/IconCollection.vala:2248
 msgid "Process, job, or task is currently paused or on hold"
 msgstr ""
+"Processen, jobbet eller uppgiften är för närvarande pausad eller avbruten"
 
 #: src/IconCollection.vala:2253
 msgid ""
 "Known to be secure, such as using strong encryption and a valid, verified, "
 "or trusted certificate"
 msgstr ""
+"Känd för att vara säker, t.ex. genom att använda stark kryptering och ett "
+"giltigt, verifierat eller betrott certifikat"
 
 #: src/IconCollection.vala:2258
 msgid "Presumed to be secure, such as using encryption"
-msgstr ""
+msgstr "Förutsätts vara säker, t.ex. med hjälp av kryptering"
 
 #: src/IconCollection.vala:2263
 msgid ""
 "Presumed to be insecure, such as unsecured, unencrypted, weak encryption, or "
 "an invalid, unverified, or untrusted certificate"
 msgstr ""
+"Förmodas vara osäkert, t.ex. osäkert, okrypterat, svag kryptering eller ett "
+"ogiltigt, overifierat eller icke betrott certifikat"
 
 #: src/IconCollection.vala:2268
 msgid "Updated apps, software, or drivers are available"
-msgstr ""
+msgstr "Uppdaterade appar, programvara eller drivrutiner finns tillgängliga"
 
 #: src/IconCollection.vala:2273
 msgid "Urgent or critical updates are available"
-msgstr ""
+msgstr "Brådskande eller kritiska uppdateringar finns tillgängliga"
 
 #: src/IconCollection.vala:2278
 msgid "Item is starred, favorited, or pinned by the user"
-msgstr ""
+msgstr "Objektet har stjärnmärkts, favoritmarkerats eller fästs av användaren"
 
 #: src/IconCollection.vala:2283
 msgid "Task is due soon"
-msgstr ""
+msgstr "Uppgiften ska vara klar snart"
 
 #: src/IconCollection.vala:2288
 msgid "Task is incomplete past the due date"
-msgstr ""
+msgstr "Uppgiften är ofullständig efter förfallodagen"
 
 #: src/IconCollection.vala:2293
 msgid "User, person, or contact is available or online"
-msgstr ""
+msgstr "Användare, person eller kontakt är tillgänglig eller online"
 
 #: src/IconCollection.vala:2298
 msgid "User, person, or contact is away or unavailable"
-msgstr ""
+msgstr "Användaren, personen eller kontakten är borta eller otillgänglig"
 
 #: src/IconCollection.vala:2303
 msgid "User, person, or contact is idle or unresponsive"
-msgstr ""
+msgstr "Användaren, personen eller kontakten är inaktiv eller svarar inte"
 
 #: src/IconCollection.vala:2308
 msgid "User, person, or contact is offline or unreachable"
-msgstr ""
+msgstr "Användaren, personen eller kontakten är offline eller oanträffbar"
 
 #: src/IconCollection.vala:2313
 msgid "Private, anonymous, untracked, or incognito"
-msgstr ""
+msgstr "Privat, anonym, ospårad eller inkognito"
 
 #: src/IconCollection.vala:2318
 msgid "Clear skies or sunny weather"
-msgstr ""
+msgstr "Klar himmel eller soligt väder"
 
 #: src/IconCollection.vala:2323
 msgid "Clear skies weather during the night"
-msgstr ""
+msgstr "Klart väder på himlen under natten"
 
 #: src/IconCollection.vala:2328
 msgid "Partly cloudy, partly clear, or partly sunny weather"
-msgstr ""
+msgstr "Delvis molnigt, delvis klart eller delvis soligt väder"
 
 #: src/IconCollection.vala:2333
 msgid "Partly cloudy or partly clear weather during the night"
-msgstr ""
+msgstr "Delvis molnigt eller delvis klart väder under natten"
 
 #: src/IconCollection.vala:2338
 msgid "Foggy weather"
-msgstr ""
+msgstr "Dimmigt väder"
 
 #: src/IconCollection.vala:2343
 msgid "Overcast or cloudy weather"
-msgstr ""
+msgstr "Molnigt eller mulet väder"
 
 #: src/IconCollection.vala:2348
 msgid "Severe or critical weather warning or alert"
-msgstr ""
+msgstr "Varning eller larm om allvarligt eller kritiskt väder"
 
 #: src/IconCollection.vala:2353
 msgid "Showers or rainy weather"
-msgstr ""
+msgstr "Regnskurar eller regnigt väder"
 
 #: src/IconCollection.vala:2358
 msgid "Scattered showers or partly rainy weather"
-msgstr ""
+msgstr "Spridda skurar eller delvis regnigt väder"
 
 #: src/IconCollection.vala:2363
 msgid "Snow showers or snowy weather"
-msgstr ""
+msgstr "Snöbyar eller snöigt väder"
 
 #: src/IconCollection.vala:2368
 msgid "Thunderstorms or stormy weather"
-msgstr ""
+msgstr "Åskväder eller stormigt väder"
 
 #: src/IconView.vala:61
 msgid "Color Icons"
-msgstr ""
+msgstr "Färgikoner"
 
 #: src/IconView.vala:68
 msgid "Symbolic Icons"
-msgstr ""
+msgstr "Symboliska ikoner"
 
 #: src/IconView.vala:81
 msgid "Code Sample"
-msgstr ""
+msgstr "Kodexempel"
 
 #: src/IconView.vala:223
 msgid "Copied!"
-msgstr ""
+msgstr "Kopierad!"
 
 #: src/IconView.vala:239
 msgid "Unavailable"
-msgstr ""
+msgstr "Inte tillgänglig"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr ""
+msgstr "Ikon webbläsare"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr ""
+msgstr "Ljus bakgrund"
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr ""
+msgstr "Mörk bakgrund"
