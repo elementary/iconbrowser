@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-10 17:53+0000\n"
-"PO-Revision-Date: 2025-10-25 08:48+0000\n"
+"PO-Revision-Date: 2025-10-31 07:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/icon-browser/"
 "icon-browser/sv/>\n"
@@ -749,19 +749,19 @@ msgstr "Inställningar för skrivbordsgränssnitt"
 
 #: src/IconCollection.vala:903
 msgid "Universal access settings"
-msgstr "Inställningar för universell åtkomst"
+msgstr "Inställningar för allmän åtkomst"
 
 #: src/IconCollection.vala:908
 msgid "Universal access settings for pointing, such as controlling the cursor"
-msgstr "Universella inställningar för pekning, t.ex. styrning av markören"
+msgstr "Allmänna åtkomstinställningar för pekning, t.ex. styrning av markören"
 
 #: src/IconCollection.vala:913
 msgid "Universal access settings for zooming or magnifying"
-msgstr "Universella inställningar för zoomning eller förstoring"
+msgstr "Allmänna åtkomstinställningar för zoomning eller förstoring"
 
 #: src/IconCollection.vala:918
 msgid "App-related settings, such as default or startup apps"
-msgstr "App-relaterade inställningar, t.ex. standard- eller startappar"
+msgstr "App-relaterade inställningar, t.ex. standard- eller uppstartsappar"
 
 #: src/IconCollection.vala:923
 msgid "Display settings, such as resolution or scaling"
@@ -928,7 +928,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1118
 msgid "Touchpad input, such as a multitouch trackpad or clickpad"
-msgstr "Pekplatta, t.ex. en multitouch-pekplatta eller en klickplatta"
+msgstr "Pekplatta, t.ex. en multipekskärm eller en klickplatta"
 
 #: src/IconCollection.vala:1123
 msgid "Flash media such as a memory stick or SD card"
@@ -1490,7 +1490,7 @@ msgstr "Dokumentmapp"
 
 #: src/IconCollection.vala:1808
 msgid "Downloads folder"
-msgstr "Nedladdningsbar mapp"
+msgstr "Hämtningsmapp"
 
 #: src/IconCollection.vala:1813
 msgid "Folder drag accept"
@@ -1648,8 +1648,8 @@ msgid ""
 "The default avatar to represent a user, such as someone who has not set a "
 "profile picture"
 msgstr ""
-"Standardavataren för att representera en användare, t.ex. någon som inte har "
-"angett en profilbild"
+"Visningsbild som standard för att representera en användare, t.ex. någon som "
+"inte har angett en profilbild"
 
 #: src/IconCollection.vala:2003
 msgid "A charger or AC adapter for a battery-powered device"
