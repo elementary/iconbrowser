@@ -8,67 +8,65 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-10 17:53+0000\n"
-"PO-Revision-Date: 2024-09-02 20:05+0000\n"
-"Last-Translator: David M <rbndavid@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.elementary.io/projects/icon-browser/"
-"extra/ca/>\n"
-"Language: ca\n"
+"PO-Revision-Date: 2025-01-13 14:16+0000\n"
+"Last-Translator: Prachi Joshi <josprachi@yahoo.com>\n"
+"Language-Team: Marathi <https://l10n.elementary.io/projects/icon-browser/"
+"extra/mr/>\n"
+"Language: mr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #: data/iconbrowser.desktop.in:6 data/iconbrowser.appdata.xml.in:10
 msgid "Icon Browser"
-msgstr "Navegador d'icones"
+msgstr "आयकॉन ब्राउझर"
 
 #: data/iconbrowser.desktop.in:7 data/iconbrowser.appdata.xml.in:11
 msgid "Browse and find system icons"
-msgstr "Navegueu i trobeu icones del sistema"
+msgstr "ब्राउझ करा आणि सिस्टम आयकॉन शोधा"
 
 #: data/iconbrowser.desktop.in:9
 msgid "icons;iconography;"
-msgstr "icones;iconografia;"
+msgstr "चिन्हे;प्रतिमा;"
 
 #: data/iconbrowser.appdata.xml.in:13
 msgid ""
 "Browse system icons by category or search by icon name. See icons at "
 "different sizes and get a quick code snippet to use in your apps."
 msgstr ""
-"Navegueu per les icones del sistema per categoria o cerqueu-ne pel nom. "
-"Vegeu icones de diferents mides i obteniu un fragment de codi ràpid per "
-"utilitzar-lo a les vostres aplicacions."
+"श्रेणीनुसार सिस्टम चिन्ह ब्राउझ करा किंवा चिन्हाच्या नावाने शोधा. वेगवेगळ्या आकारात आयकॉन "
+"पहा आणि तुमच्या ॲप्समध्ये वापरण्यासाठी द्रुत कोड स्निपेट मिळवा."
 
 #: data/iconbrowser.appdata.xml.in:18
 msgid "Browse system icons"
-msgstr "Navegueu per les icones del sistema"
+msgstr "सिस्टम चिन्ह ब्राउझ करा"
 
 #: data/iconbrowser.appdata.xml.in:22
 msgid "Search by description"
-msgstr "Cerca per descripció"
+msgstr "वर्णनानुसार शोधा"
 
 #: data/iconbrowser.appdata.xml.in:40
 msgid "elementary, Inc."
-msgstr "elementary, Inc."
+msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:48 data/iconbrowser.appdata.xml.in:55
 #: data/iconbrowser.appdata.xml.in:64 data/iconbrowser.appdata.xml.in:74
 msgid "Update translations"
-msgstr "Actualització de les traduccions"
+msgstr "भाषांतरे अपडेट करा"
 
 #: data/iconbrowser.appdata.xml.in:54
 msgid "Update icon list to match Platform 8"
-msgstr ""
-"Actualització de la llista d'icones perquè coincideixi amb la plataforma 8"
+msgstr "प्लॅटफॉर्म 8 शी जुळण्यासाठी आयकॉन सूची अपडेट करा"
 
 #: data/iconbrowser.appdata.xml.in:73
 msgid "Fixed an error that prevented app startup"
-msgstr "S'ha solucionat un error que impedia l'inici de l'aplicació."
+msgstr "ॲप स्टार्टअप प्रतिबंधित करणाऱ्या त्रुटीचे निराकरण केले"
 
 #: data/iconbrowser.appdata.xml.in:80
 msgid "Updated with the latest icons:"
-msgstr "Actualitzat amb les icones més recents:"
+msgstr "नवीनतम चिन्हांसह अद्यतनित:"
 
 #: data/iconbrowser.appdata.xml.in:82
 msgid "\"preferences-desktop-theme\""
@@ -88,51 +86,20 @@ msgstr ""
 
 #: data/iconbrowser.appdata.xml.in:92
 msgid "A modern redesign!"
-msgstr "Un redisseny modern!"
+msgstr "आधुनिक रीडिझाइन!"
 
 #: data/iconbrowser.appdata.xml.in:94
 msgid "Fancy new icon"
-msgstr "Nova icona fantàstica"
+msgstr "फॅन्सी नवीन चिन्ह"
 
 #: data/iconbrowser.appdata.xml.in:95
 msgid "Drag the window from anywhere"
-msgstr "Arrossegueu la finestra des de qualsevol lloc"
+msgstr "खिडकी कुठूनही ड्रॅग करा"
 
 #: data/iconbrowser.appdata.xml.in:96
 msgid "Follow the system dark style preference"
-msgstr "Segueix la preferència d'estil fosc del sistema"
+msgstr "प्रणाली गडद शैली प्राधान्य अनुसरण करा"
 
 #: data/iconbrowser.appdata.xml.in:97
 msgid "Updated for Gtk 4"
-msgstr "Actualitzat per a Gtk 4"
-
-#~ msgid "Add \"audio-headphones\" and \"audio-headset\""
-#~ msgstr "Addició d'\"auriculars d'àudio\" i \"conjunt d'auriculars d'àudio\""
-
-#~ msgid "Add \"distribute-*\" action icons"
-#~ msgstr "Addició d'icones d'acció \"distribueix-*\"."
-
-#~ msgid "Disable sidebar when searching"
-#~ msgstr "Desactiva la barra lateral quan cerqueu"
-
-#~ msgid "Remove app icons that aren't in the freedesktop.org specification"
-#~ msgstr ""
-#~ "Suprimeix les icones d'aplicacions que no es troben a l'especificació de "
-#~ "freedesktop.org"
-
-#~ msgid "Add status emblems"
-#~ msgstr "Addició d'emblemes d'estat"
-
-#~ msgid "Mimetypes → Media Types"
-#~ msgstr "Tipus mime → Tipus de suports"
-
-#~ msgid "Added French and Portuguese translations"
-#~ msgstr "S'hi han afegit traduccions al francès i al portuguès"
-
-#~ msgid ""
-#~ "Better support for symbolic-only icons and under the hood improvements!"
-#~ msgstr ""
-#~ "Millor suport per a icones només simbòliques i millores sota el capó!"
-
-#~ msgid "Initial release! 🎉️"
-#~ msgstr "Versió inicial! 🎉️"
+msgstr "Gtk 4 साठी अपडेट केले"
