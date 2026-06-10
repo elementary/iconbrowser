@@ -1229,6 +1229,16 @@
                 category = EMBLEMS
             },
             Icon () {
+                name = "emblem-git-modified",
+                description = _("Changes not staged for commit"),
+                category = EMBLEMS
+            },
+            Icon () {
+                name = "emblem-git-new",
+                description = _("Untracked files"),
+                category = EMBLEMS
+            },
+            Icon () {
                 name = "emblem-important",
                 description = _("Item marked as important"),
                 category = EMBLEMS
@@ -1241,6 +1251,16 @@
             Icon () {
                 name = "emblem-mixed",
                 description = _("Emblem for the partially enabled status of a feature or service"),
+                category = EMBLEMS
+            },
+            Icon () {
+                name = "emblem-music",
+                description = _("Music emblem"),
+                category = EMBLEMS
+            },
+            Icon () {
+                name = "emblem-ok",
+                description = _("Emblem for successfully ended"),
                 category = EMBLEMS
             },
             Icon () {
@@ -1276,6 +1296,11 @@
             Icon () {
                 name = "emblem-unreadable",
                 description = _("Item is unreadable or inaccessible"),
+                category = EMBLEMS
+            },
+            Icon () {
+                name = "emblem-videos",
+                description = _("Videos emblem"),
                 category = EMBLEMS
             },
             Icon () {
