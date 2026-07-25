@@ -8,38 +8,40 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-10 17:53+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-07-25 23:01+0000\n"
+"Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
+"Language-Team: Greek <https://l10n.elementaryos.org/projects/icon-browser/"
+"icon-browser/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.5\n"
 
 #: src/CategoryView.vala:17
 msgid "Search Names or Descriptions"
-msgstr ""
+msgstr "Αναζήτηση ονομάτων ή περιγραφών"
 
 #: src/IconCollection.vala:21
 msgid "Actions"
-msgstr ""
+msgstr "Ενέργειες"
 
 #: src/IconCollection.vala:23
 msgid "Applications"
-msgstr ""
+msgstr "Εφαρμογές"
 
 #: src/IconCollection.vala:25
 msgid "Categories"
-msgstr ""
+msgstr "Κατηγορίες"
 
 #: src/IconCollection.vala:27
 msgid "Devices"
-msgstr ""
+msgstr "Συσκευές"
 
 #: src/IconCollection.vala:29
 msgid "Emblems"
-msgstr ""
+msgstr "Εμβλήματα"
 
 #: src/IconCollection.vala:31
 msgid "Emotes"
@@ -47,19 +49,19 @@ msgstr ""
 
 #: src/IconCollection.vala:33
 msgid "Media Types"
-msgstr ""
+msgstr "Τύποι πολυμέσων"
 
 #: src/IconCollection.vala:35
 msgid "Places"
-msgstr ""
+msgstr "Τοποθεσίες"
 
 #: src/IconCollection.vala:37
 msgid "Status"
-msgstr ""
+msgstr "Κατάσταση"
 
 #: src/IconCollection.vala:39
 msgid "OTHER"
-msgstr ""
+msgstr "ΑΛΛΑ"
 
 #: src/IconCollection.vala:58 src/IconView.vala:16
 msgid "Create a new address book"
@@ -179,7 +181,7 @@ msgstr ""
 
 #: src/IconCollection.vala:203
 msgid "Print"
-msgstr ""
+msgstr "Εκτύπωση"
 
 #: src/IconCollection.vala:208
 msgid "The print preview action of an application"
@@ -195,19 +197,19 @@ msgstr ""
 
 #: src/IconCollection.vala:223
 msgid "Save"
-msgstr ""
+msgstr "Αποθήκευση"
 
 #: src/IconCollection.vala:228
 msgid "Save as"
-msgstr ""
+msgstr "Αποθήκευση ως"
 
 #: src/IconCollection.vala:233
 msgid "Send"
-msgstr ""
+msgstr "Αποστολή"
 
 #: src/IconCollection.vala:238
 msgid "Edit"
-msgstr ""
+msgstr "Επεξεργασία"
 
 #: src/IconCollection.vala:243
 msgid "Clear"
@@ -215,19 +217,19 @@ msgstr ""
 
 #: src/IconCollection.vala:248 src/IconView.vala:107 src/IconView.vala:225
 msgid "Copy"
-msgstr ""
+msgstr "Αντιγραφή"
 
 #: src/IconCollection.vala:253
 msgid "Cut"
-msgstr ""
+msgstr "Αποκοπή"
 
 #: src/IconCollection.vala:258
 msgid "Delete"
-msgstr ""
+msgstr "Διαγραφή"
 
 #: src/IconCollection.vala:263
 msgid "Find"
-msgstr ""
+msgstr "Εύρεση"
 
 #: src/IconCollection.vala:268
 msgid "Find & Replace"
@@ -239,19 +241,19 @@ msgstr ""
 
 #: src/IconCollection.vala:278
 msgid "Paste"
-msgstr ""
+msgstr "Επικόλληση"
 
 #: src/IconCollection.vala:283
 msgid "Redo"
-msgstr ""
+msgstr "Επανάληψη"
 
 #: src/IconCollection.vala:288
 msgid "Select all"
-msgstr ""
+msgstr "Επιλογή όλων"
 
 #: src/IconCollection.vala:293
 msgid "Undo"
-msgstr ""
+msgstr "Αναίρεση"
 
 #: src/IconCollection.vala:298
 msgid "Create a new calendar event"
@@ -271,11 +273,11 @@ msgstr ""
 
 #: src/IconCollection.vala:318
 msgid "Decrease indent"
-msgstr ""
+msgstr "Μείωση εσοχής"
 
 #: src/IconCollection.vala:323
 msgid "Increase indent"
-msgstr ""
+msgstr "Αύξηση εσοχής"
 
 #: src/IconCollection.vala:328
 msgid "Center justify text"
@@ -367,7 +369,7 @@ msgstr ""
 
 #: src/IconCollection.vala:438
 msgid "Get help"
-msgstr ""
+msgstr "Λήψη βοήθειας"
 
 #: src/IconCollection.vala:443
 msgid "Frequently asked questions"
@@ -403,7 +405,7 @@ msgstr ""
 
 #: src/IconCollection.vala:483
 msgid "Insert text"
-msgstr ""
+msgstr "Εισαγωγή κειμένου"
 
 #: src/IconCollection.vala:488
 msgid "Add to a list"
@@ -475,7 +477,7 @@ msgstr ""
 
 #: src/IconCollection.vala:573
 msgid "Start recording"
-msgstr ""
+msgstr "Έναρξη εγγραφής"
 
 #: src/IconCollection.vala:578
 msgid "Seek backwards or rewind"
@@ -549,7 +551,7 @@ msgstr ""
 
 #: src/IconCollection.vala:663
 msgid "Check spelling"
-msgstr ""
+msgstr "Ορθογραφικός έλεγχος"
 
 #: src/IconCollection.vala:668
 msgid "Set or adjust a timer"
@@ -569,7 +571,7 @@ msgstr ""
 
 #: src/IconCollection.vala:688
 msgid "View fullscreen"
-msgstr ""
+msgstr "Προβολή σε πλήρη οθόνη"
 
 #: src/IconCollection.vala:693
 msgid "Display the current view as a grid of images or icons"
@@ -621,7 +623,7 @@ msgstr ""
 
 #: src/IconCollection.vala:753
 msgid "Zoom in"
-msgstr ""
+msgstr "Μεγέθυνση"
 
 #: src/IconCollection.vala:758
 msgid "Zoom to the original size"
@@ -629,11 +631,11 @@ msgstr ""
 
 #: src/IconCollection.vala:763
 msgid "Zoom out"
-msgstr ""
+msgstr "Σμίκρυνση"
 
 #: src/IconCollection.vala:768
 msgid "Calculator"
-msgstr ""
+msgstr "Αριθμομηχανή"
 
 #: src/IconCollection.vala:773
 msgid "International and extended text character map"
@@ -641,15 +643,15 @@ msgstr ""
 
 #: src/IconCollection.vala:778
 msgid "Dictionary"
-msgstr ""
+msgstr "Λεξικό"
 
 #: src/IconCollection.vala:783
 msgid "Screenshot application"
-msgstr ""
+msgstr "Εφαρμογή στιγμιότυπων οθόνης"
 
 #: src/IconCollection.vala:788
 msgid "Text editor"
-msgstr ""
+msgstr "Πρόγραμμα επεξεργασίας κειμένου"
 
 #: src/IconCollection.vala:793
 msgid "Default or unprovided app icon"
@@ -657,7 +659,7 @@ msgstr ""
 
 #: src/IconCollection.vala:798
 msgid "Files"
-msgstr ""
+msgstr "Αρχεία"
 
 #: src/IconCollection.vala:803
 msgid "AppCenter or software installer"
@@ -665,7 +667,7 @@ msgstr ""
 
 #: src/IconCollection.vala:808
 msgid "Software updater"
-msgstr ""
+msgstr "Εφαρμογή ενημέρωσης λογισμικού"
 
 #: src/IconCollection.vala:813
 msgid "System resource monitor"
@@ -673,7 +675,7 @@ msgstr ""
 
 #: src/IconCollection.vala:818
 msgid "Terminal"
-msgstr ""
+msgstr "Τερματικό"
 
 #: src/IconCollection.vala:823
 msgid "Accessory or utility app category"
@@ -729,7 +731,7 @@ msgstr ""
 
 #: src/IconCollection.vala:888
 msgid "Bluetooth settings"
-msgstr ""
+msgstr "Ρυθμίσεις Bluetooth"
 
 #: src/IconCollection.vala:893
 msgid "Color settings such as printer, display, or camera calibration"
@@ -761,7 +763,7 @@ msgstr ""
 
 #: src/IconCollection.vala:928
 msgid "Font settings"
-msgstr ""
+msgstr "Ρυθμίσεις γραμματοσειράς"
 
 #: src/IconCollection.vala:933
 msgid "Keyboard settings, such as layout or shortcuts"
@@ -830,7 +832,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1013
 msgid "Help"
-msgstr ""
+msgstr "Βοήθεια"
 
 #: src/IconCollection.vala:1018
 msgid "Audio output device, such as a sound card or speaker"
@@ -846,7 +848,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1033
 msgid "Microphone"
-msgstr ""
+msgstr "Μικρόφωνο"
 
 #: src/IconCollection.vala:1038
 msgid "Subwoofer or bass speaker"
@@ -854,11 +856,11 @@ msgstr ""
 
 #: src/IconCollection.vala:1043
 msgid "Battery"
-msgstr ""
+msgstr "Μπαταρία"
 
 #: src/IconCollection.vala:1048
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: src/IconCollection.vala:1053
 msgid "Digital photo or still camera"
@@ -902,11 +904,11 @@ msgstr ""
 
 #: src/IconCollection.vala:1103
 msgid "Keyboard"
-msgstr ""
+msgstr "Πληκτρολόγιο"
 
 #: src/IconCollection.vala:1108
 msgid "Mouse"
-msgstr ""
+msgstr "Ποντίκι"
 
 #: src/IconCollection.vala:1113
 msgid ""
@@ -942,7 +944,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1148
 msgid "Networking firewall"
-msgstr ""
+msgstr "Τείχος προστασίας δικτύου"
 
 #: src/IconCollection.vala:1153
 msgid "Virtual private network or VPN connection"
@@ -968,7 +970,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1178
 msgid "Printer"
-msgstr ""
+msgstr "Εκτυπωτής"
 
 #: src/IconCollection.vala:1183
 msgid "Network-connected or shared printer"
@@ -976,7 +978,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1188
 msgid "Scanner"
-msgstr ""
+msgstr "Σαρωτής"
 
 #: src/IconCollection.vala:1193
 msgid "Display, screen, or monitor"
@@ -992,11 +994,11 @@ msgstr ""
 
 #: src/IconCollection.vala:1208
 msgid "Documents emblem"
-msgstr ""
+msgstr "Έμβλημα εγγράφων"
 
 #: src/IconCollection.vala:1213
 msgid "Downloads emblem"
-msgstr ""
+msgstr "Έμβλημα λήψεων"
 
 #: src/IconCollection.vala:1218
 msgid "Enabled feature or service emblem"
@@ -1024,7 +1026,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1248
 msgid "Photos emblem"
-msgstr ""
+msgstr "Έμβλημα φωτογραφιών"
 
 #: src/IconCollection.vala:1253
 msgid "Item is read-only, or the user cannot write to or make changes to it"
@@ -1160,7 +1162,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1418
 msgid "Microsoft Word file types"
-msgstr ""
+msgstr "Τύποι αρχείων Microsoft Word"
 
 #: src/IconCollection.vala:1423
 msgid "Binary file types"
@@ -1244,7 +1246,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1523
 msgid "Extension"
-msgstr ""
+msgstr "Επέκταση"
 
 #: src/IconCollection.vala:1528
 msgid "Generic font file types"
@@ -1268,7 +1270,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1553
 msgid "Model"
-msgstr ""
+msgstr "Μοντέλο"
 
 #: src/IconCollection.vala:1558
 msgid "Contact file types"
@@ -1464,7 +1466,7 @@ msgstr ""
 
 #: src/IconCollection.vala:1798
 msgid "Folder"
-msgstr ""
+msgstr "Φάκελος"
 
 #: src/IconCollection.vala:1803
 msgid "Documents folder"
@@ -1552,35 +1554,35 @@ msgstr ""
 
 #: src/IconCollection.vala:1908
 msgid "Network workgroup"
-msgstr ""
+msgstr "Ομάδα εργασίας δικτύου"
 
 #: src/IconCollection.vala:1913
 msgid "Playlist"
-msgstr ""
+msgstr "Λίστα αναπαραγωγής"
 
 #: src/IconCollection.vala:1918
 msgid "Automatic playlist"
-msgstr ""
+msgstr "Αυτόματη λίστα αναπαραγωγής"
 
 #: src/IconCollection.vala:1923
 msgid "Playlist queue"
-msgstr ""
+msgstr "Ουρά λίστας αναπαραγωγής"
 
 #: src/IconCollection.vala:1928
 msgid "Similar playlist"
-msgstr ""
+msgstr "Παρόμοια λίστα αναπαραγωγής"
 
 #: src/IconCollection.vala:1933
 msgid "Tag"
-msgstr ""
+msgstr "Ετικέτα"
 
 #: src/IconCollection.vala:1938
 msgid "Bookmarks"
-msgstr ""
+msgstr "Σελιδοδείκτες"
 
 #: src/IconCollection.vala:1943
 msgid "Home"
-msgstr ""
+msgstr "Προσωπικός φάκελος"
 
 #: src/IconCollection.vala:1948
 msgid "Trash"
@@ -1604,15 +1606,15 @@ msgstr ""
 
 #: src/IconCollection.vala:1973
 msgid "High or loud audio volume"
-msgstr ""
+msgstr "Υψηλή ή δυνατή ένταση ήχου"
 
 #: src/IconCollection.vala:1978
 msgid "Low or quiet audio volume"
-msgstr ""
+msgstr "Χαμηλή ή ασθενής ένταση ήχου"
 
 #: src/IconCollection.vala:1983
 msgid "Medium or normal audio volume"
-msgstr ""
+msgstr "Μέτρια ή κανονική ένταση ήχου"
 
 #: src/IconCollection.vala:1988
 msgid "Audio volume is muted or off"
@@ -1635,7 +1637,7 @@ msgstr ""
 
 #: src/IconCollection.vala:2008
 msgid "Low battery level"
-msgstr ""
+msgstr "Χαμηλό επίπεδο μπαταρίας"
 
 #: src/IconCollection.vala:2013
 msgid "Low battery level, plugged into a charger or AC adapter"
@@ -1877,7 +1879,7 @@ msgstr ""
 
 #: src/IconCollection.vala:2298
 msgid "User, person, or contact is away or unavailable"
-msgstr ""
+msgstr "Ο χρήστης, το άτομο ή η επαφή είναι εκτός υπολογιστή ή μη διαθέσιμος/-η"
 
 #: src/IconCollection.vala:2303
 msgid "User, person, or contact is idle or unresponsive"
@@ -1941,28 +1943,28 @@ msgstr ""
 
 #: src/IconView.vala:68
 msgid "Symbolic Icons"
-msgstr ""
+msgstr "Συμβολικά εικονίδια"
 
 #: src/IconView.vala:81
 msgid "Code Sample"
-msgstr ""
+msgstr "Δείγμα κώδικα"
 
 #: src/IconView.vala:223
 msgid "Copied!"
-msgstr ""
+msgstr "Αντιγράφηκε!"
 
 #: src/IconView.vala:239
 msgid "Unavailable"
-msgstr ""
+msgstr "Μη διαθέσιμο"
 
 #: src/MainWindow.vala:16
 msgid "Icon Browser"
-msgstr ""
+msgstr "Εξερεύνηση εικονιδίων"
 
 #: src/MainWindow.vala:19
 msgid "Light background"
-msgstr ""
+msgstr "Ανοιχτόχρωμο φόντο"
 
 #: src/MainWindow.vala:20
 msgid "Dark background"
-msgstr ""
+msgstr "Σκουρόχρωμο φόντο"
