@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-10 17:53+0000\n"
-"PO-Revision-Date: 2026-07-25 23:01+0000\n"
+"PO-Revision-Date: 2026-07-27 10:01+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://l10n.elementaryos.org/projects/icon-browser/"
 "icon-browser/el/>\n"
@@ -101,7 +101,7 @@ msgstr ""
 
 #: src/IconCollection.vala:103
 msgid "Create a new bookmark"
-msgstr ""
+msgstr "Δημιουργία νέου σελιδοδείκτη"
 
 #: src/IconCollection.vala:108
 msgid "Download a file from the Internet"
