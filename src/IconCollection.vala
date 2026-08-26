@@ -294,11 +294,6 @@
                 category = ACTIONS
             },
             Icon () {
-                name = "event-new",
-                description = _("Create a new calendar event"),
-                category = ACTIONS
-            },
-            Icon () {
                 name = "folder-copy",
                 description = _("Copy a folder"),
                 category = ACTIONS
