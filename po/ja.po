@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-10 17:53+0000\n"
-"PO-Revision-Date: 2026-02-12 03:55+0000\n"
+"PO-Revision-Date: 2026-09-20 09:02+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementaryos.org/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 2026.5\n"
 
 #: src/CategoryView.vala:17
 msgid "Search Names or Descriptions"
@@ -1001,7 +1001,7 @@ msgstr "機能やサービスが無効であることを示す記号"
 
 #: src/IconCollection.vala:1208
 msgid "Documents emblem"
-msgstr "文書を示す記号"
+msgstr "ドキュメントを示す記号"
 
 #: src/IconCollection.vala:1213
 msgid "Downloads emblem"
