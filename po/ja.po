@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.iconbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-10 17:53+0000\n"
-"PO-Revision-Date: 2026-09-20 09:02+0000\n"
+"PO-Revision-Date: 2026-10-12 08:03+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <https://l10n.elementaryos.org/projects/icon-browser/"
 "icon-browser/ja/>\n"
@@ -519,7 +519,7 @@ msgstr "新しいデータベースを作成"
 msgid ""
 "Stop an action that may take a while to process, such as web page loading in "
 "a browser"
-msgstr "時間がかかりそうな処理を停止 (ブラウザでの Web ページの読み込みなど)"
+msgstr "時間がかかりそうな処理を停止 (ブラウザでのウェブページの読み込みなど)"
 
 #: src/IconCollection.vala:628
 msgid "Lock the screen or the user's session"
@@ -704,7 +704,7 @@ msgstr "グラフィック/イラスト制作/美術/写真編集に関連する
 
 #: src/IconCollection.vala:853
 msgid "Internet or web related app category"
-msgstr "インターネットや Web に関連するアプリのカテゴリー"
+msgstr "インターネットやウェブに関連するアプリのカテゴリー"
 
 #: src/IconCollection.vala:858
 msgid "Multimedia, audio, or video app category"
@@ -874,7 +874,7 @@ msgstr "ビデオカメラ"
 
 #: src/IconCollection.vala:1063
 msgid "Webcam or built-in camera"
-msgstr "Web カメラおよびビルトインカメラ"
+msgstr "ウェブカメラおよびビルトインカメラ"
 
 #: src/IconCollection.vala:1068
 msgid "Generic or desktop computer"
