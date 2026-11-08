@@ -24,20 +24,10 @@ public class IconView : Gtk.Box {
             valign = Gtk.Align.START
         };
 
-        var title_label = new Gtk.Label (icon_name) {
-            selectable = true,
-            wrap = true,
-            xalign = 0,
-            valign = Gtk.Align.END
-        };
-        title_label.add_css_class (Granite.STYLE_CLASS_H2_LABEL);
-
-        var description_label = new Gtk.Label (description) {
-            selectable = true,
-            wrap = true,
-            halign = Gtk.Align.START,
-            xalign = 0,
-            valign = Gtk.Align.START
+        var label = new Granite.HeaderLabel (icon_name) {
+            secondary_text = description,
+            size = H2,
+            valign = CENTER
         };
 
         var window_controls = new Gtk.WindowControls (Gtk.PackType.END) {
@@ -46,12 +36,11 @@ public class IconView : Gtk.Box {
             valign = Gtk.Align.START
         };
 
-        var header_area = new Gtk.Grid ();
+        var header_area = new Granite.Box (HORIZONTAL, NONE);
         header_area.add_css_class ("header-area");
-        header_area.attach (title_label, 1, 0);
-        header_area.attach (header_icon, 0, 0, 1, 2);
-        header_area.attach (description_label, 1, 1, 2);
-        header_area.attach (window_controls, 2, 0, 1, 2);
+        header_area.append (header_icon);
+        header_area.append (label);
+        header_area.append (window_controls);
 
         var header_handle = new Gtk.WindowHandle () {
             child = header_area
@@ -174,8 +163,8 @@ public class IconView : Gtk.Box {
         });
 
         bind_property ("icon-name", header_icon, "icon-name");
-        bind_property ("icon-name", title_label, "label");
-        bind_property ("description", description_label, "label");
+        bind_property ("icon-name", label, "label");
+        bind_property ("description", label, "secondary-text");
 
         notify["icon-name"].connect (() => {
             fill_icon_row (icon_name, color_row);
