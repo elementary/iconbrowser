@@ -15,13 +15,39 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         icon_name = "io.elementary.iconbrowser";
         title = _("Icon Browser");
 
-        var mode_switch = new Granite.ModeSwitch.from_icon_name ("display-brightness-symbolic", "weather-clear-night-symbolic") {
-            primary_icon_tooltip_text = _("Light background"),
-            secondary_icon_tooltip_text = _("Dark background"),
-            margin_end = 12,
-            margin_bottom = 12,
-            margin_start = 12
+        var dont_button = new Gtk.ToggleButton () {
+            action_name = "win.color-scheme",
+            action_target = new Variant.uint32 (Granite.Settings.ColorScheme.NO_PREFERENCE),
+            icon_name = "preferences-system-symbolic",
+            tooltip_text = "Follow system setting"
         };
+
+        var force_light = new Gtk.ToggleButton () {
+            action_name = "win.color-scheme",
+            action_target = new Variant.uint32 (Granite.Settings.ColorScheme.LIGHT),
+            group = dont_button,
+            icon_name = "display-brightness-symbolic",
+            tooltip_text = "Light"
+        };
+
+        var force_dark = new Gtk.ToggleButton () {
+            action_name = "win.color-scheme",
+            action_target = new Variant.uint32 (Granite.Settings.ColorScheme.DARK),
+            group = force_light,
+            icon_name = "weather-clear-night-symbolic",
+            tooltip_text = "Dark"
+        };
+
+        var style_box = new Granite.Box (HORIZONTAL, LINKED) {
+            homogeneous = true,
+            margin_start = 6,
+            margin_bottom = 6,
+            margin_end = 6,
+            margin_top = 6
+        };
+        style_box.append (force_light);
+        style_box.append (dont_button);
+        style_box.append (force_dark);
 
         category_view = new CategoryView ();
 
@@ -50,7 +76,7 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         var sidebar_box = new Gtk.Box (Gtk.Orientation.VERTICAL, 0);
         sidebar_box.append (sidebar_header);
         sidebar_box.append (scrolled_category);
-        sidebar_box.append (mode_switch);
+        sidebar_box.append (style_box);
         sidebar_box.add_css_class ("sidebar");
 
         var sidebar_handle = new Gtk.WindowHandle () {
@@ -76,23 +102,24 @@ public class IconBrowser.MainWindow : Gtk.ApplicationWindow {
         category_view.search_entry.set_key_capture_widget (this);
 
         var gtk_settings = Gtk.Settings.get_default ();
-        gtk_settings.bind_property ("gtk-application-prefer-dark-theme", mode_switch, "active", BindingFlags.BIDIRECTIONAL);
 
         gtk_settings.gtk_icon_theme_name = "elementary";
         if (!(gtk_settings.gtk_theme_name.has_prefix ("io.elementary.stylesheet"))) {
             gtk_settings.gtk_theme_name = "io.elementary.stylesheet.blueberry";
         }
 
-        var granite_settings = Granite.Settings.get_default ();
-        gtk_settings.gtk_application_prefer_dark_theme = (
-            granite_settings.prefers_color_scheme == Granite.Settings.ColorScheme.DARK
-        );
+        var style_manager = Granite.StyleManager.get_default ();
 
-        granite_settings.notify["prefers-color-scheme"].connect (() => {
-            gtk_settings.gtk_application_prefer_dark_theme = (
-                granite_settings.prefers_color_scheme == Granite.Settings.ColorScheme.DARK
-            );
+        var style_action = new SimpleAction.stateful ("color-scheme", VariantType.UINT32, new Variant.uint32 (style_manager.color_scheme));
+        style_action.activate.connect ((parameter) => {
+            style_manager.color_scheme = (Granite.Settings.ColorScheme) parameter.get_uint32 ();
         });
+
+        style_manager.notify ["color-scheme"].connect (() => {
+            style_action.set_state (new Variant.uint32 (style_manager.color_scheme));
+        });
+
+        add_action (style_action);
 
         category_view.listbox.set_filter_func (filter_function);
 
